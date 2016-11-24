@@ -29,7 +29,7 @@
 	<title>Flash</title>
 	<link>http://demo.themegrill.com/flash</link>
 	<description>MultiPurpose WordPress Theme</description>
-	<pubDate>Wed, 23 Nov 2016 11:56:59 +0000</pubDate>
+	<pubDate>Thu, 24 Nov 2016 11:35:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
@@ -217,7 +217,7 @@
 			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
-	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[custom-menu]]></wp:term_slug><wp:term_name><![CDATA[Custom Menu]]></wp:term_name>
+	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[important-links]]></wp:term_slug><wp:term_name><![CDATA[Important Links]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
@@ -4112,7 +4112,7 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="custom-menu"><![CDATA[Custom Menu]]></category>
+		<category domain="nav_menu" nicename="important-links"><![CDATA[Important Links]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -4145,6 +4145,10 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themegrill.com/terms-conditions/]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Privacy Policy</title>
@@ -4167,7 +4171,7 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="custom-menu"><![CDATA[Custom Menu]]></category>
+		<category domain="nav_menu" nicename="important-links"><![CDATA[Important Links]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -4200,6 +4204,10 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themegrill.com/privacy-policy/]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Frequently Asked Questions</title>
@@ -4222,7 +4230,7 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="custom-menu"><![CDATA[Custom Menu]]></category>
+		<category domain="nav_menu" nicename="important-links"><![CDATA[Important Links]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -4255,6 +4263,10 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themegrill.com/frequently-asked-questions/]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Work With Us</title>
@@ -4277,7 +4289,7 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="custom-menu"><![CDATA[Custom Menu]]></category>
+		<category domain="nav_menu" nicename="important-links"><![CDATA[Important Links]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -4309,6 +4321,10 @@ tinate users.";s:11:"designation";s:8:"Designer";s:8:"facebook";s:12:"facebook.c
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themegrill.com/work-with-us/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
