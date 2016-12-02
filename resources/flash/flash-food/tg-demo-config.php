@@ -20,6 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function flash_food_demo_importer_config( $demo_config ) {
 	$demo_config['flash-food'] = array(
 		'name'         => __( 'Flash Food', 'flash' ),
+		'template'     => 'flash',
 		'demo_url'     => 'http://demo.themegrill.com/flash-food/',
 		'demo_pack'    => true,
 		'core_options' => array(
