@@ -29,7 +29,7 @@
 	<title>Flash Construction</title>
 	<link>http://demo.themegrill.com/flash-construction</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Thu, 24 Nov 2016 12:00:30 +0000</pubDate>
+	<pubDate>Wed, 07 Dec 2016 05:38:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
@@ -1049,7 +1049,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://wordpress.org/themes/download/flash.1.0.1.zip?nostats=1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wordpress.org/themes/download/flash.1.0.2.zip?nostats=1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
@@ -1602,7 +1602,7 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://demo.themegrill.com/flash-construction/sample-page-2/</link>
+		<link>http://demo.themegrill.com/flash-construction/blog/</link>
 		<pubDate>Wed, 05 Oct 2016 04:32:48 +0000</pubDate>
 		<dc:creator><![CDATA[themeeditor]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/flash/?page_id=2</guid>
@@ -1621,8 +1621,8 @@ As a new WordPress user, you should go to <a href="http://localhost/flash/wp-adm
 		<wp:post_date><![CDATA[2016-10-05 04:32:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-05 04:32:48]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1644,6 +1644,10 @@ As a new WordPress user, you should go to <a href="http://localhost/flash/wp-adm
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[flash_transparency]]></wp:meta_key>
 			<wp:meta_value><![CDATA[non-transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2665,34 +2669,66 @@ Icing icing I love sweet roll chocolate macaroon. Croissant tiramisu wafer powde
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Roller On Work</title>
-		<link>http://demo.themegrill.com/flash-construction/portfolio/roller-on-work/</link>
-		<pubDate>Fri, 21 Oct 2016 08:24:51 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/flash-construction/?post_type=portfolio&#038;p=208</guid>
+		<title>One Click Demo Importer</title>
+		<link>http://demo.themegrill.com/flash-construction/2016/11/25/one-click-demo-importer/</link>
+		<pubDate>Fri, 25 Nov 2016 11:07:41 +0000</pubDate>
+		<dc:creator><![CDATA[demo@themegrill]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/flash-construction/?p=223</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2016-10-21 08:24:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-10-21 08:24:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-25 11:07:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-25 11:07:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[roller-on-work]]></wp:post_name>
+		<wp:post_name><![CDATA[one-click-demo-importer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_cat" nicename="works"><![CDATA[works]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[201]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[223]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://themegrill.com/themes/flash/#import-demo]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2782,6 +2818,28 @@ Chocolate cake bonbon cheesecake bonbon ice cream cotton candy sweet. Jujubes ma
 			<wp:meta_key><![CDATA[_jetpack_dont_email_post_to_subs]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[Barbara McCrostie]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[admin@specialisedstructures.co.nz]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.specialisedstructures.co.nz</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[101.98.220.229]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-12-06 02:41:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-12-06 02:41:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Great article, very informative and some good points of interest.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1480992091]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1480992091.5788381099700927734375;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Rebuilding home</title>
@@ -2986,6 +3044,37 @@ This e-mail was sent from a contact form on Flash Construction (http://demo.them
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Roller On Work</title>
+		<link>http://demo.themegrill.com/flash-construction/portfolio/roller-on-work/</link>
+		<pubDate>Fri, 21 Oct 2016 08:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/flash-construction/?post_type=portfolio&#038;p=208</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>208</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-21 08:24:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-21 08:24:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[roller-on-work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio_cat" nicename="works"><![CDATA[works]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[201]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
