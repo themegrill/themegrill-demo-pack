@@ -53,7 +53,7 @@ function flash_food_demo_importer_config( $demo_config ) {
 						),
 						'category' => array (
 							'FT_Widget_Blog' => array(
-								8 => array(
+								10 => array(
 									'category' => 'Blog'
 								)
 							),
