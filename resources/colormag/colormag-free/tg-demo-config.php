@@ -10,8 +10,10 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'colormag_demo_importer_config' );
 add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_set_cat_colors', 20, 3 );
+
 /**
  * Setup demo importer config.
  *
@@ -79,8 +81,10 @@ function colormag_demo_importer_config( $demo_config ) {
 			),
 		),
 	);
+
 	return array_merge( $new_demo_config, $demo_config );
 }
+
 /**
  * Set categories color settings in theme customizer.
  *
@@ -95,6 +99,7 @@ function colormag_set_cat_colors( $data, $demo_data, $demo_id ) {
 	$cat_colors    = array();
 	$cat_prevent   = array();
 	$wp_categories = array();
+
 	// Format the data based on demo ID.
 	switch ( $demo_id ) {
 		case 'colormag-free':
@@ -121,20 +126,24 @@ function colormag_set_cat_colors( $data, $demo_data, $demo_id ) {
 			);
 		break;
 	}
+
 	// Fetch categories color settings.
 	foreach ( $wp_categories as $term_id => $term_name ) {
 		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
 			$cat_colors[ 'colormag_category_color_' . $term_id ] = $data['mods'][ 'colormag_category_color_' . $term_id ];
 		}
 	}
+
 	// Set categories color settings properly.
 	foreach ( $wp_categories as $term_id => $term_name ) {
 		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
 			$term  = get_term_by( 'name', $term_name, 'category' );
 			$color = $cat_colors[ 'colormag_category_color_' . $term_id ];
+
 			if ( is_object( $term ) && $term->term_id ) {
 				$cat_prevent[] = $term->term_id;
 				$data['mods'][ 'colormag_category_color_' . $term->term_id ] = $color;
+
 				// Prevent deleting stored color settings.
 				if ( ! in_array( $term_id, $cat_prevent ) ) {
 					unset( $data['mods'][ 'colormag_category_color_' . $term_id ] );
@@ -142,5 +151,6 @@ function colormag_set_cat_colors( $data, $demo_data, $demo_id ) {
 			}
 		}
 	}
+
 	return $data;
 }
