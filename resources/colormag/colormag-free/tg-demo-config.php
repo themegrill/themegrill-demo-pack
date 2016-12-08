@@ -30,6 +30,7 @@ function colormag_demo_importer_config( $demo_config ) {
 				'blogname' => 'ColorMag',
 			),
 			'widgets_data_update' => array(
+
 				/**
 				 * Dropdown Categories - Handles widgets Category ID.
 				 *
