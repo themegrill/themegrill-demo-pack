@@ -23,11 +23,11 @@ add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_set_cat_colo
 function colormag_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colormag-free' => array(
-			'name'         => __( 'ColorMag', 'colormag' ),
+			'name'         => 'ColorMag',
 			'demo_url'     => 'http://demo.themegrill.com/colormag/',
 			'demo_pack'    => true,
 			'core_options' => array(
-				'blogname'       => 'ColorMag',
+				'blogname' => 'ColorMag',
 			),
 			'widgets_data_update' => array(
 				/**
@@ -76,7 +76,7 @@ function colormag_demo_importer_config( $demo_config ) {
 			),
 			'customizer_data_update' => array(
 				'nav_menu_locations' => array(
-					'primary'      => 'Primary',
+					'primary' => 'Primary',
 				)
 			),
 		),
