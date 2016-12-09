@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 function flash_one_page_demo_importer_config( $demo_config ) {
 	$demo_config['flash-onepage'] = array(
-		'name'         => __( 'Flash OnePage', 'flash' ),
+		'name'         => 'Flash OnePage',
 		'template'     => 'flash',
 		'demo_url'     => 'http://demo.themegrill.com/flash-one-page/',
 		'demo_pack'    => true,
@@ -32,32 +32,46 @@ function flash_one_page_demo_importer_config( $demo_config ) {
 			'homepage' => array(
 				'post_title'  => 'Home',
 				'data_update' => array(
+					'grids_data'  => array(
+						2 => array(
+							'style' => array(
+								'background_image_attachment' => 'cta.jpg',
+							)
+						),
+						5 => array(
+							'style' => array(
+								'background_image_attachment' => 'face.jpg',
+							)
+						),
+					),
+					'widgets_data' => array(
 
-					/**
-					 * Dropdown Categories - Handles widgets Category ID.
-					 *
-					 * A. Core Post Category:
-					 *    1. themegrill_flash_portfolio
-					 *    2. themegrill_flash_blog
-					 *
-					 * Note: Supported Taxonomy:
-					 *    A. Core Post Category - category
-					 */
-					'dropdown_categories' => array(
-						'portfolio_cat' => array(
-							'FT_Widget_Portfolio' => array(
-								4 => array(
-									'categories' => 'portfolio'
-								)
+						/**
+						 * Dropdown Categories - Handles widgets Category ID.
+						 *
+						 * A. Core Post Category:
+						 *    1. themegrill_flash_portfolio
+						 *    2. themegrill_flash_blog
+						 *
+						 * Note: Supported Taxonomy:
+						 *    A. Core Post Category - category
+						 */
+						'dropdown_categories' => array(
+							'portfolio_cat' => array(
+								'FT_Widget_Portfolio' => array(
+									4 => array(
+										'categories' => 'portfolio'
+									)
+								),
 							),
-						),
-						'category' => array (
-							'FT_Widget_Blog' => array(
-								8 => array(
-									'category' => 'building'
-								)
+							'category' => array (
+								'FT_Widget_Blog' => array(
+									8 => array(
+										'category' => 'building'
+									)
+								),
 							),
-						),
+						)
 					)
 				)
 			)
@@ -70,17 +84,17 @@ function flash_one_page_demo_importer_config( $demo_config ) {
 		'plugins_list' => array(
 			'required' => array(
 				'siteorigin-panels' => array(
-					'name' => __( 'Page Builder by SiteOrigin', 'flash' ),
+					'name' => 'Page Builder by SiteOrigin',
 					'slug' => 'siteorigin-panels/siteorigin-panels.php',
 				),
 				'flash-toolkit' => array(
-					'name' => __( 'Flash Toolkit', 'flash' ),
+					'name' => 'Flash Toolkit',
 					'slug' => 'flash-toolkit/flash-toolkit.php',
 				),
 			),
 			'recommended' => array(
 				'contact-form-7' => array(
-					'name' => __( 'Contact Form', 'flash' ),
+					'name' => 'Contact Form',
 					'slug' => 'contact-form-7/contact-form-7.php',
 				),
 			)
