@@ -1,7 +1,7 @@
 <?php
 /**
  * Demo Name: Flash Default
- * Demo URI: http://demo.themegrill.com/flash-default/
+ * Demo URI: http://demo.themegrill.com/flash/
  * Description: Flash Default demo pack for ThemeGrill Official theme.
  * Version: 1.0.0
  * Template: flash
@@ -32,32 +32,46 @@ function flash_default_demo_importer_config( $demo_config ) {
 			'homepage' => array(
 				'post_title'  => 'Home',
 				'data_update' => array(
+					'grids_data'  => array(
+						4 => array(
+							'style' => array(
+								'background_image_attachment' => 'CALL-TO-ACTION.jpg',
+							)
+						),
+						6 => array(
+							'style' => array(
+								'background_image_attachment' => 'fun-facts-bg.jpg',
+							)
+						),
+					),
+					'widgets_data' => array(
 
-					/**
-					 * Dropdown Categories - Handles widgets Category ID.
-					 *
-					 * A. Core Post Category:
-					 *    1. themegrill_flash_portfolio
-					 *    2. themegrill_flash_blog
-					 *
-					 * Note: Supported Taxonomy:
-					 *    A. Core Post Category - category
-					 */
-					'dropdown_categories' => array(
-						'category' => array (
-							'FT_Widget_Blog' => array(
-								15 => array(
-									'category' => 'Blog'
-								)
+						/**
+						 * Dropdown Categories - Handles widgets Category ID.
+						 *
+						 * A. Core Post Category:
+						 *    1. themegrill_flash_portfolio
+						 *    2. themegrill_flash_blog
+						 *
+						 * Note: Supported Taxonomy:
+						 *    A. Core Post Category - category
+						 */
+						'dropdown_categories' => array(
+							'category' => array (
+								'FT_Widget_Blog' => array(
+									15 => array(
+										'category' => 'Blog'
+									)
+								),
 							),
-						),
-						'portfolio_cat' => array(
-							'FT_Widget_Portfolio' => array(
-								5 => array(
-									'categories' => 'portfolio'
-								)
+							'portfolio_cat' => array(
+								'FT_Widget_Portfolio' => array(
+									5 => array(
+										'categories' => 'portfolio'
+									)
+								),
 							),
-						),
+						)
 					)
 				)
 			)
