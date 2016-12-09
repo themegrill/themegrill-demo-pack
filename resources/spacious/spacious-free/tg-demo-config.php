@@ -1,7 +1,7 @@
 <?php
 /**
  * Demo Name: Spacious Free
- * Demo URI: http://demo.themegrill.com/spacious-free/
+ * Demo URI: http://demo.themegrill.com/spacious/
  * Description: Spacious Free demo pack for ThemeGrill Official theme.
  * Version: 1.0.0
  * Template: spacious
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 function spacious_demo_importer_config( $demo_config ) {
 	$demo_config['spacious-free'] = array(
-		'name'         => __( 'Spacious Free', 'spacious' ),
+		'name'         => 'Spacious Free',
 		'template'     => 'spacious',
 		'demo_url'     => 'http://demo.themegrill.com/spacious/',
 		'demo_pack'    => true,
@@ -61,18 +61,18 @@ function spacious_demo_importer_config( $demo_config ) {
 		),
 		'customizer_data_update' => array(
 			'nav_menu_locations' => array(
-				'primary'   => 'Primary',
-				'footer'    => 'Footer Menu',
+				'primary' => 'Primary',
+				'footer'  => 'Footer Menu',
 			),
 		),
 		'plugins_list' => array(
 			'recommended' => array(
 				'woocommerce' => array(
-					'name' => __( 'WooCommerce', 'spacious' ),
+					'name' => 'WooCommerce',
 					'slug' => 'woocommerce/woocommerce.php',
 				),
 				'recent-posts-widget-extended' => array(
-					'name' => __( 'Recent Posts Widget Extended', 'spacious' ),
+					'name' => 'Recent Posts Widget Extended',
 					'slug' => 'recent-posts-widget-extended/rpwe.php',
 				),
 			),
