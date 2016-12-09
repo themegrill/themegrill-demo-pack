@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 function flash_food_demo_importer_config( $demo_config ) {
 	$demo_config['flash-food'] = array(
-		'name'         => __( 'Flash Food', 'flash' ),
+		'name'         => 'Flash Food',
 		'template'     => 'flash',
 		'demo_url'     => 'http://demo.themegrill.com/flash-food/',
 		'demo_pack'    => true,
@@ -32,57 +32,71 @@ function flash_food_demo_importer_config( $demo_config ) {
 			'homepage' => array(
 				'post_title'  => 'Home',
 				'data_update' => array(
+					'grids_data'  => array(
+						6 => array(
+							'style' => array(
+								'background_image_attachment' => 'cta.jpg',
+							)
+						),
+						8 => array(
+							'style' => array(
+								'background_image_attachment' => 'fun-facts.jpg',
+							)
+						),
+					),
+					'widgets_data' => array(
 
-					/**
-					 * Dropdown Categories - Handles widgets Category ID.
-					 *
-					 * A. Core Post Category:
-					 *    1. themegrill_flash_portfolio
-					 *    2. themegrill_flash_blog
-					 *
-					 * Note: Supported Taxonomy:
-					 *    A. Core Post Category - category
-					 */
-					'dropdown_categories' => array(
-						'portfolio_cat' => array(
-							'FT_Widget_Portfolio' => array(
-								5 => array(
-									'categories' => 'All category'
-								)
+						/**
+						 * Dropdown Categories - Handles widgets Category ID.
+						 *
+						 * A. Core Post Category:
+						 *    1. themegrill_flash_portfolio
+						 *    2. themegrill_flash_blog
+						 *
+						 * Note: Supported Taxonomy:
+						 *    A. Core Post Category - category
+						 */
+						'dropdown_categories' => array(
+							'portfolio_cat' => array(
+								'FT_Widget_Portfolio' => array(
+									5 => array(
+										'categories' => 'Breakfast'
+									)
+								),
+							),
+							'category' => array (
+								'FT_Widget_Blog' => array(
+									8 => array(
+										'category' => 'Blog'
+									)
+								),
 							),
 						),
-						'category' => array (
-							'FT_Widget_Blog' => array(
-								10 => array(
-									'category' => 'Blog'
-								)
-							),
-						),
-					)
-				)
-			)
+					),
+				),
+			),
 		),
 		'customizer_data_update' => array(
 			'nav_menu_locations' => array(
-				'primary'	=> 'Primary',
-				'social'	=> 'Social',
-				'footer'	=> 'Footer Menu',
+				'primary' => 'Primary',
+				'social'  => 'Social',
+				'footer'  => 'Footer Menu',
 			)
 		),
 		'plugins_list' => array(
 			'required' => array(
 				'siteorigin-panels' => array(
-					'name' => __( 'Page Builder by SiteOrigin', 'flash' ),
+					'name' => 'Page Builder by SiteOrigin',
 					'slug' => 'siteorigin-panels/siteorigin-panels.php',
 				),
 				'flash-toolkit' => array(
-					'name' => __( 'Flash Toolkit', 'flash' ),
+					'name' => 'Flash Toolkit',
 					'slug' => 'flash-toolkit/flash-toolkit.php',
 				),
 			),
 			'recommended' => array(
 				'contact-form-7' => array(
-					'name' => __( 'Contact Form', 'flash' ),
+					'name' => 'Contact Form',
 					'slug' => 'contact-form-7/contact-form-7.php',
 				),
 			)
