@@ -20,6 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function flash_construction_demo_importer_config( $demo_config ) {
 	$demo_config['flash-construction'] = array(
 		'name'         => 'Flash Construction',
+		'theme'        => 'Flash',
 		'template'     => 'flash',
 		'demo_url'     => 'http://demo.themegrill.com/flash-construction/',
 		'demo_pack'    => true,
@@ -84,23 +85,22 @@ function flash_construction_demo_importer_config( $demo_config ) {
 			)
 		),
 		'plugins_list' => array(
-			'required' => array(
-				'siteorigin-panels' => array(
-					'name' => 'Page Builder by SiteOrigin',
-					'slug' => 'siteorigin-panels/siteorigin-panels.php',
-				),
-				'flash-toolkit' => array(
-					'name' => 'Flash Toolkit',
-					'slug' => 'flash-toolkit/flash-toolkit.php',
-				),
+			'flash-toolkit' => array(
+				'name'     => 'Flash Toolkit',
+				'slug'     => 'flash-toolkit/flash-toolkit.php',
+				'required' => true,
 			),
-			'recommended' => array(
-				'contact-form-7' => array(
-					'name' => 'Contact Form',
-					'slug' => 'contact-form-7/contact-form-7.php',
-				),
-			)
-		)
+			'siteorigin-panels' => array(
+				'name'     => 'Page Builder by SiteOrigin',
+				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
+				'required' => true,
+			),
+			'contact-form-7' => array(
+				'name'     => 'Contact Form',
+				'slug'     => 'contact-form-7/contact-form-7.php',
+				'required' => false,
+			),
+		),
 	);
 
 	return $demo_config;
