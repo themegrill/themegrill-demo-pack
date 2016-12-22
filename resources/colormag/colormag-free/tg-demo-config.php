@@ -24,6 +24,8 @@ function colormag_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colormag-free' => array(
 			'name'         => 'ColorMag',
+			'theme'        => 'ColorMag',
+			'template'     => 'colormag',
 			'demo_url'     => 'http://demo.themegrill.com/colormag/',
 			'demo_pack'    => true,
 			'core_options' => array(
