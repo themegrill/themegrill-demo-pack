@@ -11,9 +11,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'colormag_demo_importer_config' );
-add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_set_cat_colors', 20, 3 );
-
 /**
  * Setup demo importer config.
  *
@@ -87,6 +84,7 @@ function colormag_demo_importer_config( $demo_config ) {
 
 	return array_merge( $new_demo_config, $demo_config );
 }
+add_filter( 'themegrill_demo_importer_config', 'colormag_demo_importer_config' );
 
 /**
  * Set categories color settings in theme customizer.
@@ -157,3 +155,4 @@ function colormag_set_cat_colors( $data, $demo_data, $demo_id ) {
 
 	return $data;
 }
+add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_set_cat_colors', 20, 3 );

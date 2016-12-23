@@ -20,6 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function spacious_demo_importer_config( $demo_config ) {
 	$demo_config['spacious-free'] = array(
 		'name'         => 'Spacious Free',
+		'theme'        => 'Spacious',
 		'template'     => 'spacious',
 		'demo_url'     => 'http://demo.themegrill.com/spacious/',
 		'demo_pack'    => true,
@@ -66,15 +67,15 @@ function spacious_demo_importer_config( $demo_config ) {
 			),
 		),
 		'plugins_list' => array(
-			'recommended' => array(
-				'woocommerce' => array(
-					'name' => 'WooCommerce',
-					'slug' => 'woocommerce/woocommerce.php',
-				),
-				'recent-posts-widget-extended' => array(
-					'name' => 'Recent Posts Widget Extended',
-					'slug' => 'recent-posts-widget-extended/rpwe.php',
-				),
+			'woocommerce' => array(
+				'name'     => 'WooCommerce',
+				'slug'     => 'woocommerce/woocommerce.php',
+				'required' => false,
+			),
+			'recent-posts-widget-extended' => array(
+				'name'     => 'Recent Posts Widget Extended',
+				'slug'     => 'recent-posts-widget-extended/rpwe.php',
+				'required' => false,
 			),
 		),
 	);
