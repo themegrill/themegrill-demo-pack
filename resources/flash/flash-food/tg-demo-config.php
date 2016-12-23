@@ -84,23 +84,22 @@ function flash_food_demo_importer_config( $demo_config ) {
 			)
 		),
 		'plugins_list' => array(
-			'required' => array(
-				'siteorigin-panels' => array(
-					'name' => 'Page Builder by SiteOrigin',
-					'slug' => 'siteorigin-panels/siteorigin-panels.php',
-				),
-				'flash-toolkit' => array(
-					'name' => 'Flash Toolkit',
-					'slug' => 'flash-toolkit/flash-toolkit.php',
-				),
+			'flash-toolkit' => array(
+				'name'     => 'Flash Toolkit',
+				'slug'     => 'flash-toolkit/flash-toolkit.php',
+				'required' => true,
 			),
-			'recommended' => array(
-				'contact-form-7' => array(
-					'name' => 'Contact Form',
-					'slug' => 'contact-form-7/contact-form-7.php',
-				),
-			)
-		)
+			'siteorigin-panels' => array(
+				'name'     => 'Page Builder by SiteOrigin',
+				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
+				'required' => true,
+			),
+			'contact-form-7' => array(
+				'name'     => 'Contact Form',
+				'slug'     => 'contact-form-7/contact-form-7.php',
+				'required' => false,
+			),
+		),
 	);
 
 	return $demo_config;
