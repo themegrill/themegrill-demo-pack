@@ -22,7 +22,7 @@ function flash_default_demo_importer_config( $demo_config ) {
 		'name'         => __( 'Flash Default', 'flash' ),
 		'theme'        => 'Flash',
 		'template'     => 'flash',
-		'demo_url'     => 'http://demo.themegrill.com/flash/',
+		'demo_url'     => 'https://demo.themegrill.com/flash/',
 		'demo_pack'    => true,
 		'core_options' => array(
 			'blogname'       => 'Flash',
@@ -79,7 +79,7 @@ function flash_default_demo_importer_config( $demo_config ) {
 		),
 		'customizer_data_update' => array(
 			'nav_menu_locations' => array(
-				'primary' => 'Primary Menu',
+				'primary' => 'Menu',
 				'social'  => 'Social',
 			)
 		),
@@ -97,6 +97,11 @@ function flash_default_demo_importer_config( $demo_config ) {
 			'contact-form-7' => array(
 				'name'     => 'Contact Form',
 				'slug'     => 'contact-form-7/contact-form-7.php',
+				'required' => false,
+			),
+			'woocommerce' => array(
+				'name'     => 'WooCommerce',
+				'slug'     => 'woocommerce/woocommerce.php',
 				'required' => false,
 			),
 		),
