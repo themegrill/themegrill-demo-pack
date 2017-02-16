@@ -68,28 +68,28 @@ function flash_food_demo_importer_config( $demo_config ) {
 				'primary' => 'Primary Menu',
 			)
 		),
-      'restaurantpress_data_update' => array(
-         'food_group' => array(
-            'Meats &amp; Seafoods' => array(
-               1  => 'Meats &amp; Seafoods'
-            ),
-            'Desserts' => array(
-               1  => 'Desserts'
-            ),
-            'Lunch' => array(
-               1  => 'Lunch'
-            ),
-            'Drinks' => array(
-               1  => 'Drinks'
-            ),
-            'Breakfast' => array(
-               1  => 'Breakfast'
-            ),
-            'Today&apos;s Special' => array(
-               1  => 'Today&apos;s Special'
-            )
-         )
-      ),
+		'restaurantpress_data_update' => array(
+			'food_group' => array(
+				'Meats & Seafoods' => array(
+					1  => 'Meats &amp; Seafoods'
+				),
+				'Desserts' => array(
+					1  => 'Desserts'
+				),
+				'Lunch' => array(
+					1  => 'Lunch'
+				),
+				'Drinks' => array(
+					1  => 'Drinks'
+				),
+				'Breakfast' => array(
+					1  => 'Breakfast'
+				),
+				'Today\'s Special' => array(
+					1  => 'Todays Special'
+				)
+			)
+		),
 		'plugins_list' => array(
 			'flash-toolkit' => array(
 				'name'     => 'Flash Toolkit',
@@ -124,25 +124,26 @@ add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config'
  * @param  array $demo_data
  */
 function restaurantpress_data_update( $demo_id, $demo_data ) {
-   if ( ! empty( $demo_data['restaurantpress_data_update'] ) ) {
-      foreach ( $demo_data['restaurantpress_data_update'] as $data_type => $data_value ) {
-         $data = [];
-         switch ( $data_type ) {
-            case 'food_group':
-               foreach ($data_value as $group_name => $taxonomy_values) {
-                  $group = get_page_by_title( $group_name, OBJECT, $data_type );
-                  foreach ($taxonomy_values as $option_key => $taxonomy) {
-                        $term = get_term_by( 'name', $taxonomy, 'food_menu_cat' );
-                        if ( is_object( $term ) && $term->term_id ) {
-                           $data[] = $term->term_id;
-                        }
-                  }
-                  update_post_meta($group->ID,'food_grouping',$data);
-                  unset($data);
-               }
-            break;
-         }
-      }
-   }
+	if ( ! empty( $demo_data['restaurantpress_data_update'] ) ) {
+		foreach ( $demo_data['restaurantpress_data_update'] as $data_type => $data_value ) {
+			$data = [];
+			switch ( $data_type ) {
+				case 'food_group':
+					foreach ($data_value as $group_name => $taxonomy_values) {
+						$group = get_page_by_title( $group_name, OBJECT, $data_type );
+						foreach ($taxonomy_values as $option_key => $taxonomy) {
+							$term = get_term_by( 'name', $taxonomy, 'food_menu_cat' );
+							if ( is_object( $term ) && $term->term_id ) {
+								$data[] = $term->term_id;
+							}
+						}
+
+						update_post_meta($group->ID,'food_grouping',$data);
+						unset($data);
+					}
+				break;
+			}
+		}
+	}
 }
 add_action( 'themegrill_ajax_demo_imported', 'restaurantpress_data_update', 10, 2 );
