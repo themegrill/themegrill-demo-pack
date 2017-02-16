@@ -75,12 +75,12 @@ function flash_food_demo_importer_config( $demo_config ) {
 				'required' => true,
 			),
 			'siteorigin-panels' => array(
-				'name'     => 'RestaurantPress',
+				'name'     => 'Page Builder by SiteOrigin',
 				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
 				'required' => true,
 			),
 			'restaurantpress' => array(
-				'name'     => 'Page Builder by SiteOrigin',
+				'name'     => 'RestaurantPress',
 				'slug'     => 'restaurantpress/restaurantpress.php',
 				'required' => false,
 			),
