@@ -63,6 +63,41 @@ function flash_construction_demo_importer_config( $demo_config ) {
 						)
 					)
 				)
+			),
+			'projects' => array(
+				'post_title'  => 'Projects',
+				'data_update' => array(
+					'grids_data' => array(
+						0 => array(
+							'style' => array(
+								'background_image_attachment' => 'background-1.jpg',
+							)
+						),
+					),
+					'widgets_data' => array(
+
+						/**
+						 * Dropdown Categories - Handles widgets Category ID.
+						 *
+						 * A. Core Post Category:
+						 *    1. themegrill_flash_portfolio
+						 *    2. themegrill_flash_blog
+						 *
+						 * Note: Supported Taxonomy:
+						 *    A. Core Post Category - category
+						 */
+						'dropdown_categories' => array(
+							'portfolio_cat' => array(
+								'FT_Widget_Portfolio' => array(
+									4 => array(
+										'categories' => 'Construction Projects'
+									),
+									'level' => 1
+								),
+							),
+						)
+					)
+				)
 			)
 		),
 		'customizer_data_update' => array(
