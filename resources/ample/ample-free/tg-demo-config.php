@@ -1,7 +1,7 @@
 <?php
 /**
  * Demo Name: Ample Free
- * Demo URI: http://demo.themegrill.com/ample/
+ * Demo URI: https://demo.themegrill.com/ample/
  * Description: Ample Free demo pack for ThemeGrill Official theme.
  * Version: 1.0.0
  * Template: spacious
@@ -22,7 +22,7 @@ function ample_demo_importer_config( $demo_config ) {
 		'name'         => 'Ample Free',
 		'theme'        => 'Ample',
 		'template'     => 'ample',
-		'demo_url'     => 'http://demo.themegrill.com/ample/',
+		'demo_url'     => 'https://demo.themegrill.com/ample/',
 		'demo_pack'    => true,
 		'core_options' => array(
 			'blogname'       => 'Ample',
