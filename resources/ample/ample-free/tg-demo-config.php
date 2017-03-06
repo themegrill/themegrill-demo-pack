@@ -2,7 +2,7 @@
 /**
  * Demo Name: Ample Free
  * Demo URI: http://demo.themegrill.com/ample/
- * Description: Spacious Free demo pack for ThemeGrill Official theme.
+ * Description: Ample Free demo pack for ThemeGrill Official theme.
  * Version: 1.0.0
  * Template: spacious
  */
