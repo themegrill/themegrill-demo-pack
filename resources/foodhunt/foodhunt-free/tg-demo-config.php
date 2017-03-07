@@ -54,17 +54,18 @@ function foodhunt_demo_importer_config( $demo_config ) {
 		),
 		'restaurantpress_data_update' => array(
 			'food_group' => array(
-				'Appetizers' => array(
-					1  => 'Appetizers'
+				'One Column' => array(
+					1  => 'Breakfast',
+					2  => 'Lunch'
 				),
-				'Breakfast' => array(
-					1  => 'Breakfast'
+				'Grid Image' => array(
+					1  => 'Appetizers',
+					2  => 'Breakfast',
+					3  => 'Dinner',
 				),
-				'Dinner' => array(
-					1  => 'Dinner'
-				),
-				'Lunch' => array(
-					1  => 'Lunch'
+				'Two Column' => array(
+					1  => 'Appetizers',
+					2  => 'Dinner'
 				),
 			)
 		),
@@ -77,6 +78,11 @@ function foodhunt_demo_importer_config( $demo_config ) {
 			'google-maps-widget' => array(
 				'name'     => 'Google Maps Widget',
 				'slug'     => 'google-maps-widget/google-maps-widget.php',
+				'required' => false,
+			),
+			'contact-form-7' => array(
+				'name'     => 'Contact Form 7',
+				'slug'     => 'contact-form-7/wp-contact-form-7.php',
 				'required' => false,
 			),
 		),
