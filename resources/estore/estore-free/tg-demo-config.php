@@ -126,7 +126,7 @@ function estore_demo_importer_config( $demo_config ) {
 			'woocommerce' => array(
 				'name'     => 'WooCommerce',
 				'slug'     => 'woocommerce/woocommerce.php',
-				'required' => false,
+				'required' => true,
 			),
 		),
 	);
