@@ -120,7 +120,7 @@ function estore_demo_importer_config( $demo_config ) {
 		'plugins_list' => array(
 			'contact-form-7' => array(
 				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/contact-form-7.php',
+				'slug'     => 'contact-form-7/wp-contact-form-7.php',
 				'required' => false,
 			),
 			'woocommerce' => array(
