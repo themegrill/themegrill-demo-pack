@@ -49,7 +49,7 @@ function esteem_demo_importer_config( $demo_config ) {
 						'page_id0' => 'Theme Options',
 						'page_id1' => 'SEO Optimized',
 						'page_id2' => 'Featured Slider',
-						'page_id2' => 'Business layout',
+						'page_id3' => 'Business layout',
 					),
 				),
 			),
