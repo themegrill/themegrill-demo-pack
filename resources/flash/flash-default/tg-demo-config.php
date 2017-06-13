@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @param  array $demo_config
  * @return array
  */
-function flash_default_demo_importer_config( $demo_config ) {
+function flash_default_demo_importer_config_free( $demo_config ) {
 	$demo_config['flash-default'] = array(
 		'name'         => __( 'Flash Default', 'flash' ),
 		'theme'        => 'Flash',
@@ -96,7 +96,7 @@ function flash_default_demo_importer_config( $demo_config ) {
 			),
 			'contact-form-7' => array(
 				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/contact-form-7.php',
+				'slug'     => 'contact-form-7/wp-contact-form-7.php',
 				'required' => false,
 			),
 			'woocommerce' => array(
@@ -109,4 +109,4 @@ function flash_default_demo_importer_config( $demo_config ) {
 
 	return $demo_config;
 }
-add_filter( 'themegrill_demo_importer_config', 'flash_default_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'flash_default_demo_importer_config_free' );

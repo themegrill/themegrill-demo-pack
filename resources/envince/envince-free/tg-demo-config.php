@@ -115,7 +115,7 @@ add_filter( 'themegrill_demo_importer_config', 'envince_demo_importer_config' );
  * @param  string $demo_id
  * @return array
  */
-function envince_set_cat_colors( $data, $demo_data, $demo_id ) {
+function envince_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 	$cat_colors    = array();
 	$cat_prevent   = array();
 	$wp_categories = array();
@@ -161,4 +161,4 @@ function envince_set_cat_colors( $data, $demo_data, $demo_id ) {
 
 	return $data;
 }
-add_filter( 'themegrill_customizer_demo_import_settings', 'envince_set_cat_colors', 20, 3 );
+add_filter( 'themegrill_customizer_demo_import_settings', 'envince_set_cat_colors_free', 20, 3 );

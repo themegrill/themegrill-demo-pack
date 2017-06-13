@@ -77,11 +77,6 @@ function spacious_demo_importer_config( $demo_config ) {
 				'slug'     => 'recent-posts-widget-extended/rpwe.php',
 				'required' => false,
 			),
-			'recent-posts-widget-extended' => array(
-				'name'     => 'Recent Posts Widget Extended',
-				'slug'     => 'recent-posts-widget-extended/rpwe.php',
-				'required' => false,
-			),
 		),
 	);
 

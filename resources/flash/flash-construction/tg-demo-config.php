@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @param  array $demo_config
  * @return array
  */
-function flash_construction_demo_importer_config( $demo_config ) {
+function flash_construction_demo_importer_config_free( $demo_config ) {
 	$demo_config['flash-construction'] = array(
 		'name'         => 'Flash Construction',
 		'theme'        => 'Flash',
@@ -97,7 +97,7 @@ function flash_construction_demo_importer_config( $demo_config ) {
 			),
 			'contact-form-7' => array(
 				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/contact-form-7.php',
+				'slug'     => 'contact-form-7/wp-contact-form-7.php',
 				'required' => false,
 			),
 		),
@@ -105,4 +105,4 @@ function flash_construction_demo_importer_config( $demo_config ) {
 
 	return $demo_config;
 }
-add_filter( 'themegrill_demo_importer_config', 'flash_construction_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'flash_construction_demo_importer_config_free' );

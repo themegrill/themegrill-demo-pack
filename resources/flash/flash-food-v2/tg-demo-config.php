@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @param  array $demo_config
  * @return array
  */
-function flash_food_demo_importer_config( $demo_config ) {
+function flash_food_demo_importer_config_free_v2( $demo_config ) {
 	$demo_config['flash-food-v2'] = array(
 		'name'         => 'Flash Food V2',
 		'theme'        => 'Flash',
@@ -108,7 +108,7 @@ function flash_food_demo_importer_config( $demo_config ) {
 			),
 			'contact-form-7' => array(
 				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/contact-form-7.php',
+				'slug'     => 'contact-form-7/wp-contact-form-7.php',
 				'required' => false,
 			),
 		),
@@ -116,14 +116,14 @@ function flash_food_demo_importer_config( $demo_config ) {
 
 	return $demo_config;
 }
-add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config_free_v2' );
 
 /**
  * Update taxonomies ids for restaurantpress
  * @param  string $demo_id
  * @param  array $demo_data
  */
-function restaurantpress_data_update( $demo_id, $demo_data ) {
+function restaurantpress_data_update_free_v2( $demo_id, $demo_data ) {
 	if ( ! empty( $demo_data['restaurantpress_data_update'] ) ) {
 		foreach ( $demo_data['restaurantpress_data_update'] as $data_type => $data_value ) {
 			$data = [];
@@ -146,4 +146,4 @@ function restaurantpress_data_update( $demo_id, $demo_data ) {
 		}
 	}
 }
-add_action( 'themegrill_ajax_demo_imported', 'restaurantpress_data_update', 10, 2 );
+add_action( 'themegrill_ajax_demo_imported', 'restaurantpress_data_update_free_v2', 10, 2 );
