@@ -15,11 +15,12 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
-		'colormag-beauty-blog'     => array(
+		'colormag-beauty-blog' => array(
 			'name'                   => __( 'ColorMag Beauty Blog', 'colormag' ),
 			'demo_url'               => 'https://demo.themegrill.com/colormag-beauty-blog/',
 			'demo_pack'              => true,
@@ -49,7 +50,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'make-up'        => array(
+				'make-up'   => array(
 					'post_title'  => 'Make Up',
 					'data_update' => array(
 						'category' => array(
@@ -59,12 +60,12 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 							'ColorMag-Posts-Block-6' => array(
 								2 => 'Food &amp; Drinks',
 								4 => 'Product',
-								7 => 'Beauty Tips'
+								7 => 'Beauty Tips',
 							),
 						),
 					),
 				),
-				'hair'     => array(
+				'hair'      => array(
 					'post_title'  => 'Hair',
 					'data_update' => array(
 						'category' => array(
@@ -79,7 +80,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'products'        => array(
+				'products'  => array(
 					'post_title'  => 'Products',
 					'data_update' => array(
 						'category' => array(
@@ -94,7 +95,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'lifestyle'          => array(
+				'lifestyle' => array(
 					'post_title'  => 'Lifestyle',
 					'data_update' => array(
 						'category' => array(
@@ -106,7 +107,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'food'       => array(
+				'food'      => array(
 					'post_title'  => 'Food',
 					'data_update' => array(
 						'category' => array(
@@ -121,7 +122,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'health'         => array(
+				'health'    => array(
 					'post_title'  => 'Health',
 					'data_update' => array(
 						'category' => array(
@@ -136,7 +137,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'fashion'        => array(
+				'fashion'   => array(
 					'post_title'  => 'Fashion',
 					'data_update' => array(
 						'category' => array(
@@ -146,12 +147,12 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 							'ColorMag-Posts-Block-6' => array(
 								2 => 'Food &amp; Drinks',
 								4 => 'Product',
-								7 => 'Beauty Tips'
+								7 => 'Beauty Tips',
 							),
 						),
 					),
 				),
-				'tips'       => array(
+				'tips'      => array(
 					'post_title'  => 'Tips',
 					'data_update' => array(
 						'category' => array(
@@ -166,7 +167,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 						),
 					),
 				),
-				'news' => array(
+				'news'      => array(
 					'post_title'  => 'News',
 					'data_update' => array(
 						'category' => array(
@@ -199,7 +200,21 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 
 	return array_merge( $new_demo_config, $demo_config );
 }
+
 add_filter( 'themegrill_demo_importer_config', 'colormag_beauty_blog_demo_importer_config' );
+
+/**
+ * Delete the `Hello world!` post after successful demo import
+ */
+function colormag_beauty_blog_delete_post_import() {
+	$page = get_page_by_title( 'Hello world!', OBJECT, 'post' );
+
+	if ( is_object( $page ) && $page->ID ) {
+		wp_delete_post( $page->ID, true );
+	}
+}
+
+add_filter( 'themegrill_ajax_demo_imported', 'colormag_beauty_blog_delete_post_import' );
 
 /**
  * Set categories color settings in theme customizer.
@@ -209,6 +224,7 @@ add_filter( 'themegrill_demo_importer_config', 'colormag_beauty_blog_demo_import
  * @param  array  $data
  * @param  array  $demo_data
  * @param  string $demo_id
+ *
  * @return array
  */
 function colormag_beauty_blog_set_cat_colors_free( $data, $demo_data, $demo_id ) {
@@ -229,29 +245,29 @@ function colormag_beauty_blog_set_cat_colors_free( $data, $demo_data, $demo_id )
 				9  => 'Eye Make up',
 				10 => 'News',
 			);
-		break;
+			break;
 	}
 
 	// Fetch categories color settings.
 	foreach ( $wp_categories as $term_id => $term_name ) {
-		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
-			$cat_colors[ 'colormag_category_color_' . $term_id ] = $data['mods'][ 'colormag_category_color_' . $term_id ];
+		if ( ! empty( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] ) ) {
+			$cat_colors[ 'colormag_category_color_' . $term_id ] = $data[ 'mods' ][ 'colormag_category_color_' . $term_id ];
 		}
 	}
 
 	// Set categories color settings properly.
 	foreach ( $wp_categories as $term_id => $term_name ) {
-		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
+		if ( ! empty( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] ) ) {
 			$term  = get_term_by( 'name', $term_name, 'category' );
 			$color = $cat_colors[ 'colormag_category_color_' . $term_id ];
 
 			if ( is_object( $term ) && $term->term_id ) {
-				$cat_prevent[] = $term->term_id;
-				$data['mods'][ 'colormag_category_color_' . $term->term_id ] = $color;
+				$cat_prevent[]                                                 = $term->term_id;
+				$data[ 'mods' ][ 'colormag_category_color_' . $term->term_id ] = $color;
 
 				// Prevent deleting stored color settings.
 				if ( ! in_array( $term_id, $cat_prevent ) ) {
-					unset( $data['mods'][ 'colormag_category_color_' . $term_id ] );
+					unset( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] );
 				}
 			}
 		}
@@ -259,4 +275,5 @@ function colormag_beauty_blog_set_cat_colors_free( $data, $demo_data, $demo_id )
 
 	return $data;
 }
+
 add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_beauty_blog_set_cat_colors_free', 20, 3 );
