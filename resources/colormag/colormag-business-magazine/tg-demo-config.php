@@ -17,16 +17,16 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @param  array $demo_config
  * @return array
  */
-function colormag_beauty_blog_demo_importer_config( $demo_config ) {
+function colormag_business_magazine_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
-		'colormag-beauty-blog'     => array(
-			'name'                   => __( 'ColorMag Beauty Blog', 'colormag' ),
-			'demo_url'               => 'https://demo.themegrill.com/colormag-beauty-blog/',
+		'colormag-business-magazine'     => array(
+			'name'                   => __( 'ColorMag Business Magazine', 'colormag' ),
+			'demo_url'               => 'https://demo.themegrill.com/colormag-business-magazine/',
 			'demo_pack'              => true,
 			'theme'                  => 'ColorMag',
 			'template'               => 'colormag',
 			'core_options'           => array(
-				'blogname'      => 'ColorMag Beauty Blog',
+				'blogname'      => 'ColorMag Business Magazine',
 				'page_on_front' => 'Home',
 			),
 			'elementor_data_update'  => array(
@@ -34,148 +34,100 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 					'post_title'  => 'Home',
 					'data_update' => array(
 						'category' => array(
-							'ColorMag-Posts-Grid-3'  => array(
-								10 => 'News',
+							'ColorMag-Posts-Grid-5' => array(
+								6 => 'Employment',
 							),
-							'ColorMag-Posts-Block-2' => array(
-								5 => 'Hair',
-								6 => 'Fashion',
-								8 => 'Health',
-								9 => 'Eye Make up',
+							'ColorMag-Posts-Block-1' => array(
+								5 => 'Corporate',
+							),
+							'ColorMag-Posts-Block-4' => array(
+								8 => 'Money',
 							),
 							'ColorMag-Posts-Block-6' => array(
-								10 => 'News',
+								4  => 'Investments',
+							),
+							'ColorMag-Posts-Block-9' => array(
+								9  => 'Market',
 							),
 						),
 					),
 				),
-				'make-up'        => array(
-					'post_title'  => 'Make Up',
+				'corporate'        => array(
+					'post_title'  => 'Corporate',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								9 => 'Eye Make up',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								4 => 'Product',
-								7 => 'Beauty Tips'
+								5 => 'Corporate',
 							),
 						),
 					),
 				),
-				'hair'     => array(
-					'post_title'  => 'Hair',
+				'global-trade'    	 => array(
+					'post_title'  => 'Global Trade',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								5 => 'Hair',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								4 => 'Product',
-								7 => 'Beauty Tips',
+								14 => 'Global Trade',
 							),
 						),
 					),
 				),
-				'products'        => array(
-					'post_title'  => 'Products',
+				'companies'        => array(
+					'post_title'  => 'Companies',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								4 => 'Product',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								4 => 'Product',
-								7 => 'Beauty Tips',
+								15 => 'Companies',
 							),
 						),
 					),
 				),
-				'lifestyle'          => array(
-					'post_title'  => 'Lifestyle',
+				'entrepreneurship'         => array(
+					'post_title'  => 'Entrepreneurship',
 					'data_update' => array(
 						'category' => array(
-							'ColorMag-Posts-Block-6' => array(
-								4 => 'Product',
-								2 => 'Food &amp; Drinks',
-								7 => 'Beauty Tips',
+							'ColorMag-Posts-Block-2' => array(
+								16 => 'Entrepreneurship',
 							),
 						),
 					),
 				),
-				'food'       => array(
-					'post_title'  => 'Food',
+				'employment'       => array(
+					'post_title'  => 'Employment',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								2 => 'Food &amp; Drinks',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								4 => 'Product',
-								2 => 'Food &amp; Drinks',
-								7 => 'Beauty Tips',
+								6 => 'Employment',
 							),
 						),
 					),
 				),
-				'health'         => array(
-					'post_title'  => 'Health',
+				'investment'         => array(
+					'post_title'  => 'Investment',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								8 => 'Health',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								4 => 'Product',
-								7 => 'Beauty Tips',
+								4 => 'Investments',
 							),
 						),
 					),
 				),
-				'fashion'        => array(
-					'post_title'  => 'Fashion',
+				'market'        => array(
+					'post_title'  => 'Market',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								6 => 'Fashion',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								4 => 'Product',
-								7 => 'Beauty Tips'
+								9 => 'Market',
 							),
 						),
 					),
 				),
-				'tips'       => array(
-					'post_title'  => 'Tips',
+				'money'       => array(
+					'post_title'  => 'Money',
 					'data_update' => array(
 						'category' => array(
 							'ColorMag-Posts-Block-2' => array(
-								7 => 'Beauty Tips',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								4 => 'Product',
-								2 => 'Food &amp; Drinks',
-								7 => 'Beauty Tips',
-							),
-						),
-					),
-				),
-				'news' => array(
-					'post_title'  => 'News',
-					'data_update' => array(
-						'category' => array(
-							'ColorMag-Posts-Block-2' => array(
-								10 => 'News',
-							),
-							'ColorMag-Posts-Block-6' => array(
-								2 => 'Food &amp; Drinks',
-								7 => 'Beauty Tips',
+								8 => 'Money',
 							),
 						),
 					),
@@ -199,7 +151,7 @@ function colormag_beauty_blog_demo_importer_config( $demo_config ) {
 
 	return array_merge( $new_demo_config, $demo_config );
 }
-add_filter( 'themegrill_demo_importer_config', 'colormag_beauty_blog_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'colormag_business_magazine_demo_importer_config' );
 
 /**
  * Set categories color settings in theme customizer.
@@ -211,23 +163,23 @@ add_filter( 'themegrill_demo_importer_config', 'colormag_beauty_blog_demo_import
  * @param  string $demo_id
  * @return array
  */
-function colormag_beauty_blog_set_cat_colors_free( $data, $demo_data, $demo_id ) {
+function colormag_business_magazine_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 	$cat_colors    = array();
 	$cat_prevent   = array();
 	$wp_categories = array();
 
 	// Format the data based on demo ID.
 	switch ( $demo_id ) {
-		case 'colormag-beauty-blog':
+		case 'colormag-business-magazine':
 			$wp_categories = array(
-				2  => 'Food & Drinks',
-				4  => 'Product',
-				5  => 'Hair',
-				6  => 'Fashion',
-				7  => 'Beauty Tips',
-				8  => 'Health',
-				9  => 'Eye Make up',
-				10 => 'News',
+				4   => 'Investments',
+				5   => 'Corporate',
+				6   => 'Employment',
+				8   => 'Money',
+				9   => 'Market',
+				14  => 'Global Trade',
+				15  => 'Companies',
+				16  => 'Entrepreneurship',
 			);
 		break;
 	}
@@ -259,4 +211,4 @@ function colormag_beauty_blog_set_cat_colors_free( $data, $demo_data, $demo_id )
 
 	return $data;
 }
-add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_beauty_blog_set_cat_colors_free', 20, 3 );
+add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_business_magazine_set_cat_colors_free', 20, 3 );
