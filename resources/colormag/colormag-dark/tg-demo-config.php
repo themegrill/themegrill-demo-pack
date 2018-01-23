@@ -222,7 +222,7 @@ function colormag_dark_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 
 	// Format the data based on demo ID.
 	switch ( $demo_id ) {
-		case 'colormag-business-magazine':
+		case 'colormag-dark':
 			$wp_categories = array(
 				2  => 'Politics',
 				3  => 'Sports',
