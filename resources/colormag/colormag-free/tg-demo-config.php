@@ -15,20 +15,21 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function colormag_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colormag-free' => array(
-			'name'         => 'ColorMag',
-			'theme'        => 'ColorMag',
-			'template'     => 'colormag',
-			'demo_url'     => 'http://demo.themegrill.com/colormag/',
-			'demo_pack'    => true,
-			'core_options' => array(
+			'name'                   => 'ColorMag',
+			'theme'                  => 'ColorMag',
+			'template'               => 'colormag',
+			'demo_url'               => 'http://demo.themegrill.com/colormag/',
+			'demo_pack'              => true,
+			'core_options'           => array(
 				'blogname' => 'ColorMag',
 			),
-			'widgets_data_update' => array(
+			'widgets_data_update'    => array(
 
 				/**
 				 * Dropdown Categories - Handles widgets Category ID.
@@ -42,17 +43,17 @@ function colormag_demo_importer_config( $demo_config ) {
 				 */
 				'dropdown_categories' => array(
 					'category' => array(
-						'colormag_featured_posts_slider_widget' => array(
+						'colormag_featured_posts_slider_widget'   => array(
 							4 => array(
 								'category' => 'Latest'
 							)
 						),
-						'colormag_highlighted_posts_widget' => array(
+						'colormag_highlighted_posts_widget'       => array(
 							3 => array(
 								'category' => 'FEATURED'
 							)
 						),
-						'colormag_featured_posts_widget' => array(
+						'colormag_featured_posts_widget'          => array(
 							3 => array(
 								'category' => 'Health'
 							),
@@ -79,11 +80,20 @@ function colormag_demo_importer_config( $demo_config ) {
 					'primary' => 'Primary',
 				)
 			),
+			'plugins_list'           => array(
+				'recommended' => array(
+					'everest-forms' => array(
+						'name' => __( 'Everest Forms – Easy Contact Form and Form Builder', 'colormag' ),
+						'slug' => 'everest-forms/everest-forms.php',
+					),
+				),
+			),
 		),
 	);
 
 	return array_merge( $new_demo_config, $demo_config );
 }
+
 add_filter( 'themegrill_demo_importer_config', 'colormag_demo_importer_config' );
 
 /**
@@ -91,9 +101,10 @@ add_filter( 'themegrill_demo_importer_config', 'colormag_demo_importer_config' )
  *
  * Note: Used rarely, if theme_mod keys are based on term ID.
  *
- * @param  array  $data
- * @param  array  $demo_data
+ * @param  array $data
+ * @param  array $demo_data
  * @param  string $demo_id
+ *
  * @return array
  */
 function colormag_set_cat_colors_free( $data, $demo_data, $demo_id ) {
@@ -125,7 +136,7 @@ function colormag_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 				22 => 'Style',
 				23 => 'News',
 			);
-		break;
+			break;
 	}
 
 	// Fetch categories color settings.
@@ -142,7 +153,7 @@ function colormag_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 			$color = $cat_colors[ 'colormag_category_color_' . $term_id ];
 
 			if ( is_object( $term ) && $term->term_id ) {
-				$cat_prevent[] = $term->term_id;
+				$cat_prevent[]                                               = $term->term_id;
 				$data['mods'][ 'colormag_category_color_' . $term->term_id ] = $color;
 
 				// Prevent deleting stored color settings.
@@ -155,4 +166,5 @@ function colormag_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 
 	return $data;
 }
+
 add_filter( 'themegrill_customizer_demo_import_settings', 'colormag_set_cat_colors_free', 20, 3 );
