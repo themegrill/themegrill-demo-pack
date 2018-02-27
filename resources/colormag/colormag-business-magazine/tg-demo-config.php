@@ -140,10 +140,16 @@ function colormag_business_magazine_demo_importer_config( $demo_config ) {
 				),
 			),
 			'plugins_list'           => array(
-				'required' => array(
+				'required'    => array(
 					'elementor' => array(
 						'name' => __( 'Elementor', 'colormag' ),
 						'slug' => 'elementor/elementor.php',
+					),
+				),
+				'recommended' => array(
+					'everest-forms' => array(
+						'name' => __( 'Everest Forms – Easy Contact Form and Form Builder', 'colormag' ),
+						'slug' => 'everest-forms/everest-forms.php',
 					),
 				),
 			),
@@ -173,8 +179,8 @@ add_filter( 'themegrill_ajax_demo_imported', 'colormag_business_magazine_delete_
  *
  * Note: Used rarely, if theme_mod keys are based on term ID.
  *
- * @param  array  $data
- * @param  array  $demo_data
+ * @param  array $data
+ * @param  array $demo_data
  * @param  string $demo_id
  *
  * @return array
@@ -202,24 +208,24 @@ function colormag_business_magazine_set_cat_colors_free( $data, $demo_data, $dem
 
 	// Fetch categories color settings.
 	foreach ( $wp_categories as $term_id => $term_name ) {
-		if ( ! empty( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] ) ) {
-			$cat_colors[ 'colormag_category_color_' . $term_id ] = $data[ 'mods' ][ 'colormag_category_color_' . $term_id ];
+		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
+			$cat_colors[ 'colormag_category_color_' . $term_id ] = $data['mods'][ 'colormag_category_color_' . $term_id ];
 		}
 	}
 
 	// Set categories color settings properly.
 	foreach ( $wp_categories as $term_id => $term_name ) {
-		if ( ! empty( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] ) ) {
+		if ( ! empty( $data['mods'][ 'colormag_category_color_' . $term_id ] ) ) {
 			$term  = get_term_by( 'name', $term_name, 'category' );
 			$color = $cat_colors[ 'colormag_category_color_' . $term_id ];
 
 			if ( is_object( $term ) && $term->term_id ) {
-				$cat_prevent[]                                                 = $term->term_id;
-				$data[ 'mods' ][ 'colormag_category_color_' . $term->term_id ] = $color;
+				$cat_prevent[]                                               = $term->term_id;
+				$data['mods'][ 'colormag_category_color_' . $term->term_id ] = $color;
 
 				// Prevent deleting stored color settings.
 				if ( ! in_array( $term_id, $cat_prevent ) ) {
-					unset( $data[ 'mods' ][ 'colormag_category_color_' . $term_id ] );
+					unset( $data['mods'][ 'colormag_category_color_' . $term_id ] );
 				}
 			}
 		}
