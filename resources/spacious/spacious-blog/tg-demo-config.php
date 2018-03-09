@@ -48,7 +48,7 @@ function spacious_demo_importer_config_blog( $demo_config ) {
 			'everest-forms'    => array(
 				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
 				'slug'     => 'everest-forms/everest-forms.php',
-				'required' => false,
+				'required' => true,
 			),
 		),
 	);

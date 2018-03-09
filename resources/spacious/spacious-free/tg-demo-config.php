@@ -15,21 +15,22 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function spacious_demo_importer_config( $demo_config ) {
 	$demo_config['spacious-free'] = array(
-		'name'         => 'Spacious Free',
-		'theme'        => 'Spacious',
-		'template'     => 'spacious',
-		'demo_url'     => 'http://demo.themegrill.com/spacious/',
-		'demo_pack'    => true,
-		'core_options' => array(
+		'name'                   => 'Spacious Free',
+		'theme'                  => 'Spacious',
+		'template'               => 'spacious',
+		'demo_url'               => 'http://demo.themegrill.com/spacious/',
+		'demo_pack'              => true,
+		'core_options'           => array(
 			'blogname'       => 'Spacious',
 			'page_on_front'  => 'Business Template',
 			'page_for_posts' => 'Blog',
 		),
-		'widgets_data_update' => array(
+		'widgets_data_update'    => array(
 
 			/**
 			 * Dropdown Pages - Handles widgets Page ID.
@@ -39,7 +40,7 @@ function spacious_demo_importer_config( $demo_config ) {
 			 * 3. spacious_recent_work_widget
 			 */
 			'dropdown_pages' => array(
-				'spacious_service_widget' => array(
+				'spacious_service_widget'              => array(
 					2 => array(
 						'page_id0' => 'Super Fast Loading',
 						'page_id1' => 'Responsive Design',
@@ -51,7 +52,7 @@ function spacious_demo_importer_config( $demo_config ) {
 						'page_id' => 'Just Arrived',
 					),
 				),
-				'spacious_recent_work_widget' => array(
+				'spacious_recent_work_widget'          => array(
 					2 => array(
 						'page_id0' => 'Recent Work Skateboard',
 						'page_id1' => 'Recent Work Spectacle',
@@ -66,8 +67,13 @@ function spacious_demo_importer_config( $demo_config ) {
 				'footer'  => 'Footer Menu',
 			),
 		),
-		'plugins_list' => array(
-			'woocommerce' => array(
+		'plugins_list'           => array(
+			'everest-forms'                => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
+			),
+			'woocommerce'                  => array(
 				'name'     => 'WooCommerce',
 				'slug'     => 'woocommerce/woocommerce.php',
 				'required' => false,
@@ -82,4 +88,5 @@ function spacious_demo_importer_config( $demo_config ) {
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'spacious_demo_importer_config' );
