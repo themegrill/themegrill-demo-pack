@@ -176,13 +176,11 @@ function colormag_dark_demo_importer_config( $demo_config ) {
 				),
 			),
 			'plugins_list'           => array(
-				'required'    => array(
-					'elementor' => array(
+				'required' => array(
+					'elementor'     => array(
 						'name' => __( 'Elementor', 'colormag' ),
 						'slug' => 'elementor/elementor.php',
 					),
-				),
-				'recommended' => array(
 					'everest-forms' => array(
 						'name' => __( 'Everest Forms – Easy Contact Form and Form Builder', 'colormag' ),
 						'slug' => 'everest-forms/everest-forms.php',

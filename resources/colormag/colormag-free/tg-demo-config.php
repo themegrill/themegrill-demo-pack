@@ -81,7 +81,7 @@ function colormag_demo_importer_config( $demo_config ) {
 				)
 			),
 			'plugins_list'           => array(
-				'recommended' => array(
+				'required' => array(
 					'everest-forms' => array(
 						'name' => __( 'Everest Forms – Easy Contact Form and Form Builder', 'colormag' ),
 						'slug' => 'everest-forms/everest-forms.php',
