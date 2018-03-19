@@ -15,22 +15,23 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function accelerate_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'accelerate-free' => array(
-			'name'         => 'Accelerate',
-			'theme'        => 'Accelerate',
-			'template'     => 'accelerate',
-			'demo_url'     => 'http://demo.themegrill.com/accelerate/',
-			'demo_pack'    => true,
-			'core_options' => array(
+			'name'                   => 'Accelerate',
+			'theme'                  => 'Accelerate',
+			'template'               => 'accelerate',
+			'demo_url'               => 'http://demo.themegrill.com/accelerate/',
+			'demo_pack'              => true,
+			'core_options'           => array(
 				'blogname'       => 'Accelerate',
 				'page_on_front'  => 'Business Page',
 				'page_for_posts' => 'Blog',
 			),
-			'widgets_data_update' => array(
+			'widgets_data_update'    => array(
 
 				/**
 				 * Dropdown Pages - Handles widgets Page ID.
@@ -45,14 +46,14 @@ function accelerate_demo_importer_config( $demo_config ) {
 							'page_id' => 'About Us',
 						),
 					),
-					'accelerate_image_service_widget' => array(
+					'accelerate_image_service_widget'        => array(
 						2 => array(
 							'page_id0' => 'Clean Code',
 							'page_id1' => 'Cool Design',
 							'page_id2' => 'Nice Support',
 						),
 					),
-					'accelerate_recent_work_widget' => array(
+					'accelerate_recent_work_widget'          => array(
 						3 => array(
 							'page_id0' => 'Nice Shoes',
 							'page_id1' => 'Sky Diving',
@@ -66,10 +67,15 @@ function accelerate_demo_importer_config( $demo_config ) {
 				'nav_menu_locations' => array(
 					'primary' => 'Primary',
 					'footer'  => 'Footer',
-				)
+				),
 			),
-			'plugins_list' => array(
-				'breadcrumb-navxt' => array(
+			'plugins_list'           => array(
+				'everest-forms'      => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
+				),
+				'breadcrumb-navxt'   => array(
 					'name'     => 'Breadcrumb NavXT',
 					'slug'     => 'breadcrumb-navxt/breadcrumb-navxt.php',
 					'required' => false,
@@ -77,11 +83,6 @@ function accelerate_demo_importer_config( $demo_config ) {
 				'google-maps-widget' => array(
 					'name'     => 'Google Maps Widget',
 					'slug'     => 'google-maps-widget/google-maps-widget.php',
-					'required' => false,
-				),
-				'contact-form-7' => array(
-					'name'     => 'Contact Form 7',
-					'slug'     => 'contact-form-7/wp-contact-form-7.php',
 					'required' => false,
 				),
 			),
