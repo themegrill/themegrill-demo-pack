@@ -15,20 +15,21 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function colornews_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colornews-free' => array(
-			'name'         => 'ColorNews',
-			'theme'        => 'ColorNews',
-			'template'     => 'colornews',
-			'demo_url'     => 'https://demo.themegrill.com/colornews/',
-			'demo_pack'    => true,
-			'core_options' => array(
-				'blogname'       => 'ColorNews',
+			'name'                   => 'ColorNews',
+			'theme'                  => 'ColorNews',
+			'template'               => 'colornews',
+			'demo_url'               => 'https://demo.themegrill.com/colornews/',
+			'demo_pack'              => true,
+			'core_options'           => array(
+				'blogname' => 'ColorNews',
 			),
-			'widgets_data_update' => array(
+			'widgets_data_update'    => array(
 
 				/**
 				 * Dropdown Categories - Handles widgets Category ID.
@@ -42,60 +43,60 @@ function colornews_demo_importer_config( $demo_config ) {
 				 */
 				'dropdown_categories' => array(
 					'category' => array(
-						'colornews_featured_post_style_one_widget' => array(
+						'colornews_featured_post_style_one_widget'   => array(
 							2 => array(
-								'category' => 'Sports'
+								'category' => 'Sports',
 							),
 						),
-						'colornews_featured_post_style_two_widget' => array(
+						'colornews_featured_post_style_two_widget'   => array(
 							2 => array(
-								'category' => 'Business'
+								'category' => 'Business',
 							),
 							3 => array(
-								'category' => 'Technology'
+								'category' => 'Technology',
 							),
 						),
 						'colornews_featured_post_style_three_widget' => array(
 							2 => array(
-								'category' => 'Business'
+								'category' => 'Business',
 							),
 							3 => array(
-								'category' => 'Politics'
+								'category' => 'Politics',
 							),
 							4 => array(
-								'category' => 'Food'
+								'category' => 'Food',
 							),
 							5 => array(
-								'category' => 'Fashion'
+								'category' => 'Fashion',
 							),
 						),
-						'colornews_featured_post_style_four_widget' => array(
+						'colornews_featured_post_style_four_widget'  => array(
 							2 => array(
-								'category' => 'Weather'
+								'category' => 'Weather',
 							),
 							3 => array(
-								'category' => 'Internet'
+								'category' => 'Internet',
 							),
 						),
-					)
-				)
+					),
+				),
 			),
 			'customizer_data_update' => array(
 				'nav_menu_locations' => array(
-					'primary' => 'Primary',
-					'social'  => 'Social',
-					'category'  => 'Category',
-				)
+					'primary'  => 'Primary',
+					'social'   => 'Social',
+					'category' => 'Category',
+				),
 			),
-			'plugins_list' => array(
+			'plugins_list'           => array(
+				'everest-forms'      => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
+				),
 				'google-maps-widget' => array(
 					'name'     => 'Google Maps Widget',
 					'slug'     => 'google-maps-widget/google-maps-widget.php',
-					'required' => false,
-				),
-				'contact-form-7' => array(
-					'name'     => 'Contact Form 7',
-					'slug'     => 'contact-form-7/wp-contact-form-7.php',
 					'required' => false,
 				),
 			),
@@ -115,6 +116,7 @@ add_filter( 'themegrill_demo_importer_config', 'colornews_demo_importer_config' 
  * @param  array  $data
  * @param  array  $demo_data
  * @param  string $demo_id
+ *
  * @return array
  */
 function colornews_set_cat_colors_free( $data, $demo_data, $demo_id ) {
@@ -171,7 +173,7 @@ function colornews_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 				97  => 'Girl',
 				110 => 'Running',
 			);
-		break;
+			break;
 	}
 
 	// Fetch categories color settings.
@@ -188,7 +190,7 @@ function colornews_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 			$color = $cat_colors[ 'colornews_category_color_' . $term_id ];
 
 			if ( is_object( $term ) && $term->term_id ) {
-				$cat_prevent[] = $term->term_id;
+				$cat_prevent[]                                                = $term->term_id;
 				$data['mods'][ 'colornews_category_color_' . $term->term_id ] = $color;
 
 				// Prevent deleting stored color settings.
@@ -201,4 +203,5 @@ function colornews_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 
 	return $data;
 }
+
 add_filter( 'themegrill_customizer_demo_import_settings', 'colornews_set_cat_colors_free', 20, 3 );
