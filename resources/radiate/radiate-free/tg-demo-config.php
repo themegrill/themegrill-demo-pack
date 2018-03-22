@@ -15,23 +15,31 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function radiate_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'radiate-free' => array(
-			'name'         => 'Radiate',
-			'theme'        => 'Radiate',
-			'template'     => 'radiate',
-			'demo_url'     => 'https://demo.themegrill.com/radiate/',
-			'demo_pack'    => true,
-			'core_options' => array(
-				'blogname'       => 'Radiate',
+			'name'                   => 'Radiate',
+			'theme'                  => 'Radiate',
+			'template'               => 'radiate',
+			'demo_url'               => 'https://demo.themegrill.com/radiate/',
+			'demo_pack'              => true,
+			'core_options'           => array(
+				'blogname' => 'Radiate',
 			),
 			'customizer_data_update' => array(
 				'nav_menu_locations' => array(
 					'primary' => 'Main',
-				)
+				),
+			),
+			'plugins_list'           => array(
+				'everest-forms' => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
+				),
 			),
 		),
 	);
