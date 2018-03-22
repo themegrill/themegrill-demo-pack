@@ -15,6 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function explore_demo_importer_config( $demo_config ) {
@@ -54,15 +55,16 @@ function explore_demo_importer_config( $demo_config ) {
 				'primary' => 'Primary Menu',
 			),
 		),
-		'plugins_list' => array(
-			'contact-form-7' => array(
-				'name'     => 'Contact Form 7',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
+		'plugins_list'           => array(
+			'everest-forms' => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
 			),
 		),
 	);
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'explore_demo_importer_config' );
