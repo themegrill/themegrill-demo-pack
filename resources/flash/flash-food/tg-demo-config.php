@@ -15,16 +15,17 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function flash_food_demo_importer_config_free( $demo_config ) {
 	$demo_config['flash-food'] = array(
-		'name'         => 'Flash Food',
-		'theme'        => 'Flash',
-		'template'     => 'flash',
-		'demo_url'     => 'http://demo.themegrill.com/flash-food/',
-		'demo_pack'    => true,
-		'core_options' => array(
+		'name'                          => 'Flash Food',
+		'theme'                         => 'Flash',
+		'template'                      => 'flash',
+		'demo_url'                      => 'http://demo.themegrill.com/flash-food/',
+		'demo_pack'                     => true,
+		'core_options'                  => array(
 			'blogname'       => 'Flash Food',
 			'page_on_front'  => 'Home',
 			'page_for_posts' => 'Blog',
@@ -33,7 +34,7 @@ function flash_food_demo_importer_config_free( $demo_config ) {
 			'homepage' => array(
 				'post_title'  => 'Home',
 				'data_update' => array(
-					'grids_data'  => array(
+					'grids_data'   => array(
 						6 => array(
 							'style' => array(
 								'background_image_attachment' => 'cta.jpg',
@@ -65,7 +66,7 @@ function flash_food_demo_importer_config_free( $demo_config ) {
 									)
 								),
 							),
-							'category' => array (
+							'category'      => array(
 								'FT_Widget_Blog' => array(
 									8 => array(
 										'category' => 'Blog'
@@ -77,15 +78,15 @@ function flash_food_demo_importer_config_free( $demo_config ) {
 				),
 			),
 		),
-		'customizer_data_update' => array(
+		'customizer_data_update'        => array(
 			'nav_menu_locations' => array(
 				'primary' => 'Primary',
 				'social'  => 'Social',
 				'footer'  => 'Footer Menu',
 			)
 		),
-		'plugins_list' => array(
-			'flash-toolkit' => array(
+		'plugins_list'                  => array(
+			'flash-toolkit'     => array(
 				'name'     => 'Flash Toolkit',
 				'slug'     => 'flash-toolkit/flash-toolkit.php',
 				'required' => true,
@@ -95,14 +96,15 @@ function flash_food_demo_importer_config_free( $demo_config ) {
 				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
 				'required' => true,
 			),
-			'contact-form-7' => array(
-				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
+			'everest-forms'     => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
 			),
 		),
 	);
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config_free' );
