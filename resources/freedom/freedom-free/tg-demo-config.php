@@ -15,6 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function freedom_demo_importer_config( $demo_config ) {
@@ -25,23 +26,24 @@ function freedom_demo_importer_config( $demo_config ) {
 		'demo_url'     => 'https://demo.themegrill.com/freedom/',
 		'demo_pack'    => true,
 		'core_options' => array(
-			'blogname'       => 'Freedom',
+			'blogname' => 'Freedom',
 		),
-		
+
 		'customizer_data_update' => array(
 			'nav_menu_locations' => array(
 				'primary' => 'Main Menu',
 			),
 		),
-		'plugins_list' => array(
-			'contact-form-7' => array(
-				'name'     => 'Contact Form 7',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
+		'plugins_list'           => array(
+			'everest-forms' => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
 			),
 		),
 	);
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'freedom_demo_importer_config' );
