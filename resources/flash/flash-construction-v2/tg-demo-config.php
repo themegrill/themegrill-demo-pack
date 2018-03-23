@@ -116,10 +116,10 @@ function flash_construction_demo_importer_config_free_v2( $demo_config ) {
 				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
 				'required' => true,
 			),
-			'contact-form-7' => array(
-				'name'     => 'Contact Form',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
+			'everest-forms'     => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
 			),
 		),
 	);

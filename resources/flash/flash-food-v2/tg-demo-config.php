@@ -102,15 +102,15 @@ function flash_food_demo_importer_config_free_v2( $demo_config ) {
 				'slug'     => 'siteorigin-panels/siteorigin-panels.php',
 				'required' => true,
 			),
-			'restaurantpress'   => array(
-				'name'     => 'RestaurantPress',
-				'slug'     => 'restaurantpress/restaurantpress.php',
-				'required' => false,
-			),
 			'everest-forms'     => array(
 				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
 				'slug'     => 'everest-forms/everest-forms.php',
 				'required' => true,
+			),
+			'restaurantpress'   => array(
+				'name'     => 'RestaurantPress',
+				'slug'     => 'restaurantpress/restaurantpress.php',
+				'required' => false,
 			),
 		),
 	);
