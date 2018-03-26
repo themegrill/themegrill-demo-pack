@@ -70,6 +70,11 @@ function ample_demo_importer_config( $demo_config ) {
 			),
 		),
 		'plugins_list'           => array(
+			'everest-forms'      => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
+			),
 			'woocommerce'        => array(
 				'name'     => 'WooCommerce',
 				'slug'     => 'woocommerce/woocommerce.php',
@@ -84,11 +89,6 @@ function ample_demo_importer_config( $demo_config ) {
 				'name'     => 'Google Maps Widget',
 				'slug'     => 'google-maps-widget/google-maps-widget.php',
 				'required' => false,
-			),
-			'everest-forms'      => array(
-				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
-				'slug'     => 'everest-forms/everest-forms.php',
-				'required' => true,
 			),
 		),
 	);
