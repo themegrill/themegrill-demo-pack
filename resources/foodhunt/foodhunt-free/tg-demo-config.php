@@ -15,21 +15,22 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function foodhunt_demo_importer_config_free( $demo_config ) {
 	$demo_config['foodhunt-free'] = array(
-		'name'         => 'FoodHunt',
-		'theme'        => 'FoodHunt',
-		'template'     => 'foodhunt',
-		'demo_url'     => 'https://demo.themegrill.com/foodhunt/',
-		'demo_pack'    => true,
-		'core_options' => array(
+		'name'                        => 'FoodHunt',
+		'theme'                       => 'FoodHunt',
+		'template'                    => 'foodhunt',
+		'demo_url'                    => 'https://demo.themegrill.com/foodhunt/',
+		'demo_pack'                   => true,
+		'core_options'                => array(
 			'blogname'       => 'FoodHunt',
 			'page_on_front'  => 'Home page',
 			'page_for_posts' => 'Blog',
 		),
-		'widgets_data_update' => array(
+		'widgets_data_update'         => array(
 
 			/**
 			 * Dropdown Pages - Handles widgets Page ID.
@@ -44,33 +45,33 @@ function foodhunt_demo_importer_config_free( $demo_config ) {
 				),
 			),
 		),
-		'customizer_data_update' => array(
+		'customizer_data_update'      => array(
 			'nav_menu_locations' => array(
 				'primary_one' => 'Left Menu',
 				'primary_two' => 'Right Menu',
-				'social' 	  => 'Social Menu',
-				'footer'  	  => 'Footer Menu',
+				'social'      => 'Social Menu',
+				'footer'      => 'Footer Menu',
 			),
 		),
 		'restaurantpress_data_update' => array(
 			'food_group' => array(
 				'One Column' => array(
-					1  => 'Breakfast',
-					2  => 'Lunch'
+					1 => 'Breakfast',
+					2 => 'Lunch',
 				),
 				'Grid Image' => array(
-					1  => 'Appetizers',
-					2  => 'Breakfast',
-					3  => 'Dinner',
+					1 => 'Appetizers',
+					2 => 'Breakfast',
+					3 => 'Dinner',
 				),
 				'Two Column' => array(
-					1  => 'Appetizers',
-					2  => 'Dinner'
+					1 => 'Appetizers',
+					2 => 'Dinner',
 				),
-			)
+			),
 		),
-		'plugins_list' => array(
-			'restaurantpress' => array(
+		'plugins_list'                => array(
+			'restaurantpress'    => array(
 				'name'     => 'RestaurantPress',
 				'slug'     => 'restaurantpress/restaurantpress.php',
 				'required' => false,
@@ -80,22 +81,24 @@ function foodhunt_demo_importer_config_free( $demo_config ) {
 				'slug'     => 'google-maps-widget/google-maps-widget.php',
 				'required' => false,
 			),
-			'contact-form-7' => array(
-				'name'     => 'Contact Form 7',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
+			'everest-forms'      => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
 			),
 		),
 	);
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'foodhunt_demo_importer_config_free' );
 
 /**
  * Update taxonomies ids for restaurantpress
+ *
  * @param  string $demo_id
- * @param  array $demo_data
+ * @param  array  $demo_data
  */
 function restaurantpress_data_update_free( $demo_id, $demo_data ) {
 	if ( ! empty( $demo_data['restaurantpress_data_update'] ) ) {
@@ -103,20 +106,21 @@ function restaurantpress_data_update_free( $demo_id, $demo_data ) {
 			$data = [];
 			switch ( $data_type ) {
 				case 'food_group':
-					foreach ($data_value as $group_name => $taxonomy_values) {
+					foreach ( $data_value as $group_name => $taxonomy_values ) {
 						$group = get_page_by_title( $group_name, OBJECT, $data_type );
-						foreach ($taxonomy_values as $option_key => $taxonomy) {
+						foreach ( $taxonomy_values as $option_key => $taxonomy ) {
 							$term = get_term_by( 'name', $taxonomy, 'food_menu_cat' );
 							if ( is_object( $term ) && $term->term_id ) {
 								$data[] = $term->term_id;
 							}
 						}
-						update_post_meta($group->ID,'food_grouping',$data);
-						unset($data);
+						update_post_meta( $group->ID, 'food_grouping', $data );
+						unset( $data );
 					}
-				break;
+					break;
 			}
 		}
 	}
 }
+
 add_action( 'themegrill_ajax_demo_imported', 'restaurantpress_data_update_free', 10, 2 );
