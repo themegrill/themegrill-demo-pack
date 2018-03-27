@@ -15,22 +15,23 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function himalayas_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'himalayas-free' => array(
-			'name'         => 'Himalayas',
-			'theme'        => 'Himalayas',
-			'template'     => 'himalayas',
-			'demo_url'     => 'https://demo.themegrill.com/himalayas/',
-			'demo_pack'    => true,
-			'core_options' => array(
+			'name'                   => 'Himalayas',
+			'theme'                  => 'Himalayas',
+			'template'               => 'himalayas',
+			'demo_url'               => 'https://demo.themegrill.com/himalayas/',
+			'demo_pack'              => true,
+			'core_options'           => array(
 				'blogname'       => 'Himalayas',
 				'page_on_front'  => 'Front Page',
 				'page_for_posts' => 'Blog',
 			),
-			'widgets_data_update' => array(
+			'widgets_data_update'    => array(
 
 				/**
 				 * Dropdown Pages - Handles widgets Page ID.
@@ -44,7 +45,7 @@ function himalayas_demo_importer_config( $demo_config ) {
 							'page_id' => 'Want to try it?',
 						),
 					),
-					'himalayas_contact_widget' => array(
+					'himalayas_contact_widget'  => array(
 						2 => array(
 							'page_id' => 'Contact Us Now',
 						),
@@ -52,20 +53,20 @@ function himalayas_demo_importer_config( $demo_config ) {
 				),
 			),
 			'customizer_data_update' => array(
-				'pages' => array(
-					'himalayas_slide1'    => 'Best Clean Parallax Theme',
-					'himalayas_slide2'    => 'Himalayas Welcome You',
-				),				
+				'pages'              => array(
+					'himalayas_slide1' => 'Best Clean Parallax Theme',
+					'himalayas_slide2' => 'Himalayas Welcome You',
+				),
 				'nav_menu_locations' => array(
 					'primary' => 'Main Menu',
 					'footer'  => 'Social Menu',
-				)
+				),
 			),
-			'plugins_list' => array(
-				'contact-form-7' => array(
-					'name'     => 'Contact Form 7',
-					'slug'     => 'contact-form-7/wp-contact-form-7.php',
-					'required' => false,
+			'plugins_list'           => array(
+				'everest-forms' => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
 				),
 			),
 		),
