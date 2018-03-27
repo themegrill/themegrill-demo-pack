@@ -15,21 +15,22 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function ample_demo_importer_config( $demo_config ) {
 	$demo_config['ample-free'] = array(
-		'name'         => 'Ample Free',
-		'theme'        => 'Ample',
-		'template'     => 'ample',
-		'demo_url'     => 'https://demo.themegrill.com/ample/',
-		'demo_pack'    => true,
-		'core_options' => array(
+		'name'                   => 'Ample Free',
+		'theme'                  => 'Ample',
+		'template'               => 'ample',
+		'demo_url'               => 'https://demo.themegrill.com/ample/',
+		'demo_pack'              => true,
+		'core_options'           => array(
 			'blogname'       => 'Ample',
 			'page_on_front'  => 'Business',
 			'page_for_posts' => 'Blog',
 		),
-		'widgets_data_update' => array(
+		'widgets_data_update'    => array(
 
 			/**
 			 * Dropdown Categories - Handles widgets Category ID.
@@ -52,7 +53,7 @@ function ample_demo_importer_config( $demo_config ) {
 			 *
 			 * 1. ample_service_widget
 			 */
-			'dropdown_pages' => array(
+			'dropdown_pages'      => array(
 				'ample_service_widget' => array(
 					2 => array(
 						'page_id1' => 'Active Support',
@@ -68,13 +69,18 @@ function ample_demo_importer_config( $demo_config ) {
 				'footer'  => 'Footer',
 			),
 		),
-		'plugins_list' => array(
-			'woocommerce' => array(
+		'plugins_list'           => array(
+			'everest-forms'      => array(
+				'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+				'slug'     => 'everest-forms/everest-forms.php',
+				'required' => true,
+			),
+			'woocommerce'        => array(
 				'name'     => 'WooCommerce',
 				'slug'     => 'woocommerce/woocommerce.php',
 				'required' => false,
 			),
-			'breadcrumb-navxt' => array(
+			'breadcrumb-navxt'   => array(
 				'name'     => 'Breadcrumb NavXT',
 				'slug'     => 'breadcrumb-navxt/breadcrumb-navxt.php',
 				'required' => false,
@@ -84,14 +90,10 @@ function ample_demo_importer_config( $demo_config ) {
 				'slug'     => 'google-maps-widget/google-maps-widget.php',
 				'required' => false,
 			),
-			'contact-form-7' => array(
-				'name'     => 'Contact Form 7',
-				'slug'     => 'contact-form-7/wp-contact-form-7.php',
-				'required' => false,
-			),
 		),
 	);
 
 	return $demo_config;
 }
+
 add_filter( 'themegrill_demo_importer_config', 'ample_demo_importer_config' );

@@ -15,19 +15,20 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function envince_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'envince-free' => array(
-			'name'         => 'Envince',
-			'theme'        => 'Envince',
-			'template'     => 'envince',
-			'demo_url'     => 'https://demo.themegrill.com/envince/',
-			'demo_pack'    => true,
-			'core_options' => array(
-				'blogname'       => 'Envince',
-				'page_on_front'  => 'Home',
+			'name'                          => 'Envince',
+			'theme'                         => 'Envince',
+			'template'                      => 'envince',
+			'demo_url'                      => 'https://demo.themegrill.com/envince/',
+			'demo_pack'                     => true,
+			'core_options'                  => array(
+				'blogname'      => 'Envince',
+				'page_on_front' => 'Home',
 			),
 			'siteorigin_panels_data_update' => array(
 				'homepage' => array(
@@ -41,29 +42,29 @@ function envince_demo_importer_config( $demo_config ) {
 							 * A. Core Post Category:
 							 *    1. envince_featured_posts_slider_widget
 							 *    2. envince_twocol_posts
-							 *	  3. envince_imagegrid_posts
+							 *      3. envince_imagegrid_posts
 							 *
 							 * Note: Supported Taxonomy:
 							 *    A. Core Post Category - category
 							 */
 							'dropdown_categories' => array(
-								'category' => array (
+								'category' => array(
 									'envince_featured_posts_slider_widget' => array(
 										0 => array(
 											'category' => 'Featured'
 										)
 									),
-									'envince_twocol_posts' => array(
+									'envince_twocol_posts'                 => array(
 										1 => array(
 											'category' => 'Photography'
 										)
 									),
-									'envince_imagegrid_posts' => array(
+									'envince_imagegrid_posts'              => array(
 										2 => array(
 											'category' => 'Life'
 										)
 									),
-									'envince_onecol_posts' => array(
+									'envince_onecol_posts'                 => array(
 										4 => array(
 											'category' => 'Games'
 										),
@@ -83,19 +84,24 @@ function envince_demo_importer_config( $demo_config ) {
 					)
 				)
 			),
-			'customizer_data_update' => array(
+			'customizer_data_update'        => array(
 				'nav_menu_locations' => array(
-					'primary' => 'Main',
-					'social-header'  => 'Social',
-					'social-footer'  => 'Social',
+					'primary'       => 'Main',
+					'social-header' => 'Social',
+					'social-footer' => 'Social',
 				)
 			),
-			'plugins_list' => array(
+			'plugins_list'                  => array(
 				'siteorigin-panels' => array(
 					'name'     => 'Page Builder by SiteOrigin',
 					'slug'     => 'siteorigin-panels/siteorigin-panels.php',
 					'required' => true,
 				),
+				'everest-forms'     => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
+				)
 			),
 		),
 	);
@@ -110,9 +116,10 @@ add_filter( 'themegrill_demo_importer_config', 'envince_demo_importer_config' );
  *
  * Note: Used rarely, if theme_mod keys are based on term ID.
  *
- * @param  array  $data
- * @param  array  $demo_data
+ * @param  array $data
+ * @param  array $demo_data
  * @param  string $demo_id
+ *
  * @return array
  */
 function envince_set_cat_colors_free( $data, $demo_data, $demo_id ) {
@@ -124,14 +131,14 @@ function envince_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 	switch ( $demo_id ) {
 		case 'envince-free':
 			$wp_categories = array(
-				3   => 'Life',
-				4   => 'Featured',
-				6   => 'Games',
-				7   => 'Animals',
-				8   => 'Programming',
-				9   => 'Photography',
+				3 => 'Life',
+				4 => 'Featured',
+				6 => 'Games',
+				7 => 'Animals',
+				8 => 'Programming',
+				9 => 'Photography',
 			);
-		break;
+			break;
 	}
 
 	// Fetch categories color settings.
@@ -148,7 +155,7 @@ function envince_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 			$color = $cat_colors[ 'envince_category_color_' . $term_id ];
 
 			if ( is_object( $term ) && $term->term_id ) {
-				$cat_prevent[] = $term->term_id;
+				$cat_prevent[]                                              = $term->term_id;
 				$data['mods'][ 'envince_category_color_' . $term->term_id ] = $color;
 
 				// Prevent deleting stored color settings.
@@ -161,4 +168,5 @@ function envince_set_cat_colors_free( $data, $demo_data, $demo_id ) {
 
 	return $data;
 }
+
 add_filter( 'themegrill_customizer_demo_import_settings', 'envince_set_cat_colors_free', 20, 3 );
