@@ -15,22 +15,23 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function fitclub_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'fitclub-free' => array(
-			'name'         => 'Fitclub',
-			'theme'        => 'Fitclub',
-			'template'     => 'fitclub',
-			'demo_url'     => 'https://demo.themegrill.com/fitclub/',
-			'demo_pack'    => true,
-			'core_options' => array(
+			'name'                   => 'Fitclub',
+			'theme'                  => 'Fitclub',
+			'template'               => 'fitclub',
+			'demo_url'               => 'https://demo.themegrill.com/fitclub/',
+			'demo_pack'              => true,
+			'core_options'           => array(
 				'blogname'       => 'FitClub',
 				'page_on_front'  => 'Home',
 				'page_for_posts' => 'Blog',
 			),
-			'widgets_data_update' => array(
+			'widgets_data_update'    => array(
 
 				/**
 				 * Dropdown Pages - Handles widgets Page ID.
@@ -50,13 +51,13 @@ function fitclub_demo_importer_config( $demo_config ) {
 				'nav_menu_locations' => array(
 					'primary' => 'Header Menu',
 					'social'  => 'Social',
-				)
+				),
 			),
-			'plugins_list' => array(
-				'contact-form-7' => array(
-					'name'     => 'Contact Form 7',
-					'slug'     => 'contact-form-7/wp-contact-form-7.php',
-					'required' => false,
+			'plugins_list'           => array(
+				'everest-forms' => array(
+					'name'     => 'Everest Forms – Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
 				),
 			),
 		),
