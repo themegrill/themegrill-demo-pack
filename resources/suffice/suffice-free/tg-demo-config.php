@@ -18,17 +18,18 @@ add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
  * Setup demo importer config.
  *
  * @param  array $demo_config
+ *
  * @return array
  */
 function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'suffice-free' => array(
-			'name'         => 'Suffice',
-			'theme'        => 'Suffice',
-			'template'     => 'suffice',
-			'demo_url'     => 'http://demo.themegrill.com/suffice/',
-			'demo_pack'    => true,
-			'core_options' => array(
+			'name'                   => 'Suffice',
+			'theme'                  => 'Suffice',
+			'template'               => 'suffice',
+			'demo_url'               => 'http://demo.themegrill.com/suffice/',
+			'demo_pack'              => true,
+			'core_options'           => array(
 				'blogname'       => 'Suffice',
 				'page_on_front'  => 'Home',
 				'page_for_posts' => 'Blog',
@@ -40,21 +41,21 @@ function tg_demo_importer_config( $demo_config ) {
 					'footer'  => 'Footer Menu',
 				)
 			),
-			'plugins_list' => array(
-				'suffice-toolkit' => array(
-					'name' 		=> 'Suffice Toolkit',
-					'slug' 		=> 'suffice-toolkit/suffice-toolkit.php',
-					'required' 	=> true,
+			'plugins_list'           => array(
+				'suffice-toolkit'   => array(
+					'name'     => 'Suffice Toolkit',
+					'slug'     => 'suffice-toolkit/suffice-toolkit.php',
+					'required' => true,
 				),
 				'siteorigin-panels' => array(
-					'name' 		=> 'Page Builder by SiteOrigin',
-					'slug' 		=> 'siteorigin-panels/siteorigin-panels.php',
-					'required' 	=> true,
+					'name'     => 'Page Builder by SiteOrigin',
+					'slug'     => 'siteorigin-panels/siteorigin-panels.php',
+					'required' => true,
 				),
-				'contact-form-7' => array(
-					'name'     => 'Contact Form 7',
-					'slug'     => 'contact-form-7/wp-contact-form-7.php',
-					'required' => false,
+				'everest-forms'     => array(
+					'name'     => 'Everest Forms - Easy Contact Form and Form Builder',
+					'slug'     => 'everest-forms/everest-forms.php',
+					'required' => true,
 				),
 			),
 		),
