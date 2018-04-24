@@ -28,7 +28,8 @@ function cenote_demo_importer_config( $demo_config ) {
 			'demo_pack'              => true,
 			'customizer_data_update' => array(
 				'nav_menu_locations' => array(
-					'tg-menu-primary' => 'primary',
+					'tg-menu-primary'    => 'primary',
+					'tg-menu-header-top' => 'Header top',
 				),
 			),
 			'plugins_list'           => array(
