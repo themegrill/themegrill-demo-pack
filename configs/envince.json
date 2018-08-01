@@ -1,0 +1,100 @@
+{
+  "name": "Envince",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/envince/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "news": "News",
+    "free": "Free",
+    "others": "Others"
+  },
+  "pagebuilder": {
+    "siteorigin": "SiteOrigin PageBuilder"
+  },
+  "availableDemos": {
+    "envince-free": {
+      "title": "Envince",
+      "preview": "http://demo.themegrill.com/envince/",
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "free"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      }
+    },
+    "envince-pro": {
+      "title": "Envince Pro",
+      "preview": "http://demo.themegrill.com/envince-pro/",
+      "category": [
+        "all",
+        "blog",
+        "news"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "wp-product-review": {
+          "name": "WP Product Review Lite",
+          "slug": "wp-product-review/wp-product-review.php"
+        }
+      }
+    },
+    "envince-pro-food": {
+      "title": "Envince Pro Food",
+      "preview": "http://demo.themegrill.com/envince-pro-food/",
+      "category": [
+        "all",
+        "blog",
+        "news"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "wp-product-review": {
+          "name": "WP Product Review Lite",
+          "slug": "wp-product-review/wp-product-review.php"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "FoodHunt",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/foodhunt/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "ecommerce": "eCommerce",
+    "free": "Free",
+    "others": "Others"
+  },
+  "availableDemos": {
+    "foodhunt-free": {
+      "title": "FoodHunt",
+      "preview": "http://demo.themegrill.com/foodhunt/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "restaurantpress": {
+          "name": "RestaurantPress",
+          "slug": "restaurantpress/restaurantpress.php"
+        }
+      }
+    },
+    "foodhunt-pro": {
+      "isPro": true,
+      "title": "FoodHunt Pro",
+      "preview": "https://demo.themegrill.com/foodhunt-pro/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "restaurantpress": {
+          "name": "RestaurantPress",
+          "slug": "restaurantpress/restaurantpress.php"
+        }
+      }
+    }
+  }
+}
+

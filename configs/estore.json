@@ -1,0 +1,93 @@
+{
+  "name": "eStore",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/estore/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "ecommerce": "eCommerce",
+    "free": "Free",
+    "others": "Others"
+  },
+  "availableDemos": {
+    "estore-free": {
+      "title": "eStore",
+      "preview": "http://demo.themegrill.com/estore/",
+      "category": [
+        "all",
+        "blog",
+        "ecommerce",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    },
+    "estore-pro-default": {
+      "title": "eStore Pro Default",
+      "preview": "http://demo.themegrill.com/estore-pro/",
+      "category": [
+        "all",
+        "blog",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    },
+    "estore-pro-fashion": {
+      "title": "eStore Pro Fashion",
+      "preview": "http://demo.themegrill.com/estore-pro-fashion/",
+      "category": [
+        "all",
+        "blog",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    },
+    "estore-pro-tech": {
+      "title": "eStore Pro Tech",
+      "preview": "http://demo.themegrill.com/estore-pro-tech/",
+      "category": [
+        "all",
+        "blog",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    }
+  }
+}
+
+

@@ -1,0 +1,230 @@
+{
+  "name": "ColorMag",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/colormag/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "news": "News",
+    "business": "Business",
+    "free": "Free",
+    "others": "Others"
+  },
+  "pagebuilder": {
+    "elementor": "Elementor"
+  },
+  "availableDemos": {
+    "colormag-free": {
+      "title": "ColorMag",
+      "preview": "http://demo.themegrill.com/colormag/",
+      "category": [
+        "all",
+        "news",
+        "blog",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-beauty-blog": {
+      "title": "ColorMag Beauty Blog",
+      "preview": "https://demo.themegrill.com/colormag-beauty-blog/",
+      "category": [
+        "all",
+        "blog",
+        "free"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-business-magazine": {
+      "title": "ColorMag Business Magazine",
+      "preview": "https://demo.themegrill.com/colormag-business-magazine/",
+      "category": [
+        "all",
+        "news",
+        "free",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-dark": {
+      "title": "ColorMag Dark",
+      "preview": "https://demo.themegrill.com/colormag-dark/",
+      "category": [
+        "all",
+        "news",
+        "free"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro": {
+      "isPro": true,
+      "title": "ColorMag Pro",
+      "preview": "http://demo.themegrill.com/colormag-pro/",
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-fashion": {
+      "isPro": true,
+      "title": "ColorMag Pro Fashion",
+      "preview": "http://demo.themegrill.com/colormag-pro-fashion/",
+      "category": [
+        "all",
+        "blog"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-technology": {
+      "isPro": true,
+      "title": "ColorMag Pro Technology",
+      "preview": "http://demo.themegrill.com/colormag-pro-technology/",
+      "category": [
+        "all",
+        "blog"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-sports": {
+      "isPro": true,
+      "title": "ColorMag Pro Sports",
+      "preview": "http://demo.themegrill.com/colormag-pro-sports/",
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "plugins": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-recipes": {
+      "isPro": true,
+      "title": "ColorMag Food Recipe",
+      "preview": "http://demo.themegrill.com/colormag-pro-recipes/",
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-health-blog": {
+      "isPro": true,
+      "title": "ColorMag Health Blog",
+      "preview": "http://demo.themegrill.com/colormag-pro-health-blog/",
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "colormag-pro-music": {
+      "isPro": true,
+      "title": "ColorMag Pro Music",
+      "preview": "https://demo.themegrill.com/colormag-pro-music/",
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    }
+  }
+}

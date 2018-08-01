@@ -1,0 +1,119 @@
+{
+  "name": "Spacious",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/spacious/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "ecommerce": "eCommerce",
+    "free": "Free"
+  },
+  "pagebuilder": {
+    "elementor": "Elementor"
+  },
+  "availableDemos": {
+    "spacious-free": {
+      "title": "Spacious",
+      "preview": "http://demo.themegrill.com/spacious/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "recent-posts-widget-extended": {
+          "name": "Recent Posts Widget Extended",
+          "slug": "recent-posts-widget-extended/rpwe.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    },
+    "spacious-blog": {
+      "title": "Spacious Blog",
+      "preview": "http://demo.themegrill.com/spacious-blog/",
+      "category": [
+        "all",
+        "blog",
+        "free"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        }
+      }
+    },
+    "spacious-pro": {
+      "isPro": true,
+      "title": "Spacious Pro",
+      "preview": "http://demo.themegrill.com/spacious-pro/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "recent-posts-widget-extended": {
+          "name": "Recent Posts Widget Extended",
+          "slug": "recent-posts-widget-extended/rpwe.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    },
+    "spacious-pro-business": {
+      "isPro": true,
+      "title": "Spacious Pro Business",
+      "preview": "http://demo.themegrill.com/spacious-pro-business/",
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        }
+      }
+    }
+  }
+}

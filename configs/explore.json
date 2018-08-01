@@ -1,0 +1,34 @@
+{
+  "name": "Explore",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/explore/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "explore-free": {
+      "title": "Explore",
+      "preview": "http://demo.themegrill.com/explore/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      }
+    }
+  }
+}
+

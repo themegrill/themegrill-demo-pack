@@ -1,0 +1,43 @@
+{
+  "name": "Freedom",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/freedom/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "freedom-free": {
+      "title": "Freedom",
+      "preview": "http://demo.themegrill.com/freedom/",
+      "category": [
+        "all",
+        "blog",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "freedom-pro": {
+      "isPro": true,
+      "title": "Freedom Pro",
+      "preview": "https://demo.themegrill.com/freedom-pro/",
+      "category": [
+        "all",
+        "blog"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    }
+  }
+}
+

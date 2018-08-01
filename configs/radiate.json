@@ -1,0 +1,44 @@
+{
+  "name": "Radiate",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/radiate/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "radiate-free": {
+      "title": "Radiate",
+      "preview": "http://demo.themegrill.com/radiate/",
+      "category": [
+        "all",
+        "blog",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "radiate-pro": {
+      "isPro": true,
+      "title": "Radiate Pro",
+      "preview": "http://demo.themegrill.com/radiate-pro/",
+      "category": [
+        "all",
+        "blog"
+      ],
+      "plugins_list": {
+        "plugins_list": {
+          "everest-forms": {
+            "name": "Everest Forms",
+            "slug": "everest-forms/everest-forms.php"
+          }
+        }
+      }
+    }
+  }
+}

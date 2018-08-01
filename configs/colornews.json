@@ -1,0 +1,53 @@
+{
+  "name": "ColorNews",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/colornews/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "news": "News",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "colornews-free": {
+      "title": "ColorNews",
+      "preview": "http://demo.themegrill.com/colornews/",
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "google-maps-widget": {
+          "name": "Google Maps Widget",
+          "slug": "google-maps-widget/google-maps-widget.php"
+        }
+      }
+    },
+    "colornews-pro": {
+      "isPro": true,
+      "title": "ColorNews Pro",
+      "preview": "https://demo.themegrill.com/colornews-pro/",
+      "category": [
+        "all",
+        "blog",
+        "news"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "google-maps-widget": {
+          "name": "Google Maps Widget",
+          "slug": "google-maps-widget/google-maps-widget.php"
+        }
+      }
+    }
+  }
+}

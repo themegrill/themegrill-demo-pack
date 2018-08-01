@@ -1,0 +1,46 @@
+{
+  "name": "Himalayas",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/himalayas/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "himalayas-free": {
+      "title": "Himalayas",
+      "preview": "http://demo.themegrill.com/himalayas/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "himalayas-pro": {
+      "isPro": true,
+      "title": "Himalayas Pro",
+      "preview": "https://demo.themegrill.com/himalayas-pro/",
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    }
+  }
+}
+

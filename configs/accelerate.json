@@ -1,0 +1,59 @@
+{
+  "name": "Accelerate",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/accelerate/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "ecommerce": "eCommerce",
+    "free": "Free"
+  },
+  "availableDemos": {
+    "accelerate-free": {
+      "title": "Accelerate",
+      "preview": "http://demo.themegrill.com/accelerate/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      }
+    },
+    "accelerate-pro": {
+      "isPro": true,
+      "title": "Accelerate Pro",
+      "preview": "https://demo.themegrill.com/accelerate-pro/",
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      }
+    }
+  }
+}

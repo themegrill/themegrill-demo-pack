@@ -1,0 +1,58 @@
+{
+  "name": "FitClub",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/fitclub/",
+  "category": {
+    "all": "All",
+    "blog": "Blog",
+    "ecommerce": "eCommerce",
+    "free": "Free",
+    "others": "Others"
+  },
+  "availableDemos": {
+    "fitclub-free": {
+      "title": "FitClub",
+      "preview": "http://demo.themegrill.com/fitclub/",
+      "category": [
+        "all",
+        "blog",
+        "free"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      }
+    },
+    "fitclub-pro": {
+      "title": "FitClub Pro",
+      "preview": "http://demo.themegrill.com/fitclub-pro/",
+      "category": [
+        "all",
+        "blog",
+        "ecommerce"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/yith-woocommerce-wishlist.php"
+        }
+      }
+    }
+  }
+}
+
+
