@@ -14,9 +14,12 @@
   "demos": {
     "envince-free": {
       "title": "Envince",
-      "template": "envince",
-      "preview": "http://demo.themegrill.com/envince/",
+      "preview": "https://demo.themegrill.com/envince/",
       "description": "Get a wide variety of magazine layouts with this default Envince demo.",
+      "template": [
+        "envince",
+        "envince-pro"
+      ],
       "category": [
         "all",
         "free"
@@ -38,9 +41,11 @@
     "envince-pro": {
       "isPro": true,
       "title": "Envince Pro",
-      "template": "envince-pro",
-      "preview": "http://demo.themegrill.com/envince-pro/",
+      "preview": "https://demo.themegrill.com/envince-pro/",
       "description": "Get all the premium features of this Envince demo to create a complete online magazine.",
+      "template": [
+        "envince-pro"
+      ],
       "category": [
         "all"
       ],
@@ -69,9 +74,11 @@
     "envince-pro-food": {
       "isPro": true,
       "title": "Envince Pro Food",
-      "template": "envince-pro",
-      "preview": "http://demo.themegrill.com/envince-pro-food/",
+      "preview": "https://demo.themegrill.com/envince-pro-food/",
       "description": "Want to establish an online food magazine? Here’s the Envinve demo for you.",
+      "template": [
+        "envince-pro"
+      ],
       "category": [
         "all",
         "others"

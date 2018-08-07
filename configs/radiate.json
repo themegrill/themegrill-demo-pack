@@ -10,9 +10,12 @@
   "demos": {
     "radiate-free": {
       "title": "Radiate",
-      "template": "radiate",
-      "preview": "http://demo.themegrill.com/radiate/",
+      "preview": "https://demo.themegrill.com/radiate/",
       "description": "This is the default Radiate demo to create your own parallax blog website.",
+      "template": [
+        "radiate",
+        "radiate-pro"
+      ],
       "category": [
         "all",
         "free"
@@ -27,9 +30,11 @@
     "radiate-pro": {
       "isPro": true,
       "title": "Radiate Pro",
-      "template": "radiate-pro",
       "preview": "http://demo.themegrill.com/radiate-pro/",
       "description": "Expand your blogging platform with the premium features of this Radiate demo.",
+      "template": [
+        "radiate-pro"
+      ],
       "category": [
         "all"
       ],

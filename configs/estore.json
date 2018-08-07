@@ -11,9 +11,12 @@
   "demos": {
     "estore-free": {
       "title": "eStore",
-      "template": "estore",
-      "preview": "http://demo.themegrill.com/estore/",
+      "preview": "https://demo.themegrill.com/estore/",
       "description": "This is the default eStore demo to create your own eCommerce website.",
+      "template": [
+        "estore",
+        "estore-pro"
+      ],
       "category": [
         "all",
         "free"
@@ -32,9 +35,11 @@
     "estore-pro-default": {
       "isPro": true,
       "title": "eStore Pro Default",
-      "template": "estore-pro",
-      "preview": "http://demo.themegrill.com/estore-pro/",
+      "preview": "https://demo.themegrill.com/estore-pro/",
       "description": "Use this eStore demo to create a fully functioning eCommerce website.",
+      "template": [
+        "estore-pro"
+      ],
       "category": [
         "all"
       ],
@@ -52,9 +57,11 @@
     "estore-pro-fashion": {
       "isPro": true,
       "title": "eStore Pro Fashion",
-      "template": "estore-pro",
-      "preview": "http://demo.themegrill.com/estore-pro-fashion/",
+      "preview": "https://demo.themegrill.com/estore-pro-fashion/",
       "description": "Create your own online fashion store with the help of this eStore demo.",
+      "template": [
+        "estore-pro"
+      ],
       "category": [
         "all",
         "others"
@@ -73,9 +80,11 @@
     "estore-pro-tech": {
       "isPro": true,
       "title": "eStore Pro Tech",
-      "template": "estore-pro",
-      "preview": "http://demo.themegrill.com/estore-pro-tech/",
+      "preview": "https://demo.themegrill.com/estore-pro-tech/",
       "description": "Establish a well designed online technology store by using this eStore demo.",
+      "template": [
+        "estore-pro"
+      ],
       "category": [
         "all",
         "others"

@@ -16,9 +16,12 @@
   "demos": {
     "spacious-free": {
       "title": "Spacious",
-      "template": "spacious",
-      "preview": "http://demo.themegrill.com/spacious/",
+      "preview": "https://demo.themegrill.com/spacious/",
       "description": "This is the default Spacious demo for your responsive business website.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
       "category": [
         "all",
         "blog",
@@ -47,9 +50,12 @@
     },
     "spacious-blog": {
       "title": "Spacious Blog",
-      "template": "spacious",
-      "preview": "http://demo.themegrill.com/spacious-blog/",
+      "preview": "https://demo.themegrill.com/spacious-blog/",
       "description": "Want to start the blog for your business? Use this Spacious demo.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
       "category": [
         "all",
         "blog",
@@ -72,9 +78,11 @@
     "spacious-pro": {
       "isPro": true,
       "title": "Spacious Pro",
-      "template": "spacious-pro",
-      "preview": "http://demo.themegrill.com/spacious-pro/",
+      "preview": "https://demo.themegrill.com/spacious-pro/",
       "description": "Enhance your business advantage in your website with this Spacious demo.",
+      "template": [
+        "spacious-pro"
+      ],
       "category": [
         "all",
         "blog",
@@ -103,9 +111,11 @@
     "spacious-pro-business": {
       "isPro": true,
       "title": "Spacious Pro Business",
-      "template": "spacious-pro",
       "preview": "http://demo.themegrill.com/spacious-pro-business/",
       "description": "This is the default Spacious demo for your responsive business website.",
+      "template": [
+        "spacious-pro"
+      ],
       "category": [
         "all",
         "business"

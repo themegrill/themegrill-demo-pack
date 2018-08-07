@@ -11,9 +11,12 @@
   "demos": {
     "ample-free": {
       "title": "Ample",
-      "tempalte": "ample",
-      "preview": "http://demo.themegrill.com/ample/",
+      "preview": "https://demo.themegrill.com/ample/",
       "description": "This is the default ample demo for your multipurpose responsive website.",
+      "tempalte": [
+        "ample",
+        "ample-pro"
+        ],
       "category": [
         "all",
         "free"
@@ -36,9 +39,11 @@
     "ample-pro": {
       "isPro": true,
       "title": "Ample Pro",
-      "tempalte": "ample-pro",
       "preview": "https://demo.themegrill.com/ample-pro/",
       "description": "Create your website with all the premium features of this Ample demo.",
+      "tempalte": [
+        "ample-pro"
+      ],
       "category": [
         "all"
       ],
@@ -64,9 +69,11 @@
     "ample-pro-one-page": {
       "isPro": true,
       "title": "Ample Pro One Page",
-      "tempalte": "ample-pro",
       "preview": "https://demo.themegrill.com/ample-pro-one-page/",
       "description": "Build a multipurpose responsive one page website using this Ample demo.",
+      "tempalte": [
+        "ample-pro"
+      ],
       "category": [
         "all",
         "others"
