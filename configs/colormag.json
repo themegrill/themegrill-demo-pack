@@ -424,36 +424,6 @@
       },
       "core_options": {
         "blogname": "ColorMag Pro Sports"
-      }
-    },
-    "colormag-pro-recipes": {
-      "isPro": true,
-      "title": "ColorMag Food Recipe",
-      "preview": "https://demo.themegrill.com/colormag-pro-recipes/",
-      "description": "Want to show your food recipes? Here’s the ColorMag demo for you.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "pagebuilder": [
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Recipe",
-        "page_on_front": "Homepage"
       },
       "widgets_data_update": {
         "dropdown_categories": {
@@ -514,6 +484,36 @@
         "nav_menu_locations": {
           "primary": "Primary Menu"
         }
+      }
+    },
+    "colormag-pro-recipes": {
+      "isPro": true,
+      "title": "ColorMag Food Recipe",
+      "preview": "https://demo.themegrill.com/colormag-pro-recipes/",
+      "description": "Want to show your food recipes? Here’s the ColorMag demo for you.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Recipe",
+        "page_on_front": "Homepage"
       }
     },
     "colormag-pro-health-blog": {
