@@ -34,6 +34,36 @@
         "blogname": "Accelerate",
         "page_on_front": "Business Page",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "accelerate_featured_single_page_widget": {
+            "2": {
+              "page_id": "About Us"
+            }
+          },
+          "accelerate_image_service_widget": {
+            "2": {
+              "page_id0": "Clean Code",
+              "page_id1": "Cool Design",
+              "page_id2": "Nice Support"
+            }
+          },
+          "accelerate_recent_work_widget": {
+            "3": {
+              "page_id0": "Nice Shoes",
+              "page_id1": "Sky Diving",
+              "page_id2": "Jumping Girl",
+              "page_id3": "Sea Diving"
+            }
+          },
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "primary": "Primary",
+            "footer": "Footer"
+          }
+        }
       }
     },
     "accelerate-pro": {
@@ -65,6 +95,48 @@
         "blogname": "Accelerate Pro",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "accelerate_image_service_widget": {
+            "2": {
+              "page_id0": "Nice Support",
+              "page_id1": "Cool Design",
+              "page_id2": "Clean Code"
+            }
+          },
+          "accelerate_team_widget": {
+            "3": {
+              "page_0": "Amanda Hayes",
+              "page_1": "Brandon Reed",
+              "page_2": "Shirley King"
+            }
+          },
+          "accelerate_recent_work_widget": {
+            "2": {
+              "page_id0": "Skating",
+              "page_id1": "Reading Books",
+              "page_id2": "Photography",
+              "page_id3": "Spectacle"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "accelerate_featured_posts_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "header": "Header",
+          "footer": "Footer"
+        }
       }
     }
   }
