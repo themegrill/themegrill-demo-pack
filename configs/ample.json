@@ -39,7 +39,8 @@
         "blogname": "Ample",
         "page_on_front": "Business",
         "page_for_posts": "Blog"
-      }
+      },
+
     },
     "ample-pro": {
       "isPro": true,
@@ -97,6 +98,37 @@
       "core_options": {
         "blogname": "Ample Pro One Page",
         "page_on_front": "Parallax"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "ample_service_widget": {
+            "2": {
+              "page_id1": "One Click Demo",
+              "page_id3": "Truly Responsive",
+              "page_id5": "MultiPurpose Theme"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "ample_featured_posts_widget": {
+              "2": {
+                "category": "News"
+              }
+            },
+            "ample_portfolio_widget": {
+              "2":{
+                "category": "Portfolio"
+
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update":{
+        "nav_menu_locations":{
+          "primary" : "One Page"
+        }
       }
     }
   }
