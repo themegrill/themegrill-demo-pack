@@ -37,6 +37,46 @@
       },
       "core_options": {
         "blogname": "ColorMag"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_slider_widget": {
+              "4": {
+                "category": "Latest"
+              }
+            },
+            "colormag_highlighted_posts_widget": {
+              "3": {
+                "category": "FEATURED"
+              }
+            },
+            "colormag_featured_posts_widget": {
+              "3": {
+                "category": "Health"
+              },
+              "4": {
+                "category": "Technology"
+              }
+            },
+            "colormag_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
       }
     },
     "colormag-beauty-blog": {
@@ -68,6 +108,163 @@
       "core_options": {
         "blogname": "ColorMag Beauty Blog",
         "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-3": {
+                "10": "News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "5": "Hair",
+                "6": "Fashion",
+                "8": "Health",
+                "9": "Eye Make up"
+              },
+              "ColorMag-Posts-Block-6": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "make-up": {
+          "post_title": "Make Up",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "9": "Eye Make up"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "hair": {
+          "post_title": "Hair",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "5": "Hair"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "products": {
+          "post_title": "Products",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "4": "Product"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "lifestyle": {
+          "post_title": "Lifestyle",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "food": {
+          "post_title": "Food",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "2": "Food &amp; Drinks"
+              },
+              "ColorMag-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "health": {
+          "post_title": "Health",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "8": "Health"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "fashion": {
+          "post_title": "Fashion",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "6": "Fashion"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "4": "Product",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "tips": {
+          "post_title": "Tips",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "7": "Beauty Tips"
+              },
+              "ColorMag-Posts-Block-6": {
+                "4": "Product",
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "10": "News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Food &amp; Drinks",
+                "7": "Beauty Tips"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
       }
     },
     "colormag-business-magazine": {
@@ -100,6 +297,115 @@
       "core_options": {
         "blogname": "ColorMag Business Magazine",
         "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-5": {
+                "6": "Employment"
+              },
+              "ColorMag-Posts-Block-1": {
+                "5": "Corporate"
+              },
+              "ColorMag-Posts-Block-4": {
+                "8": "Money"
+              },
+              "ColorMag-Posts-Block-6": {
+                "4": "Investments"
+              },
+              "ColorMag-Posts-Block-9": {
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "corporate": {
+          "post_title": "Corporate",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "5": "Corporate"
+              }
+            }
+          }
+        },
+        "global-trade": {
+          "post_title": "Global Trade",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "14": "Global Trade"
+              }
+            }
+          }
+        },
+        "companies": {
+          "post_title": "Companies",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "15": "Companies"
+              }
+            }
+          }
+        },
+        "entrepreneurship": {
+          "post_title": "Entrepreneurship",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "16": "Entrepreneurship"
+              }
+            }
+          }
+        },
+        "employment": {
+          "post_title": "Employment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "6": "Employment"
+              }
+            }
+          }
+        },
+        "investment": {
+          "post_title": "Investment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "4": "Investments"
+              }
+            }
+          }
+        },
+        "market": {
+          "post_title": "Market",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "money": {
+          "post_title": "Money",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "8": "Money"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
       }
     },
     "colormag-dark": {
@@ -131,6 +437,151 @@
       "core_options": {
         "blogname": "ColorMag Dark",
         "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "9": "Fashion",
+                "11": "News"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              },
+              "ColorMag-Posts-Block-6": {
+                "4": "Travel",
+                "6": "World",
+                "7": "Technology"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "entertainment": {
+          "post_title": "Entertainment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "8": "Entertainment"
+              },
+              "ColorMag-Posts-Block-4": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "fashion": {
+          "post_title": "Fashion",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "9": "Fashion"
+              },
+              "ColorMag-Posts-Block-4": {
+                "9": "Fashion"
+              }
+            }
+          }
+        },
+        "food-health": {
+          "post_title": "Food & Health",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "10": "Food &amp; Health"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "2": "Politics",
+                "3": "Sports",
+                "6": "World"
+              }
+            }
+          }
+        },
+        "politics": {
+          "post_title": "Politics",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "2": "Politics"
+              },
+              "ColorMag-Posts-Block-4": {
+                "2": "Politics"
+              }
+            }
+          }
+        },
+        "sports": {
+          "post_title": "Sports",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "3": "Sports"
+              },
+              "ColorMag-Posts-Block-4": {
+                "3": "Sports"
+              }
+            }
+          }
+        },
+        "technology": {
+          "post_title": "Technology",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "7": "Technology"
+              },
+              "ColorMag-Posts-Block-4": {
+                "7": "Technology"
+              }
+            }
+          }
+        },
+        "travel": {
+          "post_title": "Travel",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "4": "Travel"
+              },
+              "ColorMag-Posts-Block-4": {
+                "4": "Travel"
+              }
+            }
+          }
+        },
+        "world": {
+          "post_title": "World",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "6": "World"
+              },
+              "ColorMag-Posts-Block-4": {
+                "6": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
       }
     },
     "colormag-pro": {
