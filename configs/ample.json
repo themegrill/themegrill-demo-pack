@@ -40,7 +40,32 @@
         "page_on_front": "Business",
         "page_for_posts": "Blog"
       },
-
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "ample_portfolio_widget": {
+              "3": {
+                "category": "Portfolio"
+              }
+            }
+          }
+        },
+        "dropdown_pages": {
+          "ample_service_widget": {
+            "2": {
+              "page_id1": "Active Support",
+              "page_id3": "Responsive Design",
+              "page_id5": "Robust Features"
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer"
+        }
+      }
     },
     "ample-pro": {
       "isPro": true,
@@ -75,6 +100,44 @@
         "blogname": "Ample Pro",
         "page_on_front": "Business Page",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "ample_service_widget": {
+            "2": {
+              "page_id1": "Rich Features",
+              "page_id3": "Exclusive Support",
+              "page_id5": "Fully Responsive"
+            }
+          },
+          "ample_team_widget": {
+            "3": {
+              "page_0": "Brandon Reed",
+              "page_1": "Amanda Hayes",
+              "page_2": "Shirley King"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "ample_featured_posts_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "ample_portfolio_widget": {
+              "2": {
+                "category": "Portfolio"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Menu",
+          "footer": "Footer Menu"
+        }
       }
     },
     "ample-pro-one-page": {
@@ -117,17 +180,16 @@
               }
             },
             "ample_portfolio_widget": {
-              "2":{
+              "2": {
                 "category": "Portfolio"
-
               }
             }
           }
         }
       },
-      "customizer_data_update":{
-        "nav_menu_locations":{
-          "primary" : "One Page"
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "One Page"
         }
       }
     }
