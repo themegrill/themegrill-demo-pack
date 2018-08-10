@@ -56,6 +56,13 @@
         "blogname": "Suffice",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social Menu",
+          "footer": "Footer Menu"
+        }
       }
     },
     "suffice-pro": {
@@ -100,6 +107,32 @@
       "core_options": {
         "blogname": "Suffice Pro",
         "page_on_front": "homepage"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "homepage",
+          "data_update": {
+            "grids_data": {
+              "5": {
+                "style": {
+                  "background_image_attachment": "bg-live.jpg"
+                }
+              },
+              "11": {
+                "style": {
+                  "background_image_attachment": "bg-shop.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "primary",
+          "social": "social",
+          "footer": "footer"
+        }
       }
     },
     "suffice-pro-app": {
@@ -145,6 +178,25 @@
         "blogname": "Suffice Pro App",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "8": {
+                "style": {
+                  "background_image_attachment": "slider-app1.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
       }
     },
     "suffice-pro-construction": {
@@ -182,6 +234,31 @@
         "blogname": "Suffice Pro Construction",
         "page_on_front": "Suffice Construction",
         "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Suffice Construction",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "ST_Widget_Blog": {
+                    "14": {
+                      "category": "Construction"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social",
+          "footer": "Footer"
+        }
       }
     },
     "suffice-pro-food": {
@@ -223,6 +300,53 @@
         "blogname": "Suffice Pro Food",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "4": {
+                "style": {
+                  "background_image_attachment": "foodArtboard-4.jpg"
+                }
+              },
+              "9": {
+                "style": {
+                  "background_image_attachment": "contact-image-bg-15.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "ST_Widget_Portfolio": {
+                    "5": {
+                      "categories": "All category"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu"
+        }
+      },
+      "restaurantpress_data_update": {
+        "food_group": {
+          "Meats": {
+            "1": "Meats &amp; Seafoods"
+          },
+          "Desserts and Drink": {
+            "1": "Desserts",
+            "2": "Drink"
+          }
+        }
       }
     },
     "suffice-pro-gym": {
@@ -259,6 +383,37 @@
         "blogname": "Suffice Pro Gym",
         "page_on_front": "Home Page",
         "page_for_posts": "Blog Page"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home Page",
+          "data_update": {
+            "grids_data": {
+              "5": {
+                "style": {
+                  "background_image_attachment": "pexels-photo-136404.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "ST_Widget_Blog": {
+                    "3": {
+                      "category": "Gender"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu"
+        }
       }
     },
     "suffice-pro-magazine": {
@@ -294,6 +449,41 @@
       "core_options": {
         "blogname": "Suffice Pro Magazine",
         "page_on_front": "Home"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "ST_Widget_Featured_Posts": {
+                    "0": {
+                      "category": "Latest"
+                    }
+                  },
+                  "ST_Widget_Blog": {
+                    "2": {
+                      "category": "World News"
+                    },
+                    "4": {
+                      "category": "Travel"
+                    },
+                    "7": {
+                      "category": "World News"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social"
+        }
       }
     },
     "suffice-pro-one-page": {
@@ -329,6 +519,13 @@
       "core_options": {
         "blogname": "Suffice Pro One Page",
         "page_on_front": "homepage"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "primary",
+          "social": "social",
+          "footer": "footer"
+        }
       }
     },
     "suffice-pro-photography": {
@@ -365,6 +562,48 @@
         "blogname": "Suffice Pro Photography",
         "page_on_front": "Suffice Photogprahy Demo",
         "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Suffice Photogprahy Demo",
+          "data_update": {
+            "grids_data": {
+              "4": {
+                "style": {
+                  "background_image_attachment": "photographysArtboard-3.jpg"
+                }
+              },
+              "6": {
+                "style": {
+                  "background_image_attachment": "photographysArtboard-3.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "ST_Widget_Portfolio": {
+                    "4": {
+                      "categories": "All category"
+                    }
+                  }
+                },
+                "category": {
+                  "ST_Widget_Blog": {
+                    "9": {
+                      "category": "News"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
       }
     },
     "suffice-pro-portfolio": {
@@ -402,6 +641,13 @@
         "blogname": "Suffice Portfolio",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social",
+          "footer": "Footer"
+        }
       }
     },
     "suffice-pro-shop": {
@@ -446,6 +692,26 @@
         "blogname": "Suffice Pro Shop",
         "page_on_front": "home",
         "page_for_posts": "blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "home",
+          "data_update": {
+            "grids_data": {
+              "4": {
+                "style": {
+                  "background_image_attachment": "dark-bg.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "primary",
+          "social": "social-icons"
+        }
       }
     }
   }
