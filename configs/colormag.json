@@ -3,16 +3,17 @@
   "slug": "colormag",
   "version": "1.0.0",
   "homepage": "https://themegrill.com/themes/colormag/",
-  "builders": {
-    "all": "All",
-    "elementor": "Elementor"
-  },
   "categories": {
+    "all": "All",
     "blog": "Blog",
     "news": "News",
     "business": "Business",
     "free": "Free",
     "others": "Others"
+  },
+  "pagebuilders": {
+    "none": "No Pagebuilder",
+    "elementor": "Elementor"
   },
   "demos": {
     "colormag-free": {
