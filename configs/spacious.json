@@ -3,14 +3,14 @@
   "slug": "spacious",
   "version": "1.0.0",
   "homepage": "https://themegrill.com/themes/spacious/",
-  "category": {
+  "categories": {
     "all": "All",
     "blog": "Blog",
     "business": "Business",
-    "ecommerce": "eCommerce",
-    "free": "Free"
+    "ecommerce": "eCommerce"
   },
-  "pagebuilder": {
+  "pagebuilders": {
+    "none": "None",
     "elementor": "Elementor"
   },
   "demos": {
@@ -26,8 +26,10 @@
         "all",
         "blog",
         "business",
-        "ecommerce",
-        "free"
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "none"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -63,8 +65,7 @@
       ],
       "category": [
         "all",
-        "blog",
-        "free"
+        "blog"
       ],
       "pagebuilder": [
         "elementor"
@@ -97,6 +98,9 @@
         "blog",
         "business",
         "ecommerce"
+      ],
+      "pagebuilder": [
+        "none"
       ],
       "plugins_list": {
         "everest-forms": {
