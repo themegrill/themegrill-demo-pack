@@ -8,11 +8,10 @@
     "blog": "Blog",
     "news": "News",
     "business": "Business",
-    "free": "Free",
     "others": "Others"
   },
   "pagebuilders": {
-    "none": "No Pagebuilder",
+    "none": "None",
     "elementor": "Elementor"
   },
   "demos": {
@@ -27,9 +26,17 @@
       "category": [
         "all",
         "news",
-        "blog",
-        "free"
+        "blog"
       ],
+      "pagebuilder": [
+        "none"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
       "core_options": {
         "blogname": "ColorMag"
       },
@@ -84,8 +91,7 @@
       ],
       "category": [
         "all",
-        "blog",
-        "free"
+        "blog"
       ],
       "pagebuilder": [
         "elementor"
@@ -273,7 +279,6 @@
       "category": [
         "all",
         "news",
-        "free",
         "business"
       ],
       "pagebuilder": [
@@ -413,8 +418,7 @@
       ],
       "category": [
         "all",
-        "news",
-        "free"
+        "news"
       ],
       "pagebuilder": [
         "elementor"
@@ -592,6 +596,9 @@
         "news",
         "blog"
       ],
+      "pagebuilder": [
+        "none"
+      ],
       "plugins_list": {
         "everest-forms": {
           "name": "Everest Forms",
@@ -678,6 +685,9 @@
         "all",
         "blog"
       ],
+      "pagebuilder": [
+        "none"
+      ],
       "plugins_list": {
         "everest-forms": {
           "name": "Everest Forms",
@@ -763,6 +773,9 @@
       "category": [
         "all",
         "blog"
+      ],
+      "pagebuilder": [
+        "none"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -861,6 +874,9 @@
         "all",
         "news",
         "blog"
+      ],
+      "pagebuilder": [
+        "none"
       ],
       "plugins_list": {
         "everest-forms": {
