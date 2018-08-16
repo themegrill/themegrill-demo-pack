@@ -11,7 +11,7 @@
     "others": "Others"
   },
   "pagebuilders": {
-    "siteorigin": "SiteOrigin PageBuilder"
+    "siteorigin-panels": "SiteOrigin PageBuilder"
   },
   "demos": {
     "flash-default": {
@@ -31,21 +31,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "woocommerce": {
           "name": "WooCommerce",
           "slug": "woocommerce/woocommerce.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -115,17 +115,17 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
+        "siteorigin-panels": {
           "name": "SiteOrigin PageBuilder",
           "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
         }
       },
       "core_options": {
@@ -193,17 +193,17 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
+        "siteorigin-panels": {
           "name": "SiteOrigin PageBuilder",
           "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
         }
       },
       "core_options": {
@@ -273,17 +273,17 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
+        "siteorigin-panels": {
           "name": "SiteOrigin PageBuilder",
           "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
         }
       },
       "core_options": {
@@ -353,21 +353,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "restaurantpress": {
           "name": "RestaurantPress",
           "slug": "restaurantpress/restaurantpress.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -454,17 +454,17 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
+        "siteorigin-panels": {
           "name": "SiteOrigin PageBuilder",
           "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
         }
       },
       "core_options": {
@@ -544,17 +544,13 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
         },
         "woocommerce": {
           "name": "WooCommerce",
@@ -563,6 +559,10 @@
         "maxmegamenu": {
           "name": "Max Mega Menu",
           "slug": "megamenu/megamenu.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -677,25 +677,25 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
         },
         "the-events-calendar": {
           "name": "The Events Calendar",
           "slug": "the-events-calendar/the-events-calendar.php"
         },
-        "social-icons": {
-          "name": "Social Icons",
-          "slug": "social-icons/social-icons.php"
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -744,21 +744,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "the-events-calendar": {
           "name": "The Events Calendar",
           "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -827,21 +827,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "the-events-calendar": {
           "name": "The Events Calendar",
           "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -872,17 +872,17 @@
         "siteorigin"
       ],
       "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "siteorigin": {
+        "siteorigin-panels": {
           "name": "SiteOrigin PageBuilder",
           "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
         }
       },
       "core_options": {
@@ -939,21 +939,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "woocommerce": {
           "name": "WooCommerce",
           "slug": "woocommerce/woocommerce.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -983,21 +983,21 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "the-events-calendar": {
           "name": "The Events Calendar",
           "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
@@ -1048,29 +1048,25 @@
         "siteorigin"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
+        "cue": {
+          "name": "Cue",
+          "slug": "cue/cue.php"
         },
         "flash-toolkit": {
           "name": "Flash Toolkit",
           "slug": "flash-toolkit/flash-toolkit.php"
         },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
         "the-events-calendar": {
           "name": "The Events Calendar",
           "slug": "the-events-calendar/the-events-calendar.php"
         },
-        "cue": {
-          "name": "Cue",
-          "slug": "cue/cue.php"
-        },
-        "jetpack": {
-          "name": "Jetpack",
-          "slug": "jetpack/jetpack.php"
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
         }
       },
       "core_options": {
