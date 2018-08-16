@@ -32,6 +32,40 @@
         "blogname": "FoodHunt",
         "page_on_front": "Home page",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "foodhunt_about_us_widget": {
+            "2": {
+              "page_id": "About Us"
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary_one": "Left Menu",
+          "primary_two": "Right Menu",
+          "social": "Social Menu",
+          "footer": "Footer Menu"
+        }
+      },
+      "restaurantpress_data_update": {
+        "food_group": {
+          "One Column": {
+            "1": "Breakfast",
+            "2": "Lunch"
+          },
+          "Grid Image": {
+            "1": "Appetizers",
+            "2": "Breakfast",
+            "3": "Dinner"
+          },
+          "Two Column": {
+            "1": "Appetizers",
+            "2": "Dinner"
+          }
+        }
       }
     },
     "foodhunt-pro": {
@@ -63,6 +97,46 @@
         "blogname": "FoodHunt Pro",
         "page_on_front": "Home page",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "foodhunt_about_us_widget": {
+            "3": {
+              "page_id": "About Us"
+            }
+          },
+          "foodhunt_video_cta_widget": {
+            "2": {
+              "page_id": "WHY FOODHUNT-PRO?"
+            }
+          },
+          "foodhunt_contact_widget": {
+            "3": {
+              "page_id": "Contact Us"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "foodhunt_featured_posts_widget": {
+              "2": {
+                "category": "Uncategorized"
+              }
+            }
+          }
+        },
+        "customizer_data_update": {
+          "pages": {
+            "foodhunt_slide1": "Welcome To FoodHunt  Pro",
+            "foodhunt_slide2": "Taste The Best"
+          },
+          "nav_menu_locations": {
+            "primary_one": "Left Menu",
+            "primary_two": "Right Menu",
+            "social": "Social Menu",
+            "footer": "Footer Menu"
+          }
+        }
       }
     }
   }

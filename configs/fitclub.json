@@ -28,6 +28,21 @@
         "blogname": "FitClub",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "fitclub_about_us_widget": {
+            "3": {
+              "page_id": "About"
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Header Menu",
+          "social": "Social"
+        }
       }
     },
     "fitclub-pro": {
@@ -63,6 +78,42 @@
         "blogname": "FitClub Pro",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "fitclub_about_us_widget": {
+            "2": {
+              "page_id": "About FitClub Pro"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "fitclub_featured_posts_widget": {
+              "2": {
+                "category": "Tips"
+              }
+            }
+          },
+          "product_cat": {
+            "fitclub_products_widget": {
+              "2": {
+                "category": "Equipments"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "pages": {
+          "fitclub_slide1": "Gym Effects",
+          "fitclub_slide2": "Body Building Techniques"
+        },
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu",
+          "footer": "Footer Menu"
+        }
       }
     }
   }
