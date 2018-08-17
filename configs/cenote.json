@@ -1,0 +1,91 @@
+{
+  "name": "Cenote",
+  "slug": "cenote",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/cenote/",
+  "categories": {
+    "all": "All",
+    "others": "Others"
+  },
+  "demos": {
+    "cenote-free": {
+      "title": "Cenote",
+      "preview": "https://demo.themegrill.com/cenote/",
+      "description": "This is the default Cenote demo to highlight your blogs in your website.",
+      "template": [
+        "cenote"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "Header top"
+        }
+      }
+    },
+    "cenote-fashion": {
+      "title": "Cenote Fashion Demo",
+      "preview": "https://demo.themegrill.com/cenote-fashion/",
+      "description": "Express your thoughts on fashion with your blogs using this Cenote Demo.",
+      "template": [
+        "cenote"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "header top"
+        }
+      }
+    },
+    "cenote-tech": {
+      "title": "Cenote Technology Blog",
+      "preview": "https://demo.themegrill.com/cenote-tech/",
+      "description": "With the help of this Cenote demo, you can share your views on technology.",
+      "template": [
+        "cenote"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Cenote Technology Blog"
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "cenote_post_slide_category_select": "FEATURED"
+          }
+        },
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "header top"
+        }
+      }
+    }
+  }
+}
