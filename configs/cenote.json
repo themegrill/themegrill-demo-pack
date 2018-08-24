@@ -13,7 +13,8 @@
       "preview": "https://demo.themegrill.com/cenote/",
       "description": "This is the default Cenote demo to highlight your blogs in your website.",
       "template": [
-        "cenote"
+        "cenote",
+        "cenote-pro"
       ],
       "category": [
         "all"
@@ -36,7 +37,8 @@
       "preview": "https://demo.themegrill.com/cenote-fashion/",
       "description": "Express your thoughts on fashion with your blogs using this Cenote Demo.",
       "template": [
-        "cenote"
+        "cenote",
+        "cenote-pro"
       ],
       "category": [
         "all",
@@ -60,7 +62,8 @@
       "preview": "https://demo.themegrill.com/cenote-tech/",
       "description": "With the help of this Cenote demo, you can share your views on technology.",
       "template": [
-        "cenote"
+        "cenote",
+        "cenote-pro"
       ],
       "category": [
         "all",
@@ -84,6 +87,98 @@
         "nav_menu_locations": {
           "tg-menu-primary": "primary",
           "tg-menu-header-top": "header top"
+        }
+      }
+    },
+    "cenote-pro": {
+      "isPro": true,
+      "title": "Cenote Pro",
+      "preview": "https://demo.themegrill.com/cenote-pro/",
+      "description": "Show your immense creativity with this premium demo of Cenote.",
+      "template": [
+        "cenote-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Cenote Pro"
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "cenote_post_slide_category_select": "Lifestyle"
+          }
+        },
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "top-menu"
+        }
+      }
+    },
+    "cenote-pro-fashion": {
+      "isPro": true,
+      "title": "Cenote Pro Fashion Blog",
+      "preview": "https://demo.themegrill.com/cenote-pro-fashion/",
+      "description": "Build your fashion empire with a variety of features of this premium Cenote demo.",
+      "template": [
+        "cenote-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Cenote Pro Fashion Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "tg-menu-primary": "Primary"
+        }
+      }
+    },
+    "cenote-pro-interior": {
+      "isPro": true,
+      "title": "Cenote Pro Interior",
+      "preview": "https://demo.themegrill.com/cenote-pro-interior/",
+      "description": "This premium Cenote demo will help you with your interior designing.",
+      "template": [
+        "cenote-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Cenote Pro Interior"
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "cenote_post_slide_category_select": "IDEAS"
+          }
+        },
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "header-menu"
         }
       }
     }
