@@ -29,7 +29,7 @@
 	<title>Modular Business</title>
 	<link>https://demo.themegrill.com/modular-business</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Wed, 24 Oct 2018 09:45:31 +0000</pubDate>
+	<pubDate>Wed, 24 Oct 2018 10:11:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
@@ -70,15 +70,15 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[section]]></wp:term_name>
 	</wp:term>
+	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[company]]></wp:term_slug><wp:term_name><![CDATA[Company]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[documentation]]></wp:term_slug><wp:term_name><![CDATA[Documentation]]></wp:term_name>
+</wp:term>
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[footer-menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu]]></wp:term_slug><wp:term_name><![CDATA[Menu]]></wp:term_name>
+	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[primary-menu]]></wp:term_name>
-</wp:term>
-	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[social-menu]]></wp:term_name>
-</wp:term>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[useful-links]]></wp:term_slug><wp:term_name><![CDATA[useful-links]]></wp:term_name>
+	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
 	
@@ -842,7 +842,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social-menu"><![CDATA[social-menu]]></category>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -897,7 +897,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social-menu"><![CDATA[social-menu]]></category>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -952,7 +952,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social-menu"><![CDATA[social-menu]]></category>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -1007,7 +1007,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social-menu"><![CDATA[social-menu]]></category>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -1084,7 +1084,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -1139,7 +1139,7 @@ body {
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2139,7 +2139,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2194,7 +2194,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2249,7 +2249,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2414,7 +2414,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="useful-links"><![CDATA[useful-links]]></category>
+		<category domain="nav_menu" nicename="documentation"><![CDATA[Documentation]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2469,7 +2469,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="useful-links"><![CDATA[useful-links]]></category>
+		<category domain="nav_menu" nicename="documentation"><![CDATA[Documentation]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2524,7 +2524,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="useful-links"><![CDATA[useful-links]]></category>
+		<category domain="nav_menu" nicename="documentation"><![CDATA[Documentation]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2579,7 +2579,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="useful-links"><![CDATA[useful-links]]></category>
+		<category domain="nav_menu" nicename="documentation"><![CDATA[Documentation]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
@@ -2634,7 +2634,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<category domain="nav_menu" nicename="company"><![CDATA[Company]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2689,7 +2689,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<category domain="nav_menu" nicename="company"><![CDATA[Company]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2744,7 +2744,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<category domain="nav_menu" nicename="company"><![CDATA[Company]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -2874,7 +2874,7 @@ Google-plus
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary-menu"><![CDATA[primary-menu]]></category>
+		<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>

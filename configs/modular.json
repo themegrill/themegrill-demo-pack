@@ -27,7 +27,17 @@
       ],
       "pagebuilder": [
         "elementor"
-      ]
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      }
     }
   }
 }
