@@ -1,0 +1,53 @@
+{
+  "name": "Modular",
+  "slug": "modular",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/modular/",
+  "categories": {
+    "all": "All",
+    "blog": "Blog",
+    "business": "Business",
+    "ecommerce": "eCommerce",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "modular-business": {
+      "title": "Modular Business",
+      "preview": "https://demo.themegrill.com/modular-business/",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Business",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    }
+  }
+}
