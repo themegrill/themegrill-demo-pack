@@ -87,6 +87,41 @@
           "menu-primary": "Primary Menu"
         }
       }
+    },
+    "modular-drone": {
+      "title": "Modular Drone & Aerial Videography",
+      "preview": "https://demo.themegrill.com/modular-drone/",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Drone & Aerial Videography",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
     }
   }
 }
