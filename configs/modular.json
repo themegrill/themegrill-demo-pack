@@ -18,6 +18,7 @@
     "modular-business": {
       "title": "Modular Business",
       "preview": "https://demo.themegrill.com/modular-business/",
+      "description": "You can expand your business units with this Modular demo.",
       "template": [
         "modular"
       ],
@@ -57,6 +58,7 @@
     "modular-cafe": {
       "title": "Modular Cafe",
       "preview": "https://demo.themegrill.com/modular-cafe/",
+      "description": "Want to let the whole world taste your deliciousness, use this Modular demo.",
       "template": [
         "modular"
       ],
@@ -89,116 +91,10 @@
         }
       }
     },
-    "modular-drone": {
-      "title": "Modular Drone & Aerial Videography",
-      "preview": "https://demo.themegrill.com/modular-drone/",
-      "template": [
-        "modular"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Modular Drone & Aerial Videography",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "modular-wedding": {
-      "title": "Modular Wedding",
-      "preview": "https://demo.themegrill.com/modular-wedding/",
-      "template": [
-        "modular"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "pagebuilder": [
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Modular Wedding",
-        "page_on_front": "Home"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "modular-yoga": {
-      "title": "Modular Yoga",
-      "preview": "https://demo.themegrill.com/modular-yoga/",
-      "template": [
-        "modular"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Modular Yoga",
-        "page_on_front": "Home",
-        "page_for_posts": "News"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
     "modular-charity": {
       "title": "Modular Charity",
       "preview": "https://demo.themegrill.com/modular-charity/",
+      "description": "This Modular demo is to help the ones in need from your sources.",
       "template": [
         "modular"
       ],
@@ -235,9 +131,120 @@
         }
       }
     },
+    "modular-drone": {
+      "title": "Modular Drone & Aerial Videography",
+      "preview": "https://demo.themegrill.com/modular-drone/",
+      "description": "Start the future of photography and and videography form this Modular demo",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Drone & Aerial Videography",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "modular-wedding": {
+      "title": "Modular Wedding",
+      "preview": "https://demo.themegrill.com/modular-wedding/",
+      "description": "Share the bonding ceremony with your spouse from this Modular demo.",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Wedding",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "modular-yoga": {
+      "title": "Modular Yoga",
+      "preview": "https://demo.themegrill.com/modular-yoga/",
+      "description": "Guide others to enhance the fitness flexibility with this Modular demo.",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Yoga",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "modular-dentist": {
       "title": "Modular Destist",
       "preview": "https://demo.themegrill.com/modular-dentist/",
+      "description": "Let your website shine bright like your patients’ teeth with this Modular demo",
       "template": [
         "modular"
       ],
@@ -273,6 +280,7 @@
     "modular-education": {
       "title": "Modular Education",
       "preview": "https://demo.themegrill.com/modular-education/",
+      "description": "Start the innovation for learning and knowledge through this Modular demo.",
       "template": [
         "modular"
       ],
@@ -306,6 +314,7 @@
     "modular-spa": {
       "title": "Modular Spa",
       "preview": "https://demo.themegrill.com/modular-spa/",
+      "description": "You can use this Modular demo to provide the relaxation services.",
       "template": [
         "modular"
       ],
@@ -345,6 +354,7 @@
     "modular-shop": {
       "title": "Modular Shop",
       "preview": "https://demo.themegrill.com/modular-shop/",
+      "description": "This Modular demo can be used to create your own online store.",
       "template": [
         "modular"
       ],
@@ -387,6 +397,7 @@
     "modular-gutenberg": {
       "title": "Modular Gutenberg",
       "preview": "https://demo.themegrill.com/modular-gutenberg/",
+      "description": "Want to show your skills on content creation? Help yourself with this Modular demo.",
       "template": [
         "modular"
       ],
