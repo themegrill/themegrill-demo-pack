@@ -194,6 +194,45 @@
           "menu-primary": "Primary Menu"
         }
       }
+    },
+    "modular-charity": {
+      "title": "Modular Charity",
+      "preview": "https://demo.themegrill.com/modular-charity/",
+      "template": [
+        "modular"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "give": {
+          "name": "Give – Donation Plugin and Fundraising Platform",
+          "slug": "give/give.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Modular Charity",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
     }
   }
 }
