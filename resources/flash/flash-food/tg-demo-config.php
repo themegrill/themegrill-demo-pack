@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function flash_food_demo_importer_config_free( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['flash-food'] = array(
 		'name'                          => 'Flash Food',
 		'theme'                         => 'Flash',
@@ -107,4 +107,4 @@ function flash_food_demo_importer_config_free( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config_free' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function flash_food_demo_importer_config_free_v2( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['flash-food-v2'] = array(
 		'name'                          => 'Flash Food V2',
 		'theme'                         => 'Flash',
@@ -118,7 +118,7 @@ function flash_food_demo_importer_config_free_v2( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'flash_food_demo_importer_config_free_v2' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
 
 /**
  * Update taxonomies ids for restaurantpress

@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function spacious_demo_importer_config_blog( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['spacious-blog'] = array(
 		'name'                   => 'Spacious Blog',
 		'theme'                  => 'Spacious',
@@ -56,4 +56,4 @@ function spacious_demo_importer_config_blog( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'spacious_demo_importer_config_blog' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

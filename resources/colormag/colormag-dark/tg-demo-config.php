@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function colormag_dark_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colormag-dark' => array(
 			'name'                   => __( 'ColorMag Dark', 'colormag' ),
@@ -193,7 +193,7 @@ function colormag_dark_demo_importer_config( $demo_config ) {
 	return array_merge( $new_demo_config, $demo_config );
 }
 
-add_filter( 'themegrill_demo_importer_config', 'colormag_dark_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
 
 /**
  * Delete the `Hello world!` post after successful demo import

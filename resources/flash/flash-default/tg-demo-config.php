@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function flash_default_demo_importer_config_free( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['flash-default'] = array(
 		'name'                          => __( 'Flash Default', 'flash' ),
 		'theme'                         => 'Flash',
@@ -111,4 +111,4 @@ function flash_default_demo_importer_config_free( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'flash_default_demo_importer_config_free' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
