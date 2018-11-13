@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function explore_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['explore-free'] = array(
 		'name'         => 'Explore Free',
 		'theme'        => 'Explore',
@@ -67,4 +67,4 @@ function explore_demo_importer_config( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'explore_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function colornews_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'colornews-free' => array(
 			'name'                   => 'ColorNews',
@@ -106,7 +106,7 @@ function colornews_demo_importer_config( $demo_config ) {
 	return array_merge( $new_demo_config, $demo_config );
 }
 
-add_filter( 'themegrill_demo_importer_config', 'colornews_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
 
 /**
  * Set categories color settings in theme customizer.

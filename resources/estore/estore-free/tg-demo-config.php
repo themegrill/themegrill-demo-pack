@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function estore_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['estore-free'] = array(
 		'name'                   => __( 'eStore', 'estore' ),
 		'theme'                  => 'eStore',
@@ -40,9 +40,9 @@ function estore_demo_importer_config( $demo_config ) {
 			'dropdown_pages'      => array(
 				'estore_about' => array(
 					3 => array(
-						'page_id' => 'Multicolor & Multipurpose Woocommerce Theme'
-					)
-				)
+						'page_id' => 'Multicolor & Multipurpose Woocommerce Theme',
+					),
+				),
 			),
 
 			/**
@@ -67,56 +67,56 @@ function estore_demo_importer_config( $demo_config ) {
 				'category'    => array(
 					'estore_featured_posts_widget'          => array(
 						3 => array(
-							'category' => 'Featured Posts'
-						)
+							'category' => 'Featured Posts',
+						),
 					),
 					'estore_featured_posts_carousel_widget' => array(
 						2 => array(
-							'category' => 'Hand picked collection'
-						)
-					)
+							'category' => 'Hand picked collection',
+						),
+					),
 				),
 				'product_cat' => array(
 					'estore_woocommerce_product_slider'          => array(
 						3 => array(
-							'category' => 'Slider'
-						)
+							'category' => 'Slider',
+						),
 					),
 					'estore_woocommerce_vertical_promo_widget'   => array(
 						2 => array(
 							'cat_id0' => 'Watch collection',
 							'cat_id1' => 'Shoe Collection',
-						)
+						),
 					),
 					'estore_woocommerce_product_grid'            => array(
 						4 => array(
-							'category' => 'Men Collection'
+							'category' => 'Men Collection',
 						),
 						5 => array(
-							'category' => 'Women Collection'
-						)
+							'category' => 'Women Collection',
+						),
 					),
 					'estore_woocommerce_full_width_promo_widget' => array(
 						3 => array(
 							'cat_id0' => 'Kid Collection',
 							'cat_id1' => 'Teen Collection',
 							'cat_id2' => 'Adult Collection',
-						)
+						),
 					),
 					'estore_woocommerce_product_carousel'        => array(
 						2 => array(
 							'source'   => 'Certain Category',
 							'category' => 'Featured Product Collection',
 						),
-					)
-				)
-			)
+					),
+				),
+			),
 		),
 		'customizer_data_update' => array(
 			'nav_menu_locations' => array(
 				'primary'   => 'Main Menu',
 				'secondary' => 'Category',
-			)
+			),
 		),
 		'plugins_list'           => array(
 			'woocommerce'   => array(
@@ -135,4 +135,4 @@ function estore_demo_importer_config( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'estore_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function himalayas_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'himalayas-free' => array(
 			'name'                   => 'Himalayas',
@@ -75,4 +75,4 @@ function himalayas_demo_importer_config( $demo_config ) {
 	return array_merge( $new_demo_config, $demo_config );
 }
 
-add_filter( 'themegrill_demo_importer_config', 'himalayas_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

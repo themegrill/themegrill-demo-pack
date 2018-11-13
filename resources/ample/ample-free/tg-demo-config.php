@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function ample_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['ample-free'] = array(
 		'name'                   => 'Ample Free',
 		'theme'                  => 'Ample',
@@ -96,7 +96,7 @@ function ample_demo_importer_config( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'ample_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
 
 /**
  * Set categories checkbox to hide from blog page settings in theme customizer.

@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array esteem_demo_importer_config
  */
-function esteem_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$demo_config['esteem-free'] = array(
 		'name'                   => 'Esteem Free',
 		'theme'                  => 'Esteem',
@@ -77,4 +77,4 @@ function esteem_demo_importer_config( $demo_config ) {
 	return $demo_config;
 }
 
-add_filter( 'themegrill_demo_importer_config', 'esteem_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );

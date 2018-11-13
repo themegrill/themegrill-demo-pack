@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function masonic_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'masonic-free' => array(
 			'name'                   => 'Masonic',
@@ -52,4 +52,4 @@ function masonic_demo_importer_config( $demo_config ) {
 	return array_merge( $new_demo_config, $demo_config );
 }
 
-add_filter( 'themegrill_demo_importer_config', 'masonic_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
