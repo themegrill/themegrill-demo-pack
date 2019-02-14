@@ -718,6 +718,66 @@
           "menu-primary": "Primary Menu"
         }
       }
+    },
+    "zakra-construction": {
+      "title": "Zakra Construction",
+      "preview": "https://demo.themegrill.com/zakra-construction/",
+      "description": "Suitable for creating professional construction business websites.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Construction"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#5b5b5b",
+          "#5b5b5b",
+          "#7a7a7a",
+          "#ffb716"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Raleway",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Raleway",
+            "font_weight": "Normal"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "Normal"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "Normal"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
+        }
+      }
     }
   }
 }
