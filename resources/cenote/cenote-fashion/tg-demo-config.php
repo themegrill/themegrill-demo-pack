@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @return array
  */
-function cenote_fashion_demo_importer_config( $demo_config ) {
+function tg_demo_importer_config( $demo_config ) {
 	$new_demo_config = array(
 		'cenote-fashion' => array(
 			'name'                   => 'Cenote Fashion Demo',
@@ -46,4 +46,4 @@ function cenote_fashion_demo_importer_config( $demo_config ) {
 	return array_merge( $new_demo_config, $demo_config );
 }
 
-add_filter( 'themegrill_demo_importer_config', 'cenote_fashion_demo_importer_config' );
+add_filter( 'themegrill_demo_importer_config', 'tg_demo_importer_config' );
