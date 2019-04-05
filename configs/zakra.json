@@ -14,6 +14,73 @@
     "elementor": "Elementor"
   },
   "demos": {
+    "zakra-default": {
+      "title": "Zakra Main",
+      "preview": "https://demo.themegrill.com/zakra/",
+      "description": "Design your awesome website with this Main demo for the Zakra theme.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Main",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#5b5b5b",
+          "#4ac6d6",
+          "#7a7a7a",
+          "#4fc99a"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Work Sans",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Work Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Work Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Work Sans",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
+        }
+      }
+    },
     "zakra-business": {
       "title": "Zakra Business",
       "preview": "https://demo.themegrill.com/zakra-business/",
