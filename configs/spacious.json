@@ -59,6 +59,49 @@
         }
       }
     },
+    "spacious-medical": {
+      "title": "Spacious Medical",
+      "preview": "https://demo.themegrill.com/spacious-medical/",
+      "description": "Aid your patient's health with the help of this Spacious Medical demo.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top Menu",
+          "primary": "Main Menu",
+          "footer": "Header Top Menu"
+        }
+      }
+    },
     "spacious-blog": {
       "title": "Spacious Blog",
       "preview": "https://demo.themegrill.com/spacious-blog/",
