@@ -213,6 +213,75 @@
         }
       }
     },
+    "zakra-book-author": {
+      "title": "Zakra Book Author",
+      "preview": "https://demo.themegrill.com/zakra-book-author/",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Book Author",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#272727",
+          "#272727",
+          "#596172",
+          "#6b5c4e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Cinzel Decorative",
+            "font_weight": "900"
+          },
+          "secondary": {
+            "font_family": "Cinzel Decorative",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Quattrocento",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Quattrocento",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
+        }
+      }
+    },
     "zakra-education": {
       "title": "Zakra Education",
       "preview": "https://demo.themegrill.com/zakra-education/",
