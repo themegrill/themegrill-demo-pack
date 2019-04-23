@@ -213,6 +213,69 @@
         }
       }
     },
+    "zakra-minimal-portfolio": {
+      "title": "Zakra Minimal Portfolio",
+      "preview": "https://demo.themegrill.com/zakra-minimal-portfolio/",
+      "description": "Create your professional portfolio with the help of this clean and minimal Zakra demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Minimal Portfolio",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#20c997",
+          "#868e96",
+          "#868e96",
+          "#868e96"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Rasa",
+            "font_weight": "Bold"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
+        }
+      }
+    },
     "zakra-book-author": {
       "title": "Zakra Book Author",
       "preview": "https://demo.themegrill.com/zakra-book-author/",
