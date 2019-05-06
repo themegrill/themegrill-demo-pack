@@ -276,6 +276,73 @@
         }
       }
     },
+    "zakra-plumber": {
+      "title": "Zakra Plumber",
+      "preview": "https://demo.themegrill.com/zakra-plumber/",
+      "description": "",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Plumber",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#0d54e5",
+          "#f76707",
+          "#909294",
+          "#909294"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
+        }
+      }
+    },
     "zakra-book-author": {
       "title": "Zakra Book Author",
       "preview": "https://demo.themegrill.com/zakra-book-author/",
