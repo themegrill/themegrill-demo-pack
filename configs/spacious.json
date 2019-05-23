@@ -267,6 +267,86 @@
         }
       }
     },
+    "spacious-pro-furniture": {
+      "isPro": true,
+      "title": "Spacious Pro Furniture",
+      "preview": "https://demo.themegrill.com/spacious-pro-furniture/",
+      "description": "Use this Spacious demo to create your amazing furniture store website.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Furniture",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "HOME",
+          "data_update": {
+            "product_cat": {
+              "SPT-PRODUCT-CAUROSEL-1": {
+                "18": "Dining",
+                "24": "Table"
+              }
+            }
+          }
+        },
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top",
+          "primary": "Main Menu"
+        }
+      }
+    },
     "spacious-pro-business": {
       "isPro": true,
       "title": "Spacious Pro Business",
