@@ -6,7 +6,8 @@
   "categories": {
     "all": "All",
     "blog": "Blog",
-    "business": "Business"
+    "business": "Business",
+    "ecommerce": "eCommerce",
   },
   "pagebuilders": {
     "default": "Default",
@@ -99,6 +100,84 @@
           "header": "Header Top Menu",
           "primary": "Main Menu",
           "footer": "Header Top Menu"
+        }
+      }
+    },
+    "spacious-store": {
+      "title": "Spacious Store",
+      "preview": "https://demo.themegrill.com/spacious-store/",
+      "description": "If you want to create an online store for your website, use this Spacious demo.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Store",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#ffffff",
+          "#54595f",
+          "#746f6f",
+          "rgba(97,206,112,0)"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top Menu",
+          "primary": "Main Menu",
+          "footer": "Footer Menu"
         }
       }
     },
