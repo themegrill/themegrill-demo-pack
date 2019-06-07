@@ -276,6 +276,144 @@
         }
       }
     },
+    "zakra-restaurant": {
+      "title": "Zakra Restaurant",
+      "preview": "https://demo.themegrill.com/zakra-restaurant/",
+      "description": "Use this Zakra demo to build your restaurant services online.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Restaurant",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#e67700",
+          "#212529",
+          "#212529",
+          "#e67700"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
+    "zakra-app": {
+      "title": "Zakra App",
+      "preview": "https://demo.themegrill.com/zakra-app/",
+      "description": "Build your App showcase website with the help of this Zakra demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra App",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#8d02ad",
+          "#212529",
+          "#61ce70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Nunito Sans",
+            "font_weight": "800"
+          },
+          "secondary": {
+            "font_family": "Nunito Sans",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-plumber": {
       "title": "Zakra Plumber",
       "preview": "https://demo.themegrill.com/zakra-plumber/",
