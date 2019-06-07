@@ -267,6 +267,77 @@
         }
       }
     },
+     "spacious-pro-university": {
+      "isPro": true,
+      "title": "Spacious Pro University",
+      "preview": "https://demo.themegrill.com/spacious-pro-university/",
+      "description": "Use this Spacious Pro demo to create a website for your institute.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro University",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#ff3535",
+          "#0d1317",
+          "#b2b2b2",
+          "#7a7a7a"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Nunito Sans",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Nunito Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Nunito Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Nunito Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu"
+        }
+      }
+    },
     "spacious-pro-furniture": {
       "isPro": true,
       "title": "Spacious Pro Furniture",
