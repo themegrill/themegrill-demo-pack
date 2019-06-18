@@ -29,7 +29,7 @@
 	<title>Spacious Store</title>
 	<link>https://demo.themegrill.com/spacious-store</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Thu, 23 May 2019 05:40:29 +0000</pubDate>
+	<pubDate>Tue, 18 Jun 2019 09:55:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
@@ -1573,7 +1573,7 @@
 		<dc:creator><![CDATA[themeeditor]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/spacious-store/?post_type=everest_form&#038;p=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":5,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"themegrill@gmail.com","evf_from_name":"Spacious Store","evf_from_email":"themegrill@gmail.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"5","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","recaptcha_support":"0","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Spacious Store","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-10 09:03:35]]></wp:post_date>
@@ -1629,10 +1629,8 @@ button:hover {
 		<dc:creator><![CDATA[themeeditor]]></dc:creator>
 		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=everest_form&#038;p=318</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				{"id":"318","form_field_id":7,"form_fields":{"DA6IKMTh1W-1":{"id":"DA6IKMTh1W-1","type":"first-name","label":"First Name","meta-key":"first_name_3212","description":"","required":"1","placeholder":"","css":""},"tYADcFioUA-3":{"id":"tYADcFioUA-3","type":"email","label":"Email","meta-key":"email_7280","description":"","required":"1","placeholder":"","default_value":"","css":""},"BOaJ4kkY8x-2":{"id":"BOaJ4kkY8x-2","type":"last-name","label":"Last Name","meta-key":"last_name_4731","description":"","required":"1","placeholder":"","css":""},"bRoHL1P6KX-4":{"id":"bRoHL1P6KX-4","type":"text","label":"Subject","meta-key":"single_line_text_2589","description":"","placeholder":"","default_value":"","css":"","input_mask":""},"RHqgJnFsuo-6":{"id":"RHqgJnFsuo-6","type":"select","label":"Department","meta-key":"dropdown_1765","choices":{"1":{"label":"Pre Sales Queries","value":""},"2":{"label":"General Queries","value":""},"3":{"label":"Affiliate Queries","value":""}},"description":"","required":"1","placeholder":"","css":""},"U78bOHjSTy-5":{"id":"U78bOHjSTy-5","type":"textarea","label":"Message","meta-key":"paragraph_text_6525","description":"","required":"1","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","recaptcha_support":"0","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"test@test.com","evf_from_name":"Spacious","evf_from_email":"test@test.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["DA6IKMTh1W-1","tYADcFioUA-3"],"grid_2":["BOaJ4kkY8x-2","bRoHL1P6KX-4"]},"row_2":{"grid_1":["RHqgJnFsuo-6","U78bOHjSTy-5"]}}}		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[{"id":"318","form_field_id":7,"form_fields":{"DA6IKMTh1W-1":{"id":"DA6IKMTh1W-1","type":"first-name","label":"First Name","meta-key":"first_name_3212","description":"","required":"1","placeholder":"","css":""},"tYADcFioUA-3":{"id":"tYADcFioUA-3","type":"email","label":"Email","meta-key":"email_7280","description":"","required":"1","placeholder":"","default_value":"","css":""},"BOaJ4kkY8x-2":{"id":"BOaJ4kkY8x-2","type":"last-name","label":"Last Name","meta-key":"last_name_4731","description":"","required":"1","placeholder":"","css":""},"bRoHL1P6KX-4":{"id":"bRoHL1P6KX-4","type":"text","label":"Subject","meta-key":"single_line_text_2589","description":"","placeholder":"","default_value":"","css":"","input_mask":""},"RHqgJnFsuo-6":{"id":"RHqgJnFsuo-6","type":"select","label":"Department","meta-key":"dropdown_1765","choices":{"1":{"label":"Pre Sales Queries","value":""},"2":{"label":"General Queries","value":""},"3":{"label":"Affiliate Queries","value":""}},"description":"","required":"1","placeholder":"","css":""},"U78bOHjSTy-5":{"id":"U78bOHjSTy-5","type":"textarea","label":"Message","meta-key":"paragraph_text_6525","description":"","required":"1","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","recaptcha_support":"0","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Spacious","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["DA6IKMTh1W-1","tYADcFioUA-3"],"grid_2":["BOaJ4kkY8x-2","bRoHL1P6KX-4"]},"row_2":{"grid_1":["RHqgJnFsuo-6","U78bOHjSTy-5"]}}}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>318</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-19 06:21:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-19 06:21:14]]></wp:post_date_gmt>
@@ -1868,6 +1866,63 @@ button:hover {
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://demo.themegrill.com/spacious-store/2019/05/10/539/</link>
+		<pubDate>Fri, 10 May 2019 09:09:29 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/spacious-store/2019/05/10/</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				 		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>539</wp:post_id>
+		<wp:post_date><![CDATA[2019-05-10 09:09:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-05-10 09:09:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[539]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[514]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2264,37 +2319,6 @@ button:hover {
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:600;s:4:"file";s:23:"2019/05/wrist-watch.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"wrist-watch-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"wrist-watch-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:23:"wrist-watch-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:23:"wrist-watch-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:23:"wrist-watch-600x300.jpg";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:23:"wrist-watch-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:23:"wrist-watch-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:1;}s:18:"woocommerce_single";a:4:{s:4:"file";s:23:"wrist-watch-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:23:"wrist-watch-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"wrist-watch-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:23:"wrist-watch-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"wrist-watch-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>woocommerce-placeholder</title>
-		<link>https://demo.themegrill.com/spacious-store/woocommerce-placeholder/</link>
-		<pubDate>Wed, 22 May 2019 10:49:35 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/woocommerce-placeholder.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>610</wp:post_id>
-		<wp:post_date><![CDATA[2019-05-22 10:49:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-05-22 10:49:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/woocommerce-placeholder.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:19:"featured-blog-large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-750x350.png";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:8:"featured";a:4:{s:4:"file";s:35:"woocommerce-placeholder-642x300.png";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:35:"woocommerce-placeholder-230x230.png";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2698,6 +2722,30 @@ button:hover {
 		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 	<item>
+		<title>My account</title>
+		<link>https://demo.themegrill.com/spacious-store/my-account/</link>
+		<pubDate>Thu, 25 Apr 2019 05:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/my-account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				[woocommerce_my_account]		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>517</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-25 05:48:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-25 05:48:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[my-account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
 		<title>Sample Page</title>
 		<link>https://demo.themegrill.com/spacious-store/sample-page-2/</link>
 		<pubDate>Thu, 09 Mar 2017 03:18:12 +0000</pubDate>
@@ -2860,44 +2908,6 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 </a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=115" rel="nofollow">Add to cart</a></li>
 </ul>
 									On Sale
-					<ul>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/gallet-watch/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/watch3-300x300.jpg" alt="" /><h2>Gallet Watch</h2>
-	<del>&pound;200.00</del> <ins>&pound;185.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=46" rel="nofollow">Add to cart</a></li>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/lug-bag/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/bags-1-300x300.jpg" alt="" /><h2>Lug Bag</h2>
-	<del>&pound;375.00</del> <ins>&pound;350.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=127" rel="nofollow">Add to cart</a></li>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/pearl-necklace/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/necklace-300x300.jpg" alt="" /><h2>Pearl Necklace</h2>
-	<del>&pound;1,200.00</del> <ins>&pound;1,150.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=129" rel="nofollow">Add to cart</a></li>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/red-shoe/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/red-shoe-300x300.jpg" alt="" /><h2>Red Shoe</h2>
-	<del>&pound;400.00</del> <ins>&pound;345.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=532" rel="nofollow">Add to cart</a></li>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/rolex-watch/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/watch4-300x300.jpg" alt="" /><h2>Rolex Watch</h2>
-	<del>&pound;350.00</del> <ins>&pound;320.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=43" rel="nofollow">Add to cart</a></li>
-<li>
-	<a href="https://demo.themegrill.com/spacious-store/product/sandle/">
-	Sale!
-<img width="300" height="300" src="https://demo.themegrill.com/spacious-store/wp-content/uploads/sites/201/2019/05/sandle-300x300.jpg" alt="" /><h2>Sandle</h2>
-	<del>&pound;450.00</del> <ins>&pound;390.00</ins>
-</a><a href="/spacious-store/wp-admin/admin-ajax.php?add-to-cart=530" rel="nofollow">Add to cart</a></li>
-</ul>
 			<h2>Women's</h2>		
 			<h2>Wear</h2>		
 		[products limit="4" columns="4" category="women"]		
@@ -2978,64 +2988,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[{"id":"6d2544e","elType":"section","settings":[],"elements":[{"id":"59ce0fe","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d335c1c","elType":"widget","settings":{"carousel":[{"id":569,"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner02.jpg"},{"id":570,"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner-02.jpg"}],"thumbnail_size":"full","slides_to_show":"1","navigation":"arrows","arrows_size":{"unit":"px","size":50,"sizes":[]},"arrows_color":"#f16869","image_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"image_border_color":"#e8e8e8","link_to":"custom","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/sale\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"019b95e","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"5","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"d8b6fb6","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"308db63","elType":"section","settings":{"structure":"20"},"elements":[{"id":"f747b98","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/watch.jpg","id":62},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"595845f","elType":"widget","settings":{"text":"Watches","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/watches\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"8b04cb3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/bag1.jpg","id":64},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"271c813","elType":"widget","settings":{"text":"Bags","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/bags\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"91bb0e8","elType":"section","settings":[],"elements":[{"id":"2e93fa9","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/man.jpg","id":583},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false}},"elements":[{"id":"d328d54","elType":"widget","settings":{"text":"Men","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/men\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"2e34c3e","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"825bce4","elType":"section","settings":[],"elements":[{"id":"3260d9c","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/woman.jpg","id":86},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"05","isLinked":false},"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false}},"elements":[{"id":"7b9cbb9","elType":"widget","settings":{"text":"Women","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/women\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"8565daf","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a6071ab","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/accessories.jpg","id":92},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"5","right":"5","bottom":"0","left":"5","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"f5979b9","elType":"widget","settings":{"text":"Accessories","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/accessories\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2ba6901","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/jacket.jpg","id":91},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"5","right":"0","bottom":"0","left":"5","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"fae3647","elType":"widget","settings":{"text":"Jacket","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/jacket\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"88823d9","elType":"section","settings":{"background_background":"classic","background_overlay_background":"classic","background_overlay_color":"#ededed","padding":{"unit":"px","top":"85","right":"0","bottom":"100","left":"0","isLinked":false},"background_color":"#f4f4f4","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"22516b5","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size":null},"elements":[{"id":"35d7b81","elType":"section","settings":{"structure":"30"},"elements":[{"id":"1b6cc50","elType":"column","settings":{"_column_size":33,"_inline_size":37,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":true},{"id":"0af0605","elType":"column","settings":{"_column_size":33,"_inline_size":25.995999999999998664179656771011650562286376953125},"elements":[{"id":"3caa435","elType":"widget","settings":{"title":"OUR PRODUCTS","align":"center","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":35,"sizes":[]},"typography_text_decoration":"none","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"9cd4c35","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"width":{"unit":"%","size":50,"sizes":[]},"align":"center","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-32","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"}],"isInner":true},{"id":"2ffbbe0","elType":"column","settings":{"_column_size":33,"_inline_size":37},"elements":[],"isInner":true}],"isInner":true},{"id":"766075b","elType":"widget","settings":{"tabs":[{"tab_title":"Latest","tab_content":"<p>[recent_products limit=\"6\"\u00a0 columns=\"6\"]<\/p>","_id":"7c3dd90"},{"tab_title":"Accessories","tab_content":"<p>[products limit=\"6\" columns=\"6\" category=\"accessories\"]<\/p>","_id":"c716699"},{"tab_title":"Bags","tab_content":"<p>[products limit=\"6\" columns=\"6\" category=\"bags\"]<\/p>","_id":"f028c09"},{"tab_title":"On Sale","tab_content":"<p>[products limit=\"6\" columns=\"6\" on_sale=\"true\"]<\/p>","_id":"d718b49"}],"border_color":"#e2e2e2","background_color":"#ffffff","tab_color":"#000000","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"tabs"}],"isInner":false}],"isInner":false},{"id":"5b53d8b","elType":"section","settings":{"content_position":"middle","structure":"20","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"988d3cb","elType":"column","settings":{"_column_size":50,"_inline_size":30.693000000000001392663762089796364307403564453125,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/women.jpg","id":597},"background_position":"center center","background_position_mobile":"top center","background_repeat_mobile":"no-repeat","background_size":"cover","background_size_mobile":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9935c4d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"daca841","elType":"widget","settings":{"title":"Women's","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"646622d","elType":"widget","settings":{"title":"Wear","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"3338eae","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"6a74eeb","elType":"column","settings":{"_column_size":50,"_inline_size":69.3070000000000021600499167107045650482177734375,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a49791f","elType":"widget","settings":{"shortcode":"[products limit=\"4\" columns=\"4\" category=\"women\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"949cadf","elType":"section","settings":{"background_background":"classic","shape_divider_top_color":"#ededed","shape_divider_top_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_top_height":{"unit":"px","size":500,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"100","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"80","left":"0","isLinked":false},"background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/black-banner.jpg","id":571},"background_overlay_background":"classic","background_overlay_color":"#000000","css_filters_css_filter":"custom","background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"2384796","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3d852f5","elType":"widget","settings":{"image":{"url":"http:\/\/courageous-walrus.w6.wpsandbox.pro\/wp-content\/uploads\/2019\/04\/black.jpg","id":432},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""},"opacity_hover":{"unit":"px","size":1,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"dceafc2","elType":"section","settings":{"content_position":"middle","structure":"22","background_background":"classic","background_color":"#f4f4f4","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"561d844","elType":"column","settings":{"_column_size":66,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"e5dc2b7","elType":"widget","settings":{"shortcode":"[products limit=\"4\" columns=\"4\" category=\"kids\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"b2e4505","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/kid-collection.jpg","id":475},"background_position":"center center","background_position_mobile":"top center","background_repeat_mobile":"no-repeat","background_size":"cover","background_size_mobile":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"background_overlay_position":"center left","background_overlay_repeat":"no-repeat","background_overlay_size":"cover"},"elements":[{"id":"b76bc12","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4d1c069","elType":"widget","settings":{"title":"KIDS","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"3c902db","elType":"widget","settings":{"title":"COLLECTION","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"11a919d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"49b13c4","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":500,"sizes":[]},"content_position":"middle","background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/bags.jpg","id":565},"background_position":"center center","background_attachment":"scroll","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"3288d5d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a5e7a37","elType":"widget","settings":{"title":"20% OFF EVERYTHING","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":70,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":50,"sizes":[]},"typography_line_height":{"unit":"px","size":58,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":70,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fba4588","elType":"widget","settings":{"title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ea co","header_size":"p","align":"left","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5fb1a6f","elType":"widget","settings":{"text":"Buy Now","align":"left","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"7572c6b","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"dcb4ce0","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/girl-cloth.jpg","id":578},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"5c6b22b","elType":"widget","settings":{"title":"FOR HER","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"5e0a21e","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"b7c3478","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"eb86033","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/boys-wear.jpg","id":574},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"3b7866e","elType":"widget","settings":{"title":"FOR HIM","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f7319fe","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"c42c9db","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"cee99eb","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/trend.jpg","id":591},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"4b49a7a","elType":"widget","settings":{"title":"TRENDS","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"936a1a8","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"47b7f26","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"69eb8e6","elType":"section","settings":{"structure":"40","background_background":"classic","background_color":"#f4f4f4","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"10ee505","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"1c52214","elType":"widget","settings":{"icon":"fa fa-dollar","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"7e91755","elType":"widget","settings":{"title":"30 Day Return","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"6f75703","elType":"widget","settings":{"editor":"<p>Moneyback Guarantee<\/p>","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6e02824","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"91844a9","elType":"widget","settings":{"icon":"fa fa-truck","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"0838a5e","elType":"widget","settings":{"title":"Free Shipping","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"9e1b9e0","elType":"widget","settings":{"editor":"<p>On all over order<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"9e3f001","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"a067bbf","elType":"widget","settings":{"icon":"fa fa-arrow-down","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"cb918be","elType":"widget","settings":{"title":"Lowest Price","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"f85c572","elType":"widget","settings":{"editor":"<p>Guarantee<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"06d4bfe","elType":"column","settings":{"_column_size":25,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"e0265d5","elType":"widget","settings":{"icon":"fa fa-life-saver","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"644c670","elType":"widget","settings":{"title":"Safe Shopping","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"5562bda","elType":"widget","settings":{"editor":"<p>Guarantee<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"dbe704d","elType":"section","settings":{"structure":"30","background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner.jpg","id":568},"background_position":"center left","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_opacity":{"unit":"px","size":0.65000000000000002220446049250313080847263336181640625,"sizes":[]},"padding":{"unit":"px","top":"90","right":"0","bottom":"149","left":"0","isLinked":false},"background_overlay_color":"#000000"},"elements":[{"id":"f31e8dc","elType":"column","settings":{"_column_size":33,"_inline_size":15},"elements":[],"isInner":false},{"id":"7c0abee","elType":"column","settings":{"_column_size":33,"_inline_size":69.9959999999999951114659779705107212066650390625},"elements":[{"id":"a73d725","elType":"widget","settings":{"title":"Connect to Spacious Store","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"header_size":"span","typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"4189548","elType":"widget","settings":{"title":"JOIN OUR NEWS LETTER","align":"center","title_color":"#f16869","typography_typography":"custom","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f00f504","elType":"widget","settings":{"title":"Hey you, sign up it only takes a second to be the first to find out about our latest news and promotions.","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"8dfd2aa","elType":"widget","settings":{"shortcode":"[mc4wp_form id=\"321\"]","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"419c073","elType":"column","settings":{"_column_size":33,"_inline_size":15},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>https://demo.themegrill.com/spacious-store/2019/05/10/539/</link>
-		<pubDate>Fri, 10 May 2019 09:09:29 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/spacious-store/2019/05/10/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				 		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>539</wp:post_id>
-		<wp:post_date><![CDATA[2019-05-10 09:09:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-05-10 09:09:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[539]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[514]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[{"id":"6d2544e","elType":"section","settings":[],"elements":[{"id":"59ce0fe","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d335c1c","elType":"widget","settings":{"carousel":[{"id":569,"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner02.jpg"},{"id":570,"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner-02.jpg"}],"thumbnail_size":"full","slides_to_show":"1","navigation":"arrows","arrows_size":{"unit":"px","size":50,"sizes":[]},"arrows_color":"#f16869","image_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"image_border_color":"#e8e8e8","link_to":"custom","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/sale\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"019b95e","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"5","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"d8b6fb6","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"308db63","elType":"section","settings":{"structure":"20"},"elements":[{"id":"f747b98","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/watch.jpg","id":62},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"595845f","elType":"widget","settings":{"text":"Watches","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/watches\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"8b04cb3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/bag1.jpg","id":64},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"271c813","elType":"widget","settings":{"text":"Bags","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/bags\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"91bb0e8","elType":"section","settings":[],"elements":[{"id":"2e93fa9","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/man.jpg","id":583},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false}},"elements":[{"id":"d328d54","elType":"widget","settings":{"text":"Men","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/men\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"2e34c3e","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"825bce4","elType":"section","settings":[],"elements":[{"id":"3260d9c","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/woman.jpg","id":86},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"05","isLinked":false},"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false}},"elements":[{"id":"7b9cbb9","elType":"widget","settings":{"text":"Women","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/women\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"8565daf","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a6071ab","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/accessories.jpg","id":92},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"5","right":"5","bottom":"0","left":"5","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"f5979b9","elType":"widget","settings":{"text":"Accessories","align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/accessories\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2ba6901","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/jacket.jpg","id":91},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"5","right":"0","bottom":"0","left":"5","isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"fae3647","elType":"widget","settings":{"text":"Jacket","link":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/product-category\/jacket\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#000000","background_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"88823d9","elType":"section","settings":{"background_background":"classic","background_overlay_background":"classic","background_overlay_color":"#ededed","padding":{"unit":"px","top":"85","right":"0","bottom":"100","left":"0","isLinked":false},"background_color":"#f4f4f4","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"22516b5","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size":null},"elements":[{"id":"35d7b81","elType":"section","settings":{"structure":"30"},"elements":[{"id":"1b6cc50","elType":"column","settings":{"_column_size":33,"_inline_size":37,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":true},{"id":"0af0605","elType":"column","settings":{"_column_size":33,"_inline_size":25.995999999999998664179656771011650562286376953125},"elements":[{"id":"3caa435","elType":"widget","settings":{"title":"OUR PRODUCTS","align":"center","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":35,"sizes":[]},"typography_text_decoration":"none","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"9cd4c35","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"width":{"unit":"%","size":50,"sizes":[]},"align":"center","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-32","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"}],"isInner":true},{"id":"2ffbbe0","elType":"column","settings":{"_column_size":33,"_inline_size":37},"elements":[],"isInner":true}],"isInner":true},{"id":"766075b","elType":"widget","settings":{"tabs":[{"tab_title":"Latest","tab_content":"<p>[recent_products limit=\"6\"\u00a0 columns=\"6\"]<\/p>","_id":"7c3dd90"},{"tab_title":"Accessories","tab_content":"<p>[products limit=\"6\" columns=\"6\" category=\"accessories\"]<\/p>","_id":"c716699"},{"tab_title":"Bags","tab_content":"<p>[products limit=\"6\" columns=\"6\" category=\"bags\"]<\/p>","_id":"f028c09"},{"tab_title":"On Sale","tab_content":"<p>[products limit=\"6\" columns=\"6\" on_sale=\"true\"]<\/p>","_id":"d718b49"}],"border_color":"#e2e2e2","background_color":"#ffffff","tab_color":"#000000","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"tab_active_color":"#f16869","tab_typography_typography":"custom"},"elements":[],"widgetType":"tabs"}],"isInner":false}],"isInner":false},{"id":"5b53d8b","elType":"section","settings":{"content_position":"middle","structure":"20","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"988d3cb","elType":"column","settings":{"_column_size":50,"_inline_size":30.693000000000001392663762089796364307403564453125,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/women.jpg","id":597},"background_position":"center center","background_position_mobile":"top center","background_repeat_mobile":"no-repeat","background_size":"cover","background_size_mobile":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9935c4d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"daca841","elType":"widget","settings":{"title":"Women's","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"646622d","elType":"widget","settings":{"title":"Wear","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"3338eae","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"6a74eeb","elType":"column","settings":{"_column_size":50,"_inline_size":69.3070000000000021600499167107045650482177734375,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a49791f","elType":"widget","settings":{"shortcode":"[products limit=\"4\" columns=\"4\" category=\"women\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"949cadf","elType":"section","settings":{"background_background":"classic","shape_divider_top_color":"#ededed","shape_divider_top_width":{"unit":"%","size":100,"sizes":[]},"shape_divider_top_height":{"unit":"px","size":500,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"100","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"80","left":"0","isLinked":false},"background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/black-banner.jpg","id":571},"background_overlay_background":"classic","background_overlay_color":"#000000","css_filters_css_filter":"custom","background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"2384796","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3d852f5","elType":"widget","settings":{"image":{"url":"http:\/\/courageous-walrus.w6.wpsandbox.pro\/wp-content\/uploads\/2019\/04\/black.jpg","id":432},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""},"opacity_hover":{"unit":"px","size":1,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"dceafc2","elType":"section","settings":{"content_position":"middle","structure":"22","background_background":"classic","background_color":"#f4f4f4","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"561d844","elType":"column","settings":{"_column_size":66,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"e5dc2b7","elType":"widget","settings":{"shortcode":"[products limit=\"4\" columns=\"4\" category=\"kids\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"b2e4505","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/kid-collection.jpg","id":475},"background_position":"center center","background_position_mobile":"top center","background_repeat_mobile":"no-repeat","background_size":"cover","background_size_mobile":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"background_overlay_position":"center left","background_overlay_repeat":"no-repeat","background_overlay_size":"cover"},"elements":[{"id":"b76bc12","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4d1c069","elType":"widget","settings":{"title":"KIDS","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"3c902db","elType":"widget","settings":{"title":"COLLECTION","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"11a919d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"49b13c4","elType":"section","settings":{"height":"min-height","custom_height":{"unit":"px","size":500,"sizes":[]},"content_position":"middle","background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/04\/bags.jpg","id":95},"background_position":"center center","background_attachment":"scroll","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"3288d5d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a5e7a37","elType":"widget","settings":{"title":"20% OFF EVERYTHING","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":70,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":50,"sizes":[]},"typography_line_height":{"unit":"px","size":58,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":70,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fba4588","elType":"widget","settings":{"title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ea co","header_size":"p","align":"left","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"5fb1a6f","elType":"widget","settings":{"text":"Buy Now","align":"left","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"7572c6b","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"dcb4ce0","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/girl-cloth.jpg","id":578},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"5c6b22b","elType":"widget","settings":{"title":"FOR HER","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"5e0a21e","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"b7c3478","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"eb86033","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/boys-wear.jpg","id":574},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"3b7866e","elType":"widget","settings":{"title":"FOR HIM","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f7319fe","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"c42c9db","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"cee99eb","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/trend.jpg","id":591},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#000000","background_overlay_opacity":{"unit":"px","size":0.5500000000000000444089209850062616169452667236328125,"sizes":[]},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"120","right":"50","bottom":"120","left":"50","isLinked":false},"padding_tablet":{"unit":"px","top":"120","right":"5","bottom":"120","left":"5","isLinked":false}},"elements":[{"id":"4b49a7a","elType":"widget","settings":{"title":"TRENDS","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_weight":"bold","typography_text_decoration":"none","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"936a1a8","elType":"widget","settings":{"title":"labore et dolore magna aliqua. Ut enim ad minim veniam dolore.","header_size":"p","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"47b7f26","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"button_text_color":"#000000","background_color":"#ffffff","hover_color":"#ffffff","button_background_hover_color":"#f16869","button_hover_border_color":"rgba(255,255,255,0)","hover_animation":"grow","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"rgba(241,104,105,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"69eb8e6","elType":"section","settings":{"structure":"40","background_background":"classic","background_color":"#f4f4f4","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"10ee505","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"1c52214","elType":"widget","settings":{"icon":"fa fa-dollar","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"7e91755","elType":"widget","settings":{"title":"30 Day Return","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"6f75703","elType":"widget","settings":{"editor":"<p>Moneyback Guarantee<\/p>","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6e02824","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"91844a9","elType":"widget","settings":{"icon":"fa fa-truck","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"0838a5e","elType":"widget","settings":{"title":"Free Shipping","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"9e1b9e0","elType":"widget","settings":{"editor":"<p>On all over order<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"9e3f001","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"a067bbf","elType":"widget","settings":{"icon":"fa fa-arrow-down","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"cb918be","elType":"widget","settings":{"title":"Lowest Price","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"f85c572","elType":"widget","settings":{"editor":"<p>Guarantee<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"06d4bfe","elType":"column","settings":{"_column_size":25,"background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"60","right":"0","bottom":"45","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"60","right":"5","bottom":"45","left":"5","isLinked":false}},"elements":[{"id":"e0265d5","elType":"widget","settings":{"icon":"fa fa-life-saver","view":"framed","primary_color":"#f16869","secondary_color":"#ffffff","size":{"unit":"px","size":25,"sizes":[]},"icon_padding":{"unit":"px","size":15,"sizes":[]},"shape":"square"},"elements":[],"widgetType":"icon"},{"id":"644c670","elType":"widget","settings":{"title":"Safe Shopping","header_size":"h4","align":"center","title_color":"#54595f","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold"},"elements":[],"widgetType":"heading"},{"id":"5562bda","elType":"widget","settings":{"editor":"<p>Guarantee<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"dbe704d","elType":"section","settings":{"structure":"30","background_background":"classic","background_image":{"url":"https:\/\/demo.themegrill.com\/spacious-store\/wp-content\/uploads\/sites\/201\/2019\/05\/banner.jpg","id":568},"background_position":"center left","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_opacity":{"unit":"px","size":0.65000000000000002220446049250313080847263336181640625,"sizes":[]},"padding":{"unit":"px","top":"90","right":"0","bottom":"149","left":"0","isLinked":false},"background_overlay_color":"#000000"},"elements":[{"id":"f31e8dc","elType":"column","settings":{"_column_size":33,"_inline_size":15},"elements":[],"isInner":false},{"id":"7c0abee","elType":"column","settings":{"_column_size":33,"_inline_size":69.9959999999999951114659779705107212066650390625},"elements":[{"id":"a73d725","elType":"widget","settings":{"title":"Connect to Spacious Store","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"header_size":"span","typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"4189548","elType":"widget","settings":{"title":"JOIN OUR NEWS LETTER","align":"center","title_color":"#f16869","typography_typography":"custom","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f00f504","elType":"widget","settings":{"title":"Hey you, sign up it only takes a second to be the first to find out about our latest news and promotions.","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"8dfd2aa","elType":"widget","settings":{"shortcode":"[mc4wp_form id=\"321\"]","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"419c073","elType":"column","settings":{"_column_size":33,"_inline_size":15},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -5610,6 +5563,326 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/s
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Kids Suit</title>
+		<link>https://demo.themegrill.com/spacious-store/product/kids-suit/</link>
+		<pubDate>Wed, 17 Apr 2019 03:06:39 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=product&#038;p=191</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-17 03:06:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-17 03:06:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kids-suit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_cat" nicename="kids"><![CDATA[Kids]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[581]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Kids Dress</title>
+		<link>https://demo.themegrill.com/spacious-store/product/kids-dress/</link>
+		<pubDate>Wed, 17 Apr 2019 03:08:07 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=product&#038;p=193</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.]]></excerpt:encoded>
+		<wp:post_id>193</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-17 03:08:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-17 03:08:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kids-dress]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_cat" nicename="kids"><![CDATA[Kids]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[500]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+			<wp:meta_value><![CDATA[500]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[580]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>6 best women’s colored suits to wear this spring</title>
 		<link>https://demo.themegrill.com/spacious-store/2019/04/22/6-best-womens-colored-suits-to-wear-this-spring/</link>
 		<pubDate>Mon, 22 Apr 2019 05:42:21 +0000</pubDate>
@@ -5755,87 +6028,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>My account</title>
-		<link>https://demo.themegrill.com/spacious-store/my-account/</link>
-		<pubDate>Thu, 25 Apr 2019 05:48:29 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				[woocommerce_my_account]		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>517</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-25 05:48:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-25 05:48:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>https://demo.themegrill.com/spacious-store/2017/03/09/hello-world__trashed/</link>
-		<pubDate>Thu, 09 Mar 2017 03:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">http://blankinstall.web-dev.oxygen-is-really-amazing-and-everyone-loves-it.com/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				Welcome to WordPress. This is your first post. Edit or delete it, then start writing!		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>540</wp:post_id>
-		<wp:post_date><![CDATA[2017-03-09 03:18:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-03-09 03:18:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1555994285]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2017-03-09 03:18:12]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2017-03-09 03:18:12]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Wrist Watch</title>
@@ -6175,10 +6367,8 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<dc:creator><![CDATA[themeeditor]]></dc:creator>
 		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=product&#038;p=178</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.		]]></excerpt:encoded>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></excerpt:encoded>
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-17 07:04:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-17 07:04:59]]></wp:post_date_gmt>
@@ -6324,7 +6514,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.5.7]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.6.3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -6494,326 +6684,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Kids Suit</title>
-		<link>https://demo.themegrill.com/spacious-store/product/kids-suit/</link>
-		<pubDate>Wed, 17 Apr 2019 03:06:39 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=product&#038;p=191</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.]]></excerpt:encoded>
-		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-17 03:06:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-17 03:06:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[kids-suit]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_cat" nicename="kids"><![CDATA[Kids]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1000]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1000]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[581]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Kids Dress</title>
-		<link>https://demo.themegrill.com/spacious-store/product/kids-dress/</link>
-		<pubDate>Wed, 17 Apr 2019 03:08:07 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">http://courageous-walrus.w6.wpsandbox.pro/?post_type=product&#038;p=193</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.]]></excerpt:encoded>
-		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-17 03:08:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-17 03:08:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[kids-dress]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_cat" nicename="kids"><![CDATA[Kids]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[500]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-			<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-			<wp:meta_value><![CDATA[500]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[580]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Kids Shoes</title>
 		<link>https://demo.themegrill.com/spacious-store/product/kids-shoes/</link>
 		<pubDate>Wed, 17 Apr 2019 03:10:26 +0000</pubDate>
@@ -6962,7 +6832,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.6.3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7605,7 +7475,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3.6.3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_price]]></wp:meta_key>
