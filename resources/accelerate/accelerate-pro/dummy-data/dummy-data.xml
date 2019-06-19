@@ -29,7 +29,7 @@
 	<title>Accelerate Pro</title>
 	<link>https://demo.themegrill.com/accelerate-pro</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Mon, 19 Mar 2018 11:28:48 +0000</pubDate>
+	<pubDate>Tue, 18 Jun 2019 05:54:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
@@ -177,6 +177,21 @@
 		<wp:term_name><![CDATA[Blue]]></wp:term_name>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[37]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[clothing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Clothing]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[46]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
@@ -219,11 +234,56 @@
 		<wp:term_name><![CDATA[grouped]]></wp:term_name>
 	</wp:term>
 	<wp:term>
+		<wp:term_id><![CDATA[38]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[hoodies]]></wp:term_slug>
+		<wp:term_parent><![CDATA[clothing]]></wp:term_parent>
+		<wp:term_name><![CDATA[Hoodies]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[44]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[music]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Music]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
 		<wp:term_id><![CDATA[48]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[39]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[posters]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Posters]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[49]]></wp:term_id>
@@ -268,80 +328,6 @@
 		<wp:term_name><![CDATA[simple]]></wp:term_name>
 	</wp:term>
 	<wp:term>
-		<wp:term_id><![CDATA[54]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
-	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[32]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[variable]]></wp:term_name>
-	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[37]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[clothing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Clothing]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[38]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[hoodies]]></wp:term_slug>
-		<wp:term_parent><![CDATA[clothing]]></wp:term_parent>
-		<wp:term_name><![CDATA[Hoodies]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[44]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[music]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Music]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[39]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[posters]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Posters]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-	<wp:term>
 		<wp:term_id><![CDATA[40]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[singles]]></wp:term_slug>
@@ -370,6 +356,20 @@
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[54]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[32]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[variable]]></wp:term_name>
 	</wp:term>
 	<wp:term>
 		<wp:term_id><![CDATA[42]]></wp:term_id>
@@ -1384,7 +1384,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:23:"2013/06/poster_2_up.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"poster_2_up-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"poster_2_up-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"poster_2_up-165x165.jpg";s:5:"width";i:165;s:6:"height";i:165;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"poster_2_up-245x245.jpg";s:5:"width";i:245;s:6:"height";i:245;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:23:"poster_2_up-530x530.jpg";s:5:"width";i:530;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:23:"poster_2_up-720x300.jpg";s:5:"width";i:720;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-small";a:4:{s:4:"file";s:23:"poster_2_up-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:16:"featured-service";a:4:{s:4:"file";s:23:"poster_2_up-600x330.jpg";s:5:"width";i:600;s:6:"height";i:330;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-recent-work";a:4:{s:4:"file";s:23:"poster_2_up-365x365.jpg";s:5:"width";i:365;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:23:"2013/06/poster_2_up.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"poster_2_up-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"poster_2_up-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"poster_2_up-165x165.jpg";s:5:"width";i:165;s:6:"height";i:165;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"poster_2_up-245x245.jpg";s:5:"width";i:245;s:6:"height";i:245;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:23:"poster_2_up-530x530.jpg";s:5:"width";i:530;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:23:"poster_2_up-720x300.jpg";s:5:"width";i:720;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-small";a:4:{s:4:"file";s:23:"poster_2_up-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:16:"featured-service";a:4:{s:4:"file";s:23:"poster_2_up-600x330.jpg";s:5:"width";i:600;s:6:"height";i:330;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-recent-work";a:4:{s:4:"file";s:23:"poster_2_up-365x365.jpg";s:5:"width";i:365;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}s:26:"woocommerce_single_preview";a:4:{s:4:"file";s:23:"poster_2_up-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1415,7 +1415,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:25:"2013/06/Poster_2_flat.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"Poster_2_flat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"Poster_2_flat-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"Poster_2_flat-165x165.jpg";s:5:"width";i:165;s:6:"height";i:165;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:25:"Poster_2_flat-245x245.jpg";s:5:"width";i:245;s:6:"height";i:245;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:25:"Poster_2_flat-530x530.jpg";s:5:"width";i:530;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:25:"Poster_2_flat-720x300.jpg";s:5:"width";i:720;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-small";a:4:{s:4:"file";s:25:"Poster_2_flat-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:16:"featured-service";a:4:{s:4:"file";s:25:"Poster_2_flat-600x330.jpg";s:5:"width";i:600;s:6:"height";i:330;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-recent-work";a:4:{s:4:"file";s:25:"Poster_2_flat-365x365.jpg";s:5:"width";i:365;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:25:"2013/06/Poster_2_flat.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"Poster_2_flat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"Poster_2_flat-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"Poster_2_flat-165x165.jpg";s:5:"width";i:165;s:6:"height";i:165;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:25:"Poster_2_flat-245x245.jpg";s:5:"width";i:245;s:6:"height";i:245;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:25:"Poster_2_flat-530x530.jpg";s:5:"width";i:530;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:25:"Poster_2_flat-720x300.jpg";s:5:"width";i:720;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-small";a:4:{s:4:"file";s:25:"Poster_2_flat-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:16:"featured-service";a:4:{s:4:"file";s:25:"Poster_2_flat-600x330.jpg";s:5:"width";i:600;s:6:"height";i:330;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-recent-work";a:4:{s:4:"file";s:25:"Poster_2_flat-365x365.jpg";s:5:"width";i:365;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}s:26:"woocommerce_single_preview";a:4:{s:4:"file";s:25:"Poster_2_flat-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3674,61 +3674,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Theme Instruction</title>
-		<link>https://demo.themegrill.com/accelerate-pro/theme-instruction/</link>
-		<pubDate>Wed, 16 Jul 2014 16:37:43 +0000</pubDate>
-		<dc:creator><![CDATA[demo@themegrill]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/accelerate-pro/?p=206</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>206</wp:post_id>
-		<wp:post_date><![CDATA[2014-07-16 16:37:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-07-16 16:37:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[theme-instruction]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="header"><![CDATA[Header]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[205]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[206]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/accelerate-pro]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>2</title>
 		<link>https://demo.themegrill.com/accelerate-pro/amanda-hayes/attachment/2/</link>
 		<pubDate>Fri, 02 Sep 2016 10:35:54 +0000</pubDate>
@@ -3858,7 +3803,7 @@
 		<dc:creator><![CDATA[themeeditor]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/accelerate-pro/?post_type=everest_form&#038;p=441</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"441","form_field_id":1,"form_fields":{"lVizlNhYus-1":{"id":"lVizlNhYus-1","type":"text","label":"Name","meta-key":"name_9083","description":"","required":"1","placeholder":"","css":""},"xJivsqAS2c-2":{"id":"xJivsqAS2c-2","type":"text","label":"Subject","meta-key":"subject_9579","description":"","required":"1","placeholder":"","css":""},"XYnMdkQDKM-3":{"id":"XYnMdkQDKM-3","type":"email","label":"Email","meta-key":"email_2511","description":"","required":"1","placeholder":"","default_value":"","css":""},"YalaPcQ0DO-4":{"id":"YalaPcQ0DO-4","type":"textarea","label":"Message","meta-key":"message_5875","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","recaptcha_support":"0","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","disabled_entries":"0","submit_button_text":"Submit","email":{"evf_to_email":"themegrill@gmail.com","evf_from_name":"Accelerate Pro","evf_from_email":"wordpress@demo.themegrill.com","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"structure":{"row_1":{"grid_1":["lVizlNhYus-1","XYnMdkQDKM-3","xJivsqAS2c-2","YalaPcQ0DO-4"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"441","form_field_id":1,"form_fields":{"lVizlNhYus-1":{"id":"lVizlNhYus-1","type":"text","label":"Name","meta-key":"name_9083","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"XYnMdkQDKM-3":{"id":"XYnMdkQDKM-3","type":"email","label":"Email","meta-key":"email_2511","description":"","required":"1","placeholder":"","default_value":"","css":""},"xJivsqAS2c-2":{"id":"xJivsqAS2c-2","type":"text","label":"Subject","meta-key":"subject_9579","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"YalaPcQ0DO-4":{"id":"YalaPcQ0DO-4","type":"textarea","label":"Message","meta-key":"message_5875","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","recaptcha_support":"0","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Accelerate Pro","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["lVizlNhYus-1","XYnMdkQDKM-3","xJivsqAS2c-2","YalaPcQ0DO-4"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>441</wp:post_id>
 		<wp:post_date><![CDATA[2018-02-09 08:42:47]]></wp:post_date>
@@ -3872,6 +3817,37 @@
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title>woocommerce-placeholder</title>
+		<link>https://demo.themegrill.com/accelerate-pro/woocommerce-placeholder/</link>
+		<pubDate>Fri, 17 May 2019 07:06:25 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/accelerate-pro/wp-content/uploads/sites/9/2019/05/woocommerce-placeholder.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>474</wp:post_id>
+		<wp:post_date><![CDATA[2019-05-17 07:06:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-05-17 07:06:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://demo.themegrill.com/accelerate-pro/wp-content/uploads/sites/9/woocommerce-placeholder.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:19:"featured-blog-large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-720x300.png";s:5:"width";i:720;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:19:"featured-blog-small";a:4:{s:4:"file";s:35:"woocommerce-placeholder-230x230.png";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:9:"image/png";}s:16:"featured-service";a:4:{s:4:"file";s:35:"woocommerce-placeholder-600x330.png";s:5:"width";i:600;s:6:"height";i:330;s:9:"mime-type";s:9:"image/png";}s:20:"featured-recent-work";a:4:{s:4:"file";s:35:"woocommerce-placeholder-365x365.png";s:5:"width";i:365;s:6:"height";i:365;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Photography</title>
@@ -4092,6 +4068,61 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Theme Instruction</title>
+		<link>https://demo.themegrill.com/accelerate-pro/theme-instruction/</link>
+		<pubDate>Wed, 16 Jul 2014 16:37:43 +0000</pubDate>
+		<dc:creator><![CDATA[demo@themegrill]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/accelerate-pro/?p=206</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>206</wp:post_id>
+		<wp:post_date><![CDATA[2014-07-16 16:37:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-07-16 16:37:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[theme-instruction]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="header"><![CDATA[Header]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[206]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/accelerate-pro]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4697,32 +4728,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>testing</title>
-		<link>https://demo.themegrill.com/accelerate-pro/?page_id=357</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[demo@themegrill]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/accelerate-pro/?page_id=357</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>357</wp:post_id>
-		<wp:post_date><![CDATA[2015-12-09 04:53:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -5582,8 +5587,8 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5731,8 +5736,8 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5880,8 +5885,8 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
@@ -6031,9 +6036,9 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="pa_color" nicename="black"><![CDATA[Black]]></category>
 		<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -6228,9 +6233,9 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -6373,9 +6378,9 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -6518,9 +6523,9 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[54]]></wp:meta_value>
@@ -6663,9 +6668,9 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -7132,8 +7137,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7277,8 +7282,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7419,10 +7424,10 @@ audio/mpeg
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="pa_color" nicename="black"><![CDATA[Black]]></category>
-		<category domain="pa_color" nicename="green"><![CDATA[Green]]></category>
-		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
+		<category domain="pa_color" nicename="green"><![CDATA[Green]]></category>
 		<category domain="product_cat" nicename="t-shirts"><![CDATA[T-shirts]]></category>
+		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_max_price_variation_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[252]]></wp:meta_value>
@@ -7608,7 +7613,7 @@ audio/mpeg
 		<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?product_variation=product-40-variation</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[color: Black]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2013-06-07 10:59:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-06-07 10:59:15]]></wp:post_date_gmt>
@@ -7710,7 +7715,7 @@ audio/mpeg
 		<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?product_variation=product-40-variation-2</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[color: Blue]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2013-06-07 10:59:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-06-07 10:59:15]]></wp:post_date_gmt>
@@ -7825,9 +7830,9 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="product_cat" nicename="hoodies"><![CDATA[Hoodies]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[61]]></wp:meta_value>
@@ -7970,8 +7975,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="posters"><![CDATA[Posters]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -8118,8 +8123,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="posters"><![CDATA[Posters]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -8258,8 +8263,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="posters"><![CDATA[Posters]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_visibility]]></wp:meta_key>
 			<wp:meta_value><![CDATA[visible]]></wp:meta_value>
@@ -8402,8 +8407,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="posters"><![CDATA[Posters]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[77]]></wp:meta_value>
@@ -8546,8 +8551,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="posters"><![CDATA[Posters]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[80]]></wp:meta_value>
@@ -8690,9 +8695,9 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="albums"><![CDATA[Albums]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[88]]></wp:meta_value>
@@ -8843,9 +8848,9 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="albums"><![CDATA[Albums]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[91]]></wp:meta_value>
@@ -8996,8 +9001,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="singles"><![CDATA[Singles]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9149,9 +9154,9 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="albums"><![CDATA[Albums]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[97]]></wp:meta_value>
@@ -9302,8 +9307,8 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="singles"><![CDATA[Singles]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9430,7 +9435,7 @@ audio/mpeg
 		<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?product_variation=product-22-variation</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[color: Black]]></excerpt:encoded>
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2013-06-07 10:44:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-06-07 10:44:57]]></wp:post_date_gmt>
@@ -9532,7 +9537,7 @@ audio/mpeg
 		<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?product_variation=product-22-variation-2</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[color: Green]]></excerpt:encoded>
 		<wp:post_id>252</wp:post_id>
 		<wp:post_date><![CDATA[2013-06-07 10:44:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-06-07 10:44:58]]></wp:post_date_gmt>
@@ -9647,9 +9652,9 @@ audio/mpeg
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="albums"><![CDATA[Albums]]></category>
 		<category domain="product_cat" nicename="music"><![CDATA[Music]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[84]]></wp:meta_value>
