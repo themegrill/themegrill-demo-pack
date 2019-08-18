@@ -181,6 +181,52 @@
         }
       }
     },
+    "spacious-car-repair": {
+      "title": "Spacious Car Repair",
+      "preview": "https://demo.themegrill.com/spacious-car-repair/",
+      "description": "Use this demo to create the perfect website for your car repair shop.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Car Repair",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top",
+          "primary": "Primary"
+        }
+      }
+    },
     "spacious-blog": {
       "title": "Spacious Blog",
       "preview": "https://demo.themegrill.com/spacious-blog/",
