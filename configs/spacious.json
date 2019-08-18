@@ -548,6 +548,83 @@
         }
       }
     },
+    "spacious-pro-hotel": {
+      "isPro": true,
+      "title": "Spacious Pro Hotel",
+      "preview": "https://demo.themegrill.com/spacious-pro-hotel/",
+      "description": "Use this Spacious demo to create your amazing Hotel website.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "wp-hotel-booking": {
+          "name": "WP Hotel Booking",
+          "slug": "wp-hotel-booking/wp-hotel-booking.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Hotel",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#0f1b36",
+          "#54595f",
+          "#7a7a7a",
+          "#61ce70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Vollkorn",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Vollkorn",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Vollkorn",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Vollkorn",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top",
+          "primary": "Primary"
+        }
+      }
+    },
     "spacious-pro-business": {
       "isPro": true,
       "title": "Spacious Pro Business",
