@@ -209,16 +209,38 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
         "blogname": "Spacious Car Repair",
         "page_on_front": "HOME",
         "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#1c63b8",
+          "#868e96",
+          "#1c63b8"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
