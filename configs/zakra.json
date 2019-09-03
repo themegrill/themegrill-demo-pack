@@ -1141,6 +1141,82 @@
         }
       }
     },
+    "zakra-yoga-v2": {
+      "isPro": true,
+      "title": "Yoga v2",
+      "preview": "https://zakrademos.com/yoga-v2/",
+      "description": "Be beautiful & healthy.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "Companion Addons for Elementor",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "zakra-pro": {
+          "name": "Zakra Pro",
+          "slug": "zakra-pro/zakra-pro.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Yoga",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#495057",
+          "#84be38",
+          "#868e96",
+          "#61ce70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Source Sans Pro",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Great Vibes",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Source Sans Pro",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Soruce Sans Pro",
+            "font_weight": "600"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-spa": {
       "title": "Spa",
       "preview": "https://zakrademos.com/spa/",
