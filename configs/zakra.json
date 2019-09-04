@@ -1145,7 +1145,7 @@
       "isPremium": true,
       "title": "Yoga v2",
       "preview": "https://zakrademos.com/yoga-v2/",
-      "description": "Be beautiful & healthy.",
+      "description": "Use this demo to spread knowledge about yoga and its benefits.",
       "template": [
         "zakra"
       ],
@@ -1173,7 +1173,7 @@
         }
       },
       "core_options": {
-        "blogname": "Zakra Yoga v2",
+        "blogname": "Zakra Yoga",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -1190,7 +1190,7 @@
             "font_weight": "700"
           },
           "secondary": {
-            "font_family": "Handlee",
+            "font_family": "Great Vibes",
             "font_weight": "400"
           },
           "body": {
@@ -1396,6 +1396,68 @@
           "accent": {
             "font_family": "Merriweather",
             "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "zakra-charity-v2": {
+      "title": "Charity v2",
+      "preview": "https://zakrademos.com/charity-v2/",
+      "description": "Use this demo to help the suffered peoples by raising funds.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Charity v2",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#292929",
+          "#f13e4b",
+          "#808080",
+          "#f13e4b"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Noto Serif",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Noto Serif",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Noto Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Noto Sans",
+            "font_weight": "500"
           }
         }
       },
