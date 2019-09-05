@@ -1741,6 +1741,74 @@
         }
       }
     },
+    "zakra-cafe-v2": {
+      "isPremium": true,
+      "title": "Cafe v2",
+      "preview": "https://zakrademos.com/cafe-v2/",
+      "description": "Let know your audiences about what you can best offer via this demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Cafe",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#343a40",
+          "#343a40",
+          "#9f603c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-charity": {
       "title": "Charity",
       "preview": "https://zakrademos.com/charity/",
