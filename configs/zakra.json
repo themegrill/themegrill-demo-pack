@@ -418,6 +418,70 @@
         }
       }
     },
+    "zakra-construction-v2": {
+      "isPremium": true,
+      "title": "Construction v2",
+      "preview": "https://zakrademos.com/construction-v2/",
+      "description": "Help understand your clients about what you can offer for construction via this demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Construction",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#ffc40e",
+          "#212529",
+          "#f6121c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Oswald",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Oswald",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-minimal-portfolio": {
       "title": "Minimal Portfolio",
       "preview": "https://zakrademos.com/minimal-portfolio/",
