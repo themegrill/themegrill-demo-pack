@@ -81,6 +81,72 @@
         }
       }
     },
+    "zakra-main-v2": {
+      "title": "Main v2",
+      "preview": "https://zakrademos.com/main-v2/",
+      "description": "Use this demo to best showcase about what your company can offer for your clients.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Main v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#ed1c24",
+          "#343a40",
+          "#ed1c24"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Source Serif Pro",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Source Serif Pro",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Source Serif Pro",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
     "zakra-business": {
       "title": "Business",
       "preview": "https://zakrademos.com/business/",
