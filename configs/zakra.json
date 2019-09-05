@@ -217,6 +217,73 @@
         }
       }
     },
+    "zakra-business-v2": {
+      "isPremium": true,
+      "title": "Business v2",
+      "preview": "https://zakrademos.com/business-v2/",
+      "description": "Let your experience speak about what you can do for your clients via this demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Business v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#001842",
+          "#001842",
+          "#001842",
+          "#fdaf27"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lato",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
      "zakra-shop-v2": {
       "title": "Shop V2",
       "preview": "https://zakrademos.com/shop-v2/",
@@ -880,6 +947,74 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "zakra-education-v2": {
+      "isPremium": true,
+      "title": "Education v2",
+      "preview": "https://zakrademos.com/education-v2/",
+      "description": "Use this demo to start your innovation on sharing education.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+         "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Education v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#fdc800",
+          "#343a40",
+          "#002248"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Open Sans",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Open Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
         }
       }
     },
