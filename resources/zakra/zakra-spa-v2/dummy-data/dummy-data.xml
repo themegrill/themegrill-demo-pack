@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.3" created="2019-09-05 09:50" -->
+	<!-- generator="WordPress/5.2.3" created="2019-09-13 05:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zakra Spa</title>
 	<link>https://zakrademos.com/spa-v2</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Thu, 05 Sep 2019 09:50:59 +0000</pubDate>
+	<pubDate>Fri, 13 Sep 2019 05:37:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
@@ -4943,7 +4943,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>https://zakrademos.com/spa-v2/2019/09/02/hello-world/</link>
+		<link>https://zakrademos.com/spa-v2/2019/09/02/hello-world__trashed-2/</link>
 		<pubDate>Mon, 02 Sep 2019 11:37:46 +0000</pubDate>
 		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/spa-v2/?p=1</guid>
@@ -4955,15 +4955,31 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_date_gmt><![CDATA[2019-09-02 11:37:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[hello-world__trashed-2]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1568351865]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
@@ -4974,7 +4990,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
@@ -4987,8 +5003,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">http://easy-elephant.w5.wpsandbox.pro/?p=468</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				<div id="lipsum">
+		<content:encoded><![CDATA[<div id="lipsum">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque egestas sit amet lacus quis faucibus. Nunc tempor leo augue, et elementum neque placerat hendrerit. Vivamus vitae erat mauris. Sed nisl justo, congue ac nulla sit amet, viverra accumsan libero. Praesent a risus nec diam venenatis tristique id sit amet massa. Nunc tincidunt luctus odio, at aliquam dui lobortis at. In sit amet ex et sapien ullamcorper ornare. Nulla accumsan risus nec ante congue blandit. Donec et nunc non ante convallis tempus.
 
@@ -5000,9 +5015,8 @@ Nunc bibendum, augue nec egestas rutrum, est enim vulputate massa, vitae pellent
 
 Quisque suscipit, libero pulvinar rhoncus commodo, ligula nulla facilisis tortor, non gravida ligula dui eget arcu. Vestibulum ullamcorper porttitor auctor. Cras mattis, diam id luctus dictum, augue neque fermentum dolor, quis molestie massa eros nec orci. Phasellus a diam vel risus lacinia porta a ac purus. Aliquam gravida enim est. Curabitur neque eros, aliquet nec nisl sit amet, consectetur vehicula elit. Donec venenatis justo ex, ac gravida erat convallis nec. Duis sed interdum massa, non accumsan nibh. Fusce vitae tellus placerat, vehicula sem non, suscipit nisl. Aenean eu velit consequat, ultrices massa sed, hendrerit tellus. Donec a justo at urna luctus sollicitudin.
 
-</div>		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>468</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-30 08:55:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-30 08:55:53]]></wp:post_date_gmt>
