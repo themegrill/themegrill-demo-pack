@@ -2,7 +2,7 @@
   "name": "Spacious",
   "slug": "spacious",
   "version": "1.0.0",
-  "homepage": "https://themegrill.com/themes/spacious/?utm_source=spacious-demo-import-screen&utm_medium=buy-now-link&utm_campaign=view-pro#free-vs-pro",
+  "homepage": "https://themegrill.com/themes/spacious/",
   "categories": {
     "all": "All",
     "blog": "Blog",
@@ -253,6 +253,79 @@
         }
       }
     },
+    "spacious-food": {
+      "title": "Spacious Food",
+      "preview": "https://demo.themegrill.com/spacious-food/",
+      "description": "Use this Spacious demo to let your user's know what you can offer as menu.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "other"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Food",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#189a19",
+          "#7a7a7a",
+          "#189a19"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lato",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "header": "Header"
+        }
+      }
+    },
     "spacious-freelancer": {
       "title": "Spacious Freelancer",
       "preview": "https://demo.themegrill.com/spacious-freelancer/",
@@ -475,6 +548,79 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main Menu"
+        }
+      }
+    },
+    "spacious-pro-sports": {
+      "isPro": true,
+      "title": "Spacious Pro Sports",
+      "preview": "https://demo.themegrill.com/spacious-pro-sports/",
+      "description": "Use this Spacious demo to let your user's know what you can offer as sports.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "spacious-toolkit": {
+          "name": "Spacious Toolkit",
+          "slug": "spacious-toolkit/spacious-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Sports",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#11a399",
+          "#ffffff",
+          "#7a7a7a",
+          "#11a399"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "header" : "Header Top"
         }
       }
     },
