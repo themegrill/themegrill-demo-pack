@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.2" created="2019-07-21 03:31" -->
+	<!-- generator="WordPress/5.2.4" created="2019-10-16 09:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zakra Gutenberg</title>
 	<link>https://zakrademos.com/gutenberg</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Sun, 21 Jul 2019 03:31:28 +0000</pubDate>
+	<pubDate>Wed, 16 Oct 2019 09:17:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
@@ -63,10 +63,18 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[section]]></wp:term_name>
 	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[amp_template]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[story-template]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Story Template]]></wp:term_name>
+		<wp:term_description><![CDATA[Story Template]]></wp:term_description>
+	</wp:term>
 			<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 
 		<item>
 		<title>Contact Us</title>
@@ -75,24 +83,79 @@
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-gutenberg/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h1>Contact Us</h1>
-<h3>Location</h3>
-25, Street, LA, United States
-<h3>Email</h3>
-info@example.com
-<h3>Contact no</h3>
-+123-4567890
-<h3>Follow us on</h3>
-<a href="" target="_blank" rel="noopener noreferrer">
-Facebook
-</a>
-<a href="" target="_blank" rel="noopener noreferrer">
-Twitter
-</a>
-<a href="" target="_blank" rel="noopener noreferrer">
-Google-plus
-</a>
-[everest_form id="49"]]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:group {"customBackgroundColor":"#f7f8fa","className":"stretched-heading"} -->
+<div class="wp-block-group has-background stretched-heading" style="background-color:#f7f8fa"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Contact Us</h1>
+<!-- /wp:heading --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4>Location</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>25, Street, LA, United States</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":20} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Email</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> info@example.com </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":20} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Contact no</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> +123-4567890 </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":20} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Follow us on</h4>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<div class="social-icons">
+<a class="icon" href=""><i class="fa fa-facebook"></i></a> 
+<a class="icon" href=""><i class="fa fa-twitter"></i></a>
+<a class="icon" href=""><i class="fa fa-google-plus"></i></a>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:everest-forms/form-selector {"formId":"49"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-25 04:24:09]]></wp:post_date>
@@ -108,7 +171,7 @@ Google-plus
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/pagebuilder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
@@ -127,10 +190,6 @@ Google-plus
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"cbf42c8","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#f7f8fa","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"537c002","elType":"column","settings":{"_column_size":100},"elements":[{"id":"dcdaaab","elType":"widget","settings":{"title":"Contact Us","align":"center","title_color":"#16181a","header_size":"h1"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"5f380fe","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"100","right":0,"bottom":"100","left":0,"isLinked":true},"margin_mobile":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":true}},"elements":[{"id":"53a878f","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"52275a2","elType":"widget","settings":{"title":"Location","size":"large","header_size":"h3","align":"left","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"69ecee1","elType":"widget","settings":{"editor":"25, Street, LA, United States"},"elements":[],"widgetType":"text-editor"},{"id":"ae631d1","elType":"widget","settings":{"title":"Email","size":"large","header_size":"h3","align":"left","title_color":"#16181a","_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"98af357","elType":"widget","settings":{"editor":"info@example.com"},"elements":[],"widgetType":"text-editor"},{"id":"1b52681","elType":"widget","settings":{"title":"Contact no","size":"large","header_size":"h3","align":"left","title_color":"#16181a","_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"601d399","elType":"widget","settings":{"editor":"+123-4567890"},"elements":[],"widgetType":"text-editor"},{"id":"bc6b16e","elType":"widget","settings":{"title":"Follow us on","size":"large","header_size":"h3","align":"left","title_color":"#16181a","_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"dabb895","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"74ec2de","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"951221c","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"c815b02","link":{"url":"","is_external":"true","nofollow":""}}],"align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_size":{"unit":"px","size":14},"icon_padding":{"unit":"em","size":1.1},"icon_spacing":{"unit":"px","size":10},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"7e56ef4","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"19f036a","elType":"widget","settings":{"shortcode":"[everest_form id=\"49\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
@@ -145,6 +204,10 @@ Google-plus
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -655,105 +718,6 @@ This allows you to denote <var>variables</var>.
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>About Us</title>
-		<link>https://zakrademos.com/gutenberg/about-us/</link>
-		<pubDate>Thu, 27 Sep 2018 05:07:40 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/zakra-gutenberg/?page_id=53</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h1>About US</h1>		
-		<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change</p>		
-										<img width="120" height="120" src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/team-image.jpg" alt="" />											
-			<h4>John Morgovic</h4>		
-		Co-founder &amp; CEO<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p> 		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Google-plus
-				</a>
-										<img width="120" height="120" src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/04w.jpg" alt="" />											
-			<h4>John Morgovic</h4>		
-		Co-founder &amp; CEO<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p> 		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Google-plus
-				</a>
-										<img width="120" height="120" src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/22w.jpg" alt="" />											
-			<h4>John Morgovic</h4>		
-		Co-founder &amp; CEO<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p> 		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-				</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Google-plus
-				</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2018-09-27 05:07:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-09-27 05:07:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"8f97888","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#f7f8fa","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"16ef7bd","elType":"column","settings":{"_column_size":100},"elements":[{"id":"19dd4ac","elType":"widget","settings":{"title":"About US","header_size":"h1","align":"center","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"4ae21b4","elType":"section","settings":{"structure":"34"},"elements":[{"id":"75279c9","elType":"column","settings":{"_column_size":16,"_inline_size":null},"elements":[],"isInner":true},{"id":"21bd000","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"90153c1","elType":"widget","settings":{"editor":"<p><span style=\"color: #16181a; font-family: Inconsolata, sans-serif; font-size: 15px; text-align: left;\">Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change<\/span><\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"cbaf66b","elType":"column","settings":{"_column_size":16,"_inline_size":null},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"4da31522","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"100","right":0,"bottom":"100","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":true}},"elements":[{"id":"23976c96","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"29a3939e","elType":"widget","settings":{"image":{"id":58,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/team-image.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"64030bc7","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"4699eb0b","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"99bfbe7","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"e6bd352","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"6bde7593","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"350a69c1","elType":"widget","settings":{"image":{"id":59,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/04w.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"31f6d080","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"c4a6b24","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"6c39c1c7","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"3cd600fc","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"57182d1c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5accf5b4","elType":"widget","settings":{"image":{"id":60,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/22w.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"67cb53c5","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"112602e5","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"2d5de6b","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"5a8efdde","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>team-image.jpg</title>
 		<link>https://zakrademos.com/gutenberg/team-image-jpg/</link>
 		<pubDate>Thu, 27 Sep 2018 05:28:12 +0000</pubDate>
@@ -1227,6 +1191,70 @@ This allows you to denote <var>variables</var>.
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>zakra</title>
+		<link>https://zakrademos.com/gutenberg/2019/10/15/zakra/</link>
+		<pubDate>Tue, 15 Oct 2019 11:21:57 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/gutenberg/2019/10/15/zakra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[.stretched-heading{
+	width:1349px;
+	margin-left: -94.5px;
+	padding:40px 0 40px 0 !important;
+}
+
+.wp-block-columns {
+	margin-top:100px;
+}
+
+.social-icons .icon {
+	background-color: black;
+	margin-right:10px;
+	padding:1.1em;
+	font-size: 14px;
+}
+.team-social-icons .icon {
+	background-color: black;
+	padding:0.7em;
+	font-size:15px;
+	margin-right:15px;
+}
+.icon i {
+	width: 1em;
+  height: 1em; 
+	color:white;
+	text-align:center;
+	line-height:1;
+}
+
+
+.team-column {
+	box-shadow:0 0 15px 0 rgba(0, 0, 0, 0.1);
+	padding:40px; ;
+}
+
+
+.about-us-column {
+	margin-top:30px;
+}	
+.about-us-desc {
+	padding-bottom:100px;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-15 11:21:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-15 11:21:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[zakra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title>Aboris exercitation veniam laboris incididunt duis aliquip.</title>
 		<link>https://zakrademos.com/gutenberg/2018/09/25/hello-world-2/</link>
 		<pubDate>Tue, 25 Sep 2018 04:24:09 +0000</pubDate>
@@ -1382,14 +1410,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
@@ -1457,8 +1477,8 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 <p>This is not to discredit the idea that few can name a juiceless bill that isn’t a bloodshot chicken. Far from the truth, a tactless dictionary is a sentence of the mind. A debt is a candle from the right perspective. We can assume that any instance of a gate can be construed as a rabic bike. Few can name a sequined balinese that isn’t a hymnal methane. A freckle sees a violet as a phrenic chard. A zephyr is a fang from the right perspective. If this was somewhat unclear, the creasy barbara comes from a wizen caution. The literature would have us believe that a randie gas is not but a nerve.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":29,"align":"wide"} -->
-<figure class="wp-block-image alignwide"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/flowers.jpg" alt="" class="wp-image-29" /></figure>
+<!-- wp:image {"align":"wide","id":29} -->
+<figure class="wp-block-image alignwide"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/flowers.jpg" alt="" class="wp-image-29"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:quote -->
@@ -1493,14 +1513,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
@@ -1519,6 +1531,14 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1544,7 +1564,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 <p>This is not to discredit the idea that few can name a juiceless bill that isn’t a bloodshot chicken. Far from the truth, a tactless dictionary is a sentence of the mind. A debt is a candle from the right perspective. We can assume that any instance of a gate can be construed as a rabic bike. Few can name a sequined balinese that isn’t a hymnal methane. A freckle sees a violet as a phrenic chard. A zephyr is a fang from the right perspective. If this was somewhat unclear, the creasy barbara comes from a wizen caution. The literature would have us believe that a randie gas is not but a nerve.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":29,"align":"wide"} -->
+<!-- wp:image {"align":"wide","id":29} -->
 <figure class="wp-block-image alignwide"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/flowers.jpg" alt="" class="wp-image-29"/></figure>
 <!-- /wp:image -->
 
@@ -1562,8 +1582,8 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 <p>The zeitgeist contends that the first workless blinker is, in its own way, a fibre. A marble is a eustyle servant. It’s an undeniable fact, really; a health sees a diamond as an unspied poultry. Some posit the discalced flavor to be less than schmalzy.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button {"backgroundColor":"vivid-cyan-blue","textColor":"very-dark-gray"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background has-vivid-cyan-blue-background-color">Checkout more demos<strong></strong></a></div>
+<!-- wp:button {"backgroundColor":"vivid-cyan-blue","textColor":"very-light-gray"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-very-light-gray-color has-background has-vivid-cyan-blue-background-color">Checkout more demos<strong></strong></a></div>
 <!-- /wp:button -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
@@ -1580,14 +1600,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
@@ -1626,6 +1638,292 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_menu_item_active_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[tg-primary-menu--style-none]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About Us</title>
+		<link>https://zakrademos.com/gutenberg/about-us/</link>
+		<pubDate>Thu, 27 Sep 2018 05:07:40 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/zakra-gutenberg/?page_id=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"customBackgroundColor":"#f7f8fa","className":"stretched-heading"} -->
+<div class="wp-block-group has-background stretched-heading" style="background-color:#f7f8fa"><div class="wp-block-group__inner-container"><!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">About Us</h1>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"about-us-column"} -->
+<div class="wp-block-columns about-us-column"><!-- wp:column {"width":21} -->
+<div class="wp-block-column" style="flex-basis:21%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":57} -->
+<div class="wp-block-column" style="flex-basis:57%"><!-- wp:paragraph {"align":"center","customTextColor":"#16181a","customFontSize":15} -->
+<p style="color:#16181a;font-size:15px" class="has-text-color has-text-align-center">
+
+Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change 
+
+</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":22} -->
+<div class="wp-block-column" style="flex-basis:22%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"className":"team-column"} -->
+<div class="wp-block-column team-column"><!-- wp:image {"width":120,"height":120} -->
+<figure class="wp-block-image is-resized"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/team-image.jpg" alt="" width="120" height="120"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>John Morgovic</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"vivid-cyan-blue"} -->
+<p class="has-text-color has-vivid-cyan-blue-color">Co-founder &amp; CEO</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<div class="team-social-icons">
+<a class="icon" href=""><i class="fa fa-facebook"></i></a> 
+<a class="icon" href=""><i class="fa fa-twitter"></i></a>
+<a class="icon" href=""><i class="fa fa-google-plus"></i></a>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"team-column"} -->
+<div class="wp-block-column team-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/04w.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>John Morgovic</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"vivid-cyan-blue"} -->
+<p class="has-text-color has-vivid-cyan-blue-color">Co-founder &amp; CEO</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<div class="team-social-icons">
+<a class="icon" href=""><i class="fa fa-facebook"></i></a> 
+<a class="icon" href=""><i class="fa fa-twitter"></i></a>
+<a class="icon" href=""><i class="fa fa-google-plus"></i></a>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"className":"team-column"} -->
+<div class="wp-block-column team-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://zakrademos.com/gutenberg/wp-content/uploads/sites/3/2018/09/22w.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>John Morgovic</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"vivid-cyan-blue"} -->
+<p class="has-text-color has-vivid-cyan-blue-color">Co-founder &amp; CEO</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Few can name a clammy raincoat that isn’t a hawklike map. What we don’t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:html -->
+<div class="team-social-icons">
+<a class="icon" href=""><i class="fa fa-facebook"></i></a> 
+<a class="icon" href=""><i class="fa fa-twitter"></i></a>
+<a class="icon" href=""><i class="fa fa-google-plus"></i></a>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<h1>&nbsp;</h1>
+<p></p>
+<h4><a target="_blank" rel="noopener noreferrer">&nbsp;</a></h4>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2018-09-27 05:07:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-27 05:07:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/pagebuilder.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"8f97888","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#f7f8fa","padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"16ef7bd","elType":"column","settings":{"_column_size":100},"elements":[{"id":"19dd4ac","elType":"widget","settings":{"title":"About US","header_size":"h1","align":"center","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"4ae21b4","elType":"section","settings":{"structure":"34"},"elements":[{"id":"75279c9","elType":"column","settings":{"_column_size":16,"_inline_size":null},"elements":[],"isInner":true},{"id":"21bd000","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"90153c1","elType":"widget","settings":{"editor":"<p><span style=\"color: #16181a; font-family: Inconsolata, sans-serif; font-size: 15px; text-align: left;\">Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change<\/span><\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"cbaf66b","elType":"column","settings":{"_column_size":16,"_inline_size":null},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"4da31522","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"100","right":0,"bottom":"100","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":true}},"elements":[{"id":"23976c96","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"29a3939e","elType":"widget","settings":{"image":{"id":58,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/team-image.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"64030bc7","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"4699eb0b","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"99bfbe7","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"e6bd352","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"6bde7593","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"350a69c1","elType":"widget","settings":{"image":{"id":59,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/04w.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"31f6d080","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"c4a6b24","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"6c39c1c7","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"3cd600fc","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"57182d1c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":3,"blur":20,"spread":0,"color":"rgba(9,22,80,0.05)"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"5accf5b4","elType":"widget","settings":{"image":{"id":60,"url":"https:\/\/zakrademos.com\/gutenberg\/wp-content\/uploads\/sites\/3\/2018\/09\/22w.jpg"},"image_size":"full","align":"left"},"elements":[],"widgetType":"image"},{"id":"67cb53c5","elType":"widget","settings":{"title":"John Morgovic","size":"medium","header_size":"h4","title_color":"#16181a"},"elements":[],"widgetType":"heading"},{"id":"112602e5","elType":"widget","settings":{"editor":"Co-founder &amp; CEO","align":"left","text_color":"#269bd1"},"elements":[],"widgetType":"text-editor"},{"id":"2d5de6b","elType":"widget","settings":{"editor":"<p>Few can name a clammy raincoat that isn\u2019t a hawklike map. What we don\u2019t know for sure is whether or not trails are snafu suits. They were lost without the jetty server that composed their change. An unslung cork is a beard of the mind.<\/p><div>\u00a0<\/div>","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"5a8efdde","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"3f726f1","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"8d17360","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-google-plus","_id":"f866166","link":{"url":"","is_external":"true","nofollow":""}}],"shape":"square","align":"left","icon_color":"custom","icon_primary_color":"#16181a","icon_padding":{"unit":"em","size":0.7},"icon_spacing":{"unit":"px","size":15},"icon_size":{"unit":"px","size":15}},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contact</title>
+		<link>https://zakrademos.com/gutenberg/contact__trashed/</link>
+		<pubDate>Tue, 15 Oct 2019 10:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/gutenberg/?page_id=99</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>Location</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>25, Street, LA, United States</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Email</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>info@example.com</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Contact no</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>+123-4567890</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Follow us on</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:html -->
+<div class="social-icons"><i class="fa fa-facebook"></i><i class="fa fa-twitter"></i>
+<i class="fa fa-google-plus"></i>
+</div>
+<!-- /wp:html --></div></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:everest-forms/form-selector {"formId":"49"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>99</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-15 10:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-15 10:37:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1571137077]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
