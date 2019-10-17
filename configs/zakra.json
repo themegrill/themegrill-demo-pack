@@ -8,6 +8,7 @@
     "blog": "Blog",
     "business": "Business",
     "ecommerce": "eCommerce",
+    "one-page": "One Page",
     "others": "Others"
   },
   "pagebuilders": {
@@ -415,6 +416,68 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main Menu"
+        }
+      }
+    },
+    "zakra-one-page": {
+      "title": "One Page",
+      "preview": "https://zakrademos.com/one-page/",
+      "description": "Present your site effectively with modern one page design.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "one-page",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra One Page",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#5bb5a5",
+          "#222222",
+          "#222222",
+          "#5bb5a5"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "800"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
         }
       }
     },
