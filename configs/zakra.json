@@ -419,6 +419,70 @@
         }
       }
     },
+    "zakra-construction-v2": {
+      "isPremium": true,
+      "title": "Construction v2",
+      "preview": "https://zakrademos.com/construction-v2/",
+      "description": "Help understand your clients about what you can offer for construction via this demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Construction",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#ffc40e",
+          "#212529",
+          "#f6121c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Oswald",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Oswald",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-one-page": {
       "title": "One Page",
       "preview": "https://zakrademos.com/one-page/",
@@ -481,18 +545,18 @@
         }
       }
     },
-    "zakra-construction-v2": {
+    "zakra-one-page-v2": {
       "isPremium": true,
-      "title": "Construction v2",
-      "preview": "https://zakrademos.com/construction-v2/",
-      "description": "Help understand your clients about what you can offer for construction via this demo.",
+      "title": "One Page V2",
+      "preview": "https://zakrademos.com/one-page-v2/",
+      "description": "Deliver better user experience with one-page scrolling layout.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
-        "blog",
         "business",
+        "one-page",
         "others"
       ],
       "pagebuilder": [
@@ -509,28 +573,27 @@
         }
       },
       "core_options": {
-        "blogname": "Zakra Construction",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
+        "blogname": "Zakra One Page",
+        "page_on_front": "Home"
       },
       "elementor_schemes": {
         "color": [
-          "#000000",
-          "#ffc40e",
-          "#212529",
-          "#f6121c"
+          "#f0a512",
+          "#1c9ac1",
+          "#131313",
+          "#f0a512"
         ],
         "typography": {
           "primary": {
-            "font_family": "Oswald",
+            "font_family": "Roboto",
             "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Oswald",
+            "font_family": "Roboto Slab",
             "font_weight": "400"
           },
           "body": {
-            "font_family": "Open Sans",
+            "font_family": "Robot",
             "font_weight": "400"
           },
           "accent": {
@@ -541,7 +604,7 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
+          "menu-primary": "Menu 1"
         }
       }
     },
