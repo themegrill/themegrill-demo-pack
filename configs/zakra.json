@@ -149,6 +149,270 @@
         }
       }
     },
+    "zakra-plumber-v2": {
+      "isPremium": true,
+      "title": "Zakra Plumber V2",
+      "preview": "https://zakrademos.com/plumber-v2/",
+      "description": "Use this Zakra demo to build your website for plumbing.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Plumber v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#eb9222",
+          "#411bbe",
+          "#5e5e5e",
+          "#eb9222"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
+    "zakra-shop-v2": {
+      "title": "Shop V2",
+      "preview": "https://zakrademos.com/shop-v2/",
+      "description": "Launch your stylish online store within minutes.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+         "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+         "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Shop V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#ff4c3b",
+          "#212529",
+          "#212529",
+          "#ff4c3b"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
+    "zakra-one-page": {
+      "title": "One Page",
+      "preview": "https://zakrademos.com/one-page/",
+      "description": "Present your site effectively with modern one page design.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "one-page",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra One Page",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#5bb5a5",
+          "#222222",
+          "#222222",
+          "#5bb5a5"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "800"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "zakra-one-page-v2": {
+      "isPremium": true,
+      "title": "One Page V2",
+      "preview": "https://zakrademos.com/one-page-v2/",
+      "description": "Deliver better user experience with one-page scrolling layout.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "one-page",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra One Page",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#f0a512",
+          "#1c9ac1",
+          "#131313",
+          "#f0a512"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Robot",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Menu 1"
+        }
+      }
+    },
     "zakra-business": {
       "title": "Business",
       "preview": "https://zakrademos.com/business/",
@@ -286,17 +550,18 @@
         }
       }
     },
-     "zakra-shop-v2": {
-      "title": "Shop V2",
-      "preview": "https://zakrademos.com/shop-v2/",
-      "description": "Launch your stylish online store within minutes.",
+    "zakra-app-v2": {
+      "isPremium": true,
+      "title": "App v2",
+      "preview": "https://zakrademos.com/app-v2/",
+      "description": "Use this Zakra demo to create an amazing App showcase website.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
+        "blog",
         "business",
-        "ecommerce",
         "others"
       ],
       "pagebuilder": [
@@ -311,42 +576,42 @@
           "name": "Elementor",
           "slug": "elementor/elementor.php"
         },
-         "mailchimp-for-wp": {
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        },
+        "mailchimp-for-wp": {
           "name": "MailChimp for WordPress",
           "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        },
-         "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Shop V2",
+        "blogname": "Zakra App v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
-          "#ff4c3b",
-          "#212529",
-          "#212529",
-          "#ff4c3b"
+          "#f35488",
+          "#494dbb",
+          "#5e5e5e",
+          "#f35488"
         ],
         "typography": {
           "primary": {
-            "font_family": "Roboto",
+            "font_family": "Lato",
             "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Roboto Slab",
+            "font_family": "Lato",
             "font_weight": "400"
           },
           "body": {
-            "font_family": "Roboto",
+            "font_family": "Lato",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Roboto",
+            "font_family": "Lato",
             "font_weight": "500"
           }
         }
@@ -416,68 +681,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main Menu"
-        }
-      }
-    },
-    "zakra-one-page": {
-      "title": "One Page",
-      "preview": "https://zakrademos.com/one-page/",
-      "description": "Present your site effectively with modern one page design.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "one-page",
-        "others"
-      ],
-      "pagebuilder": [
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra One Page",
-        "page_on_front": "Home"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#5bb5a5",
-          "#222222",
-          "#222222",
-          "#5bb5a5"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "800"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
-          },
-          "body": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Montserrat",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
         }
       }
     },
@@ -1319,6 +1522,7 @@
       "category": [
         "all",
         "business",
+        "one-page",
         "others"
       ],
       "pagebuilder": [
