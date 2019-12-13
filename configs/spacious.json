@@ -332,6 +332,74 @@
         }
       }
     },
+    "spacious-gym": {
+      "title": "Spacious Gym",
+      "preview": "https://demo.themegrill.com/spacious-gym/",
+      "description": "Start creating your fitness website with this Spacious Gym demo.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "other"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Gym",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#707070",
+          "#dd553b",
+          "#707070",
+          "#dd553b"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "spacious-freelancer": {
       "title": "Spacious Freelancer",
       "preview": "https://demo.themegrill.com/spacious-freelancer/",
@@ -489,7 +557,7 @@
         }
       }
     },
-     "spacious-pro-university": {
+    "spacious-pro-university": {
       "isPro": true,
       "title": "Spacious Pro University",
       "preview": "https://demo.themegrill.com/spacious-pro-university/",
@@ -631,7 +699,7 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Primary",
-          "header" : "Header Top"
+          "header": "Header Top"
         }
       }
     },
