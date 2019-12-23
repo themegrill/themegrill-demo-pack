@@ -1412,6 +1412,75 @@
         }
       }
     },
+    "zakra-dentist-v2": {
+      "isPremium": true,
+      "title": "Dentist V2",
+      "preview": "https://zakrademos.com/dentist-v2/",
+      "description": "Use this Zakra demo to create your hygienic dental website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Dentist V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#2d14d8",
+          "#ff003c",
+          "#6a6a6a",
+          "#ff003c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Work Sans",
+            "font_weight": "Bold"
+          },
+          "secondary": {
+            "font_family": "Work Sans",
+            "font_weight": "Bold"
+          },
+          "body": {
+            "font_family": "Work Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Work Sans",
+            "font_weight": "Bold"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
+
     "zakra-shop": {
       "title": "Shop",
       "preview": "https://zakrademos.com/shop/",
