@@ -82,6 +82,72 @@
         }
       }
     },
+    "colormag-top-magazine": {
+      "title": "ColorMag Top Magazine",
+      "preview": "https://demo.themegrill.com/colormag-top-magazine/",
+      "description": "Start working on your awesome online magazine with this ColorMag demo.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Top Magazine",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-4": {
+                "7": "News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "9": "Recent News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "8": "Popular News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "4": "Hotels &amp; Resorts"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Travel Guide"
+              },
+              "ColorMag-Posts-Block-6": {
+                "3": "Destination",
+                "5": "Latest News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-beauty-blog": {
       "title": "ColorMag Beauty Blog",
       "preview": "https://demo.themegrill.com/colormag-beauty-blog/",
