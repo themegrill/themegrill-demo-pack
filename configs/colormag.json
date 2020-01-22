@@ -1026,6 +1026,88 @@
         }
       }
     },
+    "colormag-pro-online-news": {
+      "isPro": true,
+      "title": "ColorMag Pro Online News",
+      "preview": "https://demo.themegrill.com/colormag-pro-online-news/",
+      "description": "Use this ColorMag demo to create your online news website.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Online News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-1": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "11": "Random Picks"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "6": "Latest News",
+                "7": "Most Popular News"                
+              },
+              "ColorMag-Posts-Block-6": {
+                "7": "Most Popular News",
+                "8": "Must Read",
+                "9": "News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "12": "Recent News"
+              }              
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Recent News"
+              },
+              "2": {
+                "category": "Editor Picks"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-pro-recipes": {
       "isPro": true,
       "title": "ColorMag Food Recipe",
