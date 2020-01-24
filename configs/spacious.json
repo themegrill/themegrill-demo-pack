@@ -714,6 +714,85 @@
         }
       }
     },
+    "spacious-pro-organic-food": {
+      "isPro": true,
+      "title": "Spacious Pro Organic Food",
+      "preview": "https://demo.themegrill.com/spacious-pro-organic-food/",
+      "description": "Create your organic food website with this Spacious demo.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "recent-posts-widget-extended": {
+          "name": "Recent Posts Widget Extended",
+          "slug": "recent-posts-widget-extended/rpwe.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Organic Food",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "spacious_team_widget": {
+            "1": {
+              "page_0": "Debra Phillips",
+              "page_1": "Austin Barrett",
+              "page_2": "Kevin Wells",
+              "page_3": "Carolyn Young"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "product_cat": {
+            "spacious_woocommerce_product": {
+              "1": {
+                "category": "Featured"
+              },
+              "2": {
+                "category": "Vegetables"
+              },
+              "3": {
+                "category": "juice"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header",
+          "primary": "Primary",
+          "footer": "Footer"
+        }
+      }
+    },
     "spacious-pro-sports": {
       "isPro": true,
       "title": "Spacious Pro Sports",
