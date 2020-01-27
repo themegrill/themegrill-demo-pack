@@ -185,6 +185,76 @@
         }
       }
     },
+    "spacious-company": {
+      "title": "Spacious Company",
+      "preview": "https://demo.themegrill.com/spacious-company/",
+      "description": "Use this Spacious demo to build and grow your company website.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "other"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "social-icons": {
+          "name": "Social Icon",
+          "slug": "social-icons/social-icons.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Company",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6bbf6a",
+          "#24201f",
+          "#c8c3c3",
+          "#e9e5e5"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "header": "Header Menu"
+        }
+      }
+    },
     "spacious-car-repair": {
       "title": "Spacious Car Repair",
       "preview": "https://demo.themegrill.com/spacious-car-repair/",
