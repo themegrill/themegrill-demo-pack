@@ -217,6 +217,70 @@
         }
       }
     },
+     "zakra-startup-business": {
+      "isPremium": true,
+      "title": "Startup Business",
+      "preview": "https://zakrademos.com/startup-business/",
+      "description": "Use this Zakra demo to create your startup business website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Startup Business",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#1CB5E0",
+          "#111111",
+          "#3E3E3E",
+          "#1CB5E0"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Catamaran",
+            "font_weight": "Bold"
+          },
+          "secondary": {
+            "font_family": "Catamaran",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Catamaran",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Catamaran",
+            "font_weight": "Bold"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
     "zakra-travel": {
       "title": "Travel",
       "preview": "https://zakrademos.com/travel/",
