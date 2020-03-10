@@ -1074,7 +1074,7 @@
               },
               "ColorMag-Posts-Block-1": {
                 "6": "Latest News",
-                "7": "Most Popular News"                
+                "7": "Most Popular News"
               },
               "ColorMag-Posts-Block-6": {
                 "7": "Most Popular News",
@@ -1083,7 +1083,7 @@
               },
               "ColorMag-Posts-Block-9": {
                 "12": "Recent News"
-              }              
+              }
             }
           }
         }
@@ -1097,6 +1097,108 @@
               },
               "2": {
                 "category": "Editor Picks"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-befit": {
+      "isPro": true,
+      "title": "BeFit",
+      "preview": "https://demo.themegrill.com/colormag-pro-befit/",
+      "description": "Use this ColorMag demo to create your website for fitness enthusiasts",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro BeFit",
+        "page_on_front": "Home",
+        "page_for_posts": "Layout"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-2": {
+                "13": "RANDOM"
+              },
+              "ColorMag-Posts-Grid-3": {
+                "16": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-7": {
+                "2": "BEAUTY",
+                "11": "NEWS"
+              },
+              "ColorMag-Posts-Block-2": {
+                "17": "TRANING"
+              },
+              "ColorMag-Posts-Block-3": {
+                "7": "HEALTH"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "LIFE STYLES"
+              },
+              "ColorMag-Posts-Block-6": {
+                "6": "FITNESS",
+                "9": "LATEST NEWS",
+                "12": "POPULAR NEWS"
+              }
+            }
+          }
+        },
+        "contact": {
+          "post_title": "Contact",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "4": "EDITOR PICKS"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "FITNESS"
+              },
+              "2": {
+                "category": "RANDOM"
+              },
+              "3": {
+                "category": "RANDOM"
+              },
+              "5": {
+                "category": "RANDOM"
               }
             }
           }
