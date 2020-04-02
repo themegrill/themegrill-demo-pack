@@ -1095,6 +1095,101 @@
         }
       }
     },
+    "colormag-pro-public-news": {
+      "isPro": true,
+      "title": "Public News",
+      "preview": "https://demo.themegrill.com/colormag-pro-public-news/",
+      "description": "Use this ColorMag Pro demo to create your informative news magazine website.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Public News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-2": {
+                "5": "Editor Picks"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "8": "Most Popular News",
+                "11": "Random Picks"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "4": "CarTech"
+              },
+              "ColorMag-Posts-Block-2": {
+                "3": "Buyer’s Guide"
+              },
+              "ColorMag-Posts-Block-4": {
+                "12": "Recent News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Auto Shows",
+                "6": "Feature"
+              },
+              "ColorMag-Posts-Block-7": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Block-8": {
+                "10": "News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "9": "Must Read"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Most Popular News"
+              },
+              "3": {
+                "category": "Feature"
+              },
+              "4": {
+                "category": "Auto Shows"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-pro-online-news": {
       "isPro": true,
       "title": "Online News",
