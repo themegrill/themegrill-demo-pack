@@ -82,6 +82,75 @@
         }
       }
     },
+    "colormag-wild-magazine": {
+      "title": "Wild Magazine",
+      "preview": "https://demo.themegrill.com/colormag-wild-magazine/",
+      "description": "Engage the nature lovers to your wildlife magazine website with this ColorMag demo.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Wild Magazine",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-2": {
+                "4": "Environment"
+              },
+              "ColorMag-Posts-Grid-3": {
+                "3": "ecosystems"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "7": "News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "9": "Recent News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "2": "Archaeology",
+                "5": "Health",
+                "6": "Life"
+              },
+              "ColorMag-Posts-Block-6": {
+                "10": "Trending News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "11": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
     "colormag-top-magazine": {
       "title": "Top Magazine",
       "preview": "https://demo.themegrill.com/colormag-top-magazine/",
