@@ -1263,6 +1263,97 @@
         }
       }
     },
+    "colormag-pro-public-news-v2": {
+      "isPro": true,
+      "title": "Public News v2",
+      "preview": "https://demo.themegrill.com/colormag-pro-public-news-v2/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Public News v2",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-5": {
+                "4": "EDITOR PICKS"
+              },
+              "ColorMag-Posts-Grid-7": {
+                "11": "RANDOM PICKS",
+                "13": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "10": "PACKAGING"
+              },
+              "ColorMag-Posts-Block-1": {
+                "9": "MUST READ"
+              },
+              "ColorMag-Posts-Block-6": {
+                "8": "MOST POPULAR NEWS",
+                "10": "PACKAGING",
+                "12": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Block-7": {
+                "5": "LATEST NEWS",
+                "8": "MOST POPULAR NEWS"
+              },
+              "ColorMag-Posts-Block-8": {
+                "3": "BUSINESS",
+                "5": "LATEST NEWS",
+                "6": "LIFE STYLE"
+              },
+              "ColorMag-Posts-Block-9": {
+                "8": "MOST POPULAR NEWS"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "BREAKING NEWS"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-pro-online-news": {
       "isPro": true,
       "title": "Online News",
