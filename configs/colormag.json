@@ -151,6 +151,79 @@
         }
       }
     },
+    "colormag-enews": {
+      "title": "Entertainment News",
+      "preview": "https://demo.themegrill.com/colormag-enews/",
+      "description": "",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Entertainment News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-3": {
+                "6": "Animation",
+                "9": "News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "5": "Game"
+              },
+              "ColorMag-Posts-Block-1": {
+                "2": "Adventure",
+                "11": "Recent News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "3": "Entertainment",
+                "4": "Features"
+              },
+              "ColorMag-Posts-Block-4": {
+                "13": "Trending News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "8": "Most Read",
+                "10": "Popular News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "7": "Latest News",
+                "12": "Shooters",
+                "14": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Footer First Menu"
+        }
+      }
+    },
     "colormag-top-magazine": {
       "title": "Top Magazine",
       "preview": "https://demo.themegrill.com/colormag-top-magazine/",
