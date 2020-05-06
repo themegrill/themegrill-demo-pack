@@ -15,6 +15,68 @@
     "elementor": "Elementor"
   },
   "demos": {
+    "zakra-gym": {
+      "title": "Gym",
+      "preview": "https://zakrademos.com/gym/",
+      "description": "Inspire your customer for joining your fitness program",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Gym",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#29282d",
+          "#f34e3a",
+          "#3d3c41",
+          "rgba(41,40,45,0.9)"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Oswald",
+            "font_weight": "bold"
+          },
+          "secondary": {
+            "font_family": "Oswald",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-professional": {
       "title": "Professional",
       "preview": "https://zakrademos.com/professional/",
@@ -88,7 +150,6 @@
         "all",
         "blog",
         "business",
-        "ecommerce"
       ],
       "pagebuilder": [
         "elementor"
