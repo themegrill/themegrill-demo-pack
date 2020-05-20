@@ -4,17 +4,84 @@
   "version": "1.0.0",
   "homepage": "https://zakratheme.com/pricing/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=zakra-pricing",
   "categories": {
-    "all": "All",
-    "blog": "Blog",
-    "business": "Business",
-    "ecommerce": "eCommerce",
-    "one-page": "One Page",
-    "others": "Others"
+    "all"       : "All",
+    "blog"      : "Blog",
+    "business"  : "Business",
+    "ecommerce" : "eCommerce",
+    "one-page"  : "One Page",
+    "portfolio" : "Portfolio",
+    "others"    : "Others"
   },
   "pagebuilders": {
     "elementor": "Elementor"
   },
   "demos": {
+    "zakra-pictography": {
+      "isPremium": true,
+      "title": "Gym",
+      "preview": "http://zakrademos.com/pictography/",
+      "description": "WordPress Template Site for Photographer to showcase portfolio",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "ecommerce",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Pictography",
+        "page_on_front": "Home",
+        "page_for_posts": ""
+      },
+      "elementor_schemes": {
+        "color": [
+          "#bd8b28",
+          "#0b0b0b",
+          "rgba(255,255,255,0.8)",
+          "#0b0b0b"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-left" : "Left",
+          "menu-right": "Right"
+        }
+      }
+    },
     "zakra-gym": {
       "isPremium": true,
       "title": "Gym",
