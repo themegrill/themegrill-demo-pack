@@ -16,6 +16,75 @@
     "elementor": "Elementor"
   },
   "demos": {
+    "zakra-gift-shop": {
+      "isPremium": true,
+      "title": "Gift Shop",
+      "preview": "https://zakrademos.com/gift-shop/",
+      "description": "WordPress eCommerce Template Site for Gifts Shop",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "ecommerce",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MC4WP: Mailchimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Gift Shop",
+        "page_on_front": "Home",
+        "page_for_posts": ""
+      },
+      "elementor_schemes": {
+        "color": [
+          "#2c2c2c",
+          "#f48fb1",
+          "rgba(44,44,44,0.8)",
+          "#ec407a"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Default",
+            "font_weight": "Default"
+          },
+          "secondary": {
+            "font_family": "Default",
+            "font_weight": "Default"
+          },
+          "body": {
+            "font_family": "Default",
+            "font_weight": "Default"
+          },
+          "accent": {
+            "font_family": "Default",
+            "font_weight": "Default"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary" : "Primary Menu"
+        }
+      }
+    },
     "zakra-pictography": {
       "isPremium": true,
       "title": "Pictography",
