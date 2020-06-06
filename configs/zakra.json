@@ -4,18 +4,87 @@
   "version": "1.0.0",
   "homepage": "https://zakratheme.com/pricing/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=zakra-pricing",
   "categories": {
-    "all"       : "All",
-    "blog"      : "Blog",
-    "business"  : "Business",
-    "ecommerce" : "eCommerce",
-    "one-page"  : "One Page",
-    "portfolio" : "Portfolio",
-    "others"    : "Others"
+    "all"        : "All",
+    "blog"       : "Blog",
+    "business"   : "Business",
+    "ecommerce"  : "eCommerce",
+    "non-profit" : "Non Profit",
+    "one-page"   : "One Page",
+    "portfolio"  : "Portfolio",
+    "others"     : "Others"
   },
   "pagebuilders": {
     "elementor": "Elementor"
   },
   "demos": {
+    "zakra-health-awareness": {
+      "title": "Zakra Health Awareness",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/health-awareness/",
+      "description": "WordPress Template Site for Health Person or Organization to spread information",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "non-profit",
+        "others"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MC4WP: Mailchimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Health Awareness",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#f8c033",
+          "#d3d3fd",
+          "#d3d3fd",
+          "#cc00ca"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Open Sans",
+            "font_weight": "800"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "800"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Open Sans",
+            "font_weight": "700"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary" : "Main"
+        }
+      }
+    },
     "zakra-gift-shop": {
       "title": "Gift Shop",
       "isPremium": true,
@@ -26,7 +95,6 @@
       ],
       "category": [
         "all",
-        "blog",
         "ecommerce",
         "business",
         "others"
