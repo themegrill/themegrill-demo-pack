@@ -1168,6 +1168,73 @@
         }
       }
     },
+    "colormag-pro-gossip": {
+      "isPro": true,
+      "title": "Gossip",
+      "preview": "https://demo.themegrill.com/colormag-pro-gossip/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Gossip",
+        "page_on_front": "HOME"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "HOME",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "2": "Beauty",
+                "14": "World"
+              },
+              "ColorMag-Posts-Block-8": {
+                "8": "Must Read",
+                "10": "Popular News"
+              },
+              "ColorMag-Posts-Grid-2": {
+                "9": "News"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "4": "Entertainment",
+                "12": "Style"
+              },
+              "ColorMag-Posts-Grid-9": {
+                "5": "Fashion"
+              },
+              "ColorMag-Posts-Trending-News": {
+                "3": "Breaking News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-pro-public-news": {
       "isPro": true,
       "title": "Public News",
