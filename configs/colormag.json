@@ -1402,6 +1402,106 @@
         }
       }
     },
+    "colormag-pro-community": {
+      "isPro": true,
+      "title": "Community",
+      "preview": "https://demo.themegrill.com/colormag-pro-community/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Community",
+        "page_on_front": "HOME"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "HOME",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "2": "BUSINESS",
+                "5": "FEATURE NEWS",
+                "16": "STRATEGY"
+              },
+              "ColorMag-Posts-Block-2": {
+                "4": "ENTERTAINMENT",
+                "8": "LIFE STYLES",
+              },
+              "ColorMag-Posts-Block-4": {
+                "7": "LATEST NEWS",
+                "18": "TRAINING"
+              },
+              "ColorMag-Posts-Block-6": {
+                "6": "GLOBAL NEWS",
+                "9": "MUST READ",
+                "14": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Block-9": {
+                "12": "POPULAR NEWS"
+              },
+              "ColorMag-Posts-Block-10": {
+                "15": "SMALL COMMUNITY"
+              },
+              "ColorMag-Posts-Grid-1": {
+                "17": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "13": "RANDOM"
+              },
+              "ColorMag-Posts-Grid-7": {
+                "10": "NEWS",
+                "18": "TRAINING"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "RECENT NEWS"
+              },
+              "2": {
+                "category": "POPULAR NEWS"
+              },
+              "4": {
+                "category": "EDITOR PICKS"
+              }
+              "5": {
+                "category": "OTHER COMMUNITY"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Quick Links",
+        }
+      }
+    },
     "colormag-pro-public-news": {
       "isPro": true,
       "title": "Public News",
