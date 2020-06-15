@@ -1588,6 +1588,105 @@
         }
       }
     },
+    "colormag-pro-classic-news": {
+      "isPro": true,
+      "title": "Classic News",
+      "preview": "https://demo.themegrill.com/colormag-pro-classic-news/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Classic News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "3": "Collage"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Art",
+                "5": "Latest News",
+                "8": "Popular News",
+                "10": "School"
+              },
+              "ColorMag-Posts-Block-7": {
+                "11": "Sports"
+              },
+              "ColorMag-Posts-Block-8": {
+                "13": "University"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "6": "Music"
+              },
+              "ColorMag-Posts-Grid-6": {
+                "12": "Student Life"
+              },
+              "ColorMag-Posts-Grid-9": {
+                "7": "News"
+              }
+            }
+          }
+        },
+        "contact": {
+          "post_title": "Contact",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "3": "Collage"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_vertical_widget": {
+              "1": {
+                "category": "Editor Picks"
+              }
+            },
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Recent News"
+              },
+              "2": {
+                "category": "Editor Picks"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
     "colormag-pro-public-news": {
       "isPro": true,
       "title": "Public News",
