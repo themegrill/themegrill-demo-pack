@@ -1235,6 +1235,94 @@
         }
       }
     },
+    "colormag-pro-good-news": {
+      "isPro": true,
+      "title": "Good News",
+      "preview": "https://demo.themegrill.com/colormag-pro-good-news/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Good News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "COMPETITIONS": "COMPETITIONS"
+              },
+              "ColorMag-Posts-Block-6": {
+                "6": "LATEST NEWS",
+                "8": "LIFE STYLE"
+              },
+              "ColorMag-Posts-Block-8": {
+                "4": "EDITOR PICKS",
+                "10": "MUST READ"
+              },
+              "ColorMag-Posts-Block-9": {
+                "9": "MOST POPULAR NEWS",
+                "12": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Grid-1": {
+                "13": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-3": {
+                "11": "RANDOM PICKS"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "5": "FAMILY"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "7": "LEARNING"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "BREAKING NEWS"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-pro-public-news": {
       "isPro": true,
       "title": "Public News",
