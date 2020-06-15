@@ -1276,7 +1276,7 @@
           "data_update": {
             "category": {
               "ColorMag-Posts-Block-1": {
-                "COMPETITIONS": "COMPETITIONS"
+                "3": "COMPETITIONS"
               },
               "ColorMag-Posts-Block-6": {
                 "6": "LATEST NEWS",
@@ -1320,6 +1320,85 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-world-tv": {
+      "isPro": true,
+      "title": "World TV",
+      "preview": "https://demo.themegrill.com/colormag-pro-world-tv/",
+      "description": "",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro World TV",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "4": "Feature News",
+                "5": "Fitness",
+                "18": "World Health"
+              },
+              "ColorMag-Posts-Block-2": {
+                "9": "Life Styles",
+                "15": "Science"
+              },
+              "ColorMag-Posts-Block-4": {
+                "4": "Feature News",
+                "7": "Global Health"
+              },
+              "ColorMag-Posts-Block-6": {
+                "10": "Must Read",
+                "13": "Random",
+                "14": "Recent News",
+                "16": "Top News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "12": "Popular News"
+              },
+              "ColorMag-Posts-Block-10": {
+                "18": "World Health"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "3": "Editor Picks",
+                "6": "Food"
+              },
+              "ColorMag-Posts-Grid-7": {
+                "11": "News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer First Menu"
         }
       }
     },
