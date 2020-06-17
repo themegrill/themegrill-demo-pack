@@ -79,6 +79,68 @@
         }
       }
     },
+    "zakra-care": {
+      "title": "Care",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/care/",
+      "description": "Use this Zakra demo to create your helpful and supportive care website",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Care",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#222222",
+          "#F8C240",
+          "#222222",
+          "#F8C240"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Changa One",
+            "font_weight": "400"
+          },
+          "secondary": {
+            "font_family": "Changa One",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Changa One",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-health-awareness": {
       "title": "Health Awareness",
       "isPremium": true,
