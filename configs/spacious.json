@@ -917,6 +917,71 @@
         }
       }
     },
+    "spacious-pro-digital-agency": {
+      "isPro": true,
+      "title": "Spacious Pro Digital Agency",
+      "preview": "https://demo.themegrill.com/spacious-pro-digital-agency/",
+      "description": "This premium Spacious demo can be used to create an awesome digital agency website.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Digital Agency",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#FF8657",
+          "#00438B",
+          "#989494",
+          "#FF8657"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Comfortaa",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-pro-organic-food": {
       "isPro": true,
       "title": "Spacious Pro Organic Food",
