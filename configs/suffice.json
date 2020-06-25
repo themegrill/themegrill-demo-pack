@@ -1,3 +1,4 @@
+  
 {
   "name": "Suffice",
   "slug": "suffice",
@@ -210,6 +211,371 @@
         }
       }
     },
+    "suffice-pro-shop": {
+      "isPro": true,
+      "title": "Suffice Pro Shop",
+      "preview": "https://demo.themegrill.com/suffice-pro-shop/",
+      "description": "Start your own online store by using this Suffice demo.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "megamenu": {
+          "name": "Max Mega Menu",
+          "slug": "megamenu/megamenu.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Pro Shop",
+        "page_on_front": "home",
+        "page_for_posts": "blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "home",
+          "data_update": {
+            "grids_data": {
+              "4": {
+                "style": {
+                  "background_image_attachment": "dark-bg.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "primary",
+          "social": "social-icons"
+        }
+      }
+    },
+    "suffice-pro-one-page": {
+      "isPro": true,
+      "title": "Suffice Pro One Page",
+      "preview": "https://demo.themegrill.com/suffice-pro-one-page/",
+      "description": "Create a multipurpose one page website with the help of this Suffice demo.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Pro One Page",
+        "page_on_front": "homepage"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "primary",
+          "social": "social",
+          "footer": "footer"
+        }
+      }
+    },
+    "suffice-pro-gym": {
+      "isPro": true,
+      "title": "Suffice Pro Gym",
+      "preview": "https://demo.themegrill.com/suffice-pro-gym/",
+      "description": "Help your viewers to be fit from your fitness tips with this Suffice demo.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Pro Gym",
+        "page_on_front": "Home Page",
+        "page_for_posts": "Blog Page"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home Page",
+          "data_update": {
+            "grids_data": {
+              "5": {
+                "style": {
+                  "background_image_attachment": "pexels-photo-136404.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "ST_Widget_Blog": {
+                    "3": {
+                      "category": "Gender"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu"
+        }
+      }
+    },
+    "suffice-pro-magazine": {
+      "isPro": true,
+      "title": "Suffice Pro Magazine",
+      "preview": "https://demo.themegrill.com/suffice-pro-magazine/",
+      "description": "Create an online magazine by using this Suffice demo.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Pro Magazine",
+        "page_on_front": "Home"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "ST_Widget_Featured_Posts": {
+                    "0": {
+                      "category": "Latest"
+                    }
+                  },
+                  "ST_Widget_Blog": {
+                    "2": {
+                      "category": "World News"
+                    },
+                    "4": {
+                      "category": "Travel"
+                    },
+                    "7": {
+                      "category": "World News"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social"
+        }
+      }
+    },
+    "suffice-pro-portfolio": {
+      "isPro": true,
+      "title": "Suffice Pro Portfolio",
+      "preview": "https://demo.themegrill.com/suffice-pro-portfolio/",
+      "description": "Use this Suffice demo to create your outstanding portfolio.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Portfolio",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social",
+          "footer": "Footer"
+        }
+      }
+    },
+    "suffice-pro-photography": {
+      "isPro": true,
+      "title": "Suffice Pro Photography",
+      "preview": "https://demo.themegrill.com/suffice-pro-photography/",
+      "description": "Showcase your photography skills in your website with this Suffice demo.",
+      "template": [
+        "suffice-pro"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "suffice-toolkit": {
+          "name": "Suffice Toolkit",
+          "slug": "suffice-toolkit/suffice-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Suffice Pro Photography",
+        "page_on_front": "Suffice Photogprahy Demo",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Suffice Photogprahy Demo",
+          "data_update": {
+            "grids_data": {
+              "4": {
+                "style": {
+                  "background_image_attachment": "photographysArtboard-3.jpg"
+                }
+              },
+              "6": {
+                "style": {
+                  "background_image_attachment": "photographysArtboard-3.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "ST_Widget_Portfolio": {
+                    "4": {
+                      "categories": "All category"
+                    }
+                  }
+                },
+                "category": {
+                  "ST_Widget_Blog": {
+                    "9": {
+                      "category": "News"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "suffice-pro-construction": {
       "isPro": true,
       "title": "Suffice Pro Construction",
@@ -375,371 +741,6 @@
             "1": "Desserts",
             "2": "Drink"
           }
-        }
-      }
-    },
-    "suffice-pro-gym": {
-      "isPro": true,
-      "title": "Suffice Pro Gym",
-      "preview": "https://demo.themegrill.com/suffice-pro-gym/",
-      "description": "Help your viewers to be fit from your fitness tips with this Suffice demo.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Pro Gym",
-        "page_on_front": "Home Page",
-        "page_for_posts": "Blog Page"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home Page",
-          "data_update": {
-            "grids_data": {
-              "5": {
-                "style": {
-                  "background_image_attachment": "pexels-photo-136404.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "category": {
-                  "ST_Widget_Blog": {
-                    "3": {
-                      "category": "Gender"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu",
-          "social": "Social Menu"
-        }
-      }
-    },
-    "suffice-pro-magazine": {
-      "isPro": true,
-      "title": "Suffice Pro Magazine",
-      "preview": "https://demo.themegrill.com/suffice-pro-magazine/",
-      "description": "Create an online magazine by using this Suffice demo.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Pro Magazine",
-        "page_on_front": "Home"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "widgets_data": {
-              "dropdown_categories": {
-                "category": {
-                  "ST_Widget_Featured_Posts": {
-                    "0": {
-                      "category": "Latest"
-                    }
-                  },
-                  "ST_Widget_Blog": {
-                    "2": {
-                      "category": "World News"
-                    },
-                    "4": {
-                      "category": "Travel"
-                    },
-                    "7": {
-                      "category": "World News"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "social": "Social"
-        }
-      }
-    },
-    "suffice-pro-one-page": {
-      "isPro": true,
-      "title": "Suffice Pro One Page",
-      "preview": "https://demo.themegrill.com/suffice-pro-one-page/",
-      "description": "Create a multipurpose one page website with the help of this Suffice demo.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Pro One Page",
-        "page_on_front": "homepage"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "primary",
-          "social": "social",
-          "footer": "footer"
-        }
-      }
-    },
-    "suffice-pro-photography": {
-      "isPro": true,
-      "title": "Suffice Pro Photography",
-      "preview": "https://demo.themegrill.com/suffice-pro-photography/",
-      "description": "Showcase your photography skills in your website with this Suffice demo.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Pro Photography",
-        "page_on_front": "Suffice Photogprahy Demo",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Suffice Photogprahy Demo",
-          "data_update": {
-            "grids_data": {
-              "4": {
-                "style": {
-                  "background_image_attachment": "photographysArtboard-3.jpg"
-                }
-              },
-              "6": {
-                "style": {
-                  "background_image_attachment": "photographysArtboard-3.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "ST_Widget_Portfolio": {
-                    "4": {
-                      "categories": "All category"
-                    }
-                  }
-                },
-                "category": {
-                  "ST_Widget_Blog": {
-                    "9": {
-                      "category": "News"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main"
-        }
-      }
-    },
-    "suffice-pro-portfolio": {
-      "isPro": true,
-      "title": "Suffice Pro Portfolio",
-      "preview": "https://demo.themegrill.com/suffice-pro-portfolio/",
-      "description": "Use this Suffice demo to create your outstanding portfolio.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Portfolio",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "social": "Social",
-          "footer": "Footer"
-        }
-      }
-    },
-    "suffice-pro-shop": {
-      "isPro": true,
-      "title": "Suffice Pro Shop",
-      "preview": "https://demo.themegrill.com/suffice-pro-shop/",
-      "description": "Start your own online store by using this Suffice demo.",
-      "template": [
-        "suffice-pro"
-      ],
-      "category": [
-        "all",
-        "ecommerce",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "suffice-toolkit": {
-          "name": "Suffice Toolkit",
-          "slug": "suffice-toolkit/suffice-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        },
-        "megamenu": {
-          "name": "Max Mega Menu",
-          "slug": "megamenu/megamenu.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Suffice Pro Shop",
-        "page_on_front": "home",
-        "page_for_posts": "blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "home",
-          "data_update": {
-            "grids_data": {
-              "4": {
-                "style": {
-                  "background_image_attachment": "dark-bg.jpg"
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "primary",
-          "social": "social-icons"
         }
       }
     }
