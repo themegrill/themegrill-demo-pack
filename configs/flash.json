@@ -97,6 +97,140 @@
         }
       }
     },
+    "flash-pro-default": {
+      "isPro": true,
+      "title": "Flash Pro Default",
+      "preview": "https://demo.themegrill.com/flash-pro/",
+      "description": "This is the main premium Flash demo where you’ll find all its features.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "megamenu": {
+          "name": "Max Mega Menu",
+          "slug": "megamenu/megamenu.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "10": {
+                "style": {
+                  "background_image_attachment": "about-bg.jpg"
+                }
+              },
+              "12": {
+                "style": {
+                  "background_image_attachment": "light.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "13": {
+                      "categories": "Demos"
+                    }
+                  }
+                },
+                "category": {
+                  "FT_Widget_Blog": {
+                    "28": {
+                      "category": "Entertainment"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "portfolio-element": {
+          "post_title": "Portfolio",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "3": {
+                      "categories": "Wonder"
+                    },
+                    "5": {
+                      "categories": "Bright"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "blog-element": {
+          "post_title": "Blog Element",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "FT_Widget_Blog": {
+                    "1": {
+                      "category": "Travel"
+                    },
+                    "3": {
+                      "category": "Education"
+                    },
+                    "5": {
+                      "category": "Architecture"
+                    },
+                    "7": {
+                      "category": "Entertainment"
+                    },
+                    "9": {
+                      "category": "Architecture"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu"
+        }
+      }
+    },
     "flash-onepage": {
       "title": "Flash OnePage",
       "preview": "https://demo.themegrill.com/flash-one-page/",
@@ -173,6 +307,568 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Primary Menu"
+        }
+      }
+    },
+    "flash-pro-store": {
+      "isPro": true,
+      "title": "Flash Pro Store",
+      "preview": "https://demo.themegrill.com/flash-pro-store/",
+      "description": "Use this Flash demo and create a beautiful eCommerce website for your products.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Store",
+        "page_on_front": "Store Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "flash-pro-health": {
+      "isPro": true,
+      "title": "Flash Pro Health",
+      "preview": "https://demo.themegrill.com/flash-pro-health/",
+      "description": "Show your love and care towards your audience’s health with this Flash demo.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Health",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "3": {
+                "style": {
+                  "background_image_attachment": "bgimage.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "FT_Widget_Blog": {
+                    "15": {
+                      "category": "Uncategorized"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main",
+          "social": "Social"
+        }
+      }
+    },
+    "flash-construction-v2": {
+      "title": "Flash Construction V2",
+      "preview": "https://demo.themegrill.com/flash-construction-v2/",
+      "description": "Build your construction business with this version of Flash demo.",
+      "template": [
+        "flash",
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Construction V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "5": {
+                "style": {
+                  "background_image_attachment": "testimonial-bg.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "10": {
+                      "categories": "Construction Projects"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "projects": {
+          "post_title": "Projects",
+          "data_update": {
+            "grids_data": {
+              "0": {
+                "style": {
+                  "background_image_attachment": "background-1.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "4": {
+                      "categories": "Construction Projects"
+                    },
+                    "level": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
+    "flash-pro-wedding": {
+      "isPro": true,
+      "title": "Flash Pro Wedding",
+      "preview": "https://demo.themegrill.com/flash-pro-wedding/",
+      "description": "Use this Flash demo if you want to show your wedding information.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Wedding",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "0": {
+                "style": {
+                  "background_image_attachment": "weddingbg.jpg"
+                }
+              },
+              "4": {
+                "style": {
+                  "background_image_attachment": "wedding-bg.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "split_right": "Secondary Menu"
+        }
+      }
+    },
+    "flash-pro-education": {
+      "isPro": true,
+      "title": "Flash Pro Education",
+      "preview": "https://demo.themegrill.com/flash-pro-education/",
+      "description": "Provide your educational facilities and services to the students with this Flash demo.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Education",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "2": {
+                "style": {
+                  "background_image_attachment": "collegebg-1.jpg"
+                }
+              },
+              "5": {
+                "style": {
+                  "background_image_attachment": "background1.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "6": {
+                      "categories": "Our Courses"
+                    }
+                  }
+                },
+                "category": {
+                  "FT_Widget_Blog": {
+                    "8": {
+                      "category": "Uncategorized"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu",
+          "social": "Social Menu"
+        }
+      }
+    },
+    "flash-food-v2": {
+      "title": "Flash Food V2",
+      "preview": "https://demo.themegrill.com/flash-food-v2/",
+      "description": "Here’s another version of the Flash demo to highlight your delicious taste in food.",
+      "template": [
+        "flash",
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "restaurantpress": {
+          "name": "RestaurantPress",
+          "slug": "restaurantpress/restaurantpress.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Food V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "0": {
+                "style": {
+                  "background_image_attachment": "Untitled-1.jpg"
+                }
+              },
+              "1": {
+                "style": {
+                  "background_image_attachment": "about-image.jpg"
+                }
+              },
+              "2": {
+                "style": {
+                  "background_image_attachment": "background.jpg"
+                }
+              },
+              "3": {
+                "style": {
+                  "background_image_attachment": "background-1.jpg"
+                }
+              },
+              "4": {
+                "style": {
+                  "background_image_attachment": "How-Much-Do-You-Hate-the-Sound-of-People-Chewing.jpg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      },
+      "restaurantpress_data_update": {
+        "food_group": {
+          "Meats & Seafoods": {
+            "1": "Meats &amp; Seafoods"
+          },
+          "Desserts": {
+            "1": "Desserts"
+          },
+          "Lunch": {
+            "1": "Lunch"
+          },
+          "Drinks": {
+            "1": "Drinks"
+          },
+          "Breakfast": {
+            "1": "Breakfast"
+          },
+          "Today's Special": {
+            "1": "Todays Special"
+          }
+        }
+      }
+    },
+    "flash-pro-church": {
+      "isPro": true,
+      "title": "Flash Pro Church",
+      "preview": "https://demo.themegrill.com/flash-pro-church/",
+      "description": "Share your insights on God for your viewers using this Flash demo.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Church",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "widgets_data": {
+              "dropdown_categories": {
+                "category": {
+                  "FT_Widget_Blog": {
+                    "6": {
+                      "category": "Sermons"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu"
+        }
+      }
+    },
+    
+    "flash-pro-gym": {
+      "isPro": true,
+      "title": "Flash Pro Gym",
+      "preview": "https://demo.themegrill.com/flash-pro-gym/",
+      "description": "Give fitness advices to your website visitors with the help of this Flash demo.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "the-events-calendar": {
+          "name": "The Events Calendar",
+          "slug": "the-events-calendar/the-events-calendar.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Gym",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Important Links"
         }
       }
     },
@@ -336,701 +1032,9 @@
         }
       }
     },
-    "flash-food-v2": {
-      "title": "Flash Food V2",
-      "preview": "https://demo.themegrill.com/flash-food-v2/",
-      "description": "Here’s another version of the Flash demo to highlight your delicious taste in food.",
-      "template": [
-        "flash",
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "restaurantpress": {
-          "name": "RestaurantPress",
-          "slug": "restaurantpress/restaurantpress.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Food V2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "0": {
-                "style": {
-                  "background_image_attachment": "Untitled-1.jpg"
-                }
-              },
-              "1": {
-                "style": {
-                  "background_image_attachment": "about-image.jpg"
-                }
-              },
-              "2": {
-                "style": {
-                  "background_image_attachment": "background.jpg"
-                }
-              },
-              "3": {
-                "style": {
-                  "background_image_attachment": "background-1.jpg"
-                }
-              },
-              "4": {
-                "style": {
-                  "background_image_attachment": "How-Much-Do-You-Hate-the-Sound-of-People-Chewing.jpg"
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu"
-        }
-      },
-      "restaurantpress_data_update": {
-        "food_group": {
-          "Meats & Seafoods": {
-            "1": "Meats &amp; Seafoods"
-          },
-          "Desserts": {
-            "1": "Desserts"
-          },
-          "Lunch": {
-            "1": "Lunch"
-          },
-          "Drinks": {
-            "1": "Drinks"
-          },
-          "Breakfast": {
-            "1": "Breakfast"
-          },
-          "Today's Special": {
-            "1": "Todays Special"
-          }
-        }
-      }
-    },
-    "flash-construction-v2": {
-      "title": "Flash Construction V2",
-      "preview": "https://demo.themegrill.com/flash-construction-v2/",
-      "description": "Build your construction business with this version of Flash demo.",
-      "template": [
-        "flash",
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Construction V2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "5": {
-                "style": {
-                  "background_image_attachment": "testimonial-bg.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "10": {
-                      "categories": "Construction Projects"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "projects": {
-          "post_title": "Projects",
-          "data_update": {
-            "grids_data": {
-              "0": {
-                "style": {
-                  "background_image_attachment": "background-1.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "4": {
-                      "categories": "Construction Projects"
-                    },
-                    "level": 1
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu"
-        }
-      }
-    },
-    "flash-pro-default": {
-      "isPro": true,
-      "title": "Flash Pro Default",
-      "preview": "https://demo.themegrill.com/flash-pro/",
-      "description": "This is the main premium Flash demo where you’ll find all its features.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "ecommerce"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        },
-        "megamenu": {
-          "name": "Max Mega Menu",
-          "slug": "megamenu/megamenu.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "10": {
-                "style": {
-                  "background_image_attachment": "about-bg.jpg"
-                }
-              },
-              "12": {
-                "style": {
-                  "background_image_attachment": "light.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "13": {
-                      "categories": "Demos"
-                    }
-                  }
-                },
-                "category": {
-                  "FT_Widget_Blog": {
-                    "28": {
-                      "category": "Entertainment"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "portfolio-element": {
-          "post_title": "Portfolio",
-          "data_update": {
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "3": {
-                      "categories": "Wonder"
-                    },
-                    "5": {
-                      "categories": "Bright"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "blog-element": {
-          "post_title": "Blog Element",
-          "data_update": {
-            "widgets_data": {
-              "dropdown_categories": {
-                "category": {
-                  "FT_Widget_Blog": {
-                    "1": {
-                      "category": "Travel"
-                    },
-                    "3": {
-                      "category": "Education"
-                    },
-                    "5": {
-                      "category": "Architecture"
-                    },
-                    "7": {
-                      "category": "Entertainment"
-                    },
-                    "9": {
-                      "category": "Architecture"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu",
-          "social": "Social Menu"
-        }
-      }
-    },
-    "flash-pro-church": {
-      "isPro": true,
-      "title": "Flash Pro Church",
-      "preview": "https://demo.themegrill.com/flash-pro-church/",
-      "description": "Share your insights on God for your viewers using this Flash demo.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "social-icons": {
-          "name": "Social Icons",
-          "slug": "social-icons/social-icons.php"
-        },
-        "the-events-calendar": {
-          "name": "The Events Calendar",
-          "slug": "the-events-calendar/the-events-calendar.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Church",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "widgets_data": {
-              "dropdown_categories": {
-                "category": {
-                  "FT_Widget_Blog": {
-                    "6": {
-                      "category": "Sermons"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main Menu"
-        }
-      }
-    },
-    "flash-pro-education": {
-      "isPro": true,
-      "title": "Flash Pro Education",
-      "preview": "https://demo.themegrill.com/flash-pro-education/",
-      "description": "Provide your educational facilities and services to the students with this Flash demo.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "the-events-calendar": {
-          "name": "The Events Calendar",
-          "slug": "the-events-calendar/the-events-calendar.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Education",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "2": {
-                "style": {
-                  "background_image_attachment": "collegebg-1.jpg"
-                }
-              },
-              "5": {
-                "style": {
-                  "background_image_attachment": "background1.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "6": {
-                      "categories": "Our Courses"
-                    }
-                  }
-                },
-                "category": {
-                  "FT_Widget_Blog": {
-                    "8": {
-                      "category": "Uncategorized"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu",
-          "social": "Social Menu"
-        }
-      }
-    },
-    "flash-pro-gym": {
-      "isPro": true,
-      "title": "Flash Pro Gym",
-      "preview": "https://demo.themegrill.com/flash-pro-gym/",
-      "description": "Give fitness advices to your website visitors with the help of this Flash demo.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "the-events-calendar": {
-          "name": "The Events Calendar",
-          "slug": "the-events-calendar/the-events-calendar.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Gym",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Important Links"
-        }
-      }
-    },
-    "flash-pro-health": {
-      "isPro": true,
-      "title": "Flash Pro Health",
-      "preview": "https://demo.themegrill.com/flash-pro-health/",
-      "description": "Show your love and care towards your audience’s health with this Flash demo.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Health",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "3": {
-                "style": {
-                  "background_image_attachment": "bgimage.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "category": {
-                  "FT_Widget_Blog": {
-                    "15": {
-                      "category": "Uncategorized"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main",
-          "social": "Social"
-        }
-      }
-    },
-    "flash-pro-store": {
-      "isPro": true,
-      "title": "Flash Pro Store",
-      "preview": "https://demo.themegrill.com/flash-pro-store/",
-      "description": "Use this Flash demo and create a beautiful eCommerce website for your products.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "ecommerce",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Store",
-        "page_on_front": "Store Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main"
-        }
-      }
-    },
-    "flash-pro-wedding": {
-      "isPro": true,
-      "title": "Flash Pro Wedding",
-      "preview": "https://demo.themegrill.com/flash-pro-wedding/",
-      "description": "Use this Flash demo if you want to show your wedding information.",
-      "template": [
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "the-events-calendar": {
-          "name": "The Events Calendar",
-          "slug": "the-events-calendar/the-events-calendar.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Pro Wedding",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "0": {
-                "style": {
-                  "background_image_attachment": "weddingbg.jpg"
-                }
-              },
-              "4": {
-                "style": {
-                  "background_image_attachment": "wedding-bg.jpg"
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "split_right": "Secondary Menu"
-        }
-      }
-    },
+    
+   
+    
     "flash-pro-band": {
       "isPro": true,
       "title": "Flash Pro Band",
