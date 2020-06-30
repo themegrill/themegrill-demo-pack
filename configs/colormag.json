@@ -2202,6 +2202,182 @@
         }
       }
     }, 
+	"colormag-pro-health-blog": {
+      "isPro": true,
+      "title": "Health Blog",
+      "preview": "https://demo.themegrill.com/colormag-pro-health-blog/",
+      "description": "Give healthy tips to your viewers with this ColorMag Demo.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Health Blog",
+        "page_on_front": "Home"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Tips &amp; Guides"
+              }
+            }
+          }
+        }
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "13": "Food &amp; Nutrition"
+              },
+              "ColorMag-Posts-Block-4": {
+                "9": "Tips &amp; Guides"
+              },
+              "ColorMag-Posts-Block-6": {
+                "17": "Disease"
+              },
+              "ColorMag-Posts-Block-7": {
+                "15": "Drugs",
+                "14": "Tech"
+              },
+              "ColorMag-Posts-Block-8": {
+                "3": "General"
+              },
+              "ColorMag-Posts-Block-9": {
+                "6": "Quick recipes",
+                "8": "Pizzas"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "7": "Fitness"
+              },
+              "ColorMag-Posts-Grid-6": {
+                "6": "Quick recipes"
+              }
+            }
+          }
+        },
+        "disease": {
+          "post_title": "Disease",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "13": "Food &amp; Nutrition",
+                "17": "Disease"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "drugs": {
+          "post_title": "Drugs",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "15": "Drugs"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "fitness": {
+          "post_title": "Fitness",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "7": "Fitness"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "food-nutrition": {
+          "post_title": "Food & Nutrition",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "13": "Food &amp; Nutrition"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "general": {
+          "post_title": "General",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "3": "General"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "tech": {
+          "post_title": "Tech",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "14": "Tech"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        },
+        "tips-guides": {
+          "post_title": "Tips & Guides",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "13": "Food &amp; Nutrition"
+              },
+              "ColorMag-Posts-Block-7": {
+                "3": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    }
+  },
     "colormag-pro-recipes": {
       "isPro": true,
       "title": "Food Recipe",
@@ -2409,181 +2585,5 @@
           }
         }
       }
-    },
-    "colormag-pro-health-blog": {
-      "isPro": true,
-      "title": "Health Blog",
-      "preview": "https://demo.themegrill.com/colormag-pro-health-blog/",
-      "description": "Give healthy tips to your viewers with this ColorMag Demo.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Health Blog",
-        "page_on_front": "Home"
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "2": {
-                "category": "Tips &amp; Guides"
-              }
-            }
-          }
-        }
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-1": {
-                "13": "Food &amp; Nutrition"
-              },
-              "ColorMag-Posts-Block-4": {
-                "9": "Tips &amp; Guides"
-              },
-              "ColorMag-Posts-Block-6": {
-                "17": "Disease"
-              },
-              "ColorMag-Posts-Block-7": {
-                "15": "Drugs",
-                "14": "Tech"
-              },
-              "ColorMag-Posts-Block-8": {
-                "3": "General"
-              },
-              "ColorMag-Posts-Block-9": {
-                "6": "Quick recipes",
-                "8": "Pizzas"
-              },
-              "ColorMag-Posts-Grid-4": {
-                "7": "Fitness"
-              },
-              "ColorMag-Posts-Grid-6": {
-                "6": "Quick recipes"
-              }
-            }
-          }
-        },
-        "disease": {
-          "post_title": "Disease",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "13": "Food &amp; Nutrition",
-                "17": "Disease"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "drugs": {
-          "post_title": "Drugs",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "15": "Drugs"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "fitness": {
-          "post_title": "Fitness",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "7": "Fitness"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "food-nutrition": {
-          "post_title": "Food & Nutrition",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "13": "Food &amp; Nutrition"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "general": {
-          "post_title": "General",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "3": "General"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "tech": {
-          "post_title": "Tech",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "14": "Tech"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        },
-        "tips-guides": {
-          "post_title": "Tips & Guides",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "13": "Food &amp; Nutrition"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "General"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
     }
-  }
-}
+	}
