@@ -871,86 +871,6 @@
         }
       }
     },
-    "flash-food": {
-      "title": "Flash Food",
-      "preview": "https://demo.themegrill.com/flash-food/",
-      "description": "Showcase your taste of delicious food using this Flash demo.",
-      "template": [
-        "flash",
-        "flash-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "siteorigin"
-      ],
-      "plugins_list": {
-        "flash-toolkit": {
-          "name": "Flash Toolkit",
-          "slug": "flash-toolkit/flash-toolkit.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "siteorigin-panels": {
-          "name": "SiteOrigin PageBuilder",
-          "slug": "siteorigin-panels/siteorigin-panels.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Flash Food",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "siteorigin_panels_data_update": {
-        "homepage": {
-          "post_title": "Home",
-          "data_update": {
-            "grids_data": {
-              "6": {
-                "style": {
-                  "background_image_attachment": "cta.jpg"
-                }
-              },
-              "8": {
-                "style": {
-                  "background_image_attachment": "fun-facts.jpg"
-                }
-              }
-            },
-            "widgets_data": {
-              "dropdown_categories": {
-                "portfolio_cat": {
-                  "FT_Widget_Portfolio": {
-                    "5": {
-                      "categories": "Breakfast"
-                    }
-                  }
-                },
-                "category": {
-                  "FT_Widget_Blog": {
-                    "8": {
-                      "category": "Blog"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "social": "Social",
-          "footer": "Footer Menu"
-        }
-      }
-    },
     "flash-construction": {
       "title": "Flash Construction",
       "preview": "https://demo.themegrill.com/flash-construction/",
@@ -1031,9 +951,86 @@
         }
       }
     },
-    
-   
-    
+    "flash-food": {
+      "title": "Flash Food",
+      "preview": "https://demo.themegrill.com/flash-food/",
+      "description": "Showcase your taste of delicious food using this Flash demo.",
+      "template": [
+        "flash",
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Food",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "6": {
+                "style": {
+                  "background_image_attachment": "cta.jpg"
+                }
+              },
+              "8": {
+                "style": {
+                  "background_image_attachment": "fun-facts.jpg"
+                }
+              }
+            },
+            "widgets_data": {
+              "dropdown_categories": {
+                "portfolio_cat": {
+                  "FT_Widget_Portfolio": {
+                    "5": {
+                      "categories": "Breakfast"
+                    }
+                  }
+                },
+                "category": {
+                  "FT_Widget_Blog": {
+                    "8": {
+                      "category": "Blog"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "social": "Social",
+          "footer": "Footer Menu"
+        }
+      }
+    },
     "flash-pro-band": {
       "isPro": true,
       "title": "Flash Pro Band",

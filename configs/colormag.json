@@ -82,6 +82,273 @@
         }
       }
     },
+    "colormag-pro": {
+      "isPro": true,
+      "title": "Main V2",
+      "preview": "https://demo.themegrill.com/colormag-pro/",
+      "description": "The premium version of the default ColorMag demo for your online magazine.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_slider_widget": {
+              "2": {
+                "category": "Research"
+              }
+            },
+            "colormag_highlighted_posts_widget": {
+              "2": {
+                "category": "Technology"
+              }
+            },
+            "colormag_featured_posts_widget": {
+              "2": {
+                "category": "Business"
+              }
+            },
+            "colormag_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Health"
+              },
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Politics"
+              },
+              "9": {
+                "category": "Technology"
+              },
+              "10": {
+                "category": "Travel"
+              }
+            },
+            "colormag_default_news_widget": {
+              "2": {
+                "category": "Adventure"
+              }
+            },
+            "colormag_ticker_news_widget": {
+              "2": {
+                "category": "Travel"
+              }
+            },
+            "colormag_slider_news_widget": {
+              "7": {
+                "category": "Sports"
+              }
+            },
+            "colormag_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Technology"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer"
+        }
+      }
+    },
+    "colormag-dark": {
+      "title": "Dark",
+      "preview": "https://demo.themegrill.com/colormag-dark/",
+      "description": "Use this ColorMag demo to display news in your online magazine.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Dark",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "9": "Fashion",
+                "11": "News"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              },
+              "ColorMag-Posts-Block-6": {
+                "4": "Travel",
+                "6": "World",
+                "7": "Technology"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "entertainment": {
+          "post_title": "Entertainment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "8": "Entertainment"
+              },
+              "ColorMag-Posts-Block-4": {
+                "8": "Entertainment"
+              }
+            }
+          }
+        },
+        "fashion": {
+          "post_title": "Fashion",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "9": "Fashion"
+              },
+              "ColorMag-Posts-Block-4": {
+                "9": "Fashion"
+              }
+            }
+          }
+        },
+        "food-health": {
+          "post_title": "Food & Health",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "10": "Food &amp; Health"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Food &amp; Health"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "2": "Politics",
+                "3": "Sports",
+                "6": "World"
+              }
+            }
+          }
+        },
+        "politics": {
+          "post_title": "Politics",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "2": "Politics"
+              },
+              "ColorMag-Posts-Block-4": {
+                "2": "Politics"
+              }
+            }
+          }
+        },
+        "sports": {
+          "post_title": "Sports",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "3": "Sports"
+              },
+              "ColorMag-Posts-Block-4": {
+                "3": "Sports"
+              }
+            }
+          }
+        },
+        "technology": {
+          "post_title": "Technology",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "7": "Technology"
+              },
+              "ColorMag-Posts-Block-4": {
+                "7": "Technology"
+              }
+            }
+          }
+        },
+        "travel": {
+          "post_title": "Travel",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "4": "Travel"
+              },
+              "ColorMag-Posts-Block-4": {
+                "4": "Travel"
+              }
+            }
+          }
+        },
+        "world": {
+          "post_title": "World",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "6": "World"
+              },
+              "ColorMag-Posts-Block-4": {
+                "6": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-wild-magazine": {
       "title": "Wild Magazine",
       "preview": "https://demo.themegrill.com/colormag-wild-magazine/",
@@ -151,10 +418,263 @@
         }
       }
     },
-    "colormag-enews": {
-      "title": "Entertainment News",
-      "preview": "https://demo.themegrill.com/colormag-enews/",
-      "description": "Use this ColorMag demo to provide entertaining information on your news website.",
+    "colormag-pro-gossip": {
+      "isPro": true,
+      "title": "Gossip",
+      "preview": "https://demo.themegrill.com/colormag-pro-gossip/",
+      "description": "Use this premium ColorMag demo if you want to create a trending online magazine for gossips.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Gossip",
+        "page_on_front": "HOME"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "HOME",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "2": "Beauty",
+                "14": "World"
+              },
+              "ColorMag-Posts-Block-8": {
+                "8": "Must Read",
+                "10": "Popular News"
+              },
+              "ColorMag-Posts-Grid-2": {
+                "9": "News"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "4": "Entertainment",
+                "12": "Style"
+              },
+              "ColorMag-Posts-Grid-9": {
+                "5": "Fashion"
+              },
+              "ColorMag-Posts-Trending-News": {
+                "3": "Breaking News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-classic-news": {
+      "isPro": true,
+      "title": "Classic News",
+      "preview": "https://demo.themegrill.com/colormag-pro-classic-news/",
+      "description": "This premium ColorMag demo can be used to create a classic themed news website.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Classic News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "3": "Collage"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Art",
+                "5": "Latest News",
+                "8": "Popular News",
+                "10": "School"
+              },
+              "ColorMag-Posts-Block-7": {
+                "11": "Sports"
+              },
+              "ColorMag-Posts-Block-8": {
+                "13": "University"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "6": "Music"
+              },
+              "ColorMag-Posts-Grid-6": {
+                "12": "Student Life"
+              },
+              "ColorMag-Posts-Grid-9": {
+                "7": "News"
+              }
+            }
+          }
+        },
+        "contact": {
+          "post_title": "Contact",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "3": "Collage"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_vertical_widget": {
+              "1": {
+                "category": "Editor Picks"
+              }
+            },
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Recent News"
+              },
+              "2": {
+                "category": "Editor Picks"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
+    "colormag-pro-sports": {
+      "isPro": true,
+      "title": "Sports",
+      "preview": "https://demo.themegrill.com/colormag-pro-sports/",
+      "description": "Share your sports news and updates with this ColorMag Demo.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Sports"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_slider_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "colormag_highlighted_posts_widget": {
+              "2": {
+                "category": "Highlighted"
+              }
+            },
+            "colormag_featured_posts_widget": {
+              "2": {
+                "category": "Athlete"
+              }
+            },
+            "colormag_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Women"
+              },
+              "5": {
+                "category": "Snow Olympics"
+              },
+              "6": {
+                "category": "Race"
+              },
+              "7": {
+                "category": "Figure Skating"
+              }
+            },
+            "colormag_default_news_widget": {
+              "2": {
+                "category": "Football"
+              }
+            },
+            "colormag_slider_news_widget": {
+              "7": {
+                "category": "Athlete"
+              }
+            },
+            "colormag_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Featured"
+              }
+            },
+            "colormag_news_in_picture_widget": {
+              "2": {
+                "category": "Top Product"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary Menu"
+        }
+      }
+    },
+    "colormag-business-magazine": {
+      "title": "Business Magazine",
+      "preview": "https://demo.themegrill.com/colormag-business-magazine/",
+      "description": "Grow your business through blogs with this ColorMag demo.",
       "template": [
         "colormag",
         "colormag-pro"
@@ -179,7 +699,7 @@
         }
       },
       "core_options": {
-        "blogname": "ColorMag Entertainment News",
+        "blogname": "ColorMag Business Magazine",
         "page_on_front": "Home"
       },
       "elementor_data_update": {
@@ -187,32 +707,100 @@
           "post_title": "Home",
           "data_update": {
             "category": {
-              "ColorMag-Posts-Grid-3": {
-                "6": "Animation",
-                "9": "News"
-              },
               "ColorMag-Posts-Grid-5": {
-                "5": "Game"
+                "6": "Employment"
               },
               "ColorMag-Posts-Block-1": {
-                "2": "Adventure",
-                "11": "Recent News"
-              },
-              "ColorMag-Posts-Block-2": {
-                "3": "Entertainment",
-                "4": "Features"
+                "5": "Corporate"
               },
               "ColorMag-Posts-Block-4": {
-                "13": "Trending News"
+                "8": "Money"
               },
               "ColorMag-Posts-Block-6": {
-                "8": "Most Read",
-                "10": "Popular News"
+                "4": "Investments"
               },
               "ColorMag-Posts-Block-9": {
-                "7": "Latest News",
-                "12": "Shooters",
-                "14": "World"
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "corporate": {
+          "post_title": "Corporate",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "5": "Corporate"
+              }
+            }
+          }
+        },
+        "global-trade": {
+          "post_title": "Global Trade",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "14": "Global Trade"
+              }
+            }
+          }
+        },
+        "companies": {
+          "post_title": "Companies",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "15": "Companies"
+              }
+            }
+          }
+        },
+        "entrepreneurship": {
+          "post_title": "Entrepreneurship",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "16": "Entrepreneurship"
+              }
+            }
+          }
+        },
+        "employment": {
+          "post_title": "Employment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "6": "Employment"
+              }
+            }
+          }
+        },
+        "investment": {
+          "post_title": "Investment",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "4": "Investments"
+              }
+            }
+          }
+        },
+        "market": {
+          "post_title": "Market",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "9": "Market"
+              }
+            }
+          }
+        },
+        "money": {
+          "post_title": "Money",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-2": {
+                "8": "Money"
               }
             }
           }
@@ -220,16 +808,16 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Footer First Menu"
+          "primary": "Primary"
         }
       }
     },
-    "colormag-top-magazine": {
-      "title": "Top Magazine",
-      "preview": "https://demo.themegrill.com/colormag-top-magazine/",
-      "description": "Start working on your awesome online magazine with this ColorMag demo.",
+    "colormag-pro-online-news": {
+      "isPro": true,
+      "title": "Online News",
+      "preview": "https://demo.themegrill.com/colormag-pro-online-news/",
+      "description": "Use this ColorMag demo to create your online news website.",
       "template": [
-        "colormag",
         "colormag-pro"
       ],
       "category": [
@@ -253,7 +841,7 @@
         }
       },
       "core_options": {
-        "blogname": "ColorMag Top Magazine",
+        "blogname": "ColorMag Pro Online News",
         "page_on_front": "Home"
       },
       "elementor_data_update": {
@@ -261,24 +849,40 @@
           "post_title": "Home",
           "data_update": {
             "category": {
-              "ColorMag-Posts-Grid-4": {
-                "7": "News"
+              "ColorMag-Posts-Grid-1": {
+                "13": "Top News"
               },
               "ColorMag-Posts-Grid-5": {
-                "9": "Recent News"
+                "11": "Random Picks"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "13": "Top News"
               },
               "ColorMag-Posts-Block-1": {
-                "8": "Popular News"
-              },
-              "ColorMag-Posts-Block-2": {
-                "4": "Hotels &amp; Resorts"
-              },
-              "ColorMag-Posts-Block-4": {
-                "10": "Travel Guide"
+                "6": "Latest News",
+                "7": "Most Popular News"
               },
               "ColorMag-Posts-Block-6": {
-                "3": "Destination",
-                "5": "Latest News"
+                "7": "Most Popular News",
+                "8": "Must Read",
+                "9": "News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "12": "Recent News"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Recent News"
+              },
+              "2": {
+                "category": "Editor Picks"
               }
             }
           }
@@ -287,6 +891,98 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-fashion": {
+      "isPro": true,
+      "title": "Fashion",
+      "preview": "https://demo.themegrill.com/colormag-pro-fashion/",
+      "description": "Be the fashion advisor for your audience using this ColorMag Demo.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Fashion"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_slider_widget": {
+              "2": {
+                "category": "Trends"
+              }
+            },
+            "colormag_highlighted_posts_widget": {
+              "3": {
+                "category": "Mens Fashion"
+              }
+            },
+            "colormag_featured_posts_widget": {
+              "2": {
+                "category": "Accessories"
+              }
+            },
+            "colormag_featured_posts_vertical_widget": {
+              "2": {
+                "category": "Makeup"
+              },
+              "3": {
+                "category": "Mens Fashion"
+              },
+              "4": {
+                "category": "Womans Fashion"
+              },
+              "9": {
+                "category": "Wedding"
+              }
+            },
+            "colormag_default_news_widget": {
+              "2": {
+                "category": "Outfit"
+              }
+            },
+            "colormag_ticker_news_widget": {
+              "3": {
+                "category": "Makeup"
+              },
+              "4": {
+                "category": "Mens Fashion"
+              }
+            },
+            "colormag_slider_news_widget": {
+              "7": {
+                "category": "Glamorous"
+              }
+            },
+            "colormag_featured_posts_small_thumbnails": {
+              "2": {
+                "category": "Outfit"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer"
         }
       }
     },
@@ -478,506 +1174,6 @@
         }
       }
     },
-    "colormag-business-magazine": {
-      "title": "Business Magazine",
-      "preview": "https://demo.themegrill.com/colormag-business-magazine/",
-      "description": "Grow your business through blogs with this ColorMag demo.",
-      "template": [
-        "colormag",
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Business Magazine",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Grid-5": {
-                "6": "Employment"
-              },
-              "ColorMag-Posts-Block-1": {
-                "5": "Corporate"
-              },
-              "ColorMag-Posts-Block-4": {
-                "8": "Money"
-              },
-              "ColorMag-Posts-Block-6": {
-                "4": "Investments"
-              },
-              "ColorMag-Posts-Block-9": {
-                "9": "Market"
-              }
-            }
-          }
-        },
-        "corporate": {
-          "post_title": "Corporate",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "5": "Corporate"
-              }
-            }
-          }
-        },
-        "global-trade": {
-          "post_title": "Global Trade",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "14": "Global Trade"
-              }
-            }
-          }
-        },
-        "companies": {
-          "post_title": "Companies",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "15": "Companies"
-              }
-            }
-          }
-        },
-        "entrepreneurship": {
-          "post_title": "Entrepreneurship",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "16": "Entrepreneurship"
-              }
-            }
-          }
-        },
-        "employment": {
-          "post_title": "Employment",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "6": "Employment"
-              }
-            }
-          }
-        },
-        "investment": {
-          "post_title": "Investment",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "4": "Investments"
-              }
-            }
-          }
-        },
-        "market": {
-          "post_title": "Market",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "9": "Market"
-              }
-            }
-          }
-        },
-        "money": {
-          "post_title": "Money",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "8": "Money"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-dark": {
-      "title": "Dark",
-      "preview": "https://demo.themegrill.com/colormag-dark/",
-      "description": "Use this ColorMag demo to display news in your online magazine.",
-      "template": [
-        "colormag",
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Dark",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-1": {
-                "9": "Fashion",
-                "11": "News"
-              },
-              "ColorMag-Posts-Block-4": {
-                "10": "Food &amp; Health"
-              },
-              "ColorMag-Posts-Block-6": {
-                "4": "Travel",
-                "6": "World",
-                "7": "Technology"
-              },
-              "ColorMag-Posts-Grid-5": {
-                "8": "Entertainment"
-              }
-            }
-          }
-        },
-        "entertainment": {
-          "post_title": "Entertainment",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "8": "Entertainment"
-              },
-              "ColorMag-Posts-Block-4": {
-                "8": "Entertainment"
-              }
-            }
-          }
-        },
-        "fashion": {
-          "post_title": "Fashion",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "9": "Fashion"
-              },
-              "ColorMag-Posts-Block-4": {
-                "9": "Fashion"
-              }
-            }
-          }
-        },
-        "food-health": {
-          "post_title": "Food & Health",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "10": "Food &amp; Health"
-              },
-              "ColorMag-Posts-Block-4": {
-                "10": "Food &amp; Health"
-              }
-            }
-          }
-        },
-        "news": {
-          "post_title": "News",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "2": "Politics",
-                "3": "Sports",
-                "6": "World"
-              }
-            }
-          }
-        },
-        "politics": {
-          "post_title": "Politics",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "2": "Politics"
-              },
-              "ColorMag-Posts-Block-4": {
-                "2": "Politics"
-              }
-            }
-          }
-        },
-        "sports": {
-          "post_title": "Sports",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "3": "Sports"
-              },
-              "ColorMag-Posts-Block-4": {
-                "3": "Sports"
-              }
-            }
-          }
-        },
-        "technology": {
-          "post_title": "Technology",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "7": "Technology"
-              },
-              "ColorMag-Posts-Block-4": {
-                "7": "Technology"
-              }
-            }
-          }
-        },
-        "travel": {
-          "post_title": "Travel",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "4": "Travel"
-              },
-              "ColorMag-Posts-Block-4": {
-                "4": "Travel"
-              }
-            }
-          }
-        },
-        "world": {
-          "post_title": "World",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-2": {
-                "6": "World"
-              },
-              "ColorMag-Posts-Block-4": {
-                "6": "World"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro": {
-      "isPro": true,
-      "title": "Main V2",
-      "preview": "https://demo.themegrill.com/colormag-pro/",
-      "description": "The premium version of the default ColorMag demo for your online magazine.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "blog"
-      ],
-      "pagebuilder": [
-        "all",
-        "default"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro"
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_slider_widget": {
-              "2": {
-                "category": "Research"
-              }
-            },
-            "colormag_highlighted_posts_widget": {
-              "2": {
-                "category": "Technology"
-              }
-            },
-            "colormag_featured_posts_widget": {
-              "2": {
-                "category": "Business"
-              }
-            },
-            "colormag_featured_posts_vertical_widget": {
-              "2": {
-                "category": "Health"
-              },
-              "3": {
-                "category": "Fashion"
-              },
-              "4": {
-                "category": "Politics"
-              },
-              "9": {
-                "category": "Technology"
-              },
-              "10": {
-                "category": "Travel"
-              }
-            },
-            "colormag_default_news_widget": {
-              "2": {
-                "category": "Adventure"
-              }
-            },
-            "colormag_ticker_news_widget": {
-              "2": {
-                "category": "Travel"
-              }
-            },
-            "colormag_slider_news_widget": {
-              "7": {
-                "category": "Sports"
-              }
-            },
-            "colormag_featured_posts_small_thumbnails": {
-              "2": {
-                "category": "Technology"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "footer": "Footer"
-        }
-      }
-    },
-    "colormag-pro-fashion": {
-      "isPro": true,
-      "title": "Fashion",
-      "preview": "https://demo.themegrill.com/colormag-pro-fashion/",
-      "description": "Be the fashion advisor for your audience using this ColorMag Demo.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "default"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Fashion"
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_slider_widget": {
-              "2": {
-                "category": "Trends"
-              }
-            },
-            "colormag_highlighted_posts_widget": {
-              "3": {
-                "category": "Mens Fashion"
-              }
-            },
-            "colormag_featured_posts_widget": {
-              "2": {
-                "category": "Accessories"
-              }
-            },
-            "colormag_featured_posts_vertical_widget": {
-              "2": {
-                "category": "Makeup"
-              },
-              "3": {
-                "category": "Mens Fashion"
-              },
-              "4": {
-                "category": "Womans Fashion"
-              },
-              "9": {
-                "category": "Wedding"
-              }
-            },
-            "colormag_default_news_widget": {
-              "2": {
-                "category": "Outfit"
-              }
-            },
-            "colormag_ticker_news_widget": {
-              "3": {
-                "category": "Makeup"
-              },
-              "4": {
-                "category": "Mens Fashion"
-              }
-            },
-            "colormag_slider_news_widget": {
-              "7": {
-                "category": "Glamorous"
-              }
-            },
-            "colormag_featured_posts_small_thumbnails": {
-              "2": {
-                "category": "Outfit"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary",
-          "footer": "Footer"
-        }
-      }
-    },
     "colormag-pro-technology": {
       "isPro": true,
       "title": "Technology",
@@ -1081,104 +1277,16 @@
         }
       }
     },
-    "colormag-pro-sports": {
+    "colormag-pro-music": {
       "isPro": true,
-      "title": "Sports",
-      "preview": "https://demo.themegrill.com/colormag-pro-sports/",
-      "description": "Share your sports news and updates with this ColorMag Demo.",
+      "title": "Music",
+      "preview": "https://demo.themegrill.com/colormag-pro-music/",
+      "description": "You can show your taste of music using this ColorMag Demo.",
       "template": [
         "colormag-pro"
       ],
       "category": [
         "all",
-        "news",
-        "blog"
-      ],
-      "pagebuilder": [
-        "all",
-        "default"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Sports"
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_slider_widget": {
-              "2": {
-                "category": "Featured"
-              }
-            },
-            "colormag_highlighted_posts_widget": {
-              "2": {
-                "category": "Highlighted"
-              }
-            },
-            "colormag_featured_posts_widget": {
-              "2": {
-                "category": "Athlete"
-              }
-            },
-            "colormag_featured_posts_vertical_widget": {
-              "2": {
-                "category": "Women"
-              },
-              "5": {
-                "category": "Snow Olympics"
-              },
-              "6": {
-                "category": "Race"
-              },
-              "7": {
-                "category": "Figure Skating"
-              }
-            },
-            "colormag_default_news_widget": {
-              "2": {
-                "category": "Football"
-              }
-            },
-            "colormag_slider_news_widget": {
-              "7": {
-                "category": "Athlete"
-              }
-            },
-            "colormag_featured_posts_small_thumbnails": {
-              "2": {
-                "category": "Featured"
-              }
-            },
-            "colormag_news_in_picture_widget": {
-              "2": {
-                "category": "Top Product"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu"
-        }
-      }
-    },
-    "colormag-pro-gossip": {
-      "isPro": true,
-      "title": "Gossip",
-      "preview": "https://demo.themegrill.com/colormag-pro-gossip/",
-      "description": "Use this premium ColorMag demo if you want to create a trending online magazine for gossips.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
         "others"
       ],
       "pagebuilder": [
@@ -1196,78 +1304,7 @@
         }
       },
       "core_options": {
-        "blogname": "ColorMag Pro Gossip",
-        "page_on_front": "HOME"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "HOME",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-6": {
-                "2": "Beauty",
-                "14": "World"
-              },
-              "ColorMag-Posts-Block-8": {
-                "8": "Must Read",
-                "10": "Popular News"
-              },
-              "ColorMag-Posts-Grid-2": {
-                "9": "News"
-              },
-              "ColorMag-Posts-Grid-4": {
-                "4": "Entertainment",
-                "12": "Style"
-              },
-              "ColorMag-Posts-Grid-9": {
-                "5": "Fashion"
-              },
-              "ColorMag-Posts-Trending-News": {
-                "3": "Breaking News"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro-good-news": {
-      "isPro": true,
-      "title": "Good News",
-      "preview": "https://demo.themegrill.com/colormag-pro-good-news/",
-      "description": "This premium ColorMag demo can be used to create an online magazine all about babies.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Good News",
+        "blogname": "ColorMag Pro Music",
         "page_on_front": "Home"
       },
       "elementor_data_update": {
@@ -1275,43 +1312,105 @@
           "post_title": "Home",
           "data_update": {
             "category": {
-              "ColorMag-Posts-Block-1": {
-                "3": "COMPETITIONS"
+              "ColorMag-Posts-Block-3": {
+                "7": "Video"
+              },
+              "ColorMag-Posts-Block-4": {
+                "6": "Event"
               },
               "ColorMag-Posts-Block-6": {
-                "6": "LATEST NEWS",
-                "8": "LIFE STYLE"
+                "6": "Event",
+                "10": "News"
               },
-              "ColorMag-Posts-Block-8": {
-                "4": "EDITOR PICKS",
-                "10": "MUST READ"
-              },
-              "ColorMag-Posts-Block-9": {
-                "9": "MOST POPULAR NEWS",
-                "12": "RECENT NEWS"
-              },
-              "ColorMag-Posts-Grid-1": {
-                "13": "TOP NEWS"
+              "ColorMag-Posts-Block-7": {
+                "3": "Music",
+                "11": "Rock",
+                "12": "Jazz",
+                "13": "Pop"
               },
               "ColorMag-Posts-Grid-3": {
-                "11": "RANDOM PICKS"
-              },
-              "ColorMag-Posts-Grid-4": {
-                "5": "FAMILY"
-              },
-              "ColorMag-Posts-Grid-5": {
-                "7": "LEARNING"
+                "6": "Event"
               }
             }
           }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "BREAKING NEWS"
+        },
+        "events": {
+          "post_title": "Events",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-4": {
+                "4": "High light",
+                "6": "Event"
+              },
+              "ColorMag-Posts-Block-9": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "jazz": {
+          "post_title": "Jazz",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "12": "Jazz"
+              },
+              "ColorMag-Posts-Block-7": {
+                "4": "High light",
+                "6": "Event"
+              }
+            }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "4": "High light"
+              },
+              "ColorMag-Posts-Block-7": {
+                "4": "High light",
+                "6": "Event"
+              },
+              "ColorMag-Posts-Block-9": {
+                "6": "Event"
+              }
+            }
+          }
+        },
+        "pop": {
+          "post_title": "Pop",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "13": "Pop"
+              },
+              "ColorMag-Posts-Block-7": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "rock": {
+          "post_title": "Rock",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "11": "Rock"
+              },
+              "ColorMag-Posts-Block-7": {
+                "10": "News"
+              }
+            }
+          }
+        },
+        "videos": {
+          "post_title": "Videos",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-3": {
+                "7": "Video"
               }
             }
           }
@@ -1399,6 +1498,79 @@
         "nav_menu_locations": {
           "primary": "Primary",
           "footer": "Footer First Menu"
+        }
+      }
+    },
+    "colormag-enews": {
+      "title": "Entertainment News",
+      "preview": "https://demo.themegrill.com/colormag-enews/",
+      "description": "Use this ColorMag demo to provide entertaining information on your news website.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Entertainment News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-3": {
+                "6": "Animation",
+                "9": "News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "5": "Game"
+              },
+              "ColorMag-Posts-Block-1": {
+                "2": "Adventure",
+                "11": "Recent News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "3": "Entertainment",
+                "4": "Features"
+              },
+              "ColorMag-Posts-Block-4": {
+                "13": "Trending News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "8": "Most Read",
+                "10": "Popular News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "7": "Latest News",
+                "12": "Shooters",
+                "14": "World"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Footer First Menu"
         }
       }
     },
@@ -1499,459 +1671,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Quick Links"
-        }
-      }
-    },
-    "colormag-pro-news-portal": {
-      "isPro": true,
-      "title": "News Portal",
-      "preview": "https://demo.themegrill.com/colormag-pro-news-portal/",
-      "description": "Use this premium ColorMag demo to create an informative news and magazine website.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro News Portal",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-4": {
-                "4": "Exhibitions"
-              },
-              "ColorMag-Posts-Block-6": {
-                "9": "Must Read",
-                "12": "Top News"
-              },
-              "ColorMag-Posts-Block-7": {
-                "10": "Random Picks"
-              },
-              "ColorMag-Posts-Block-8": {
-                "11": "Recent News"
-              },
-              "ColorMag-Posts-Block-9": {
-                "7": "Most Popular News"
-              },
-              "ColorMag-Posts-Block-10": {
-                "5": "Latest News"
-              },
-              "ColorMag-Posts-Grid-5": {
-                "2": "ART FAIRS",
-                "5": "Latest News"
-              },
-              "ColorMag-Posts-Grid-9": {
-                "7": "Most Popular News"
-              }
-            }
-          }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "Market"
-              },
-              "2": {
-                "category": "Editor Picks"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro-classic-news": {
-      "isPro": true,
-      "title": "Classic News",
-      "preview": "https://demo.themegrill.com/colormag-pro-classic-news/",
-      "description": "This premium ColorMag demo can be used to create a classic themed news website.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Classic News",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-1": {
-                "3": "Collage"
-              },
-              "ColorMag-Posts-Block-6": {
-                "2": "Art",
-                "5": "Latest News",
-                "8": "Popular News",
-                "10": "School"
-              },
-              "ColorMag-Posts-Block-7": {
-                "11": "Sports"
-              },
-              "ColorMag-Posts-Block-8": {
-                "13": "University"
-              },
-              "ColorMag-Posts-Grid-4": {
-                "6": "Music"
-              },
-              "ColorMag-Posts-Grid-6": {
-                "12": "Student Life"
-              },
-              "ColorMag-Posts-Grid-9": {
-                "7": "News"
-              }
-            }
-          }
-        },
-        "contact": {
-          "post_title": "Contact",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-6": {
-                "3": "Collage"
-              }
-            }
-          }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_vertical_widget": {
-              "1": {
-                "category": "Editor Picks"
-              }
-            },
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "Recent News"
-              },
-              "2": {
-                "category": "Editor Picks"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary Menu"
-        }
-      }
-    },
-    "colormag-pro-public-news": {
-      "isPro": true,
-      "title": "Public News",
-      "preview": "https://demo.themegrill.com/colormag-pro-public-news/",
-      "description": "Use this ColorMag Pro demo to create your informative news magazine website.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Public News",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Grid-2": {
-                "5": "Editor Picks"
-              },
-              "ColorMag-Posts-Grid-5": {
-                "8": "Most Popular News",
-                "11": "Random Picks"
-              },
-              "ColorMag-Posts-Grid-8": {
-                "13": "Top News"
-              },
-              "ColorMag-Posts-Block-1": {
-                "4": "CarTech"
-              },
-              "ColorMag-Posts-Block-2": {
-                "3": "Buyer’s Guide"
-              },
-              "ColorMag-Posts-Block-4": {
-                "12": "Recent News"
-              },
-              "ColorMag-Posts-Block-6": {
-                "2": "Auto Shows",
-                "6": "Feature"
-              },
-              "ColorMag-Posts-Block-7": {
-                "13": "Top News"
-              },
-              "ColorMag-Posts-Block-8": {
-                "10": "News"
-              },
-              "ColorMag-Posts-Block-9": {
-                "9": "Must Read"
-              }
-            }
-          }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "Most Popular News"
-              },
-              "3": {
-                "category": "Feature"
-              },
-              "4": {
-                "category": "Auto Shows"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro-public-news-v2": {
-      "isPro": true,
-      "title": "Public News v2",
-      "preview": "https://demo.themegrill.com/colormag-pro-public-news-v2/",
-      "description": "Create your informative and enlightening public news website with this ColorMag demo",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Public News v2",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Grid-5": {
-                "4": "EDITOR PICKS"
-              },
-              "ColorMag-Posts-Grid-7": {
-                "11": "RANDOM PICKS",
-                "13": "TOP NEWS"
-              },
-              "ColorMag-Posts-Grid-8": {
-                "10": "PACKAGING"
-              },
-              "ColorMag-Posts-Block-1": {
-                "9": "MUST READ"
-              },
-              "ColorMag-Posts-Block-6": {
-                "8": "MOST POPULAR NEWS",
-                "10": "PACKAGING",
-                "12": "RECENT NEWS"
-              },
-              "ColorMag-Posts-Block-7": {
-                "5": "LATEST NEWS",
-                "8": "MOST POPULAR NEWS"
-              },
-              "ColorMag-Posts-Block-8": {
-                "3": "BUSINESS",
-                "5": "LATEST NEWS",
-                "6": "LIFE STYLE"
-              },
-              "ColorMag-Posts-Block-9": {
-                "8": "MOST POPULAR NEWS"
-              }
-            }
-          }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "BREAKING NEWS"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro-online-news": {
-      "isPro": true,
-      "title": "Online News",
-      "preview": "https://demo.themegrill.com/colormag-pro-online-news/",
-      "description": "Use this ColorMag demo to create your online news website.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "news",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Online News",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Grid-1": {
-                "13": "Top News"
-              },
-              "ColorMag-Posts-Grid-5": {
-                "11": "Random Picks"
-              },
-              "ColorMag-Posts-Grid-8": {
-                "13": "Top News"
-              },
-              "ColorMag-Posts-Block-1": {
-                "6": "Latest News",
-                "7": "Most Popular News"
-              },
-              "ColorMag-Posts-Block-6": {
-                "7": "Most Popular News",
-                "8": "Must Read",
-                "9": "News"
-              },
-              "ColorMag-Posts-Block-9": {
-                "12": "Recent News"
-              }
-            }
-          }
-        }
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "colormag_featured_posts_small_thumbnails": {
-              "1": {
-                "category": "Recent News"
-              },
-              "2": {
-                "category": "Editor Picks"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
         }
       }
     },
@@ -2057,6 +1776,432 @@
         }
       }
     },
+    "colormag-pro-public-news-v2": {
+      "isPro": true,
+      "title": "Public News v2",
+      "preview": "https://demo.themegrill.com/colormag-pro-public-news-v2/",
+      "description": "Create your informative and enlightening public news website with this ColorMag demo",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Public News v2",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-5": {
+                "4": "EDITOR PICKS"
+              },
+              "ColorMag-Posts-Grid-7": {
+                "11": "RANDOM PICKS",
+                "13": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "10": "PACKAGING"
+              },
+              "ColorMag-Posts-Block-1": {
+                "9": "MUST READ"
+              },
+              "ColorMag-Posts-Block-6": {
+                "8": "MOST POPULAR NEWS",
+                "10": "PACKAGING",
+                "12": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Block-7": {
+                "5": "LATEST NEWS",
+                "8": "MOST POPULAR NEWS"
+              },
+              "ColorMag-Posts-Block-8": {
+                "3": "BUSINESS",
+                "5": "LATEST NEWS",
+                "6": "LIFE STYLE"
+              },
+              "ColorMag-Posts-Block-9": {
+                "8": "MOST POPULAR NEWS"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "BREAKING NEWS"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-top-magazine": {
+      "title": "Top Magazine",
+      "preview": "https://demo.themegrill.com/colormag-top-magazine/",
+      "description": "Start working on your awesome online magazine with this ColorMag demo.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Top Magazine",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-4": {
+                "7": "News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "9": "Recent News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "8": "Popular News"
+              },
+              "ColorMag-Posts-Block-2": {
+                "4": "Hotels &amp; Resorts"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Travel Guide"
+              },
+              "ColorMag-Posts-Block-6": {
+                "3": "Destination",
+                "5": "Latest News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-news-portal": {
+      "isPro": true,
+      "title": "News Portal",
+      "preview": "https://demo.themegrill.com/colormag-pro-news-portal/",
+      "description": "Use this premium ColorMag demo to create an informative news and magazine website.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro News Portal",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-4": {
+                "4": "Exhibitions"
+              },
+              "ColorMag-Posts-Block-6": {
+                "9": "Must Read",
+                "12": "Top News"
+              },
+              "ColorMag-Posts-Block-7": {
+                "10": "Random Picks"
+              },
+              "ColorMag-Posts-Block-8": {
+                "11": "Recent News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "7": "Most Popular News"
+              },
+              "ColorMag-Posts-Block-10": {
+                "5": "Latest News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "2": "ART FAIRS",
+                "5": "Latest News"
+              },
+              "ColorMag-Posts-Grid-9": {
+                "7": "Most Popular News"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Market"
+              },
+              "2": {
+                "category": "Editor Picks"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-good-news": {
+      "isPro": true,
+      "title": "Good News",
+      "preview": "https://demo.themegrill.com/colormag-pro-good-news/",
+      "description": "This premium ColorMag demo can be used to create an online magazine all about babies.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Good News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "3": "COMPETITIONS"
+              },
+              "ColorMag-Posts-Block-6": {
+                "6": "LATEST NEWS",
+                "8": "LIFE STYLE"
+              },
+              "ColorMag-Posts-Block-8": {
+                "4": "EDITOR PICKS",
+                "10": "MUST READ"
+              },
+              "ColorMag-Posts-Block-9": {
+                "9": "MOST POPULAR NEWS",
+                "12": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Grid-1": {
+                "13": "TOP NEWS"
+              },
+              "ColorMag-Posts-Grid-3": {
+                "11": "RANDOM PICKS"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "5": "FAMILY"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "7": "LEARNING"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "BREAKING NEWS"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-pro-public-news": {
+      "isPro": true,
+      "title": "Public News",
+      "preview": "https://demo.themegrill.com/colormag-pro-public-news/",
+      "description": "Use this ColorMag Pro demo to create your informative news magazine website.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Public News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Grid-2": {
+                "5": "Editor Picks"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "8": "Most Popular News",
+                "11": "Random Picks"
+              },
+              "ColorMag-Posts-Grid-8": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Block-1": {
+                "4": "CarTech"
+              },
+              "ColorMag-Posts-Block-2": {
+                "3": "Buyer’s Guide"
+              },
+              "ColorMag-Posts-Block-4": {
+                "12": "Recent News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "2": "Auto Shows",
+                "6": "Feature"
+              },
+              "ColorMag-Posts-Block-7": {
+                "13": "Top News"
+              },
+              "ColorMag-Posts-Block-8": {
+                "10": "News"
+              },
+              "ColorMag-Posts-Block-9": {
+                "9": "Must Read"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "Most Popular News"
+              },
+              "3": {
+                "category": "Feature"
+              },
+              "4": {
+                "category": "Auto Shows"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    }, 
     "colormag-pro-recipes": {
       "isPro": true,
       "title": "Food Recipe",
@@ -2429,151 +2574,6 @@
               },
               "ColorMag-Posts-Block-7": {
                 "3": "General"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },
-    "colormag-pro-music": {
-      "isPro": true,
-      "title": "Music",
-      "preview": "https://demo.themegrill.com/colormag-pro-music/",
-      "description": "You can show your taste of music using this ColorMag Demo.",
-      "template": [
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag Pro Music",
-        "page_on_front": "Home"
-      },
-      "elementor_data_update": {
-        "home": {
-          "post_title": "Home",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-3": {
-                "7": "Video"
-              },
-              "ColorMag-Posts-Block-4": {
-                "6": "Event"
-              },
-              "ColorMag-Posts-Block-6": {
-                "6": "Event",
-                "10": "News"
-              },
-              "ColorMag-Posts-Block-7": {
-                "3": "Music",
-                "11": "Rock",
-                "12": "Jazz",
-                "13": "Pop"
-              },
-              "ColorMag-Posts-Grid-3": {
-                "6": "Event"
-              }
-            }
-          }
-        },
-        "events": {
-          "post_title": "Events",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-4": {
-                "4": "High light",
-                "6": "Event"
-              },
-              "ColorMag-Posts-Block-9": {
-                "10": "News"
-              }
-            }
-          }
-        },
-        "jazz": {
-          "post_title": "Jazz",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "12": "Jazz"
-              },
-              "ColorMag-Posts-Block-7": {
-                "4": "High light",
-                "6": "Event"
-              }
-            }
-          }
-        },
-        "news": {
-          "post_title": "News",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "4": "High light"
-              },
-              "ColorMag-Posts-Block-7": {
-                "4": "High light",
-                "6": "Event"
-              },
-              "ColorMag-Posts-Block-9": {
-                "6": "Event"
-              }
-            }
-          }
-        },
-        "pop": {
-          "post_title": "Pop",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "13": "Pop"
-              },
-              "ColorMag-Posts-Block-7": {
-                "10": "News"
-              }
-            }
-          }
-        },
-        "rock": {
-          "post_title": "Rock",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-5": {
-                "11": "Rock"
-              },
-              "ColorMag-Posts-Block-7": {
-                "10": "News"
-              }
-            }
-          }
-        },
-        "videos": {
-          "post_title": "Videos",
-          "data_update": {
-            "category": {
-              "ColorMag-Posts-Block-3": {
-                "7": "Video"
               }
             }
           }
