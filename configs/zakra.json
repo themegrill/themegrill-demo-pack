@@ -14,10 +14,76 @@
     "others"     : "Others"
   },
   "pagebuilders": {
-    "elementor": "Elementor",
-	"brizy": "Brizy"
+    "elementor": "Elementor"
   },
   "demos": {
+    "zakra-agency": {
+      "title": "Agency",
+      "preview": "https://zakrademos.com/agency/",
+      "description": "WordPress Template Site for All Kind of Creative Websites like Agency, Company, Organizations, Portfolio",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Agency",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#111111",
+          "#23AB70",
+          "#111111",
+          "#006D3E"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lora",
+            "font_weight": "900"
+          },
+          "secondary": {
+            "font_family": "Lora",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Raleway",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-professional": {
       "title": "Professional",
       "preview": "https://zakrademos.com/professional/",
@@ -31,8 +97,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -133,8 +198,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -201,8 +265,7 @@
         "non-profit"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -265,8 +328,7 @@
         "non-profit"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -333,8 +395,7 @@
         "non-profit"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -397,8 +458,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -464,8 +524,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -532,8 +591,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -606,8 +664,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -671,8 +728,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -738,8 +794,7 @@
         "ecommerce"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -811,8 +866,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -876,8 +930,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -943,8 +996,7 @@
         "non-profit"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1012,8 +1064,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1081,8 +1132,7 @@
         "portfolio"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1148,8 +1198,7 @@
         "ecommerce"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1222,8 +1271,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1286,8 +1334,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1355,8 +1402,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1418,8 +1464,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1483,8 +1528,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1548,8 +1592,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1615,8 +1658,7 @@
         "business"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1718,8 +1760,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1790,8 +1831,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1859,8 +1899,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -1928,8 +1967,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2000,8 +2038,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2068,8 +2105,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2137,8 +2173,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2201,8 +2236,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2266,8 +2300,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2333,8 +2366,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2397,8 +2429,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2466,8 +2497,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2533,8 +2563,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2597,8 +2626,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2665,8 +2693,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2732,8 +2759,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2795,8 +2821,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2859,8 +2884,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2931,8 +2955,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -2994,8 +3017,7 @@
         "others"
       ],
       "pagebuilder": [
-        "all",
-		"elementor"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
@@ -3041,9 +3063,8 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
-					}
-				}
-			}
-		}
-	}
+        }
+      }
+    }
+  }
 }
