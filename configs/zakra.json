@@ -89,6 +89,70 @@
         }
       }
     },
+    "zakra-portfolio": {
+      "title": "Portfolio",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/portfolio/",
+      "description": "WordPress Template Site for showcasing your skills",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "portfolio"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Pro Portfolio",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#7476F4",
+          "#F28705",
+          "#3E3E3E",
+          "#7476F4"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "900"
+          },
+          "secondary": {
+            "font_family": "Playfair Display",
+            "font_weight": "800"
+          },
+          "body": {
+            "font_family": "Nunito Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Nunito Sans",
+            "font_weight": "800"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
 	"zakra-care-02": {
       "title": "Care 02",
       "preview": "https://zakrademos.com/care-02/",
