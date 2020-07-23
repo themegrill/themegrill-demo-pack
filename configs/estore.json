@@ -201,104 +201,6 @@
         }
       }
     },
-    "estore-pro-fashion": {
-      "isPro": true,
-      "title": "eStore Pro Fashion",
-      "preview": "https://demo.themegrill.com/estore-pro-fashion/",
-      "description": "Create your own online fashion store with the help of this eStore demo.",
-      "template": [
-        "estore-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        },
-        "yith-woocommerce-wishlist": {
-          "name": "YITH WooCommerce Wishlist",
-          "slug": "yith-woocommerce-wishlist/init.php"
-        }
-      },
-      "core_options": {
-        "blogname": "eStore Pro Fashion",
-        "page_on_front": "eStore Home",
-        "page_for_posts": "Blog"
-      },
-      "widgets_data_update": {
-        "dropdown_pages": {
-          "estore_about": {
-            "3": {
-              "page_id": "UPTO 70% DISCOUNT"
-            }
-          }
-        },
-        "dropdown_categories": {
-          "category": {
-            "estore_featured_posts_widget": {
-              "2": {
-                "category": "Featured Posts"
-              }
-            },
-            "estore_featured_posts_slider_widget": {
-              "3": {
-                "category": "Slider"
-              }
-            }
-          },
-          "product_cat": {
-            "estore_woocommerce_product_grid": {
-              "2": {
-                "category": "Women Collection"
-              },
-              "4": {
-                "category": "Men Collection"
-              }
-            },
-            "estore_woocommerce_category_tabs": {
-              "2": {
-                "category1": "Featured Product Collection",
-                "category2": "Kid Collection",
-                "category3": "Footwear",
-                "category4": "Clothes collection"
-              }
-            },
-            "estore_woocommerce_product_carousel": {
-              "2": {
-                "category": "Clothes collection"
-              }
-            },
-            "estore_woocommerce_full_width_promo_widget": {
-              "3": {
-                "cat_id0": "Kid Collection",
-                "cat_id1": "Men Collection",
-                "cat_id2": "Women Collection"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "categories": {
-          "category": {
-            "estore_ticker_category": ""
-          }
-        },
-        "nav_menu_locations": {
-          "primary": "Main Menu",
-          "header": "ThemeGrill Menu",
-          "middleheader": "Custom Menu",
-          "secondary": "Useful Links"
-        }
-      }
-    },
     "estore-pro-tech": {
       "isPro": true,
       "title": "eStore Pro Tech",
@@ -399,7 +301,106 @@
           "secondary": "Useful Links"
         }
       }
+    },
+    "estore-pro-fashion": {
+      "isPro": true,
+      "title": "eStore Pro Fashion",
+      "preview": "https://demo.themegrill.com/estore-pro-fashion/",
+      "description": "Create your own online fashion store with the help of this eStore demo.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Fashion",
+        "page_on_front": "eStore Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "estore_about": {
+            "3": {
+              "page_id": "UPTO 70% DISCOUNT"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "estore_featured_posts_widget": {
+              "2": {
+                "category": "Featured Posts"
+              }
+            },
+            "estore_featured_posts_slider_widget": {
+              "3": {
+                "category": "Slider"
+              }
+            }
+          },
+          "product_cat": {
+            "estore_woocommerce_product_grid": {
+              "2": {
+                "category": "Women Collection"
+              },
+              "4": {
+                "category": "Men Collection"
+              }
+            },
+            "estore_woocommerce_category_tabs": {
+              "2": {
+                "category1": "Featured Product Collection",
+                "category2": "Kid Collection",
+                "category3": "Footwear",
+                "category4": "Clothes collection"
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "2": {
+                "category": "Clothes collection"
+              }
+            },
+            "estore_woocommerce_full_width_promo_widget": {
+              "3": {
+                "cat_id0": "Kid Collection",
+                "cat_id1": "Men Collection",
+                "cat_id2": "Women Collection"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": ""
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "header": "ThemeGrill Menu",
+          "middleheader": "Custom Menu",
+          "secondary": "Useful Links"
+        }
+      }
     }
+    
   }
 }
 
