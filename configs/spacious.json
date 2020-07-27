@@ -373,6 +373,71 @@
         }
       }
     },
+    "spacious-band": {
+      "title": "Spacious Band",
+      "preview": "https://demo.themegrill.com/spacious-band/",
+      "description": "Use this Spacious demo to create a music band website for your music enthusiasts.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "other"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Band",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#E82561",
+          "#B5ACAF",
+          "#FFFFFF",
+          "#E82561"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-food": {
       "title": "Spacious Food",
       "preview": "https://demo.themegrill.com/spacious-food/",
