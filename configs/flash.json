@@ -231,6 +231,66 @@
         }
       }
     },
+    "flash-pro-applab": {
+      "isPro": true,
+      "title": "Flash Pro AppLab",
+      "preview": "https://demo.themegrill.com/flash-pro-applab/",
+      "description": "Use this Flash demo if you want to be the best agency in the World",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+		"ecommerce"
+      ],
+      "pagebuilder": [
+        "siteorigin"
+      ],
+      "plugins_list": {
+        "flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "siteorigin-panels": {
+          "name": "SiteOrigin PageBuilder",
+          "slug": "siteorigin-panels/siteorigin-panels.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro Applab",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "siteorigin_panels_data_update": {
+        "homepage": {
+          "post_title": "Home",
+          "data_update": {
+            "grids_data": {
+              "7": {
+                "style": {
+                  "background_image_attachment": "blog-bg.jpg"
+                }
+              },
+              "9": {
+                "style": {
+                  "background_image_attachment": "app-feature.jpg"
+                }
+              }
+            }
+        },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main",
+          "footer": "Footer Menu"
+        }
+      }
+    },
     "flash-onepage": {
       "title": "Flash OnePage",
       "preview": "https://demo.themegrill.com/flash-one-page/",
@@ -1116,12 +1176,14 @@
           }
         }
       },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "primary",
-          "social": "social-icons"
+		"customizer_data_update": {
+		 "nav_menu_locations": {
+		 "primary": "primary",
+		 "social": "social-icons"
+		  }
         }
       }
     }
   }
+ }
 }
