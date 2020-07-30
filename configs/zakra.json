@@ -89,6 +89,74 @@
         }
       }
     },
+    "zakra-webhost": {
+      "title": "WebHost",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/webhost/",
+      "description": "WordPress Template Site for web hosting and domain name registration business with sleek and professional design.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "ajax-domain-checker": {
+          "name": "Ajax Domain Checker",
+          "slug": "ajax-domain-checker/ajax-domain-checker.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra WebHost",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#CF2FA9",
+          "#444444",
+          "#444444",
+          "#444444"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lato",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "600"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-portfolio": {
       "title": "Portfolio",
       "isPremium": true,
@@ -117,7 +185,7 @@
         }
       },
       "core_options": {
-        "blogname": "Zakra Pro Portfolio",
+        "blogname": "Zakra Portfolio",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
