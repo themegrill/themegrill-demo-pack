@@ -235,6 +235,77 @@
         }
       }
     },
+	"flash-pro-charity": {
+      "title": "Flash Pro Charity",
+      "isPro": true,
+      "preview": "https://demo.themegrill.com/flash-pro-charity/",
+      "description": "WordPress Template Site for spreading the love and care to the people in need.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+		"flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+		"mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+		  }
+      },
+      "core_options": {
+        "blogname": "Flash Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212121",
+          "#FCB20B",
+          "#888888",
+          "#FCB20B"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Merriweather",
+            "font_weight": "900"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Merriweather",
+            "font_weight": "900"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
 	"flash-pro-lawyer": {
       "title": "Flash Pro Lawyer",
       "isPro": true,
