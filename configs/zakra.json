@@ -89,6 +89,79 @@
         }
       }
     },
+    "zakra-online-course": {
+      "title": "eLearning",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/online-course/",
+      "description": "WordPress Template Site for creating a bridge between course providers and dedicated audiences which will take you on next level for publishing courses online.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "learnpress": {
+          "name": "LearnPress",
+          "slug": "learnpress/learnpress.php"
+        }        
+      },
+      "core_options": {
+        "blogname": "Zakra Online Course",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212121",
+          "#F5B417",
+          "#212121",
+          "#F5B417"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-webhost": {
       "title": "WebHost",
       "isPremium": true,
