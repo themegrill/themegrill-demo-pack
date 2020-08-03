@@ -11,7 +11,9 @@
     "others": "Others"
   },
   "pagebuilders": {
-    "siteorigin": "SiteOrigin PageBuilder"
+	"all": "All",
+    "siteorigin": "SiteOrigin PageBuilder",
+	"elementor": "Elementor"
   },
   "demos": {
     "flash-default": {
@@ -228,6 +230,69 @@
         "nav_menu_locations": {
           "primary": "Primary Menu",
           "social": "Social Menu"
+        }
+      }
+    },
+	"flash-pro-lawyer": {
+      "title": "Flash Pro Lawyer",
+      "isPremium": true,
+      "preview": "https://demo.themegrill.com/flash-pro-lawyer/",
+      "description": "Use this demo to create your awesome law firm website.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#AA742E",
+          "#495057",
+          "#AA742E"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
         }
       }
     },
