@@ -1407,6 +1407,40 @@
         }
       }
     },
+    "zakra-gutenberg": {
+      "title": "Gutenblog",
+      "preview": "https://zakrademos.com/gutenberg/",
+      "description": "Want to show your skills on content creation? Help yourself with this Zakra demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "gutenberg": {
+          "name": "Gutenberg",
+          "slug": "gutenberg/gutenberg.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Gutenberg"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-education-v2": {
       "title": "University",
       "isPremium": true,
@@ -1540,33 +1574,63 @@
         }
       }
     },
-    "zakra-gutenberg": {
-      "title": "Gutenblog",
-      "preview": "https://zakrademos.com/gutenberg/",
-      "description": "Want to show your skills on content creation? Help yourself with this Zakra demo.",
+    "zakra-dentist": {
+      "title": "Dentist",
+      "preview": "https://zakrademos.com/dentist/",
+      "description": "Let your website shine bright like your patients’ teeth with this Zakra demo",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
-        "blog"
+        "blog",
+        "business",
+        "others"
       ],
       "pagebuilder": [
         "all",
-        "gutenberg"
+        "elementor"
       ],
       "plugins_list": {
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "gutenberg": {
-          "name": "Gutenberg",
-          "slug": "gutenberg/gutenberg.php"
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Gutenberg"
+        "blogname": "Zakra Destist",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#48d6de",
+          "#16181a",
+          "#596172",
+          "#ffffff"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -1707,10 +1771,10 @@
         }
       }
     },
-    "zakra-dentist": {
-      "title": "Dentist",
-      "preview": "https://zakrademos.com/dentist/",
-      "description": "Let your website shine bright like your patients’ teeth with this Zakra demo",
+    "zakra-lawyer": {
+      "title": "Lawyer",
+      "preview": "https://zakrademos.com/lawyer/",
+      "description": "Use this Zakra demo to create your awesome law firm website.",
       "template": [
         "zakra"
       ],
@@ -1732,42 +1796,46 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Destist",
+        "blogname": "Zakra Lawyer",
         "page_on_front": "Home",
-        "page_for_posts": "News"
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
-          "#48d6de",
-          "#16181a",
-          "#596172",
-          "#ffffff"
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
         ],
         "typography": {
           "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
+            "font_family": "Playfair Display",
+            "font_weight": "700"
           },
           "secondary": {
-            "font_family": "Roboto Slab",
+            "font_family": "Lato",
             "font_weight": "400"
           },
           "body": {
-            "font_family": "Roboto",
+            "font_family": "Lato",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
+            "font_family": "Lato",
+            "font_weight": "400"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
+          "menu-primary": "Primary"
         }
       }
     },
@@ -1917,18 +1985,17 @@
         }
       }
     },
-    "zakra-lawyer": {
-      "title": "Lawyer",
-      "preview": "https://zakrademos.com/lawyer/",
-      "description": "Use this Zakra demo to create your awesome law firm website.",
+    "zakra-charity": {
+      "title": "Charity",
+      "preview": "https://zakrademos.com/charity/",
+      "description": "This Zakra demo is to help the ones in need from your sources.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
         "blog",
-        "business",
-        "others"
+        "non-profit"
       ],
       "pagebuilder": [
         "all",
@@ -1943,45 +2010,45 @@
           "name": "Elementor",
           "slug": "elementor/elementor.php"
         },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        "give": {
+          "name": "Give – Donation Plugin and Fundraising Platform",
+          "slug": "give/give.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Lawyer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
+        "blogname": "Zakra Charity",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
       },
       "elementor_schemes": {
         "color": [
-          "#b89b5e",
-          "#ffffff",
-          "#868e96",
-          "#b89b5e"
+          "#5bded5",
+          "#f3f5f7",
+          "#363b40",
+          "#16181a"
         ],
         "typography": {
           "primary": {
-            "font_family": "Playfair Display",
+            "font_family": "Poppins",
             "font_weight": "700"
           },
           "secondary": {
-            "font_family": "Lato",
-            "font_weight": "400"
+            "font_family": "Poppins",
+            "font_weight": "700"
           },
           "body": {
-            "font_family": "Lato",
+            "font_family": "Merriweather",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Lato",
+            "font_family": "Merriweather",
             "font_weight": "400"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary"
+          "menu-primary": "Primary Menu"
         }
       }
     },
@@ -2123,17 +2190,18 @@
         }
       }
     },
-    "zakra-charity": {
-      "title": "Charity",
-      "preview": "https://zakrademos.com/charity/",
-      "description": "This Zakra demo is to help the ones in need from your sources.",
+    "zakra-restaurant": {
+      "title": "Restaurant",
+      "preview": "https://zakrademos.com/restaurant/",
+      "description": "Use this Zakra demo to build your restaurant services online.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
         "blog",
-        "non-profit"
+        "business",
+        "others"
       ],
       "pagebuilder": [
         "all",
@@ -2148,45 +2216,49 @@
           "name": "Elementor",
           "slug": "elementor/elementor.php"
         },
-        "give": {
-          "name": "Give – Donation Plugin and Fundraising Platform",
-          "slug": "give/give.php"
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Charity",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
+        "blogname": "Zakra Restaurant",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
-          "#5bded5",
-          "#f3f5f7",
-          "#363b40",
-          "#16181a"
+          "#e67700",
+          "#212529",
+          "#212529",
+          "#e67700"
         ],
         "typography": {
           "primary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
+            "font_family": "Roboto",
+            "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
           },
           "body": {
-            "font_family": "Merriweather",
+            "font_family": "Roboto",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Merriweather",
-            "font_weight": "400"
+            "font_family": "Roboto",
+            "font_weight": "500"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
+          "menu-primary": "Primary"
         }
       }
     },
@@ -2324,10 +2396,10 @@
         }
       }
     },
-    "zakra-restaurant": {
-      "title": "Restaurant",
-      "preview": "https://zakrademos.com/restaurant/",
-      "description": "Use this Zakra demo to build your restaurant services online.",
+    "zakra-drone": {
+      "title": "Drone",
+      "preview": "https://zakrademos.com/drone/",
+      "description": "Start the future of photography and and videography form this Zakra demo",
       "template": [
         "zakra"
       ],
@@ -2349,50 +2421,42 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        },
-        "social-icons": {
-          "name": "Social Icons",
-          "slug": "social-icons/social-icons.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Restaurant",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
+        "blogname": "Zakra Drone",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
       },
       "elementor_schemes": {
         "color": [
-          "#e67700",
-          "#212529",
-          "#212529",
-          "#e67700"
+          "#ef6751",
+          "#54595f",
+          "#596172",
+          "#61ce70"
         ],
         "typography": {
           "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
+            "font_family": "Barlow",
+            "font_weight": "700"
           },
           "secondary": {
-            "font_family": "Roboto Slab",
-            "font_weight": "400"
+            "font_family": "Barlow",
+            "font_weight": "700"
           },
           "body": {
-            "font_family": "Roboto",
+            "font_family": "Barlow",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Roboto",
+            "font_family": "Barlow",
             "font_weight": "500"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary"
+          "menu-primary": "Primary Menu"
         }
       }
     },
@@ -2534,10 +2598,10 @@
         }
       }
     },
-    "zakra-drone": {
-      "title": "Drone",
-      "preview": "https://zakrademos.com/drone/",
-      "description": "Start the future of photography and and videography form this Zakra demo",
+    "zakra-yoga": {
+      "title": "Yoga",
+      "preview": "https://zakrademos.com/yoga/",
+      "description": "Guide others to enhance the fitness flexibility with this Zakra demo.",
       "template": [
         "zakra"
       ],
@@ -2559,35 +2623,39 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Drone",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
+        "blogname": "Zakra Yoga",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
       },
       "elementor_schemes": {
         "color": [
-          "#ef6751",
+          "#6ec1e4",
           "#54595f",
-          "#596172",
+          "#7a7a7a",
           "#61ce70"
         ],
         "typography": {
           "primary": {
-            "font_family": "Barlow",
-            "font_weight": "700"
+            "font_family": "Kaushan Script",
+            "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Barlow",
+            "font_family": "Heebo",
             "font_weight": "700"
           },
           "body": {
-            "font_family": "Barlow",
+            "font_family": "Heebo",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Barlow",
+            "font_family": "Heebo",
             "font_weight": "500"
           }
         }
@@ -2731,17 +2799,18 @@
         }
       }
     },
-    "zakra-yoga": {
-      "title": "Yoga",
-      "preview": "https://zakrademos.com/yoga/",
-      "description": "Guide others to enhance the fitness flexibility with this Zakra demo.",
+    "zakra-one-page": {
+      "title": "One Page",
+      "preview": "https://zakrademos.com/one-page/",
+      "description": "Present your site effectively with modern one page design.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
-        "blog",
         "business",
+        "one-page",
+        "portfolio",
         "others"
       ],
       "pagebuilder": [
@@ -2756,39 +2825,34 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Yoga",
-        "page_on_front": "Home",
-        "page_for_posts": "News"
+        "blogname": "Zakra One Page",
+        "page_on_front": "Home"
       },
       "elementor_schemes": {
         "color": [
-          "#6ec1e4",
-          "#54595f",
-          "#7a7a7a",
-          "#61ce70"
+          "#5bb5a5",
+          "#222222",
+          "#222222",
+          "#5bb5a5"
         ],
         "typography": {
           "primary": {
-            "font_family": "Kaushan Script",
-            "font_weight": "600"
+            "font_family": "Poppins",
+            "font_weight": "800"
           },
           "secondary": {
-            "font_family": "Heebo",
+            "font_family": "Poppins",
             "font_weight": "700"
           },
           "body": {
-            "font_family": "Heebo",
+            "font_family": "Montserrat",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Heebo",
+            "font_family": "Montserrat",
             "font_weight": "500"
           }
         }
@@ -3398,70 +3462,6 @@
           },
           "accent": {
             "font_family": "Heebo",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "zakra-one-page": {
-      "title": "One Page",
-      "preview": "https://zakrademos.com/one-page/",
-      "description": "Present your site effectively with modern one page design.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "one-page",
-        "portfolio",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra One Page",
-        "page_on_front": "Home"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#5bb5a5",
-          "#222222",
-          "#222222",
-          "#5bb5a5"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "800"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
-          },
-          "body": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Montserrat",
             "font_weight": "500"
           }
         }
