@@ -438,6 +438,75 @@
         }
       }
     },
+    "spacious-farm": {
+      "title": "Spacious Farm",
+      "preview": "https://demo.themegrill.com/spacious-farm/",
+      "description": "Use this Spacious demo to create a fantastic website for your food enthusiasts.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "other"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Food",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#FFBA41",
+          "#000000",
+          "#999999",
+          "#FFBA41"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Noto Serif",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Open Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-food": {
       "title": "Spacious Food",
       "preview": "https://demo.themegrill.com/spacious-food/",
