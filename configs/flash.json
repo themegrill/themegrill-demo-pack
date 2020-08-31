@@ -235,6 +235,73 @@
         }
       }
     },
+	"flash-pro-server-host": {
+      "title": "Flash Pro Server Host",
+      "isPro": true,
+      "preview": "https://demo.themegrill.com/flash-pro-server-host/",
+      "description": "Template for WordPress based website to give a professional look for web hosting companies.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+		"flash-toolkit": {
+          "name": "Flash Toolkit",
+          "slug": "flash-toolkit/flash-toolkit.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "PT Sans",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "PT Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "PT Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "PT Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
 	"flash-pro-charity": {
       "title": "Flash Pro Charity",
       "isPro": true,
