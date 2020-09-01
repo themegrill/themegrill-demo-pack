@@ -89,6 +89,80 @@
         }
       }
     },
+    "zakra-online-store": {
+      "title": "Online Store",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/online-store/",
+      "description": "WordPress template site for online shopping a simple way to Manage your online store.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "megamenu": {
+          "name": "Max Mega Menu",
+          "slug": "megamenu/megamenu.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Online Store",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#111111",
+          "#EB3349",
+          "#111111",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "zakra-professional": {
       "title": "Professional",
       "preview": "https://zakrademos.com/professional/",
