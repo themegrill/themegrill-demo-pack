@@ -349,6 +349,102 @@
         }
       }
     },
+    "colormag-pro-universal-market-news": {
+      "isPro": true,
+      "title": "Universal Market News",
+      "preview": "https://demo.themegrill.com/colormag-pro-universal-market-news/",
+      "description": "Use this ColorMag demo to provide marketing news and information on your online magazine.",
+      "template": [
+        "colormag-pro"
+      ],
+      "minimum_version": {
+        "colormag-pro": "3.0.0"
+      },
+      "category": [
+        "all",
+        "news",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Universal Market News",
+        "page_on_front": "Home"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-1": {
+                "4": "HOT STORIES",
+                "6": "LATEST NEWS"
+              },
+              "ColorMag-Posts-Block-2": {
+                "15": "TRAINING"
+              },
+              "ColorMag-Posts-Block-4": {
+                "3": "FEATURE NEWS",
+                "11": "POPULAR NEWS",
+                "13": "RECENT NEWS"
+              },
+              "ColorMag-Posts-Block-6": {
+                "7": "MINING",
+                "11": "POPULAR NEWS",
+                "14": "STRATEGY"
+              },
+              "ColorMag-Posts-Block-8": {
+                "12": "RANDOM PICKS"
+              },
+              "ColorMag-Posts-Block-9": {
+                "8": "MUST READ"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "9": "NEWS"
+              },
+              "ColorMag-Posts-Trending-News": {
+                "10": "NEWS TICKER"
+              }
+            }
+          }
+        }
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_small_thumbnails": {
+              "1": {
+                "category": "FEATURE NEWS"
+              },
+              "2": {
+                "category": "MUST READ"
+              },
+              "3": {
+                "category": "HOT STORIES"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer First Menu"
+        }
+      }
+    },
     "colormag-wild-magazine": {
       "title": "Wild Magazine",
       "preview": "https://demo.themegrill.com/colormag-wild-magazine/",
