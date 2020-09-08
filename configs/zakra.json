@@ -89,6 +89,71 @@
         }
       }
     },
+    "zakra-cleaner": {
+      "title": "Cleaner",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/cleaner/",
+      "description": "WordPress Template Site for Professional Cleaning and Maid Services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Cleaner",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#13287E",
+          "#31C37D",
+          "#111111",
+          "#29A268"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "zakra-online-store": {
       "title": "Online Store",
       "isPremium": true,
