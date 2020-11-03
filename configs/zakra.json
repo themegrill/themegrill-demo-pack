@@ -89,6 +89,36 @@
         }
       }
     },
+    "zakra-digital-diary": {
+      "title": "Digital Diary",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/digital-diary/",
+      "description": "WordPress Template Site with elegant design for creative blogger",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Digital Diary"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-organic-farm": {
       "title": "Organic Farm",
       "isPremium": true,
