@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,91 +29,100 @@
 	<title>Cenote Pro Fashion Blog</title>
 	<link>https://demo.themegrill.com/cenote-pro-fashion</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Tue, 18 Jun 2019 06:19:48 +0000</pubDate>
+	<pubDate>Mon, 09 Nov 2020 12:29:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.themegrill.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.themegrill.com/cenote-pro-fashion</wp:base_blog_url>
 
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[demo@themegrill]]></wp:author_login><wp:author_email><![CDATA[themegrill@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[TG-Demo Team]]></wp:author_display_name><wp:author_first_name><![CDATA[TG-Demo]]></wp:author_first_name><wp:author_last_name><![CDATA[Team]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>30</wp:author_id><wp:author_login><![CDATA[themeeditor]]></wp:author_login><wp:author_email><![CDATA[support@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[TG-Demo Team]]></wp:author_display_name><wp:author_first_name><![CDATA[TG-Demo]]></wp:author_first_name><wp:author_last_name><![CDATA[Team]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>9</wp:term_id>
 		<wp:category_nicename><![CDATA[fashion]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fashion]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>7</wp:term_id>
 		<wp:category_nicename><![CDATA[heakth-beauty]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Health &amp; Beauty]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>8</wp:term_id>
 		<wp:category_nicename><![CDATA[lifestyle]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name>
 	</wp:category>
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:tag>
+			<wp:tag>
 		<wp:term_id>4</wp:term_id>
 		<wp:tag_slug><![CDATA[tips]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Tips]]></wp:tag_name>
 	</wp:tag>
-	<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+			<wp:term>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[heakth-beauty]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Health &amp; Beauty]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Primary]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tips]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Tips]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
-	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
+			<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
 
 	
 
-	<item>
+<image>
+	<url>https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2020/07/tg-logo.jpg</url>
+	<title>Cenote Pro Fashion Blog</title>
+	<link>https://demo.themegrill.com/cenote-pro-fashion</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+
+		<item>
 		<title>cropped-cenote-pro-fashion.png</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/cropped-cenote-pro-fashion-png/</link>
 		<pubDate>Thu, 19 Jul 2018 05:49:23 +0000</pubDate>
@@ -134,21 +143,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:78;s:6:"height";i:101;s:4:"file";s:38:"2018/07/cropped-cenote-pro-fashion.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:78;s:6:"height";i:101;s:4:"file";s:38:"2018/07/cropped-cenote-pro-fashion.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_0ac125a9fedc0ee16b21aedb2b8a800c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>cenote-pro-fashion</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/cenote-pro-fashion/</link>
 		<pubDate>Thu, 19 Jul 2018 06:16:39 +0000</pubDate>
@@ -169,17 +182,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cenote-pro-fashion.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/cenote-pro-fashion.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cenote-pro-fashion.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/cenote-pro-fashion.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:30:"2018/07/cenote-pro-fashion.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"cenote-pro-fashion-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:30:"2018/07/cenote-pro-fashion.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"cenote-pro-fashion-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>cropped-cenote-pro-fashion-1.png</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/cropped-cenote-pro-fashion-1-png/</link>
 		<pubDate>Thu, 19 Jul 2018 06:17:24 +0000</pubDate>
@@ -200,21 +213,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion-1.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion-1.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion-1.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:40:"2018/07/cropped-cenote-pro-fashion-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-cenote-pro-fashion-1-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:40:"2018/07/cropped-cenote-pro-fashion-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-cenote-pro-fashion-1-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_a9edf70499b7f8abf984f5a32befd30f]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>cropped-cenote-pro-fashion-2.png</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/cropped-cenote-pro-fashion-2-png/</link>
 		<pubDate>Thu, 19 Jul 2018 06:17:34 +0000</pubDate>
@@ -235,21 +252,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion-2.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion-2.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/cropped-cenote-pro-fashion-2.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/cropped-cenote-pro-fashion-2.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:40:"2018/07/cropped-cenote-pro-fashion-2.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-cenote-pro-fashion-2-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:50;s:4:"file";s:40:"2018/07/cropped-cenote-pro-fashion-2.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-cenote-pro-fashion-2-150x50.png";s:5:"width";i:150;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_35ae662feceaacf91f98e95bffa70e10]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>beard-grommimg (2)</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/beard-grooming-tips-ways-to-optimize-your-beard/beard-grommimg-2/</link>
 		<pubDate>Thu, 19 Jul 2018 06:38:08 +0000</pubDate>
@@ -270,17 +291,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/beard-grommimg-2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/beard-grommimg-2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/beard-grommimg-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/beard-grommimg-2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1156;s:4:"file";s:28:"2018/07/beard-grommimg-2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"beard-grommimg-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"beard-grommimg-2-199x300.jpg";s:5:"width";i:199;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"beard-grommimg-2-768x1156.jpg";s:5:"width";i:768;s:6:"height";i:1156;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"beard-grommimg-2-680x1024.jpg";s:5:"width";i:680;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"beard-grommimg-2-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:28:"beard-grommimg-2-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:28:"beard-grommimg-2-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:28:"beard-grommimg-2-600x903.jpg";s:5:"width";i:600;s:6:"height";i:903;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1156;s:4:"file";s:28:"2018/07/beard-grommimg-2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"beard-grommimg-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"beard-grommimg-2-199x300.jpg";s:5:"width";i:199;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"beard-grommimg-2-768x1156.jpg";s:5:"width";i:768;s:6:"height";i:1156;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"beard-grommimg-2-680x1024.jpg";s:5:"width";i:680;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"beard-grommimg-2-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:28:"beard-grommimg-2-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:28:"beard-grommimg-2-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:28:"beard-grommimg-2-600x903.jpg";s:5:"width";i:600;s:6:"height";i:903;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>girl-with-jeans</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/jeans-to-wear-this-summer/girl-with-jeans/</link>
 		<pubDate>Thu, 19 Jul 2018 07:06:32 +0000</pubDate>
@@ -301,17 +322,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-with-jeans.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/girl-with-jeans.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-with-jeans.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/girl-with-jeans.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1156;s:4:"file";s:27:"2018/07/girl-with-jeans.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"girl-with-jeans-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"girl-with-jeans-199x300.jpg";s:5:"width";i:199;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"girl-with-jeans-768x1156.jpg";s:5:"width";i:768;s:6:"height";i:1156;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"girl-with-jeans-680x1024.jpg";s:5:"width";i:680;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:27:"girl-with-jeans-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:27:"girl-with-jeans-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:27:"girl-with-jeans-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:27:"girl-with-jeans-600x903.jpg";s:5:"width";i:600;s:6:"height";i:903;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1156;s:4:"file";s:27:"2018/07/girl-with-jeans.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"girl-with-jeans-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"girl-with-jeans-199x300.jpg";s:5:"width";i:199;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"girl-with-jeans-768x1156.jpg";s:5:"width";i:768;s:6:"height";i:1156;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"girl-with-jeans-680x1024.jpg";s:5:"width";i:680;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:27:"girl-with-jeans-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:27:"girl-with-jeans-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:27:"girl-with-jeans-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:27:"girl-with-jeans-600x903.jpg";s:5:"width";i:600;s:6:"height";i:903;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>girl-standing-glass</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/its-changing-heres-how-to-wear-causal-dress/girl-standing-glass/</link>
 		<pubDate>Thu, 19 Jul 2018 07:15:26 +0000</pubDate>
@@ -332,17 +353,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-standing-glass.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/girl-standing-glass.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-standing-glass.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/girl-standing-glass.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:31:"2018/07/girl-standing-glass.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"girl-standing-glass-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"girl-standing-glass-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"girl-standing-glass-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:31:"girl-standing-glass-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:31:"girl-standing-glass-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:31:"girl-standing-glass-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:31:"2018/07/girl-standing-glass.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"girl-standing-glass-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"girl-standing-glass-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"girl-standing-glass-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:31:"girl-standing-glass-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:31:"girl-standing-glass-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:31:"girl-standing-glass-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>girls-photoshoot-compressor</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/photoshoot-outfits-that-will-make-your-personal-brand-shine/girls-photoshoot-compressor/</link>
 		<pubDate>Thu, 19 Jul 2018 08:28:23 +0000</pubDate>
@@ -363,17 +384,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girls-photoshoot-compressor.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/girls-photoshoot-compressor.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girls-photoshoot-compressor.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/girls-photoshoot-compressor.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:513;s:4:"file";s:39:"2018/07/girls-photoshoot-compressor.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-600x401.jpg";s:5:"width";i:600;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:513;s:4:"file";s:39:"2018/07/girls-photoshoot-compressor.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:39:"girls-photoshoot-compressor-600x401.jpg";s:5:"width";i:600;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>bag-main</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/for-fall-2018-bags-feel-youthful-and-fun/bag-main/</link>
 		<pubDate>Thu, 19 Jul 2018 08:41:06 +0000</pubDate>
@@ -394,17 +415,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/bag-main.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/bag-main.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/bag-main.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/bag-main.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:20:"2018/07/bag-main.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"bag-main-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"bag-main-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"bag-main-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:20:"bag-main-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:20:"bag-main-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:20:"bag-main-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:20:"2018/07/bag-main.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"bag-main-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"bag-main-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"bag-main-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:20:"bag-main-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:20:"bag-main-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:20:"bag-main-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>shoe-adidas</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/adidas-new-design-first-look/shoe-adidas/</link>
 		<pubDate>Thu, 19 Jul 2018 08:47:03 +0000</pubDate>
@@ -425,17 +446,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/shoe-adidas.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/shoe-adidas.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/shoe-adidas.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/shoe-adidas.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1154;s:4:"file";s:23:"2018/07/shoe-adidas.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"shoe-adidas-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"shoe-adidas-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"shoe-adidas-768x1154.jpg";s:5:"width";i:768;s:6:"height";i:1154;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"shoe-adidas-681x1024.jpg";s:5:"width";i:681;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:23:"shoe-adidas-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:23:"shoe-adidas-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:23:"shoe-adidas-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:23:"shoe-adidas-600x902.jpg";s:5:"width";i:600;s:6:"height";i:902;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1154;s:4:"file";s:23:"2018/07/shoe-adidas.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"shoe-adidas-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"shoe-adidas-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"shoe-adidas-768x1154.jpg";s:5:"width";i:768;s:6:"height";i:1154;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"shoe-adidas-681x1024.jpg";s:5:"width";i:681;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:23:"shoe-adidas-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:23:"shoe-adidas-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:23:"shoe-adidas-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:23:"shoe-adidas-600x902.jpg";s:5:"width";i:600;s:6:"height";i:902;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>suit-watch</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/walk-in-office-with-your-style/suit-watch/</link>
 		<pubDate>Thu, 19 Jul 2018 08:51:40 +0000</pubDate>
@@ -456,17 +477,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/suit-watch.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/suit-watch.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/suit-watch.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/suit-watch.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:432;s:4:"file";s:22:"2018/07/suit-watch.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"suit-watch-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"suit-watch-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"suit-watch-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:22:"suit-watch-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:22:"suit-watch-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:432;s:4:"file";s:22:"2018/07/suit-watch.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"suit-watch-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"suit-watch-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"suit-watch-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:22:"suit-watch-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:22:"suit-watch-600x338.jpg";s:5:"width";i:600;s:6:"height";i:338;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>summer-outfit</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/beat-the-heat-with-these-cool-summer-outfits/summer-outfit/</link>
 		<pubDate>Thu, 19 Jul 2018 08:56:37 +0000</pubDate>
@@ -487,17 +508,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/summer-outfit.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/summer-outfit.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/summer-outfit.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/summer-outfit.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1151;s:4:"file";s:25:"2018/07/summer-outfit.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"summer-outfit-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"summer-outfit-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"summer-outfit-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"summer-outfit-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"summer-outfit-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:25:"summer-outfit-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:25:"summer-outfit-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:25:"summer-outfit-600x899.jpg";s:5:"width";i:600;s:6:"height";i:899;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1151;s:4:"file";s:25:"2018/07/summer-outfit.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"summer-outfit-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"summer-outfit-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"summer-outfit-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"summer-outfit-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"summer-outfit-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:25:"summer-outfit-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:25:"summer-outfit-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:25:"summer-outfit-600x899.jpg";s:5:"width";i:600;s:6:"height";i:899;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>sunglass-girl-summer</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/designer-shades-for-women/sunglass-girl-summer/</link>
 		<pubDate>Thu, 19 Jul 2018 09:08:11 +0000</pubDate>
@@ -518,17 +539,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/sunglass-girl-summer.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/sunglass-girl-summer.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/sunglass-girl-summer.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/sunglass-girl-summer.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:513;s:4:"file";s:32:"2018/07/sunglass-girl-summer.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"sunglass-girl-summer-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"sunglass-girl-summer-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"sunglass-girl-summer-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:32:"sunglass-girl-summer-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:32:"sunglass-girl-summer-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:32:"sunglass-girl-summer-600x401.jpg";s:5:"width";i:600;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:513;s:4:"file";s:32:"2018/07/sunglass-girl-summer.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"sunglass-girl-summer-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"sunglass-girl-summer-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"sunglass-girl-summer-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:32:"sunglass-girl-summer-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:32:"sunglass-girl-summer-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:32:"sunglass-girl-summer-600x401.jpg";s:5:"width";i:600;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>girl-long-hair-golden</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/the-hair-growth-cycle/girl-long-hair-golden/</link>
 		<pubDate>Thu, 19 Jul 2018 09:24:03 +0000</pubDate>
@@ -549,17 +570,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-long-hair-golden.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/girl-long-hair-golden.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/girl-long-hair-golden.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/girl-long-hair-golden.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:33:"2018/07/girl-long-hair-golden.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"girl-long-hair-golden-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"girl-long-hair-golden-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"girl-long-hair-golden-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:33:"girl-long-hair-golden-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:33:"girl-long-hair-golden-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:33:"girl-long-hair-golden-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:512;s:4:"file";s:33:"2018/07/girl-long-hair-golden.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"girl-long-hair-golden-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"girl-long-hair-golden-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"girl-long-hair-golden-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:33:"girl-long-hair-golden-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:33:"girl-long-hair-golden-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:33:"girl-long-hair-golden-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title></title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/mc4wp-form/91/</link>
 		<pubDate>Fri, 20 Jul 2018 05:47:35 +0000</pubDate>
@@ -587,52 +608,52 @@
 		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mc4wp_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:15:"required_fields";s:5:"EMAIL";s:12:"double_optin";s:1:"1";s:15:"update_existing";s:1:"0";s:17:"replace_interests";s:1:"1";s:18:"hide_after_success";s:1:"0";s:8:"redirect";s:0:"";s:3:"css";s:1:"0";s:5:"lists";a:0:{}}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mc4wp_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:15:"required_fields";s:5:"EMAIL";s:12:"double_optin";s:1:"1";s:15:"update_existing";s:1:"0";s:17:"replace_interests";s:1:"1";s:18:"hide_after_success";s:1:"0";s:8:"redirect";s:0:"";s:3:"css";s:1:"0";s:5:"lists";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_subscribed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Thank you, your sign-up request was successful! Please check your email inbox to confirm.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thank you, your sign-up request was successful! Please check your email inbox to confirm.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_invalid_email]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Please provide a valid email address.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_invalid_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please provide a valid email address.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_required_field_missing]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Please fill in the required fields.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_required_field_missing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please fill in the required fields.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_already_subscribed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Given email address is already subscribed, thank you!]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_already_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Given email address is already subscribed, thank you!]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Oops. Something went wrong. Please try again later.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_error]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Oops. Something went wrong. Please try again later.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_unsubscribed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[You were successfully unsubscribed.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_unsubscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[You were successfully unsubscribed.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_not_subscribed]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Given email address is not subscribed.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_not_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Given email address is not subscribed.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_no_lists_selected]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Please select at least one list.]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_no_lists_selected]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please select at least one list.]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[text_updated]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Thank you, your records have been updated!]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thank you, your records have been updated!]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018-07-19]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-19]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>gilr-admin-compressor</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/gilr-admin-compressor/</link>
 		<pubDate>Fri, 20 Jul 2018 04:16:21 +0000</pubDate>
@@ -653,17 +674,17 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/gilr-admin-compressor.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/07/gilr-admin-compressor.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2018/07/gilr-admin-compressor.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/07/gilr-admin-compressor.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1150;s:4:"file";s:33:"2018/07/gilr-admin-compressor.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"gilr-admin-compressor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"gilr-admin-compressor-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"gilr-admin-compressor-768x1150.jpg";s:5:"width";i:768;s:6:"height";i:1150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"gilr-admin-compressor-684x1024.jpg";s:5:"width";i:684;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:33:"gilr-admin-compressor-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:33:"gilr-admin-compressor-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:33:"gilr-admin-compressor-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:33:"gilr-admin-compressor-600x898.jpg";s:5:"width";i:600;s:6:"height";i:898;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:768;s:6:"height";i:1150;s:4:"file";s:33:"2018/07/gilr-admin-compressor.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"gilr-admin-compressor-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"gilr-admin-compressor-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"gilr-admin-compressor-768x1150.jpg";s:5:"width";i:768;s:6:"height";i:1150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"gilr-admin-compressor-684x1024.jpg";s:5:"width";i:684;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:33:"gilr-admin-compressor-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"cenote-full-width";a:4:{s:4:"file";s:33:"gilr-admin-compressor-768x653.jpg";s:5:"width";i:768;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:11:"cenote-post";a:4:{s:4:"file";s:33:"gilr-admin-compressor-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:16:"cenote-post-auto";a:4:{s:4:"file";s:33:"gilr-admin-compressor-600x898.jpg";s:5:"width";i:600;s:6:"height";i:898;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Contact Form</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/?post_type=everest_form&#038;p=147</link>
 		<pubDate>Fri, 20 Jul 2018 06:12:46 +0000</pubDate>
@@ -684,8 +705,8 @@
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
+														</item>
+					<item>
 		<title></title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/160/</link>
 		<pubDate>Fri, 20 Jul 2018 06:50:28 +0000</pubDate>
@@ -706,41 +727,41 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[116]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Home</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/home/</link>
 		<pubDate>Fri, 20 Jul 2018 06:50:28 +0000</pubDate>
@@ -761,96 +782,76 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[161]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://demo.themegrill.com/cenote-pro-fashion]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.themegrill.com/cenote-pro-fashion]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/164/</link>
-		<pubDate>Fri, 20 Jul 2018 06:51:37 +0000</pubDate>
-		<dc:creator><![CDATA[themeeditor]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/164/</guid>
+							</item>
+					<item>
+		<title>tg-logo</title>
+		<link>https://demo.themegrill.com/cenote-pro-fashion/tg-logo/</link>
+		<pubDate>Wed, 29 Jul 2020 17:29:27 +0000</pubDate>
+		<dc:creator><![CDATA[demo@themegrill]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2020/07/tg-logo.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-20 06:51:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-20 06:51:37]]></wp:post_date_gmt>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-29 17:29:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-29 17:29:27]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[164]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[tg-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.themegrill.com/cenote-pro-fashion/wp-content/uploads/sites/161/2020/07/tg-logo.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/tg-logo.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:64;s:6:"height";i:64;s:4:"file";s:19:"2020/07/tg-logo.jpg";s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3858;s:10:"size_after";i:3858;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3858;s:10:"size_after";i:3858;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Beard Grooming Tips: Ways to Optimize Your Beard</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/beard-grooming-tips-ways-to-optimize-your-beard/</link>
 		<pubDate>Thu, 19 Jul 2018 06:27:34 +0000</pubDate>
@@ -875,23 +876,23 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
+										<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Jeans to wear this summer</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/jeans-to-wear-this-summer/</link>
 		<pubDate>Thu, 19 Jul 2018 06:52:09 +0000</pubDate>
@@ -914,23 +915,23 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[44]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>It&#039;s Changing, Here&#039;s How To Wear Causal Dress</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/its-changing-heres-how-to-wear-causal-dress/</link>
 		<pubDate>Thu, 19 Jul 2018 07:14:54 +0000</pubDate>
@@ -953,22 +954,22 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
+										<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[47]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Photoshoot Outfits: That Will Make Your Personal Brand Shine</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/photoshoot-outfits-that-will-make-your-personal-brand-shine/</link>
 		<pubDate>Thu, 19 Jul 2018 08:28:30 +0000</pubDate>
@@ -991,22 +992,22 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>For Fall 2018, Bags Feel Youthful and Fun</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/for-fall-2018-bags-feel-youthful-and-fun/</link>
 		<pubDate>Thu, 19 Jul 2018 08:41:12 +0000</pubDate>
@@ -1029,22 +1030,22 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[54]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Adidas New Design: First Look</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/adidas-new-design-first-look/</link>
 		<pubDate>Thu, 19 Jul 2018 08:47:08 +0000</pubDate>
@@ -1067,21 +1068,21 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[57]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Walk in Office With Your Style</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/walk-in-office-with-your-style/</link>
 		<pubDate>Thu, 19 Jul 2018 08:51:44 +0000</pubDate>
@@ -1104,21 +1105,21 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[60]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Beat the Heat With These Cool Summer Outfits</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/beat-the-heat-with-these-cool-summer-outfits/</link>
 		<pubDate>Thu, 19 Jul 2018 08:56:43 +0000</pubDate>
@@ -1141,25 +1142,25 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[63]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[beat-the-heat-with-these-summer-work-outfits]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beat-the-heat-with-these-summer-work-outfits]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Designer Shades for Women</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/designer-shades-for-women/</link>
 		<pubDate>Thu, 19 Jul 2018 09:08:15 +0000</pubDate>
@@ -1184,21 +1185,21 @@ Nullam congue risus ac nulla efficitur, quis consectetur ipsum dignissim. Ut a d
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[68]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>The Hair Growth Cycle</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/19/the-hair-growth-cycle/</link>
 		<pubDate>Thu, 19 Jul 2018 09:24:10 +0000</pubDate>
@@ -1222,22 +1223,22 @@ Ut faucibus ipsum ac ligula consectetur, ut efficitur dolor aliquam. Phasellus a
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="heakth-beauty"><![CDATA[Health &amp; Beauty]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[71]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Contact</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/contact/</link>
 		<pubDate>Fri, 20 Jul 2018 05:04:49 +0000</pubDate>
@@ -1263,12 +1264,67 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/164/</link>
+		<pubDate>Fri, 20 Jul 2018 06:51:37 +0000</pubDate>
+		<dc:creator><![CDATA[themeeditor]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/164/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>164</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-20 06:51:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-20 06:51:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[164]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/165/</link>
 		<pubDate>Fri, 20 Jul 2018 06:51:37 +0000</pubDate>
@@ -1289,41 +1345,41 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Health &amp; Beauty</title>
 		<link>https://demo.themegrill.com/cenote-pro-fashion/2018/07/20/health-beauty/</link>
 		<pubDate>Fri, 20 Jul 2018 06:51:37 +0000</pubDate>
@@ -1344,39 +1400,40 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	

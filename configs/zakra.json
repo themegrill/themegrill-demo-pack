@@ -89,6 +89,101 @@
         }
       }
     },
+    "zakra-digital-diary": {
+      "title": "Digital Diary",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/digital-diary/",
+      "description": "WordPress Template Site with elegant design for creative blogger",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Digital Diary"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-organic-farm": {
+      "title": "Organic Farm",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/organic-farm/",
+      "description": "WordPress Template Site for Organic Farm and Organic Agriculture Farming",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Organic Farm",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#66BB6A",
+          "#263238",
+          "#263238",
+          "#66BB6A"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Muli",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Muli",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "zakra-cleaner": {
       "title": "Cleaner",
       "isPremium": true,
