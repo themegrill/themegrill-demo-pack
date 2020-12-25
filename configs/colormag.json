@@ -173,6 +173,137 @@
         }
       }
     },
+    "colormag-pro-city": {
+      "isPro": true,
+      "title": "City",
+      "preview": "https://demo.themegrill.com/colormag-pro-city/",
+      "description": "WordPress Template Site for City",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro City",
+        "page_on_front": "Home",
+        "page_for_posts": "Layout"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "9": "Must Read",
+                "2": "Business"
+              },
+              "ColorMag-Posts-Block-8": {
+                "8" : "Most Popular News",
+                "10": "National"
+              },
+              "ColorMag-Posts-Block-10": {
+                "6": "Latest News"
+              },
+              "ColorMag-Posts-Block-7": {
+                "13": "Recent News"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "3": "Culture"
+              },
+              "ColorMag-Posts-BLock-9": {
+                "11": "Politics"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
+    "colormag-general-news": {
+      "title": "General News",
+      "preview": "https://demo.themegrill.com/colormag-general-news/",
+      "description": "WordPress Template Site for General News",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag General News",
+        "page_on_front": "Home",
+        "page_for_posts": "Layout"
+      },
+      "elementor_data_update": {
+        "home": {
+          "post_title": "Home",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-BLock-2": {
+                "4": "Feature News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "7": "Most Popular",
+                "9": "Sports"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "8": "Event More News"
+              },
+              "ColorMag-Posts-Block-4": {
+                "10": "Technology"
+              },
+              "ColorMag-Posts-Block-2": {
+                "13": "World"
+              },
+              "ColorMag-Posts-Grid-5": {
+                "2": "Entertainment"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-dark": {
       "title": "Dark",
       "preview": "https://demo.themegrill.com/colormag-dark/",
