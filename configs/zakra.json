@@ -16,8 +16,8 @@
   "pagebuilders": 
   {
     "all": "All",
-    "brizy": "Brizy",
-	"elementor": "Elementor",
+    "brizy": "Brizy", 
+    "elementor": "Elementor",
     "gutenberg": "Gutenberg"
   },
   "demos": {
@@ -86,6 +86,76 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-music-band": {
+      "title": "Music Band",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/music-band/",
+      "description": "WordPress Template Site for Music Band",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "cue": {
+          "name": "Cue",
+          "slug": "cue/cue.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Music Band",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-left" : "Left Menu",
+          "menu-right": "Right Menu"
         }
       }
     },
