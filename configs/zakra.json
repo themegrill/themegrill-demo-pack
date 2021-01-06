@@ -13,10 +13,10 @@
     "portfolio"  : "Portfolio",
     "others"     : "Others"
   },
-  "pagebuilders": 
+  "pagebuilders":
   {
     "all": "All",
-    "brizy": "Brizy", 
+    "brizy": "Brizy",
     "elementor": "Elementor",
     "gutenberg": "Gutenberg"
   },
@@ -75,69 +75,6 @@
           },
           "body": {
             "font_family": "Raleway",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-professional": {
-      "title": "Professional",
-      "preview": "https://zakrademos.com/professional/",
-      "description": "Professional website for your company",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Professional",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#2b2b2b",
-          "#d90a2c",
-          "#2b2b2b",
-          "#123458"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Roboto Slab",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
             "font_weight": "400"
           },
           "accent": {
@@ -287,68 +224,6 @@
         }
       }
     },
-    "zakra-education": {
-      "title": "Education",
-      "preview": "https://zakrademos.com/education/",
-      "description": "Start the innovation for learning and knowledge through this Zakra demo.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Education",
-        "page_on_front": "Home"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#6ec1e4",
-          "#54595f",
-          "#7a7a7a",
-          "#61ce70"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
     "zakra-digital-diary": {
       "title": "Digital Diary",
       "isPremium": true,
@@ -441,74 +316,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main"
-        }
-      }
-    },
-    "zakra-plumber": {
-      "title": "Plumber",
-      "preview": "https://zakrademos.com/plumber/",
-      "description": "Expand your Plumbing Services with this Zakra Demo",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "business",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "social-icons": {
-          "name": "Social Icons",
-          "slug": "social-icons/social-icons.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Plumber",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#0d54e5",
-          "#f76707",
-          "#909294",
-          "#909294"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Montserrat",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Montserrat",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main Menu"
         }
       }
     },
@@ -655,6 +462,69 @@
         }
       }
     },
+    "zakra-professional": {
+      "title": "Professional",
+      "preview": "https://zakrademos.com/professional/",
+      "description": "Professional website for your company",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Professional",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#2b2b2b",
+          "#d90a2c",
+          "#2b2b2b",
+          "#123458"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-chapel": {
       "title": "Chapel",
       "isPremium": true,
@@ -726,6 +596,68 @@
         "nav_menu_locations": {
           "menu-left" : "Left Main Menu",
           "menu-right": "Right Main Menu"
+        }
+      }
+    },
+    "zakra-education": {
+      "title": "Education",
+      "preview": "https://zakrademos.com/education/",
+      "description": "Start the innovation for learning and knowledge through this Zakra demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Education",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6ec1e4",
+          "#54595f",
+          "#7a7a7a",
+          "#61ce70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
         }
       }
     },
@@ -836,7 +768,7 @@
         "learnpress": {
           "name": "LearnPress",
           "slug": "learnpress/learnpress.php"
-        }        
+        }
       },
       "core_options": {
         "blogname": "Zakra Online Course",
@@ -872,6 +804,74 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-plumber": {
+      "title": "Plumber",
+      "preview": "https://zakrademos.com/plumber/",
+      "description": "Expand your Plumbing Services with this Zakra Demo",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "social-icons": {
+          "name": "Social Icons",
+          "slug": "social-icons/social-icons.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Plumber",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#0d54e5",
+          "#f76707",
+          "#909294",
+          "#909294"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Montserrat",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
         }
       }
     },
@@ -1004,6 +1004,69 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary"
+        }
+      }
+    },
+    "zakra-construction": {
+      "title": "Construction",
+      "preview": "https://zakrademos.com/construction/",
+      "description": "Suitable for creating professional construction business websites.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Construction",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#5b5b5b",
+          "#5b5b5b",
+          "#7a7a7a",
+          "#ffb716"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Raleway",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Raleway",
+            "font_weight": "Normal"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "Normal"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "Normal"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main Menu"
         }
       }
     },
