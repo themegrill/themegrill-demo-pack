@@ -89,6 +89,71 @@
         }
       }
     },
+    "zakra-royal-hotel": {
+      "title": "Royal Hotel",
+      "preview": "https://zakrademos.com/royal-hotel/",
+      "description": "WordPress Template Site for Best Hotel Services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Royal Hotel",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#54595F",
+          "#333333",
+          "#000000"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-left" : "Left Menu",
+          "menu-right": "Right Menu"
+        }
+      }
+    },
     "zakra-professional": {
       "title": "Professional",
       "preview": "https://zakrademos.com/professional/",
