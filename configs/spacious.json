@@ -337,6 +337,79 @@
         }
       }
     },
+    "spacious-pro-agriculture": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Agriculture",
+      "preview": "https://themegrilldemos.com/spacious-pro-agriculture/",
+      "description": "Use this Spacious Pro demo to create a website about Agriculture",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Agriculture",
+        "page_on_front": "Home",
+        "page_for_posts": "blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-pro-barber-shop": {
       "isPro": true,
       "title": "Spacious Pro Barber Shop",
