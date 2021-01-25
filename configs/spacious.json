@@ -178,6 +178,52 @@
         }
       }
     },
+    "spacious-pro-agency": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Agency",
+      "preview": "https://themegrilldemos.com/spacious-pro-agency/",
+      "description": "Use this Spacious Pro demo to create a website regarding your agency.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Agency",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-pro-product": {
       "isPro": true,
       "isAllThemePlan": true,
