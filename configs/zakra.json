@@ -89,6 +89,49 @@
         }
       }
     },
+    "zakra-agency-02": {
+      "title": "Agency 02",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/agency-02",
+      "description": "Just another Zakra Demos site",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "brizy"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "brizy": {
+          "name": "Brizy",
+          "slug": "brizy/brizy.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Agency",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-royal-hotel": {
       "title": "Royal Hotel",
       "isPremium": true,
