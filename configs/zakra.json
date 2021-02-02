@@ -89,6 +89,66 @@
         }
       }
     },
+    "zakra-kantipur-news": {
+      "title": "Kantipur News",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/kantipur-news/",
+      "description": "WordPress Template Site with elegant design for for News portal, Magazine site and Business News.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Kantipur News",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#FFFFFFF",
+          "#FFFFFF",
+          "#FF0844"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Ubuntu",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Ubuntu",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Ubuntu",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Ubuntu",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-agency-02": {
       "title": "Agency 02",
       "preview": "https://zakrademos.com/agency-02",
