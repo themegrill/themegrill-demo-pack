@@ -89,6 +89,68 @@
         }
       }
     },
+    "zakra-travel-blog": {
+      "title": "Travel Blog",
+      "preview": "https://zakrademos.com/travel-blog/",
+      "description": "WordPress Template Site for Travel Blog",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Travel Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-health-blog": {
+      "title": "Health Blog",
+      "preview": "https://zakrademos.com/health-blog/",
+      "description": "WordPress Template Site for Health Blog",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Health Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-kantipur-news": {
       "title": "Kantipur News",
       "isPremium": true,
@@ -530,7 +592,8 @@
         "blog"
       ],
       "pagebuilder": [
-        "all"
+        "all",
+        "gutenberg"
       ],
       "plugins_list": {
         "everest-forms": {
