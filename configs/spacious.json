@@ -673,6 +673,45 @@
         }
       }
     },
+    "spacious-fashion-blog": {
+      "title": "Spacious Fashion Blog",
+      "preview": "https://themegrilldemos.com/spacious-fashion-blog/",
+      "description": "WordPress Template Site with elegant design for creative blogger.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Fashion Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top Menu",
+          "primary": "Main Menu",
+          "footer": "Header Top Menu"
+        }
+      }
+    },
     "spacious-pro-flat-host": {
       "isPro": true,
       "title": "Spacious Pro Flat Host",
