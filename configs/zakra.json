@@ -89,6 +89,70 @@
         }
       }
     },
+    "zakra-real-estate": {
+      "title": "Real Estate",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/real-estate/",
+      "description": "WordPress Template Site for your Real Estate services with elegant design",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Real Estate",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#000000",
+          "#343A40",
+          "#078169"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Raleway",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Raleway",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-restaurant-blog": {
       "title": "Restaurant Blog",
       "preview": "https://zakrademos.com/restaurant-blog/",
