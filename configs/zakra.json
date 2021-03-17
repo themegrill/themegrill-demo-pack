@@ -89,6 +89,75 @@
         }
       }
     },
+    "zakra-foodie": {
+      "title": "Foodie",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/foodie/",
+      "description": "WordPress Template Site for Best Food",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "social-icons": {
+          "name": "Social Icon",
+          "slug": "social-icons/social-icons.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Foodies",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-left" : "Left",
+          "menu-right": "Right"
+        }
+      }
+    },
     "zakra-job-portal": {
       "title": "Job Portal",
       "preview": "https://zakrademos.com/job-portal/",
