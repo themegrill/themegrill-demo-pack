@@ -102,6 +102,90 @@
         }
       }
     },
+    "estore-pro-furniture": {
+      "isPro": true,
+      "title": "eStore Pro Furniture",
+      "preview": "https://themegrilldemos.com/estore-pro-furniture/",
+      "description": "This modern furniture WordPress template is packed with elements and features you ever need.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Furniture",
+        "page_on_front": "eStore Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "estore_featured_posts_carousel_widget": {
+              "1": {
+                "category": "Uncategorized"
+              }
+            }
+          },
+          "product_cat": {
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "Trendy Products"
+              }
+            },
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_vertical_promo_widget": {
+              "1": {
+                "cat_id0": "Kitchen Cabinets",
+                "cat_id1": "Decor",
+                "cat_id2": ""
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Electronics"
+              },
+              "2": {
+                "category": "Luxury"
+              },
+              "3": {
+                "category": "Trendy Products"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": "Uncategorized"
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main",
+          "secondary": "Quick Links"
+        }
+      }
+    },
     "estore-pro-default": {
       "isPro": true,
       "title": "eStore Pro Default",
