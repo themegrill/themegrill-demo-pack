@@ -136,6 +136,70 @@
           "footer": "Footer"
         }
       }
+    },
+    "accelerate-technology": {
+      "isPro": true,
+      "title": "Accelerate Technology",
+      "preview": "https://themegrilldemos.com/accelerate-pro-technology/",
+      "description": "WordPress Template Site for Technology Showcase, Startups, and IT Solutions.",
+      "template": [
+        "accelerate-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Accelerate Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "accelerate_image_service_widget": {
+            "2": {
+              "page_id0": "Microsoft shuts down Cortana app on Android",
+              "page_id1": "The best laptop for the money",
+              "page_id2": "The camera deals at Amazon’s Spring Sale"
+            }
+          },
+          "accelerate_team_widget": {
+            "3": {
+              "page_0": "Jefrey Brown",
+              "page_1": "Ann Richmond",
+              "page_2": "Alex Greenfield"
+            }
+          }
+        },
+        "dropdown_categories": {
+          "category": {
+            "accelerate_featured_posts_widget": {
+              "2": {
+                "category": "Featured"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "header": "Header"
+        }
+      }
     }
   }
 }
