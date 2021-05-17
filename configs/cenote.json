@@ -90,6 +90,38 @@
         }
       }
     },
+    "cenote-pro": {
+      "isPro": true,
+      "title": "Cenote Pro",
+      "preview": "https://themegrilldemos.com/cenote-pro/",
+      "description": "Show your immense creativity with this premium demo of Cenote.",
+      "template": [
+        "cenote-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Cenote Pro"
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "cenote_post_slide_category_select": "Lifestyle"
+          }
+        },
+        "nav_menu_locations": {
+          "tg-menu-primary": "primary",
+          "tg-menu-header-top": "top-menu"
+        }
+      }
+    },
     "cenote-pro-beauty-care": {
       "isPro": true,
       "title": "Cenote Pro Beauty Care",
@@ -120,38 +152,6 @@
         "nav_menu_locations": {
           "tg-menu-primary": "Main",
           "tg-menu-header-top": "Header top"
-        }
-      }
-    },
-    "cenote-pro": {
-      "isPro": true,
-      "title": "Cenote Pro",
-      "preview": "https://themegrilldemos.com/cenote-pro/",
-      "description": "Show your immense creativity with this premium demo of Cenote.",
-      "template": [
-        "cenote-pro"
-      ],
-      "category": [
-        "all"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Cenote Pro"
-      },
-      "customizer_data_update": {
-        "categories": {
-          "category": {
-            "cenote_post_slide_category_select": "Lifestyle"
-          }
-        },
-        "nav_menu_locations": {
-          "tg-menu-primary": "primary",
-          "tg-menu-header-top": "top-menu"
         }
       }
     },
