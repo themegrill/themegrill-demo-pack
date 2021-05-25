@@ -102,90 +102,6 @@
         }
       }
     },
-    "estore-pro-jewelry": {
-      "isPro": true,
-      "title": "eStore Pro Jewelry",
-      "preview": "https://themegrilldemos.com/estore-pro-jewelry/",
-      "description": "WordPress template site suitable for all kinds of online trade in jewelry, accessories, hand-made and custom-made products.",
-      "template": [
-        "estore-pro"
-      ],
-      "category": [
-        "all",
-        "others"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        },
-        "yith-woocommerce-wishlist": {
-          "name": "YITH WooCommerce Wishlist",
-          "slug": "yith-woocommerce-wishlist/init.php"
-        }
-      },
-      "core_options": {
-        "blogname": "eStore Pro Jewelry",
-        "page_on_front": "eStore Home",
-        "page_for_posts": "Blog"
-      },
-      "widgets_data_update": {
-        "dropdown_categories": {
-          "category": {
-            "estore_featured_posts_carousel_widget": {
-              "1": {
-                "category": "Uncategorized"
-              }
-            }
-          },
-          "product_cat": {
-            "estore_woocommerce_product_grid": {
-              "1": {
-                "category": "New Products"
-              },
-              "2": {
-                "category": "Popular Products"
-              }
-            },
-            "estore_woocommerce_product_slider": {
-              "1": {
-                "category": "Slider"
-              }
-            },
-            "estore_woocommerce_product_carousel": {
-              "1": {
-                "category": "Featured Product Collection"
-              },
-              "2": {
-                "category": "Luxury"
-              }
-            },
-            "estore_woocommerce_full_width_promo_widget": {
-              "1": {
-                "cat_id0": "Bridal Collection",
-                "cat_id1": "Luxury",
-                "cat_id2": "Groom Collection"
-              }
-            }
-          }
-        }
-      },
-      "customizer_data_update": {
-        "categories": {
-          "category": {
-            "estore_ticker_category": ""
-          }
-        },
-        "nav_menu_locations": {
-          "primary": "Main",
-          "secondary": "Quick Links"
-        }
-      }
-    },
     "estore-pro-default": {
       "isPro": true,
       "title": "eStore Pro Default",
@@ -282,6 +198,90 @@
           "header": "ThemeGrill Menu",
           "middleheader": "Custom Menu",
           "secondary": "Useful Links"
+        }
+      }
+    },
+    "estore-pro-jewelry": {
+      "isPro": true,
+      "title": "eStore Pro Jewelry",
+      "preview": "https://themegrilldemos.com/estore-pro-jewelry/",
+      "description": "WordPress template site suitable for all kinds of online trade in jewelry, accessories, hand-made and custom-made products.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Jewelry",
+        "page_on_front": "eStore Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "estore_featured_posts_carousel_widget": {
+              "1": {
+                "category": "Uncategorized"
+              }
+            }
+          },
+          "product_cat": {
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "New Products"
+              },
+              "2": {
+                "category": "Popular Products"
+              }
+            },
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Featured Product Collection"
+              },
+              "2": {
+                "category": "Luxury"
+              }
+            },
+            "estore_woocommerce_full_width_promo_widget": {
+              "1": {
+                "cat_id0": "Bridal Collection",
+                "cat_id1": "Luxury",
+                "cat_id2": "Groom Collection"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": ""
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main",
+          "secondary": "Quick Links"
         }
       }
     },
