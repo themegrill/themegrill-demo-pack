@@ -63,6 +63,32 @@
           "primary": "Main"
         }
       }
+    },
+    "radiate-pro-food": {
+      "isPro": true,
+      "title": "Radiate Pro Food",
+      "preview": "https://themegrilldemos.com/radiate-pro-food/",
+      "description": "WordPress Template Site for Food Blogging and Reviews.",
+      "template": [
+        "radiate-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Radiate Pro"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
     }
   }
 }
