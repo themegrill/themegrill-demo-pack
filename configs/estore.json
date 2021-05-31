@@ -201,6 +201,82 @@
         }
       }
     },
+    "estore-pro-medical-collection": {
+      "isPro": true,
+      "title": "eStore Pro Medical Collection",
+      "preview": "https://themegrilldemos.com/estore-pro-medical-collection/",
+      "description": "Use eStore Pro Medical Collection demo to sell medical equipment & health products.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Medical Collection",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "product_cat": {
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "Health Products"
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Covid Essentials"
+              },
+              "2": {
+                "category": "Fitness"
+              },
+              "3": {
+                "category": "Baby Care Products"
+              },
+              "4": {
+                "category": "Cosmetic Products"
+              },
+              "5": {
+                "category": "Trendy Products"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": "Uncategorized"
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main",
+          "secondary": "Quick Links"
+        }
+      }
+    },
     "estore-pro-jewelry": {
       "isPro": true,
       "title": "eStore Pro Jewelry",
