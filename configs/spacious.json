@@ -110,6 +110,80 @@
         }
       }
     },
+    "spacious-pro-it-services": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro IT services",
+      "preview": "https://themegrilldemos.com/spacious-pro-it-services/",
+      "description": "WordPress Multipurpose Theme to IT Services.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+       "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+      "core_options": {
+        "blogname": "Spacious Pro IT Services",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#104cba",
+          "#333333",
+          "#000000",
+          "#ffffff"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Nunito",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Nunito",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Nunito",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-pro-hireme": {
       "isPro": true,
       "isAllThemePlan": true,
