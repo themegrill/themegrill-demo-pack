@@ -235,6 +235,75 @@
         }
       }
     },
+    "flash-pro-business": {
+      "title": "Flash Pro Business",
+      "isPro": true,
+      "isAllThemePlan": true,
+      "preview": "https://themegrilldemos.com/flash-pro-business/",
+      "description": "WordPress Template Site for creating professional business websites.",
+      "template": [
+        "flash-pro"
+      ],
+      "category": [
+        "all",
+        "others",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flash Pro",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#233D62",
+          "#233D62",
+          "#687693",
+          "#EF7213"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Josefin Sans",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Josefin Sans",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Josefin Sans",
+            "font_weight": "700"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "flash-pro-transportation": {
       "title": "Flash Pro Transportation",
       "isPro": true,
