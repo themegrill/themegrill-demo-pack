@@ -110,6 +110,76 @@
         }
       }
     },
+    "spacious-pro-counseling": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Counseling",
+      "preview": "https://themegrilldemos.com/spacious-pro-counseling/",
+      "description": "Best WordPress Template Site for Counselors, Psychologists, and Therapists.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Counseling",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main",
+          "footer": "Useful Links"
+        }
+      }
+    },
     "spacious-pro-it-services": {
       "isPro": true,
       "isAllThemePlan": true,
