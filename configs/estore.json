@@ -10,7 +10,7 @@
   "demos": {
     "estore-free": {
       "title": "eStore",
-      "preview": "https://demo.themegrill.com/estore/",
+      "preview": "https://themegrilldemos.com/estore/",
       "description": "This is the default eStore demo to create your own eCommerce website.",
       "template": [
         "estore",
@@ -105,7 +105,7 @@
     "estore-pro-default": {
       "isPro": true,
       "title": "eStore Pro Default",
-      "preview": "https://demo.themegrill.com/estore-pro/",
+      "preview": "https://themegrilldemos.com/estore-pro/",
       "description": "Use this eStore demo to create a fully functioning eCommerce website.",
       "template": [
         "estore-pro"
@@ -201,10 +201,254 @@
         }
       }
     },
+    "estore-pro-medical-collection": {
+      "isPro": true,
+      "title": "eStore Pro Medical Collection",
+      "preview": "https://themegrilldemos.com/estore-pro-medical-collection/",
+      "description": "Use eStore Pro Medical Collection demo to sell medical equipment & health products.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Medical Collection",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "product_cat": {
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "Health Products"
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Covid Essentials"
+              },
+              "2": {
+                "category": "Fitness"
+              },
+              "3": {
+                "category": "Baby Care Products"
+              },
+              "4": {
+                "category": "Cosmetic Products"
+              },
+              "5": {
+                "category": "Trendy Products"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": "Uncategorized"
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main",
+          "secondary": "Quick Links"
+        }
+      }
+    },
+    "estore-pro-jewelry": {
+      "isPro": true,
+      "title": "eStore Pro Jewelry",
+      "preview": "https://themegrilldemos.com/estore-pro-jewelry/",
+      "description": "WordPress template site suitable for all kinds of online trade in jewelry, accessories, hand-made and custom-made products.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Jewelry",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "estore_featured_posts_carousel_widget": {
+              "1": {
+                "category": "Uncategorized"
+              }
+            }
+          },
+          "product_cat": {
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "New Products"
+              },
+              "2": {
+                "category": "Popular Products"
+              }
+            },
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Featured Product Collection"
+              },
+              "2": {
+                "category": "Luxury"
+              }
+            },
+            "estore_woocommerce_full_width_promo_widget": {
+              "1": {
+                "cat_id0": "Bridal Collection",
+                "cat_id1": "Luxury",
+                "cat_id2": "Groom Collection"
+              }
+            }
+          }
+        }
+      }, 
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": ""
+          }
+        }, 
+        "nav_menu_locations": {
+          "primary": "Main", 
+          "secondary": "Quick Links"
+        }
+      }
+    },
+    "estore-pro-furniture": {
+      "isPro": true,
+      "title": "eStore Pro Furniture",
+      "preview": "https://themegrilldemos.com/estore-pro-furniture/",
+      "description": "This modern furniture WordPress template is packed with elements and features you ever need.",
+      "template": [
+        "estore-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eStore Pro Furniture",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "estore_featured_posts_carousel_widget": {
+              "3": {
+                "category": "Uncategorized"
+              }
+            }
+          },
+          "product_cat": {
+            "estore_woocommerce_product_grid": {
+              "1": {
+                "category": "Trendy Products"
+              }
+            },
+            "estore_woocommerce_product_slider": {
+              "1": {
+                "category": "Slider"
+              }
+            },
+            "estore_woocommerce_vertical_promo_widget": {
+              "1": {
+                "cat_id0": "Kitchen Cabinets",
+                "cat_id1": "Decor",
+                "cat_id2": ""
+              }
+            },
+            "estore_woocommerce_product_carousel": {
+              "1": {
+                "category": "Electronics"
+              },
+              "2": {
+                "category": "Luxury"
+              },
+              "3": {
+                "category": "Trendy Products"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "categories": {
+          "category": {
+            "estore_ticker_category": "Uncategorized"
+          }
+        },
+        "nav_menu_locations": {
+          "primary": "Main",
+          "secondary": "Quick Links"
+        }
+      }
+    },
     "estore-pro-tech": {
       "isPro": true,
       "title": "eStore Pro Tech",
-      "preview": "https://demo.themegrill.com/estore-pro-tech/",
+      "preview": "https://themegrilldemos.com/estore-pro-tech/",
       "description": "Establish a well designed online technology store by using this eStore demo.",
       "template": [
         "estore-pro"
@@ -305,7 +549,7 @@
     "estore-pro-fashion": {
       "isPro": true,
       "title": "eStore Pro Fashion",
-      "preview": "https://demo.themegrill.com/estore-pro-fashion/",
+      "preview": "https://themegrilldemos.com/estore-pro-fashion/",
       "description": "Create your own online fashion store with the help of this eStore demo.",
       "template": [
         "estore-pro"

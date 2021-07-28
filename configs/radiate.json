@@ -9,7 +9,7 @@
   "demos": {
     "radiate-free": {
       "title": "Radiate",
-      "preview": "https://demo.themegrill.com/radiate/",
+      "preview": "https://themegrilldemos.com/radiate/",
       "description": "This is the default Radiate demo to create your own parallax blog website.",
       "template": [
         "radiate",
@@ -36,7 +36,7 @@
     "radiate-pro": {
       "isPro": true,
       "title": "Radiate Pro",
-      "preview": "http://demo.themegrill.com/radiate-pro/",
+      "preview": "https://themegrilldemos.com/radiate-pro/",
       "description": "Expand your blogging platform with the premium features of this Radiate demo.",
       "template": [
         "radiate-pro"
@@ -59,6 +59,32 @@
           "page-setting-two": "Free Support",
           "page-setting-three": "Simple Clean Design"
         },
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "radiate-pro-food": {
+      "isPro": true,
+      "title": "Radiate Pro Food",
+      "preview": "https://themegrilldemos.com/radiate-pro-food/",
+      "description": "WordPress Template Site for Food Blogging and Reviews.",
+      "template": [
+        "radiate-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Radiate Pro Food"
+      },
+      "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main"
         }

@@ -17,7 +17,7 @@
   "demos": {
     "spacious-free": {
       "title": "Spacious",
-      "preview": "https://demo.themegrill.com/spacious/",
+      "preview": "https://themegrilldemos.com/spacious/",
       "description": "This is the default Spacious demo for your responsive business website.",
       "template": [
         "spacious",
@@ -65,7 +65,7 @@
     "spacious-pro": {
       "isPro": true,
       "title": "Spacious Pro",
-      "preview": "https://demo.themegrill.com/spacious-pro/",
+      "preview": "https://themegrilldemos.com/spacious-pro/",
       "description": "Enhance your business advantage in your website with this Spacious demo.",
       "template": [
         "spacious-pro"
@@ -110,10 +110,523 @@
         }
       }
     },
+    "spacious-pro-counseling": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Counseling",
+      "preview": "https://themegrilldemos.com/spacious-pro-counseling/",
+      "description": "Best WordPress Template Site for Counselors, Psychologists, and Therapists.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Counseling",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main",
+          "footer": "Useful Links"
+        }
+      }
+    },
+    "spacious-pro-it-services": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro IT services",
+      "preview": "https://themegrilldemos.com/spacious-pro-it-services/",
+      "description": "WordPress Multipurpose Theme to IT Services.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+       "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+      "core_options": {
+        "blogname": "Spacious Pro IT Services",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#104cba",
+          "#333333",
+          "#000000",
+          "#ffffff"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Nunito",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Nunito",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Nunito",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-hireme": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro HireMe",
+      "preview": "https://themegrilldemos.com/spacious-pro-hireme/",
+      "description": "WordPress Multipurpose Theme to build responsive Job Portal Site.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro HireMe",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-health-information": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Health Information",
+      "preview": "https://themegrilldemos.com/spacious-pro-health-information/",
+      "description": "Use this Spacious Pro demo to create a website regarding health information.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Health Information",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-agency": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Agency",
+      "preview": "https://themegrilldemos.com/spacious-pro-agency/",
+      "description": "Use this Spacious Pro demo to create a website regarding your agency.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Agency",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-product": {
+      "isPro": true,
+      "title": "Spacious Pro Product",
+      "preview": "https://themegrilldemos.com/spacious-pro-product/",
+      "description": "Use this Spacious Pro demo to create a website to showcase your products.",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Product",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-lawyer": {
+      "isPro": true,
+      "title": "Spacious Pro Lawyer",
+      "preview": "https://themegrilldemos.com/spacious-pro-lawyer/",
+      "description": "Use this Spacious pro demo to create a website for your law services.",
+      "template": [
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Lawyer",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "spacious-pro-agriculture": {
+      "isPro": true,
+      "isAllThemePlan": true,
+      "title": "Spacious Pro Agriculture",
+      "preview": "https://themegrilldemos.com/spacious-pro-agriculture/",
+      "description": "Use this Spacious Pro demo to create a website about Agriculture",
+      "template": [
+        "spacious-pro"
+      ],
+      "minimum_version": {
+        "spacious-pro": "2.5.0"
+      },
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Pro Agriculture",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "spacious-pro-barber-shop": {
       "isPro": true,
       "title": "Spacious Pro Barber Shop",
-      "preview": "https://demo.themegrill.com/spacious-pro-barber-shop/",
+      "preview": "https://themegrilldemos.com/spacious-pro-barber-shop/",
       "description": "WordPress Template Site for boosting any kind of business.",
       "template": [
         "spacious-pro"
@@ -181,7 +694,7 @@
     "spacious-pro-university": {
       "isPro": true,
       "title": "Spacious Pro University",
-      "preview": "https://demo.themegrill.com/spacious-pro-university/",
+      "preview": "https://themegrilldemos.com/spacious-pro-university/",
       "description": "Use this Spacious Pro demo to create a website for your institute.",
       "template": [
         "spacious-pro"
@@ -252,7 +765,7 @@
     },
     "spacious-store": {
       "title": "Spacious Store",
-      "preview": "https://demo.themegrill.com/spacious-store/",
+      "preview": "https://themegrilldemos.com/spacious-store/",
       "description": "If you want to create an online store for your website, use this Spacious demo.",
       "template": [
         "spacious",
@@ -331,7 +844,7 @@
     },
     "spacious-medical": {
       "title": "Spacious Medical",
-      "preview": "https://demo.themegrill.com/spacious-medical/",
+      "preview": "https://themegrilldemos.com/spacious-medical/",
       "description": "Aid your patient's health with the help of this Spacious Medical demo.",
       "template": [
         "spacious",
@@ -373,10 +886,49 @@
         }
       }
     },
+    "spacious-fashion-blog": {
+      "title": "Spacious Fashion Blog",
+      "preview": "https://themegrilldemos.com/spacious-fashion-blog/",
+      "description": "WordPress Template Site with elegant design for creative blogger.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Fashion Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top Menu",
+          "primary": "Main Menu",
+          "footer": "Header Top Menu"
+        }
+      }
+    },
     "spacious-pro-flat-host": {
       "isPro": true,
       "title": "Spacious Pro Flat Host",
-      "preview": "https://demo.themegrill.com/spacious-pro-flat-host/",
+      "preview": "https://themegrilldemos.com/spacious-pro-flat-host/",
       "description": "Use this Spacious pro demo to create a website for your hosting services.",
       "template": [
         "spacious-pro"
@@ -402,7 +954,8 @@
       },
       "core_options": {
         "blogname": "Spacious Pro Flat Host",
-        "page_on_front": "Home"
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
@@ -438,7 +991,7 @@
     },
     "spacious-band": {
       "title": "Spacious Band",
-      "preview": "https://demo.themegrill.com/spacious-band/",
+      "preview": "https://themegrilldemos.com/spacious-band/",
       "description": "Use this Spacious demo to create a music band website for your music enthusiasts.",
       "template": [
         "spacious",
@@ -503,7 +1056,7 @@
     },
     "spacious-farm": {
       "title": "Spacious Farm",
-      "preview": "https://demo.themegrill.com/spacious-farm/",
+      "preview": "https://themegrilldemos.com/spacious-farm/",
       "description": "Use this Spacious demo to create your farm or agricultural website.",
       "template": [
         "spacious",
@@ -576,7 +1129,7 @@
     },
     "spacious-food": {
       "title": "Spacious Food",
-      "preview": "https://demo.themegrill.com/spacious-food/",
+      "preview": "https://themegrilldemos.com/spacious-food/",
       "description": "Use this Spacious demo to create a fantastic website for your food enthusiasts.",
       "template": [
         "spacious",
@@ -650,7 +1203,7 @@
     },
     "spacious-event": {
       "title": "Spacious Event",
-      "preview": "https://demo.themegrill.com/spacious-event/",
+      "preview": "https://themegrilldemos.com/spacious-event/",
       "description": "Use this Spacious demo if you want to create an event website",
       "template": [
         "spacious",
@@ -718,7 +1271,7 @@
     },
     "spacious-company": {
       "title": "Spacious Company",
-      "preview": "https://demo.themegrill.com/spacious-company/",
+      "preview": "https://themegrilldemos.com/spacious-company/",
       "description": "Use this Spacious demo to build and grow your company website.",
       "template": [
         "spacious",
@@ -789,7 +1342,7 @@
     "spacious-pro-hotel": {
       "isPro": true,
       "title": "Spacious Pro Hotel",
-      "preview": "https://demo.themegrill.com/spacious-pro-hotel/",
+      "preview": "https://themegrilldemos.com/spacious-pro-hotel/",
       "description": "Use this Spacious demo to create your amazing Hotel website.",
       "template": [
         "spacious-pro"
@@ -867,7 +1420,7 @@
     "spacious-pro-furniture": {
       "isPro": true,
       "title": "Spacious Pro Furniture",
-      "preview": "https://demo.themegrill.com/spacious-pro-furniture/",
+      "preview": "https://themegrilldemos.com/spacious-pro-furniture/",
       "description": "Use this Spacious demo to create your amazing furniture store website.",
       "template": [
         "spacious-pro"
@@ -938,7 +1491,7 @@
     },
     "spacious-freelancer": {
       "title": "Spacious Freelancer",
-      "preview": "https://demo.themegrill.com/spacious-freelancer/",
+      "preview": "https://themegrilldemos.com/spacious-freelancer/",
       "description": "Use this Spacious demo to create your amazing freelancing website.",
       "template": [
         "spacious",
@@ -1008,7 +1561,7 @@
     "spacious-pro-cryptocurrency": {
       "isPro": true,
       "title": "Spacious Pro cryptocurrency",
-      "preview": "https://demo.themegrill.com/spacious-pro-cryptocurrency/",
+      "preview": "https://themegrilldemos.com/spacious-pro-cryptocurrency/",
       "description": "Create your amazing business website with the help of this Spacious demo.",
       "template": [
         "spacious-pro"
@@ -1070,7 +1623,7 @@
     },
     "spacious-gym": {
       "title": "Spacious Gym",
-      "preview": "https://demo.themegrill.com/spacious-gym/",
+      "preview": "https://themegrilldemos.com/spacious-gym/",
       "description": "Start creating your fitness website with this Spacious Gym demo.",
       "template": [
         "spacious",
@@ -1147,7 +1700,7 @@
     "spacious-pro-organic-food": {
       "isPro": true,
       "title": "Spacious Pro Organic Food",
-      "preview": "https://demo.themegrill.com/spacious-pro-organic-food/",
+      "preview": "https://themegrilldemos.com/spacious-pro-organic-food/",
       "description": "Create your organic food website with this Spacious demo.",
       "template": [
         "spacious-pro"
@@ -1226,7 +1779,7 @@
     "spacious-pro-sports": {
       "isPro": true,
       "title": "Spacious Pro Sports",
-      "preview": "https://demo.themegrill.com/spacious-pro-sports/",
+      "preview": "https://themegrilldemos.com/spacious-pro-sports/",
       "description": "Create your amazing sports website with the help of this Spacious demo.",
       "template": [
         "spacious-pro"
@@ -1300,7 +1853,7 @@
     "spacious-pro-business": {
       "isPro": true,
       "title": "Spacious Pro Business",
-      "preview": "http://demo.themegrill.com/spacious-pro-business/",
+      "preview": "https://themegrilldemos.com/spacious-pro-business/",
       "description": "This is the default Spacious demo for your responsive business website.",
       "template": [
         "spacious-pro"
@@ -1340,7 +1893,7 @@
     },
     "spacious-vet": {
       "title": "Spacious Vet",
-      "preview": "https://demo.themegrill.com/spacious-vet/",
+      "preview": "https://themegrilldemos.com/spacious-vet/",
       "description": "Use this Spacious demo to create your pet-friendly vet website.",
       "template": [
         "spacious",
@@ -1405,7 +1958,7 @@
     },
     "spacious-interior": {
       "title": "Spacious Interior",
-      "preview": "https://demo.themegrill.com/spacious-interior/",
+      "preview": "https://themegrilldemos.com/spacious-interior/",
       "description": "Use this Spacious demo to start building your online interior designing services.",
       "template": [
         "spacious",
@@ -1482,7 +2035,7 @@
     },
     "spacious-car-repair": {
       "title": "Spacious Car Repair",
-      "preview": "https://demo.themegrill.com/spacious-car-repair/",
+      "preview": "https://themegrilldemos.com/spacious-car-repair/",
       "description": "Use this demo to create the perfect website for your car repair shop.",
       "template": [
         "spacious",
@@ -1555,7 +2108,7 @@
     },
     "spacious-blog": {
       "title": "Spacious Blog",
-      "preview": "https://demo.themegrill.com/spacious-blog/",
+      "preview": "https://themegrilldemos.com/spacious-blog/",
       "description": "Want to start the blog for your business? Use this Spacious demo.",
       "template": [
         "spacious",
@@ -1596,7 +2149,7 @@
     "spacious-pro-digital-agency": {
       "isPro": true,
       "title": "Spacious Pro Digital Agency",
-      "preview": "https://demo.themegrill.com/spacious-pro-digital-agency/",
+      "preview": "https://themegrilldemos.com/spacious-pro-digital-agency/",
       "description": "This premium Spacious demo can be used to create an awesome digital agency website.",
       "template": [
         "spacious-pro"
