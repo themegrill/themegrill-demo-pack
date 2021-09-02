@@ -4,33 +4,25 @@
   "version": "1.0.0",
   "homepage": "https://themegrill.com/",
   "categories": {
-    "all"        : "All",
-    "ecommerce"  : "eCommerce",
-    "blog"       : "Blog",
-    "others"     : "Others"
+    "all"        : "All"
   },
   "pagebuilders":
   {
-    "all": "All",
-    "gutenberg": "Gutenberg"
+    "all": "All"
   },
   "demos": {
     "webshop-default": {
       "title": "WebShop",
-      "preview": "https://webshop.sites.qsandbox.com/",
+      "preview": "https://themegrilldemos.com/webshop",
       "description": "A complete WooCommerce theme for your online shop, by ThemeGrill.",
       "template": [
         "webshop"
       ],
       "category": [
-        "all",
-        "blog",
-        "ecommerce",
-        "others"
+        "all"
       ],
       "pagebuilder": [
-        "all",
-        "gutenberg"
+        "all"
       ],
       "plugins_list": {
         "woocommerce": {
@@ -45,7 +37,9 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "ws-menu-primary": "Main"
+          "ws-menu-primary": "Main",
+          "ws-menu-secondary": "Browse Categories",
+          "ws-menu-tertiary": "More"
         }
       }
     }
