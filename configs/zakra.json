@@ -89,6 +89,80 @@
         }
       }
     },
+    "zakra-furniture-showcase": {
+      "title": "Furniture Showcase",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/furniture-showcase/",
+      "description": "WordPress Template Site for Furniture Shop, Furniture Showcase",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Furniture Showcase",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-counselling": {
       "title": "Counselling",
       "isPremium": true,
