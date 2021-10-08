@@ -6,14 +6,11 @@
   "categories": {
     "all"        : "All",
     "education"  : "Education",
-    "business"   : "Business",
-    "blog"       : "Blog",
-    "others"     : "Others"
+    "blog"       : "Blog"
   },
   "pagebuilders": {
     "all": "All",
-    "elementor": "Elementor",
-    "gutenberg": "Gutenberg"
+    "elementor": "Elementor"
   },
   "demos": {
     "elearning-default": {
@@ -26,7 +23,6 @@
       "category": [
         "all",
         "education",
-        "blog",
         "business"
       ],
       "pagebuilder": [
@@ -34,10 +30,6 @@
         "elementor"
       ],
       "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
         "learning-management-system": {
           "name": "Masteriyo LMS",
           "slug": "learning-management-system/lms.php"
@@ -45,6 +37,10 @@
         "everest-forms": {
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
         }
       },
       "core_options": {
