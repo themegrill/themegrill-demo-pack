@@ -1,0 +1,62 @@
+{
+  "name": "eLearning",
+  "slug": "elearning",
+  "version": "1.0.0",
+  "homepage": "https://masteriyo.com/",
+  "categories": {
+    "all"        : "All",
+    "education"  : "Education",
+    "business"   : "Business",
+    "blog"       : "Blog",
+    "others"     : "Others"
+  },
+  "pagebuilders": {
+    "all": "All",
+    "elementor": "Elementor",
+    "gutenberg": "Gutenberg"
+  },
+  "demos": {
+    "elearning-default": {
+      "title": "eLearning",
+      "preview": "https://demo.masteriyo.com/elearning",
+      "description": "Just another WordPress site",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "leaning-management-system": {
+          "name": "Best Free WordPress Learning Management System, eLearning Platform & Online Course Builder – Masteriyo LMS",
+          "slug": "leaning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eLearning",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    }
+  }
+}
