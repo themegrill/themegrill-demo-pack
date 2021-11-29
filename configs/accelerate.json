@@ -64,6 +64,55 @@
         }
       }
     },
+     "accelerate-free-lifestyle": {
+      "title": "Accelerate",
+      "preview": "https://themegrilldemos.com/accelerate-free-lifestyle/",
+      "description": "WordPress site for lifestyle.",
+      "template": [
+        "accelerate",
+        "accelerate-pro"
+      ],
+      "category": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Accelerate",
+        "page_for_posts": "Blog"
+      },
+      "widgets_data_update": {
+        "dropdown_pages": {
+          "accelerate_featured_single_page_widget": {
+            "2": {
+              "page_id": "About Us"
+            }
+          },
+          "accelerate_recent_work_widget": {
+            "2": {
+              "page_id0": "The Best Vegan Restaurants",
+              "page_id1": "Top 10 travel trends for 2020",
+              "page_id2": "Life begins at end of comfort zones",
+              "page_id3": "Gifts for beauty"
+            }
+          }
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "primary": "Primary",
+            "footer": "Footer"
+          }
+        }
+      }
+    },
     "accelerate-pro": {
       "isPro": true,
       "title": "Accelerate Pro",
