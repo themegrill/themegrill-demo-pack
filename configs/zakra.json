@@ -89,6 +89,39 @@
         }
       }
     },
+    "zakra-travel-agency": {
+      "title": "Travel Agency",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/travel-agency/",
+      "description": "Gutenberg based WordPress Template Sites for all kind of travel agency and travel enthusiast",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "blockart": {
+          "name": "BlockArt Blocks",
+          "slug": "blockart/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Travel Agency",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-furniture": {
       "title": "Furniture",
       "isPremium": true,
