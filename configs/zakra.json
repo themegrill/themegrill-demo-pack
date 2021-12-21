@@ -59,6 +59,39 @@
         }
       }
     },
+    "zakra-charity-02": {
+      "title": "Charity 02",
+      "preview": "https://zakrademos.com/charity-02/",
+      "description": "Gutenberg based WordPress Template site for non-profit, charity and donation organization.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "non-profit"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Charity",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-travel-agency": {
       "title": "Travel Agency",
       "isPremium": true,
