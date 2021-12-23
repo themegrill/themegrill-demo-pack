@@ -59,6 +59,39 @@
         }
       }
     },
+    "zakra-professional-02": {
+      "title": "Professional 02",
+      "preview": "https://zakrademos.com/professional-02/",
+      "description": "Gutenberg based WordPress Template Site for Any Professional Corporate.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Professional",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-charity-02": {
       "title": "Charity 02",
       "preview": "https://zakrademos.com/charity-02/",
