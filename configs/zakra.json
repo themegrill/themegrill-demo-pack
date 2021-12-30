@@ -158,6 +158,43 @@
         }
       }
     },
+    "zakra-wedding-02": {
+      "title": "Wedding 02",
+      "preview": "https://zakrademos.com/wedding-02/",
+      "description": "Gutenberg based WordPress Template Site for Any Wedding Planner.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Wedding",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-furniture": {
       "title": "Furniture",
       "isPremium": true,
