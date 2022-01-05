@@ -59,6 +59,45 @@
         }
       }
     },
+    "zakra-minimal-portfolio-02": {
+      "title": "Zakra Minimal Portfolio",
+      "preview": "https://zakrademos.com/minimal-portfolio-02/",
+      "description": "Gutenberg based WordPress Template Site for Portfolio.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "portfolio",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Minimal Portfolio",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-digital-marketing-02": {
       "title": "Zakra Digital Marketing",
       "isPremium": true,
