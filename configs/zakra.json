@@ -59,6 +59,44 @@
         }
       }
     },
+    "zakra-spa-02": {
+      "title": "Spa",
+      "preview": "https://zakrademos.com/spa-02/",
+      "description": "Gutenberg based WordPress Template Site for Spa, Salons And All Kind of Beauty Treatments.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spa",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-minimal-portfolio-02": {
       "title": "Minimal Portfolio",
       "preview": "https://zakrademos.com/minimal-portfolio-02/",
