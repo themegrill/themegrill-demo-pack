@@ -1,0 +1,61 @@
+{
+  "name": "Online Education",
+  "slug": "online-education",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/themes/online-education",
+  "categories": {
+    "all"        : "All",
+    "education"  : "Education",
+    "blog"       : "Blog"
+  },
+  "pagebuilders": {
+    "all": "All",
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "online-education-default": {
+      "title": "Online Education",
+      "preview": "https://themegrilldemos.com/online-education/",
+      "description": "LMS based WordPress template site for showcasing courses of any kind for Online Institutes, School, College or Instructors",
+      "template": [
+        "online-education"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Online Education",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#FCA311"
+      }
+    }
+  }
+}
