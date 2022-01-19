@@ -59,6 +59,44 @@
         }
       }
     },
+    "zakra-book-author-02": {
+      "title": "Book Author 02",
+      "preview": "https://zakrademos.com/book-author-02/",
+      "description": "Gutenberg based WordPress Template site for all kind of Book Collection, Buyers, Sellers, Book Lovers and Author Portfolio.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Book Author 02",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-online-course-02": {
       "title": "Online Course 02",
       "isPremium": true,
