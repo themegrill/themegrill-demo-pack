@@ -110,6 +110,54 @@
         }
       }
     },
+    "spacious-ecademy": {
+      "title": "Spacious eCademy",
+      "preview": "https://themegrilldemos.com/spacious-ecademy/",
+      "description": "Gutenberg Template Site for Online Learning or WordPress Template Site for eLearning.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "blockart"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart": {
+          "name": "Blockart",
+          "slug": "blockart/blockart.php"
+        },
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "header": "Header Top Menu",
+          "primary": "Main Menu",
+          "footer": "Header Top Menu"
+        }
+      }
+    },
     "spacious-pro-freelancer-02": {
       "isPro": true,
       "title": "Spacious Pro Freelancer 02",
