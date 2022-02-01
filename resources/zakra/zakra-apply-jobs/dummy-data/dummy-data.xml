@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-12-28 11:17" -->
+	<!-- generator="WordPress/5.8.3" created="2022-02-01 05:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>ApplyJob</title>
 	<link>https://zakrademos.com/applyjobs</link>
 	<description>WordPress Template Site with beautiful design for job portal, job seekers, online recruitment and all kind of jobs and career opportunities.</description>
-	<pubDate>Tue, 28 Dec 2021 11:17:55 +0000</pubDate>
+	<pubDate>Tue, 01 Feb 2022 05:01:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
@@ -73,6 +73,27 @@
 		<wp:tag_name><![CDATA[Marketing]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
@@ -91,7 +112,7 @@
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug><wp:term_name><![CDATA[Secondary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 		<item>
 		<title><![CDATA[Web-Maintanance]]></title>
@@ -3858,8 +3879,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 08:06:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 08:06:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-01 04:32:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-01 04:32:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -3942,18 +3963,6 @@
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_menu_item_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#000b23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_menu_item_hover_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#3653fe]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_menu_item_active_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#3653fe]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_menu_item_active_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[tg-primary-menu--style-underline]]></wp:meta_value>
 		</wp:postmeta>
@@ -3992,6 +4001,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_page_title_bg]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#1e73be]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
