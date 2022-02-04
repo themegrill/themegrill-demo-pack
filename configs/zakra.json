@@ -141,6 +141,49 @@
         }
       }
     },
+      "zakra-eguru": {
+      "title": "eGuru",
+      "preview": "https://zakrademos.com/eguru/",
+      "description": "Gutenberg based eLearning LMS WordPress Template Site",
+
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        },
+        "learning-management-system": {
+        "name": "Masteriyo LMS",
+        "slug": "learning-management-system/lms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eGuru",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-spa-02": {
       "title": "Spa 02",
       "preview": "https://zakrademos.com/spa-02/",
