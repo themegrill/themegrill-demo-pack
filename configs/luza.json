@@ -1,0 +1,46 @@
+{
+  "name": "Luza",
+  "slug": "luza",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/",
+  "categories": {
+    "all"        : "All"
+  },
+  "pagebuilders":
+  {
+    "all": "All"
+  },
+  "demos": {
+    "luza-default": {
+      "title": "Luza",
+      "preview": "https://themegrilldemos.com/luza",
+      "description": "A complete WooCommerce theme for your online shop, by ThemeGrill.",
+      "template": [
+        "luza"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Luza",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "luza-menu-primary": "Primary",
+          "luza-menu-social": "Social"
+        }
+      }
+    }
+  }
+}
