@@ -1,0 +1,50 @@
+{
+  "name": "Luza",
+  "slug": "luza",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/",
+  "categories": {
+    "all"        : "All"
+  },
+  "pagebuilders":
+  {
+    "all": "All"
+  },
+  "demos": {
+    "luza-default": {
+      "title": "Luza",
+      "preview": "https://themegrilldemos.com/luza",
+      "description": "The Luza is a Gutenberg Block-Based WooCommerce theme for selling beauty and cosmetics products. It gives a beautiful design to WordPress and WooCommerce blocks. You can customize all the necessary designs of your site with the colors, typography, layouts, spacing options. To boost the online presence of your site, Luza comes with dedicated eCommerce features, SEO-friendly code, translation-ready and beautiful demo site.",
+      "template": [
+        "luza"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Luza",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "luza-menu-primary": "Primary Menu",
+          "luza-menu-social": "Social"
+        }
+      }
+    }
+  }
+}
