@@ -1,0 +1,51 @@
+{
+  "name": "SkinCare",
+  "slug": "skincare",
+  "version": "1.0.0",
+  "homepage": "https://themegrill.com/",
+  "categories": {
+    "all"        : "All"
+  },
+  "pagebuilders":
+  {
+    "all": "All"
+  },
+  "demos": {
+    "skincare-default": {
+      "title": "SkinCare",
+      "preview": "https://themegrilldemos.com/skincare",
+      "description": "A complete WooCommerce theme for your online shop, by ThemeGrill.",
+      "template": [
+        "skincare"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "SkinCare",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "ws-menu-primary": "Main",
+          "ws-menu-secondary": "Browse Categories",
+          "ws-menu-tertiary": "More"
+        }
+      }
+    }
+  }
+}
