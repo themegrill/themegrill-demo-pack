@@ -110,6 +110,57 @@
         }
       }
     },
+    "spacious-free-02": {
+      "title": "Spacious 02",
+      "preview": "https://themegrilldemos.com/spacious-02/",
+      "description": "This is the default Spacious demo for your responsive business website.",
+      "template": [
+        "spacious",
+        "spacious-pro"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "Blockart",
+          "slug": "blockart-blocks/blockart.php"
+        },
+        "breadcrumb-navxt": {
+          "name": "Breadcrumb NavXT",
+          "slug": "breadcrumb-navxt/breadcrumb-navxt.php"
+        },
+        "recent-posts-widget-extended": {
+          "name": "Recent Posts Widget Extended",
+          "slug": "recent-posts-widget-extended/rpwe.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Spacious",
+        "page_on_front": "Business Template",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary",
+          "footer": "Footer Menu"
+        }
+      }
+    },
     "spacious-ecademy": {
       "title": "Spacious eCademy",
       "preview": "https://themegrilldemos.com/spacious-ecademy/",
