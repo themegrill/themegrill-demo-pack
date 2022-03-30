@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-02-02 15:41" -->
+	<!-- generator="WordPress/5.9.1" created="2022-03-09 17:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,11 +28,11 @@
 <channel>
 	<title>Zakra Kantipur News</title>
 	<link>https://zakrademos.com/kantipur-news</link>
-	<description>WordPress Template Site with elegant design for for News portal, Magazine site and Business News.</description>
-	<pubDate>Tue, 02 Feb 2021 15:41:01 +0000</pubDate>
+	<description>WordPress Template Site with elegant design for News portal, Magazine site and Business News.</description>
+	<pubDate>Wed, 09 Mar 2022 17:16:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/kantipur-news</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -174,15 +174,36 @@
 		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Travel]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>25</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+			<wp:term>
+		<wp:term_id>27</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>29</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>28</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>25</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 
 		<item>
-		<title>Logo</title>
+		<title><![CDATA[Logo]]></title>
 		<link>https://zakrademos.com/kantipur-news/logo/</link>
 		<pubDate>Thu, 24 Dec 2020 08:41:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -193,6 +214,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 08:41:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 08:41:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 08:41:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 08:41:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -217,7 +240,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-add</title>
+		<title><![CDATA[footer-add]]></title>
 		<link>https://zakrademos.com/kantipur-news/footer-add/</link>
 		<pubDate>Thu, 24 Dec 2020 09:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -228,6 +251,8 @@
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 09:16:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 09:16:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 09:16:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 09:16:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-add]]></wp:post_name>
@@ -252,7 +277,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Logo-1</title>
+		<title><![CDATA[Logo-1]]></title>
 		<link>https://zakrademos.com/kantipur-news/logo-1/</link>
 		<pubDate>Thu, 24 Dec 2020 09:22:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -263,6 +288,8 @@
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 09:22:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 09:22:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 09:22:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 09:22:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
@@ -287,7 +314,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero-image</title>
+		<title><![CDATA[hero-image]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/kollywood-is-more-diverse-than-ever-so-why-are-the-ascars-still-so-white/hero-image/</link>
 		<pubDate>Thu, 24 Dec 2020 10:16:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -298,6 +325,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:16:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:16:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:16:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:16:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-image]]></wp:post_name>
@@ -322,7 +351,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Rectangle 8-min</title>
+		<title><![CDATA[Rectangle 8-min]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/lockdown-has-changed-my-approach-to-socializing/rectangle-8-min/</link>
 		<pubDate>Thu, 24 Dec 2020 10:30:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -333,6 +362,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:30:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:30:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:30:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:30:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rectangle-8-min]]></wp:post_name>
@@ -357,7 +388,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ice cream</title>
+		<title><![CDATA[ice cream]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/mcmonalds-offering-breakfast-pancakes-all-day/ice-cream/</link>
 		<pubDate>Thu, 24 Dec 2020 10:33:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -368,6 +399,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:33:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:33:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:33:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:33:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ice-cream]]></wp:post_name>
@@ -392,7 +425,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sleeping-girl</title>
+		<title><![CDATA[sleeping-girl]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/why-stress-happens-and-how-to-manage-it/sleeping-girl/</link>
 		<pubDate>Thu, 24 Dec 2020 10:35:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -403,6 +436,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:35:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:35:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:35:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:35:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sleeping-girl]]></wp:post_name>
@@ -427,7 +462,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pokemon</title>
+		<title><![CDATA[pokemon]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/worlds-rarest-pokemon-card-sells-for-195000/pokemon/</link>
 		<pubDate>Thu, 24 Dec 2020 10:36:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -438,6 +473,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:36:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:36:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:36:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:36:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pokemon]]></wp:post_name>
@@ -462,7 +499,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ads – Wide Skyscraper</title>
+		<title><![CDATA[Ads – Wide Skyscraper]]></title>
 		<link>https://zakrademos.com/kantipur-news/home/ads-wide-skyscraper/</link>
 		<pubDate>Thu, 24 Dec 2020 11:42:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -473,6 +510,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:42:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:42:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:42:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:42:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ads-wide-skyscraper]]></wp:post_name>
@@ -497,7 +536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>travel</title>
+		<title><![CDATA[travel]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/travel/travel-2/</link>
 		<pubDate>Fri, 25 Dec 2020 05:56:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -508,6 +547,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 05:56:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 05:56:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 05:56:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 05:56:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-2]]></wp:post_name>
@@ -532,7 +573,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>politics</title>
+		<title><![CDATA[politics]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/politics/politics-2/</link>
 		<pubDate>Fri, 25 Dec 2020 05:58:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -543,6 +584,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 05:58:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 05:58:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 05:58:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 05:58:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[politics-2]]></wp:post_name>
@@ -567,7 +610,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>horse</title>
+		<title><![CDATA[horse]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/the-most-expensive-hourse-painting-exibition/horse/</link>
 		<pubDate>Fri, 25 Dec 2020 06:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -578,6 +621,8 @@
 		<wp:post_id>205</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:11:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[horse]]></wp:post_name>
@@ -602,7 +647,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>new-trend</title>
+		<title><![CDATA[new-trend]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/new-trend-for-men-that-you-must-now-in-2020/new-trend/</link>
 		<pubDate>Fri, 25 Dec 2020 06:14:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -613,6 +658,8 @@
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:14:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:14:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:14:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:14:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-trend]]></wp:post_name>
@@ -637,7 +684,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>resort</title>
+		<title><![CDATA[resort]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-most-exclusive-private-island-resorts/resort/</link>
 		<pubDate>Fri, 25 Dec 2020 06:16:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -648,6 +695,8 @@
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:16:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:16:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:16:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:16:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[resort]]></wp:post_name>
@@ -672,7 +721,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pokemon</title>
+		<title><![CDATA[pokemon]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-rarest-pokemon-card-sells-for-105000/pokemon-2/</link>
 		<pubDate>Fri, 25 Dec 2020 06:16:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -683,6 +732,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:16:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:16:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:16:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:16:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pokemon-2]]></wp:post_name>
@@ -707,7 +758,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>michelle</title>
+		<title><![CDATA[michelle]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/michelle-lara-is-the-honest-friend-america/michelle/</link>
 		<pubDate>Fri, 25 Dec 2020 07:11:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -718,6 +769,8 @@
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:11:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:11:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:11:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:11:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michelle]]></wp:post_name>
@@ -742,7 +795,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>obama</title>
+		<title><![CDATA[obama]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/obama-lays-out-a-stark-choice-for-voters-in-his/obama/</link>
 		<pubDate>Fri, 25 Dec 2020 07:12:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -753,6 +806,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:12:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:12:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:12:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:12:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[obama]]></wp:post_name>
@@ -777,7 +832,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>news</title>
+		<title><![CDATA[news]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/how-many-corona-deaths-is-nepal-missing/news/</link>
 		<pubDate>Fri, 25 Dec 2020 07:22:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -788,6 +843,8 @@
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:22:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:22:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:22:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:22:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news]]></wp:post_name>
@@ -812,7 +869,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>summer-travel</title>
+		<title><![CDATA[summer-travel]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/coronavirus-summer-travel-and-safety-tips-recipe/summer-travel/</link>
 		<pubDate>Fri, 25 Dec 2020 07:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -823,6 +880,8 @@
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:41:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:41:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:41:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:41:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[summer-travel]]></wp:post_name>
@@ -847,7 +906,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>faces</title>
+		<title><![CDATA[faces]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/silver-state-killer-faces-surviving-victims-during/faces/</link>
 		<pubDate>Fri, 25 Dec 2020 07:41:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -858,6 +917,8 @@
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:41:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:41:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:41:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:41:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faces]]></wp:post_name>
@@ -882,7 +943,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>social-media</title>
+		<title><![CDATA[social-media]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/10-symptoms-of-rich-social-media-hygiene/social-media/</link>
 		<pubDate>Fri, 25 Dec 2020 07:55:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -893,6 +954,8 @@
 		<wp:post_id>274</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:55:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:55:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:55:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:55:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[social-media]]></wp:post_name>
@@ -917,7 +980,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>facebook</title>
+		<title><![CDATA[facebook]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/facebook-moves-to-covid-19-consequences-theories-with-warnings/facebook/</link>
 		<pubDate>Fri, 25 Dec 2020 07:56:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -928,6 +991,8 @@
 		<wp:post_id>277</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:56:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:56:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:56:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:56:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -952,7 +1017,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tortoise</title>
+		<title><![CDATA[tortoise]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/giant-tortoise-who-helped-save-species-retires-in-galapagos-islands/tortoise/</link>
 		<pubDate>Fri, 25 Dec 2020 07:57:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -963,6 +1028,8 @@
 		<wp:post_id>280</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:57:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:57:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:57:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:57:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tortoise]]></wp:post_name>
@@ -987,7 +1054,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>class</title>
+		<title><![CDATA[class]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/kata-kaira-halts-in-person-classes-as-186-students-get-coronavirus/class/</link>
 		<pubDate>Fri, 25 Dec 2020 07:58:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -998,6 +1065,8 @@
 		<wp:post_id>284</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:58:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:58:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:58:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:58:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[class]]></wp:post_name>
@@ -1022,7 +1091,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>instagram-fashion</title>
+		<title><![CDATA[instagram-fashion]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more/instagram-fashion/</link>
 		<pubDate>Fri, 25 Dec 2020 08:15:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1033,6 +1102,8 @@
 		<wp:post_id>296</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:15:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:15:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:15:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:15:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-fashion]]></wp:post_name>
@@ -1057,7 +1128,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>summing</title>
+		<title><![CDATA[summing]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/summing-up-2020-these-posts-will-make-you-both-happy-and-sad/summing/</link>
 		<pubDate>Fri, 25 Dec 2020 08:16:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1068,6 +1139,8 @@
 		<wp:post_id>299</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:16:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:16:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:16:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:16:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[summing]]></wp:post_name>
@@ -1092,7 +1165,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>parliamentary</title>
+		<title><![CDATA[parliamentary]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/parliamentary-secretariat-refuses-to-entertain-lawmaker-ramayanas/parliamentary/</link>
 		<pubDate>Fri, 25 Dec 2020 08:24:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1103,6 +1176,8 @@
 		<wp:post_id>302</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:24:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:24:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:24:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:24:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[parliamentary]]></wp:post_name>
@@ -1127,7 +1202,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ads 970 x 90 – Large Leaderboard</title>
+		<title><![CDATA[Ads 970 x 90 – Large Leaderboard]]></title>
 		<link>https://zakrademos.com/kantipur-news/home/ads-970-x-90-large-leaderboard/</link>
 		<pubDate>Fri, 25 Dec 2020 09:10:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1138,6 +1213,8 @@
 		<wp:post_id>326</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 09:10:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 09:10:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 09:10:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 09:10:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ads-970-x-90-large-leaderboard]]></wp:post_name>
@@ -1162,7 +1239,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ads</title>
+		<title><![CDATA[Ads]]></title>
 		<link>https://zakrademos.com/kantipur-news/ads/</link>
 		<pubDate>Wed, 30 Dec 2020 10:21:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1173,6 +1250,8 @@
 		<wp:post_id>472</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:21:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:21:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:21:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:21:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ads]]></wp:post_name>
@@ -1197,7 +1276,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>campaign</title>
+		<title><![CDATA[campaign]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/clinton-campaign-to-target-biden/campaign/</link>
 		<pubDate>Wed, 30 Dec 2020 11:52:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1208,6 +1287,8 @@
 		<wp:post_id>494</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:52:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:52:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:52:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:52:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[campaign]]></wp:post_name>
@@ -1232,7 +1313,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sound</title>
+		<title><![CDATA[sound]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/never-give-up-on-what-you-deserve/sound/</link>
 		<pubDate>Mon, 04 Jan 2021 04:22:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1243,6 +1324,8 @@
 		<wp:post_id>542</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 04:22:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 04:22:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 04:22:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 04:22:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sound]]></wp:post_name>
@@ -1267,7 +1350,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>democratic-donor</title>
+		<title><![CDATA[democratic-donor]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/day-2-democratic-donor-stampede/democratic-donor/</link>
 		<pubDate>Mon, 04 Jan 2021 04:23:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1278,6 +1361,8 @@
 		<wp:post_id>543</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 04:23:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 04:23:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 04:23:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 04:23:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[democratic-donor]]></wp:post_name>
@@ -1302,7 +1387,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>celebration</title>
+		<title><![CDATA[celebration]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/new-york-festival-celebration/celebration/</link>
 		<pubDate>Mon, 04 Jan 2021 04:25:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1313,6 +1398,8 @@
 		<wp:post_id>544</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 04:25:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 04:25:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 04:25:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 04:25:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[celebration]]></wp:post_name>
@@ -1337,7 +1424,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>modeling</title>
+		<title><![CDATA[modeling]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/how-fashion-modeling-started/modeling/</link>
 		<pubDate>Mon, 04 Jan 2021 05:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1348,6 +1435,8 @@
 		<wp:post_id>552</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:07:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:07:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:07:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:07:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[modeling]]></wp:post_name>
@@ -1372,7 +1461,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>new-hair-trend</title>
+		<title><![CDATA[new-hair-trend]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/new-hairstyle-trending-right-now/new-hair-trend/</link>
 		<pubDate>Mon, 04 Jan 2021 05:09:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1383,6 +1472,8 @@
 		<wp:post_id>555</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:09:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:09:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:09:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:09:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-hair-trend]]></wp:post_name>
@@ -1407,7 +1498,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>kids-outfit</title>
+		<title><![CDATA[kids-outfit]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/101-outstanding-outfits-for-kids-2020/kids-outfit/</link>
 		<pubDate>Mon, 04 Jan 2021 05:10:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1418,6 +1509,8 @@
 		<wp:post_id>558</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:10:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:10:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:10:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:10:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kids-outfit]]></wp:post_name>
@@ -1442,7 +1535,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>weeding-look</title>
+		<title><![CDATA[weeding-look]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/a-look-at-the-wedding-in-the-girls-trailer/weeding-look/</link>
 		<pubDate>Mon, 04 Jan 2021 05:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1453,6 +1546,8 @@
 		<wp:post_id>562</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:21:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:21:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:21:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:21:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[weeding-look]]></wp:post_name>
@@ -1477,7 +1572,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>couple-style</title>
+		<title><![CDATA[couple-style]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/best-couple-style-magazine-of-2020/couple-style/</link>
 		<pubDate>Mon, 04 Jan 2021 05:22:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1488,6 +1583,8 @@
 		<wp:post_id>565</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:22:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:22:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:22:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:22:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[couple-style]]></wp:post_name>
@@ -1512,7 +1609,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>amphibious-wears</title>
+		<title><![CDATA[amphibious-wears]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/habits-for-a-healthy-lifestyle/amphibious-wears/</link>
 		<pubDate>Mon, 04 Jan 2021 05:23:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1523,6 +1620,8 @@
 		<wp:post_id>568</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:23:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:23:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:23:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:23:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[amphibious-wears]]></wp:post_name>
@@ -1547,7 +1646,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>brand-adams</title>
+		<title><![CDATA[brand-adams]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/brand-adams-sets-the-bar-at-new-york-fashion-week-for-her-next-big-album/brand-adams/</link>
 		<pubDate>Mon, 04 Jan 2021 05:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1558,6 +1657,8 @@
 		<wp:post_id>571</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:30:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:30:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:30:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:30:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[brand-adams]]></wp:post_name>
@@ -1582,7 +1683,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rock-and-roll</title>
+		<title><![CDATA[rock-and-roll]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/beginning-of-rock-and-roll/rock-and-roll/</link>
 		<pubDate>Mon, 04 Jan 2021 06:12:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1593,6 +1694,8 @@
 		<wp:post_id>575</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:12:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:12:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:12:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:12:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rock-and-roll]]></wp:post_name>
@@ -1617,7 +1720,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>concert</title>
+		<title><![CDATA[concert]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/adams-concert-arrived-1m-people/concert/</link>
 		<pubDate>Mon, 04 Jan 2021 06:13:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1628,6 +1731,8 @@
 		<wp:post_id>578</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:13:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:13:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:13:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:13:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[concert]]></wp:post_name>
@@ -1652,7 +1757,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>old-musics</title>
+		<title><![CDATA[old-musics]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/old-music-is-still-popular-among-people/old-musics/</link>
 		<pubDate>Mon, 04 Jan 2021 06:14:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1663,6 +1768,8 @@
 		<wp:post_id>581</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:14:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:14:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[old-musics]]></wp:post_name>
@@ -1687,7 +1794,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>netflix</title>
+		<title><![CDATA[netflix]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/netflix-is-getting-popular-day-by-day/netflix/</link>
 		<pubDate>Mon, 04 Jan 2021 06:15:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1698,6 +1805,8 @@
 		<wp:post_id>584</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:15:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:15:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:15:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:15:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[netflix]]></wp:post_name>
@@ -1722,7 +1831,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>theatre</title>
+		<title><![CDATA[theatre]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/best-theatre-play-held-in-the-uk/theatre/</link>
 		<pubDate>Mon, 04 Jan 2021 06:16:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1733,6 +1842,8 @@
 		<wp:post_id>587</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:16:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:16:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:16:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:16:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[theatre]]></wp:post_name>
@@ -1757,7 +1868,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>popcorn</title>
+		<title><![CDATA[popcorn]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/why-popcorn-costs-more-than-the-ticket/popcorn/</link>
 		<pubDate>Mon, 04 Jan 2021 06:18:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1768,6 +1879,8 @@
 		<wp:post_id>590</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:18:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:18:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:18:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[popcorn]]></wp:post_name>
@@ -1792,7 +1905,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>girls-trailer</title>
+		<title><![CDATA[girls-trailer]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/a-look-at-the-wedding-in-the-girls-trailer-2/girls-trailer/</link>
 		<pubDate>Mon, 04 Jan 2021 11:22:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1803,6 +1916,8 @@
 		<wp:post_id>619</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:22:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:22:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:22:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:22:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[girls-trailer]]></wp:post_name>
@@ -1827,7 +1942,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>best-fashion</title>
+		<title><![CDATA[best-fashion]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more-2/best-fashion/</link>
 		<pubDate>Mon, 18 Jan 2021 08:55:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1838,6 +1953,8 @@
 		<wp:post_id>785</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 08:55:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 08:55:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 08:55:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 08:55:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-fashion]]></wp:post_name>
@@ -1862,7 +1979,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>arnold-demare</title>
+		<title><![CDATA[arnold-demare]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/arnold-demare-wins-tour-for-wallanie/arnold-demare/</link>
 		<pubDate>Mon, 18 Jan 2021 08:58:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1873,6 +1990,8 @@
 		<wp:post_id>788</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 08:58:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 08:58:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 08:58:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 08:58:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[arnold-demare]]></wp:post_name>
@@ -1897,7 +2016,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>football-game</title>
+		<title><![CDATA[football-game]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/rules-of-an-american-football-game/football-game/</link>
 		<pubDate>Mon, 18 Jan 2021 09:01:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1908,6 +2027,8 @@
 		<wp:post_id>792</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 09:01:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 09:01:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 09:01:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 09:01:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[football-game]]></wp:post_name>
@@ -1932,7 +2053,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>surfboard</title>
+		<title><![CDATA[surfboard]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/surfboard-floated-from-hawaii-to-goa/surfboard/</link>
 		<pubDate>Mon, 18 Jan 2021 09:04:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1943,6 +2064,8 @@
 		<wp:post_id>801</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 09:04:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 09:04:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 09:04:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 09:04:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[surfboard]]></wp:post_name>
@@ -1967,7 +2090,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>man</title>
+		<title><![CDATA[man]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/man-arrested-in-scotland-protest/man/</link>
 		<pubDate>Mon, 18 Jan 2021 10:35:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1978,6 +2101,8 @@
 		<wp:post_id>869</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:35:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:35:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:35:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:35:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[man]]></wp:post_name>
@@ -2002,7 +2127,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>protest</title>
+		<title><![CDATA[protest]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/global-environment-protest/protest/</link>
 		<pubDate>Mon, 18 Jan 2021 10:40:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2013,6 +2138,8 @@
 		<wp:post_id>870</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:40:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:40:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:40:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:40:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[protest]]></wp:post_name>
@@ -2037,7 +2164,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>health</title>
+		<title><![CDATA[health]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/health/health-2/</link>
 		<pubDate>Mon, 18 Jan 2021 10:41:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2048,6 +2175,8 @@
 		<wp:post_id>871</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:41:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:41:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:41:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:41:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[health-2]]></wp:post_name>
@@ -2072,7 +2201,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fashion</title>
+		<title><![CDATA[fashion]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/fashion/fashion-2/</link>
 		<pubDate>Mon, 18 Jan 2021 10:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2083,6 +2212,8 @@
 		<wp:post_id>872</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:41:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:41:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:41:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:41:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-2]]></wp:post_name>
@@ -2107,7 +2238,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>lifestyle</title>
+		<title><![CDATA[lifestyle]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/lifestyle/lifestyle-2/</link>
 		<pubDate>Mon, 18 Jan 2021 10:42:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2118,6 +2249,8 @@
 		<wp:post_id>873</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:42:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:42:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:42:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:42:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle-2]]></wp:post_name>
@@ -2142,7 +2275,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sports</title>
+		<title><![CDATA[sports]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/sports/sports-3/</link>
 		<pubDate>Mon, 18 Jan 2021 10:42:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2153,6 +2286,8 @@
 		<wp:post_id>874</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:42:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:42:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:42:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:42:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sports-3]]></wp:post_name>
@@ -2177,7 +2312,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>automobile</title>
+		<title><![CDATA[automobile]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-frist-automobile-accident-in-ohio-city/automobile/</link>
 		<pubDate>Mon, 18 Jan 2021 10:47:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2188,6 +2323,8 @@
 		<wp:post_id>875</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:47:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:47:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:47:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:47:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[automobile]]></wp:post_name>
@@ -2212,7 +2349,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>visit-place</title>
+		<title><![CDATA[visit-place]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/must-visit-places-after-free-from-lockdown/visit-place/</link>
 		<pubDate>Mon, 18 Jan 2021 10:48:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2223,6 +2360,8 @@
 		<wp:post_id>876</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 10:48:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 10:48:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:48:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:48:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[visit-place]]></wp:post_name>
@@ -2247,7 +2386,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/kantipur-news/?elementor_library=default-kit</link>
 		<pubDate>Tue, 02 Feb 2021 14:52:43 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2258,6 +2397,8 @@
 		<wp:post_id>913</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 14:52:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 14:52:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-26 08:48:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-26 08:48:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2281,7 +2422,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#FFFFFF";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#FF0844";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:19:"Zakra Kantipur News";s:16:"site_description";s:97:"WordPress Template Site with elegant design for for News portal, Magazine site and Business News.";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#FFFFFF";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#FF0844";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Ubuntu";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:19:"Zakra Kantipur News";s:16:"site_description";s:93:"WordPress Template Site with elegant design for News portal, Magazine site and Business News.";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";i:1;s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -2293,7 +2434,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/kantipur-news/sample-page/</link>
 		<pubDate>Tue, 02 Feb 2021 06:14:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2322,6 +2463,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 06:14:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 06:14:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 06:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 06:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2337,7 +2480,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/kantipur-news/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Tue, 02 Feb 2021 06:15:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2348,6 +2491,8 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 06:15:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 06:15:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 06:15:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 06:15:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -2359,7 +2504,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/kantipur-news/</link>
 		<pubDate>Thu, 24 Dec 2020 06:37:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2637,6 +2782,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 06:37:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 06:37:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 08:22:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 08:22:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2748,7 +2895,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Kollywood Is More Diverse Than Ever. So Why Are The Ascars Still So White?</title>
+		<title><![CDATA[Kollywood Is More Diverse Than Ever. So Why Are The Ascars Still So White?]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/kollywood-is-more-diverse-than-ever-so-why-are-the-ascars-still-so-white/</link>
 		<pubDate>Thu, 24 Dec 2020 10:17:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2773,6 +2920,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:17:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:17:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:17:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:17:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kollywood-is-more-diverse-than-ever-so-why-are-the-ascars-still-so-white]]></wp:post_name>
@@ -2865,7 +3014,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Lockdown has changed my approach to socializing...</title>
+		<title><![CDATA[Lockdown has changed my approach to socializing...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/lockdown-has-changed-my-approach-to-socializing/</link>
 		<pubDate>Thu, 24 Dec 2020 10:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2886,6 +3035,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:31:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:31:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:31:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:31:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lockdown-has-changed-my-approach-to-socializing]]></wp:post_name>
@@ -2978,7 +3129,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>McMonald’s offering breakfast pancakes all day...</title>
+		<title><![CDATA[McMonald’s offering breakfast pancakes all day...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/mcmonalds-offering-breakfast-pancakes-all-day/</link>
 		<pubDate>Thu, 24 Dec 2020 10:33:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2999,6 +3150,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:33:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:33:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:33:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:33:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mcmonalds-offering-breakfast-pancakes-all-day]]></wp:post_name>
@@ -3092,7 +3245,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why stress happens and how to manage it</title>
+		<title><![CDATA[Why stress happens and how to manage it]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/why-stress-happens-and-how-to-manage-it/</link>
 		<pubDate>Thu, 24 Dec 2020 10:35:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3113,6 +3266,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:35:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:35:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:35:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:35:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-stress-happens-and-how-to-manage-it]]></wp:post_name>
@@ -3205,7 +3360,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>World’s rarest Pokemon card sells for $195,000...</title>
+		<title><![CDATA[World’s rarest Pokemon card sells for $195,000...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/worlds-rarest-pokemon-card-sells-for-195000/</link>
 		<pubDate>Thu, 24 Dec 2020 10:36:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3226,6 +3381,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 10:36:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 10:36:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:36:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:36:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[worlds-rarest-pokemon-card-sells-for-195000]]></wp:post_name>
@@ -3318,7 +3475,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Health</title>
+		<title><![CDATA[Health]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/health/</link>
 		<pubDate>Thu, 24 Dec 2020 11:22:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3339,6 +3496,8 @@
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:22:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:22:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:22:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:22:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[health]]></wp:post_name>
@@ -3431,7 +3590,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beginning of rock and roll</title>
+		<title><![CDATA[Beginning of rock and roll]]></title>
 		<link>https://zakrademos.com/kantipur-news/?p=549</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3444,6 +3603,8 @@
 		<wp:post_id>549</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:03:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:03:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -3456,7 +3617,7 @@
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/877/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3467,6 +3628,8 @@
 		<wp:post_id>877</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[877]]></wp:post_name>
@@ -3511,7 +3674,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Advertisement</title>
+		<title><![CDATA[Advertisement]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/advertisement/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3522,6 +3685,8 @@
 		<wp:post_id>878</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:04:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[advertisement]]></wp:post_name>
@@ -3566,7 +3731,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/contact/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3577,6 +3742,8 @@
 		<wp:post_id>879</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:04:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3621,7 +3788,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/880/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3632,6 +3799,8 @@
 		<wp:post_id>880</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[880]]></wp:post_name>
@@ -3676,7 +3845,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/881/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3687,6 +3856,8 @@
 		<wp:post_id>881</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[881]]></wp:post_name>
@@ -3731,7 +3902,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/882/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3742,6 +3913,8 @@
 		<wp:post_id>882</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[882]]></wp:post_name>
@@ -3786,7 +3959,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/883/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3797,6 +3970,8 @@
 		<wp:post_id>883</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[883]]></wp:post_name>
@@ -3841,7 +4016,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>More</title>
+		<title><![CDATA[More]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/more/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3852,6 +4027,8 @@
 		<wp:post_id>884</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[more]]></wp:post_name>
@@ -3896,7 +4073,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/885/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3907,6 +4084,8 @@
 		<wp:post_id>885</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[885]]></wp:post_name>
@@ -3951,7 +4130,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/02/02/886/</link>
 		<pubDate>Tue, 02 Feb 2021 07:04:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3962,6 +4141,8 @@
 		<wp:post_id>886</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-02 07:04:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-02 07:04:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-02 07:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-02 07:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[886]]></wp:post_name>
@@ -4006,7 +4187,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Politics</title>
+		<title><![CDATA[Politics]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/politics/</link>
 		<pubDate>Thu, 24 Dec 2020 11:24:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4027,6 +4208,8 @@
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:24:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:24:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[politics]]></wp:post_name>
@@ -4119,7 +4302,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fashion</title>
+		<title><![CDATA[Fashion]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/fashion/</link>
 		<pubDate>Thu, 24 Dec 2020 11:25:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4140,6 +4323,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:25:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:25:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:25:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:25:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -4232,7 +4417,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sports</title>
+		<title><![CDATA[Sports]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/sports/</link>
 		<pubDate>Thu, 24 Dec 2020 11:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4253,6 +4438,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:26:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:26:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:26:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:26:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sports]]></wp:post_name>
@@ -4345,7 +4532,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Travel</title>
+		<title><![CDATA[Travel]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/travel/</link>
 		<pubDate>Thu, 24 Dec 2020 11:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4366,6 +4553,8 @@
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:26:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:26:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:26:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:26:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
@@ -4458,7 +4647,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Lifestyle</title>
+		<title><![CDATA[Lifestyle]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/24/lifestyle/</link>
 		<pubDate>Thu, 24 Dec 2020 11:27:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4479,6 +4668,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 11:27:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 11:27:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:27:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:27:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle]]></wp:post_name>
@@ -4571,7 +4762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>World’s Frist Automobile accident in Ohio City</title>
+		<title><![CDATA[World’s Frist Automobile accident in Ohio City]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-frist-automobile-accident-in-ohio-city/</link>
 		<pubDate>Fri, 25 Dec 2020 06:10:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4584,6 +4775,8 @@
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:10:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:10:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:10:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:10:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[worlds-frist-automobile-accident-in-ohio-city]]></wp:post_name>
@@ -4677,7 +4870,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The most expensive Hourse Painting exibition</title>
+		<title><![CDATA[The most expensive Hourse Painting exibition]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/the-most-expensive-hourse-painting-exibition/</link>
 		<pubDate>Fri, 25 Dec 2020 06:12:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4690,6 +4883,8 @@
 		<wp:post_id>204</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:12:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:12:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:12:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:12:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-most-expensive-hourse-painting-exibition]]></wp:post_name>
@@ -4782,7 +4977,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New trend for Men that you must now in 2020</title>
+		<title><![CDATA[New trend for Men that you must now in 2020]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/new-trend-for-men-that-you-must-now-in-2020/</link>
 		<pubDate>Fri, 25 Dec 2020 06:14:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4795,6 +4990,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:14:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:14:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:14:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:14:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-trend-for-men-that-you-must-now-in-2020]]></wp:post_name>
@@ -4887,7 +5084,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Must visit places after free from Lockdown</title>
+		<title><![CDATA[Must visit places after free from Lockdown]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/must-visit-places-after-free-from-lockdown/</link>
 		<pubDate>Fri, 25 Dec 2020 06:15:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4900,6 +5097,8 @@
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:15:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:15:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:15:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:15:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[must-visit-places-after-free-from-lockdown]]></wp:post_name>
@@ -4993,7 +5192,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>World’s Most Exclusive Private Island Resorts</title>
+		<title><![CDATA[World’s Most Exclusive Private Island Resorts]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-most-exclusive-private-island-resorts/</link>
 		<pubDate>Fri, 25 Dec 2020 06:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5006,6 +5205,8 @@
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:16:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:16:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:16:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:16:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[worlds-most-exclusive-private-island-resorts]]></wp:post_name>
@@ -5099,7 +5300,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>World’s rarest Pokemon card sells for $105,000...</title>
+		<title><![CDATA[World’s rarest Pokemon card sells for $105,000...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/worlds-rarest-pokemon-card-sells-for-105000/</link>
 		<pubDate>Fri, 25 Dec 2020 06:17:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5112,6 +5313,8 @@
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 06:17:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 06:17:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 06:17:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 06:17:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[worlds-rarest-pokemon-card-sells-for-105000]]></wp:post_name>
@@ -5204,7 +5407,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Michelle Lara is the honest friend America ...</title>
+		<title><![CDATA[Michelle Lara is the honest friend America ...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/michelle-lara-is-the-honest-friend-america/</link>
 		<pubDate>Fri, 25 Dec 2020 07:11:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5225,6 +5428,8 @@
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:11:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:11:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:11:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:11:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michelle-lara-is-the-honest-friend-america]]></wp:post_name>
@@ -5317,7 +5522,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Obama lays out a stark choice for voters in his...</title>
+		<title><![CDATA[Obama lays out a stark choice for voters in his...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/obama-lays-out-a-stark-choice-for-voters-in-his/</link>
 		<pubDate>Fri, 25 Dec 2020 07:12:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5338,6 +5543,8 @@
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:12:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:12:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:12:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:12:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[obama-lays-out-a-stark-choice-for-voters-in-his]]></wp:post_name>
@@ -5431,7 +5638,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How many Corona deaths is Nepal missing?</title>
+		<title><![CDATA[How many Corona deaths is Nepal missing?]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/how-many-corona-deaths-is-nepal-missing/</link>
 		<pubDate>Fri, 25 Dec 2020 07:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5456,6 +5663,8 @@
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:23:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:23:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:23:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:23:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-many-corona-deaths-is-nepal-missing]]></wp:post_name>
@@ -5548,7 +5757,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Coronavirus summer travel and safety tips, recipe...</title>
+		<title><![CDATA[Coronavirus summer travel and safety tips, recipe...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/coronavirus-summer-travel-and-safety-tips-recipe/</link>
 		<pubDate>Fri, 25 Dec 2020 07:41:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5569,6 +5778,8 @@
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:41:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:41:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:41:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:41:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[coronavirus-summer-travel-and-safety-tips-recipe]]></wp:post_name>
@@ -5662,7 +5873,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Silver State Killer faces surviving victims during...</title>
+		<title><![CDATA[Silver State Killer faces surviving victims during...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/silver-state-killer-faces-surviving-victims-during/</link>
 		<pubDate>Fri, 25 Dec 2020 07:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5683,6 +5894,8 @@
 		<wp:post_id>252</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:41:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:41:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:41:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:41:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[silver-state-killer-faces-surviving-victims-during]]></wp:post_name>
@@ -5776,7 +5989,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>10 Symptoms of rich social media hygiene</title>
+		<title><![CDATA[10 Symptoms of rich social media hygiene]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/10-symptoms-of-rich-social-media-hygiene/</link>
 		<pubDate>Fri, 25 Dec 2020 07:55:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5797,6 +6010,8 @@
 		<wp:post_id>273</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:55:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:55:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:55:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:55:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[10-symptoms-of-rich-social-media-hygiene]]></wp:post_name>
@@ -5889,7 +6104,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook moves to COVID-19 consequences theories with warnings</title>
+		<title><![CDATA[Facebook moves to COVID-19 consequences theories with warnings]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/facebook-moves-to-covid-19-consequences-theories-with-warnings/</link>
 		<pubDate>Fri, 25 Dec 2020 07:56:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5910,6 +6125,8 @@
 		<wp:post_id>276</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:56:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:56:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:56:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:56:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-moves-to-covid-19-consequences-theories-with-warnings]]></wp:post_name>
@@ -6007,7 +6224,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The giant tortoise who helped save species retires in Galapagos Islands</title>
+		<title><![CDATA[The giant tortoise who helped save species retires in Galapagos Islands]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/giant-tortoise-who-helped-save-species-retires-in-galapagos-islands/</link>
 		<pubDate>Fri, 25 Dec 2020 07:57:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6028,6 +6245,8 @@
 		<wp:post_id>279</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:57:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:57:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:57:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:57:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[giant-tortoise-who-helped-save-species-retires-in-galapagos-islands]]></wp:post_name>
@@ -6120,7 +6339,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Kata Kaira halts in-person classes as 186 students get coronavirus</title>
+		<title><![CDATA[Kata Kaira halts in-person classes as 186 students get coronavirus]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/kata-kaira-halts-in-person-classes-as-186-students-get-coronavirus/</link>
 		<pubDate>Fri, 25 Dec 2020 07:58:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6141,6 +6360,8 @@
 		<wp:post_id>283</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 07:58:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 07:58:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 07:58:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 07:58:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kata-kaira-halts-in-person-classes-as-186-students-get-coronavirus]]></wp:post_name>
@@ -6233,7 +6454,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best Fashion Instagram of the Week: Paal, Kat, Jenifer, and More</title>
+		<title><![CDATA[The Best Fashion Instagram of the Week: Paal, Kat, Jenifer, and More]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more/</link>
 		<pubDate>Fri, 25 Dec 2020 08:16:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6254,6 +6475,8 @@
 		<wp:post_id>295</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:16:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:16:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:16:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:16:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more]]></wp:post_name>
@@ -6346,7 +6569,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Summing Up 2020: These posts will make you both happy and sad</title>
+		<title><![CDATA[Summing Up 2020: These posts will make you both happy and sad]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/summing-up-2020-these-posts-will-make-you-both-happy-and-sad/</link>
 		<pubDate>Fri, 25 Dec 2020 08:17:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6367,6 +6590,8 @@
 		<wp:post_id>298</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:17:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:17:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:17:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:17:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[summing-up-2020-these-posts-will-make-you-both-happy-and-sad]]></wp:post_name>
@@ -6459,7 +6684,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Parliamentary Secretariat refuses to entertain lawmaker Ramayana’s...</title>
+		<title><![CDATA[Parliamentary Secretariat refuses to entertain lawmaker Ramayana’s...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/25/parliamentary-secretariat-refuses-to-entertain-lawmaker-ramayanas/</link>
 		<pubDate>Fri, 25 Dec 2020 08:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6480,6 +6705,8 @@
 		<wp:post_id>301</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 08:24:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 08:24:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 08:24:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 08:24:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[parliamentary-secretariat-refuses-to-entertain-lawmaker-ramayanas]]></wp:post_name>
@@ -6572,7 +6799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Never give up on what you deserve</title>
+		<title><![CDATA[Never give up on what you deserve]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/never-give-up-on-what-you-deserve/</link>
 		<pubDate>Wed, 30 Dec 2020 11:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6597,6 +6824,8 @@
 		<wp:post_id>478</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:43:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:43:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:43:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:43:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[never-give-up-on-what-you-deserve]]></wp:post_name>
@@ -6689,7 +6918,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Day 2: Democratic donor stampede</title>
+		<title><![CDATA[Day 2: Democratic donor stampede]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/day-2-democratic-donor-stampede/</link>
 		<pubDate>Wed, 30 Dec 2020 11:44:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6714,6 +6943,8 @@
 		<wp:post_id>481</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:44:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:44:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:44:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:44:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[day-2-democratic-donor-stampede]]></wp:post_name>
@@ -6806,7 +7037,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Global environment protest</title>
+		<title><![CDATA[Global environment protest]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/global-environment-protest/</link>
 		<pubDate>Wed, 30 Dec 2020 11:46:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6831,6 +7062,8 @@
 		<wp:post_id>484</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:46:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:46:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:46:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:46:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[global-environment-protest]]></wp:post_name>
@@ -6923,7 +7156,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Man arrested in Scotland protest</title>
+		<title><![CDATA[Man arrested in Scotland protest]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/man-arrested-in-scotland-protest/</link>
 		<pubDate>Wed, 30 Dec 2020 11:48:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6948,6 +7181,8 @@
 		<wp:post_id>487</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:48:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:48:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:48:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:48:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[man-arrested-in-scotland-protest]]></wp:post_name>
@@ -7040,7 +7275,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New York Festival Celebration</title>
+		<title><![CDATA[New York Festival Celebration]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/new-york-festival-celebration/</link>
 		<pubDate>Wed, 30 Dec 2020 11:50:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7065,6 +7300,8 @@
 		<wp:post_id>490</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:50:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:50:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:50:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:50:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-york-festival-celebration]]></wp:post_name>
@@ -7157,7 +7394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Clinton campaign to target Biden</title>
+		<title><![CDATA[Clinton campaign to target Biden]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/clinton-campaign-to-target-biden/</link>
 		<pubDate>Wed, 30 Dec 2020 11:52:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7182,6 +7419,8 @@
 		<wp:post_id>493</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:52:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:52:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:52:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:52:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clinton-campaign-to-target-biden]]></wp:post_name>
@@ -7274,7 +7513,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Parliamentary Secretariat refuses to entertain lawmaker Ramayana’s application seeking explanation for...</title>
+		<title><![CDATA[Parliamentary Secretariat refuses to entertain lawmaker Ramayana’s application seeking explanation for...]]></title>
 		<link>https://zakrademos.com/kantipur-news/2020/12/30/parliamentary-secretariat-refuses-to-entertain-lawmaker-ramayanas-application-seeking-explanation-for/</link>
 		<pubDate>Wed, 30 Dec 2020 11:53:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7299,6 +7538,8 @@
 		<wp:post_id>496</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:53:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:53:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:53:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:53:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[parliamentary-secretariat-refuses-to-entertain-lawmaker-ramayanas-application-seeking-explanation-for]]></wp:post_name>
@@ -7391,7 +7632,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How fashion modeling started</title>
+		<title><![CDATA[How fashion modeling started]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/how-fashion-modeling-started/</link>
 		<pubDate>Mon, 04 Jan 2021 05:07:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7416,6 +7657,8 @@
 		<wp:post_id>550</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:07:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:07:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:07:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:07:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-fashion-modeling-started]]></wp:post_name>
@@ -7508,7 +7751,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New hairstyle trending right now</title>
+		<title><![CDATA[New hairstyle trending right now]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/new-hairstyle-trending-right-now/</link>
 		<pubDate>Mon, 04 Jan 2021 05:09:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7533,6 +7776,8 @@
 		<wp:post_id>554</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:09:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:09:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:09:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:09:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-hairstyle-trending-right-now]]></wp:post_name>
@@ -7625,7 +7870,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>101 Outstanding outfits for Kids 2020</title>
+		<title><![CDATA[101 Outstanding outfits for Kids 2020]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/101-outstanding-outfits-for-kids-2020/</link>
 		<pubDate>Mon, 04 Jan 2021 05:10:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7650,6 +7895,8 @@
 		<wp:post_id>557</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:10:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:10:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:10:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:10:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[101-outstanding-outfits-for-kids-2020]]></wp:post_name>
@@ -7742,7 +7989,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>A look at the wedding in the Girls Trailer</title>
+		<title><![CDATA[A look at the wedding in the Girls Trailer]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/a-look-at-the-wedding-in-the-girls-trailer/</link>
 		<pubDate>Mon, 04 Jan 2021 05:21:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7767,6 +8014,8 @@
 		<wp:post_id>561</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:21:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:21:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:21:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:21:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-look-at-the-wedding-in-the-girls-trailer]]></wp:post_name>
@@ -7860,7 +8109,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best couple style magazine of 2020</title>
+		<title><![CDATA[Best couple style magazine of 2020]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/best-couple-style-magazine-of-2020/</link>
 		<pubDate>Mon, 04 Jan 2021 05:22:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7885,6 +8134,8 @@
 		<wp:post_id>564</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:22:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:22:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:22:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:22:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-couple-style-magazine-of-2020]]></wp:post_name>
@@ -7978,7 +8229,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Habits for a healthy lifestyle</title>
+		<title><![CDATA[Habits for a healthy lifestyle]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/habits-for-a-healthy-lifestyle/</link>
 		<pubDate>Mon, 04 Jan 2021 05:23:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8003,6 +8254,8 @@
 		<wp:post_id>567</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:23:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:23:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:23:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:23:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[habits-for-a-healthy-lifestyle]]></wp:post_name>
@@ -8096,7 +8349,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Brand Adams sets the bar at New York Fashion Week for her next big album</title>
+		<title><![CDATA[Brand Adams sets the bar at New York Fashion Week for her next big album]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/brand-adams-sets-the-bar-at-new-york-fashion-week-for-her-next-big-album/</link>
 		<pubDate>Mon, 04 Jan 2021 05:30:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8121,6 +8374,8 @@
 		<wp:post_id>570</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 05:30:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 05:30:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 05:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 05:30:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[brand-adams-sets-the-bar-at-new-york-fashion-week-for-her-next-big-album]]></wp:post_name>
@@ -8214,7 +8469,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beginning of rock and roll</title>
+		<title><![CDATA[Beginning of rock and roll]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/beginning-of-rock-and-roll/</link>
 		<pubDate>Mon, 04 Jan 2021 06:12:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8239,6 +8494,8 @@
 		<wp:post_id>574</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:12:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:12:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:12:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:12:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beginning-of-rock-and-roll]]></wp:post_name>
@@ -8331,7 +8588,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Adam’s Concert arrived 1M people</title>
+		<title><![CDATA[Adam’s Concert arrived 1M people]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/adams-concert-arrived-1m-people/</link>
 		<pubDate>Mon, 04 Jan 2021 06:13:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8356,6 +8613,8 @@
 		<wp:post_id>577</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:13:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:13:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:13:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:13:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adams-concert-arrived-1m-people]]></wp:post_name>
@@ -8448,7 +8707,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Old music is still popular among people</title>
+		<title><![CDATA[Old music is still popular among people]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/old-music-is-still-popular-among-people/</link>
 		<pubDate>Mon, 04 Jan 2021 06:14:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8473,6 +8732,8 @@
 		<wp:post_id>580</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:14:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:14:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:14:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:14:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[old-music-is-still-popular-among-people]]></wp:post_name>
@@ -8565,7 +8826,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Netflix is getting popular day by day</title>
+		<title><![CDATA[Netflix is getting popular day by day]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/netflix-is-getting-popular-day-by-day/</link>
 		<pubDate>Mon, 04 Jan 2021 06:15:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8590,6 +8851,8 @@
 		<wp:post_id>583</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:15:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:15:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:15:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:15:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[netflix-is-getting-popular-day-by-day]]></wp:post_name>
@@ -8682,7 +8945,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best theatre play held in the UK</title>
+		<title><![CDATA[Best theatre play held in the UK]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/best-theatre-play-held-in-the-uk/</link>
 		<pubDate>Mon, 04 Jan 2021 06:17:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8707,6 +8970,8 @@
 		<wp:post_id>586</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:17:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:17:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:17:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:17:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-theatre-play-held-in-the-uk]]></wp:post_name>
@@ -8799,7 +9064,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why popcorn costs more than the ticket</title>
+		<title><![CDATA[Why popcorn costs more than the ticket]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/why-popcorn-costs-more-than-the-ticket/</link>
 		<pubDate>Mon, 04 Jan 2021 06:18:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8824,6 +9089,8 @@
 		<wp:post_id>589</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:18:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:18:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:18:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:18:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-popcorn-costs-more-than-the-ticket]]></wp:post_name>
@@ -8916,7 +9183,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best Fashion Instagram of the Week: Paal, Kat, Jenifer and More</title>
+		<title><![CDATA[The Best Fashion Instagram of the Week: Paal, Kat, Jenifer and More]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more-2/</link>
 		<pubDate>Mon, 04 Jan 2021 06:19:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8941,6 +9208,8 @@
 		<wp:post_id>592</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:19:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:19:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:19:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:19:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-fashion-instagram-of-the-week-paal-kat-jenifer-and-more-2]]></wp:post_name>
@@ -9033,7 +9302,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How fashion modeling started</title>
+		<title><![CDATA[How fashion modeling started]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/how-fashion-modeling-started-2/</link>
 		<pubDate>Mon, 04 Jan 2021 11:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9058,6 +9327,8 @@
 		<wp:post_id>612</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:19:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-fashion-modeling-started-2]]></wp:post_name>
@@ -9150,7 +9421,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New hairstyle trending right now</title>
+		<title><![CDATA[New hairstyle trending right now]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/new-hairstyle-trending-right-now-2/</link>
 		<pubDate>Mon, 04 Jan 2021 11:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9175,6 +9446,8 @@
 		<wp:post_id>614</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:20:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:20:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:20:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-hairstyle-trending-right-now-2]]></wp:post_name>
@@ -9267,7 +9540,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>101 Outstanding outfits for Kids 2020</title>
+		<title><![CDATA[101 Outstanding outfits for Kids 2020]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/101-outstanding-outfits-for-kids-2020-2/</link>
 		<pubDate>Mon, 04 Jan 2021 11:21:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9292,6 +9565,8 @@
 		<wp:post_id>616</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:21:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:21:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:21:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:21:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[101-outstanding-outfits-for-kids-2020-2]]></wp:post_name>
@@ -9384,7 +9659,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beautiful Asian wears</title>
+		<title><![CDATA[Beautiful Asian wears]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/a-look-at-the-wedding-in-the-girls-trailer-2/</link>
 		<pubDate>Mon, 04 Jan 2021 11:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9409,6 +9684,8 @@
 		<wp:post_id>618</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:22:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:22:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:22:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:22:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-look-at-the-wedding-in-the-girls-trailer-2]]></wp:post_name>
@@ -9501,7 +9778,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>American couple wears</title>
+		<title><![CDATA[American couple wears]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/best-couple-style-magazine-of-2020-2/</link>
 		<pubDate>Mon, 04 Jan 2021 11:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9526,6 +9803,8 @@
 		<wp:post_id>621</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:23:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-couple-style-magazine-of-2020-2]]></wp:post_name>
@@ -9618,7 +9897,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Rise amphibious wears</title>
+		<title><![CDATA[Rise amphibious wears]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/04/rise-of-amphibious-wears/</link>
 		<pubDate>Mon, 04 Jan 2021 11:24:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9643,6 +9922,8 @@
 		<wp:post_id>623</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 11:24:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 11:24:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 11:24:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 11:24:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rise-of-amphibious-wears]]></wp:post_name>
@@ -9735,7 +10016,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Arnold Demare wins tour for Wallanie</title>
+		<title><![CDATA[Arnold Demare wins tour for Wallanie]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/arnold-demare-wins-tour-for-wallanie/</link>
 		<pubDate>Mon, 18 Jan 2021 08:57:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9756,6 +10037,8 @@
 		<wp:post_id>786</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 08:57:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 08:57:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 08:57:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 08:57:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[arnold-demare-wins-tour-for-wallanie]]></wp:post_name>
@@ -9848,7 +10131,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Rules of an American football game</title>
+		<title><![CDATA[Rules of an American football game]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/rules-of-an-american-football-game/</link>
 		<pubDate>Mon, 18 Jan 2021 09:01:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9869,6 +10152,8 @@
 		<wp:post_id>791</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 09:01:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 09:01:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 09:01:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 09:01:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rules-of-an-american-football-game]]></wp:post_name>
@@ -9961,7 +10246,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Surfboard floated from Hawaii to Goa</title>
+		<title><![CDATA[Surfboard floated from Hawaii to Goa]]></title>
 		<link>https://zakrademos.com/kantipur-news/2021/01/18/surfboard-floated-from-hawaii-to-goa/</link>
 		<pubDate>Mon, 18 Jan 2021 09:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9982,6 +10267,8 @@
 		<wp:post_id>800</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 09:05:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 09:05:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 09:05:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 09:05:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[surfboard-floated-from-hawaii-to-goa]]></wp:post_name>
