@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.1" created="2021-02-17 07:36" -->
+	<!-- generator="WordPress/5.9.3" created="2022-04-19 12:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Fashion blog</title>
 	<link>https://themegrilldemos.com/spacious-fashion-blog</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Wed, 17 Feb 2021 07:36:40 +0000</pubDate>
+	<pubDate>Tue, 19 Apr 2022 12:03:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themegrilldemos.com/</wp:base_site_url>
+	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://themegrilldemos.com/spacious-fashion-blog</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[demoteam]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[ThemeGrill Team]]></wp:author_display_name><wp:author_first_name><![CDATA[ThemeGrill]]></wp:author_first_name><wp:author_last_name><![CDATA[Team]]></wp:author_last_name></wp:author>
@@ -69,11 +69,25 @@
 		<wp:term_name><![CDATA[About]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Blog]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>5</wp:term_id>
@@ -90,11 +104,25 @@
 		<wp:term_name><![CDATA[Home]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[main]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Main]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[spacious]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[spacious]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>1</wp:term_id>
@@ -108,10 +136,10 @@
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Wed, 17 Feb 2021 05:02:32 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -122,6 +150,8 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:02:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:02:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:02:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:02:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -133,7 +163,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/25/</link>
 		<pubDate>Wed, 17 Feb 2021 05:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -144,6 +174,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[25]]></wp:post_name>
@@ -188,77 +220,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/street-style-trend-tracker/attachment/2/</link>
-		<pubDate>Wed, 10 Feb 2021 09:03:05 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 09:03:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 09:03:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>33</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/2.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"2-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"2-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"2-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"2-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"2-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.241536116302504;s:5:"bytes";i:6086;s:11:"size_before";i:116111;s:10:"size_after";i:110025;s:4:"time";d:0.12;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.52;s:5:"bytes";i:599;s:11:"size_before";i:7962;s:10:"size_after";i:7363;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:11.48;s:5:"bytes";i:684;s:11:"size_before";i:5960;s:10:"size_after";i:5276;s:4:"time";d:0.02;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.29;s:5:"bytes";i:1919;s:11:"size_before";i:44737;s:10:"size_after";i:42818;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.24;s:5:"bytes";i:1008;s:11:"size_before";i:16162;s:10:"size_after";i:15154;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.38;s:5:"bytes";i:985;s:11:"size_before";i:29128;s:10:"size_after";i:28143;s:4:"time";d:0.03;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.33;s:5:"bytes";i:891;s:11:"size_before";i:12162;s:10:"size_after";i:11271;s:4:"time";d:0.03;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>4</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/brighten-up-your-week-with-these-20-items/attachment/4/</link>
-		<pubDate>Wed, 10 Feb 2021 10:36:29 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 10:36:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 10:36:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>48</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/4.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/4.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"4-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"4-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"4-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"4-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"4-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.878764704708832;s:5:"bytes";i:4329;s:11:"size_before";i:150377;s:10:"size_after";i:146048;s:4:"time";d:0.30000000000000004;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.05;s:5:"bytes";i:605;s:11:"size_before";i:11970;s:10:"size_after";i:11365;s:4:"time";d:0.02;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:8.57;s:5:"bytes";i:765;s:11:"size_before";i:8929;s:10:"size_after";i:8164;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:1.33;s:5:"bytes";i:679;s:11:"size_before";i:50918;s:10:"size_after";i:50239;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:3.8;s:5:"bytes";i:842;s:11:"size_before";i:22149;s:10:"size_after";i:21307;s:4:"time";d:0.22;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:1.39;s:5:"bytes";i:542;s:11:"size_before";i:38964;s:10:"size_after";i:38422;s:4:"time";d:0.02;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:5.14;s:5:"bytes";i:896;s:11:"size_before";i:17447;s:10:"size_after";i:16551;s:4:"time";d:0.01;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/?post_type=everest_form&#038;p=60</link>
 		<pubDate>Wed, 10 Feb 2021 11:43:37 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -269,6 +231,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 11:43:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:43:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 11:43:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 11:43:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -280,7 +244,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/?post_type=everest_form&#038;p=61</link>
 		<pubDate>Wed, 10 Feb 2021 11:44:17 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -291,6 +255,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 11:44:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:44:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 11:44:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 11:44:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -302,7 +268,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>About Us</title>
+		<title><![CDATA[About Us]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/about-us/</link>
 		<pubDate>Wed, 17 Feb 2021 05:09:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -313,6 +279,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:09:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -357,7 +325,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/63/</link>
 		<pubDate>Wed, 17 Feb 2021 05:09:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -368,6 +336,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:09:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -412,7 +382,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/64/</link>
 		<pubDate>Wed, 17 Feb 2021 05:09:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -423,6 +393,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:09:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[64]]></wp:post_name>
@@ -467,7 +439,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>spacious</title>
+		<title><![CDATA[spacious]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/spacious/</link>
 		<pubDate>Thu, 11 Feb 2021 04:54:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -483,6 +455,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-11 04:54:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-11 04:54:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:13:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:13:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[spacious]]></wp:post_name>
@@ -494,7 +468,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>1</title>
+		<title><![CDATA[1]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/1-2/</link>
 		<pubDate>Thu, 11 Feb 2021 06:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -505,6 +479,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-11 06:23:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-11 06:23:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-11 06:23:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-11 06:23:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1-2]]></wp:post_name>
@@ -529,7 +505,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/103/</link>
 		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -540,6 +516,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[103]]></wp:post_name>
@@ -584,287 +562,457 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>5</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/attachment/5/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:29 +0000</pubDate>
+		<title><![CDATA[About Us]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/about-us-2/</link>
+		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/5.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/about-us-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>104</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[5]]></wp:post_name>
+		<wp:post_name><![CDATA[about-us-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/105/</link>
+		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[105]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/106/</link>
+		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:09:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[106]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/120/</link>
+		<pubDate>Wed, 17 Feb 2021 05:17:25 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/?p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-17 05:17:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[120]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Emma jackson]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/emma-jackson/</link>
+		<pubDate>Tue, 19 Apr 2022 11:56:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/Emma-jackson.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 11:56:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 11:56:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:56:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:56:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[emma-jackson]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>81</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/Emma-jackson.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/5.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/Emma-jackson.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/5.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"5-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"5-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"5-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"5-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"5-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:24:"2021/02/Emma-jackson.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:24:"Emma-jackson-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"Emma-jackson-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:24:"Emma-jackson-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:24:"Emma-jackson-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:24:"Emma-jackson-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:24:"Emma-jackson-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.462694691524501;s:5:"bytes";i:5598;s:11:"size_before";i:161666;s:10:"size_after";i:156068;s:4:"time";d:0.24;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.87;s:5:"bytes";i:735;s:11:"size_before";i:12522;s:10:"size_after";i:11787;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:8.76;s:5:"bytes";i:690;s:11:"size_before";i:7876;s:10:"size_after";i:7186;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:2.5;s:5:"bytes";i:1567;s:11:"size_before";i:62711;s:10:"size_after";i:61144;s:4:"time";d:0.03;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:4.19;s:5:"bytes";i:836;s:11:"size_before";i:19942;s:10:"size_after";i:19106;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:2.31;s:5:"bytes";i:1000;s:11:"size_before";i:43277;s:10:"size_after";i:42277;s:4:"time";d:0.15;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:5.02;s:5:"bytes";i:770;s:11:"size_before";i:15338;s:10:"size_after";i:14568;s:4:"time";d:0.03;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:0.26171547084094615;s:5:"bytes";i:265;s:11:"size_before";i:101255;s:10:"size_after";i:100990;s:4:"time";d:0.14;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:8682;s:10:"size_after";i:8682;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:5487;s:10:"size_after";i:5487;s:4:"time";d:0.02;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:31374;s:10:"size_after";i:31374;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:0.46;s:5:"bytes";i:66;s:11:"size_before";i:14299;s:10:"size_after";i:14233;s:4:"time";d:0.02;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:0.63;s:5:"bytes";i:193;s:11:"size_before";i:30404;s:10:"size_after";i:30211;s:4:"time";d:0.06;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:0.05;s:5:"bytes";i:6;s:11:"size_before";i:11009;s:10:"size_after";i:11003;s:4:"time";d:0.01;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>5</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/5-2/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:29 +0000</pubDate>
+		<title><![CDATA[fall collections]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/12-takeaways-from-the-pre-fall-2021-collections/fall-collections/</link>
+		<pubDate>Tue, 19 Apr 2022 11:57:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/5-1.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/fall-collections.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>127</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 11:57:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 11:57:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:57:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:57:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-2]]></wp:post_name>
+		<wp:post_name><![CDATA[fall-collections]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
+		<wp:post_parent>78</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/5-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/fall-collections.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/5-1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/fall-collections.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:15:"2021/02/5-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:15:"5-1-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:15:"5-1-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:15:"5-1-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:15:"5-1-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:15:"5-1-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:28:"2021/02/fall-collections.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:28:"fall-collections-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"fall-collections-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:28:"fall-collections-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:28:"fall-collections-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:28:"fall-collections-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:28:"fall-collections-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.462694691524501;s:5:"bytes";i:5598;s:11:"size_before";i:161666;s:10:"size_after";i:156068;s:4:"time";d:0.18;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.87;s:5:"bytes";i:735;s:11:"size_before";i:12522;s:10:"size_after";i:11787;s:4:"time";d:0.07;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:8.76;s:5:"bytes";i:690;s:11:"size_before";i:7876;s:10:"size_after";i:7186;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:2.5;s:5:"bytes";i:1567;s:11:"size_before";i:62711;s:10:"size_after";i:61144;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:4.19;s:5:"bytes";i:836;s:11:"size_before";i:19942;s:10:"size_after";i:19106;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:2.31;s:5:"bytes";i:1000;s:11:"size_before";i:43277;s:10:"size_after";i:42277;s:4:"time";d:0.02;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:5.02;s:5:"bytes";i:770;s:11:"size_before";i:15338;s:10:"size_after";i:14568;s:4:"time";d:0.05;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:1.3475637034264272;s:5:"bytes";i:1476;s:11:"size_before";i:109531;s:10:"size_after";i:108055;s:4:"time";d:0.10999999999999999;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:1.11;s:5:"bytes";i:108;s:11:"size_before";i:9757;s:10:"size_after";i:9649;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:0.3;s:5:"bytes";i:19;s:11:"size_before";i:6432;s:10:"size_after";i:6413;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:0.21;s:5:"bytes";i:72;s:11:"size_before";i:33563;s:10:"size_after";i:33491;s:4:"time";d:0.03;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:1.88;s:5:"bytes";i:298;s:11:"size_before";i:15812;s:10:"size_after";i:15514;s:4:"time";d:0.04;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:2.49;s:5:"bytes";i:785;s:11:"size_before";i:31552;s:10:"size_after";i:30767;s:4:"time";d:0.01;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:1.56;s:5:"bytes";i:194;s:11:"size_before";i:12415;s:10:"size_after";i:12221;s:4:"time";d:0.01;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>6</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/attachment/6/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:31 +0000</pubDate>
+		<title><![CDATA[brighten]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/brighten-up-your-week-with-these-20-items/brighten/</link>
+		<pubDate>Tue, 19 Apr 2022 11:58:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/6.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/brighten.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>129</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 11:58:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 11:58:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:58:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:58:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6]]></wp:post_name>
+		<wp:post_name><![CDATA[brighten]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
+		<wp:post_parent>48</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/brighten.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/6.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/brighten.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/6.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"6-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"6-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"6-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"6-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"6-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:20:"2021/02/brighten.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:20:"brighten-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"brighten-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:20:"brighten-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:20:"brighten-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:20:"brighten-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:20:"brighten-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.903569240735395;s:5:"bytes";i:6964;s:11:"size_before";i:142019;s:10:"size_after";i:135055;s:4:"time";d:0.22999999999999998;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.3;s:5:"bytes";i:838;s:11:"size_before";i:11479;s:10:"size_after";i:10641;s:4:"time";d:0.02;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:10.3;s:5:"bytes";i:733;s:11:"size_before";i:7118;s:10:"size_after";i:6385;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:3.76;s:5:"bytes";i:2023;s:11:"size_before";i:53832;s:10:"size_after";i:51809;s:4:"time";d:0.08;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.1;s:5:"bytes";i:1054;s:11:"size_before";i:17287;s:10:"size_after";i:16233;s:4:"time";d:0.08;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.52;s:5:"bytes";i:1370;s:11:"size_before";i:38905;s:10:"size_after";i:37535;s:4:"time";d:0.02;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.06;s:5:"bytes";i:946;s:11:"size_before";i:13398;s:10:"size_after";i:12452;s:4:"time";d:0.02;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:0.30604286574590545;s:5:"bytes";i:310;s:11:"size_before";i:101293;s:10:"size_after";i:100983;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:8640;s:10:"size_after";i:8640;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:6344;s:10:"size_after";i:6344;s:4:"time";d:0.05;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:28698;s:10:"size_after";i:28698;s:4:"time";d:0.06;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:1.01;s:5:"bytes";i:163;s:11:"size_before";i:16190;s:10:"size_after";i:16027;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:0.1;s:5:"bytes";i:30;s:11:"size_before";i:28636;s:10:"size_after";i:28606;s:4:"time";d:0.01;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:0.92;s:5:"bytes";i:117;s:11:"size_before";i:12785;s:10:"size_after";i:12668;s:4:"time";d:0.02;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>6</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/6-2/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:31 +0000</pubDate>
+		<title><![CDATA[clothes]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/no-normal-clothes-the-mens-fall-2021-collections/clothes/</link>
+		<pubDate>Tue, 19 Apr 2022 11:59:26 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/6-1.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/clothes.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>113</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>131</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 11:59:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 11:59:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:59:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:59:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6-2]]></wp:post_name>
+		<wp:post_name><![CDATA[clothes]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
+		<wp:post_parent>45</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/6-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/clothes.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/6-1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/clothes.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:15:"2021/02/6-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:15:"6-1-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"6-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:15:"6-1-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:15:"6-1-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:15:"6-1-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:15:"6-1-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:19:"2021/02/clothes.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:19:"clothes-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"clothes-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:19:"clothes-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:19:"clothes-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:19:"clothes-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:19:"clothes-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.903569240735395;s:5:"bytes";i:6964;s:11:"size_before";i:142019;s:10:"size_after";i:135055;s:4:"time";d:0.15;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.3;s:5:"bytes";i:838;s:11:"size_before";i:11479;s:10:"size_after";i:10641;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:10.3;s:5:"bytes";i:733;s:11:"size_before";i:7118;s:10:"size_after";i:6385;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:3.76;s:5:"bytes";i:2023;s:11:"size_before";i:53832;s:10:"size_after";i:51809;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.1;s:5:"bytes";i:1054;s:11:"size_before";i:17287;s:10:"size_after";i:16233;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.52;s:5:"bytes";i:1370;s:11:"size_before";i:38905;s:10:"size_after";i:37535;s:4:"time";d:0.08;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.06;s:5:"bytes";i:946;s:11:"size_before";i:13398;s:10:"size_after";i:12452;s:4:"time";d:0.02;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:0.9365148049700192;s:5:"bytes";i:909;s:11:"size_before";i:97062;s:10:"size_after";i:96153;s:4:"time";d:0.12;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:0.34;s:5:"bytes";i:29;s:11:"size_before";i:8435;s:10:"size_after";i:8406;s:4:"time";d:0.03;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:5144;s:10:"size_after";i:5144;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:31466;s:10:"size_after";i:31466;s:4:"time";d:0.03;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:1.6;s:5:"bytes";i:207;s:11:"size_before";i:12951;s:10:"size_after";i:12744;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:1.83;s:5:"bytes";i:530;s:11:"size_before";i:28994;s:10:"size_after";i:28464;s:4:"time";d:0.01;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:1.42;s:5:"bytes";i:143;s:11:"size_before";i:10072;s:10:"size_after";i:9929;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>7</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/attachment/7/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:32 +0000</pubDate>
+		<title><![CDATA[shows]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/the-best-street-style-at-the-spring-2021-couture-shows-in-england/shows/</link>
+		<pubDate>Tue, 19 Apr 2022 12:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/7.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/shows.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>133</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 12:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 12:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 12:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 12:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[7]]></wp:post_name>
+		<wp:post_name><![CDATA[shows]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
+		<wp:post_parent>30</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/shows.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/7.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/shows.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/7.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"7-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"7-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"7-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"7-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"7-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:17:"2021/02/shows.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:17:"shows-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"shows-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:17:"shows-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:17:"shows-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:17:"shows-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:17:"shows-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.987738186518976;s:5:"bytes";i:7871;s:11:"size_before";i:157807;s:10:"size_after";i:149936;s:4:"time";d:0.5;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.41;s:5:"bytes";i:963;s:11:"size_before";i:12994;s:10:"size_after";i:12031;s:4:"time";d:0.08;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:9.71;s:5:"bytes";i:837;s:11:"size_before";i:8620;s:10:"size_after";i:7783;s:4:"time";d:0.02;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.24;s:5:"bytes";i:2420;s:11:"size_before";i:57023;s:10:"size_after";i:54603;s:4:"time";d:0.22;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:5.14;s:5:"bytes";i:1079;s:11:"size_before";i:20991;s:10:"size_after";i:19912;s:4:"time";d:0.03;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.81;s:5:"bytes";i:1594;s:11:"size_before";i:41804;s:10:"size_after";i:40210;s:4:"time";d:0.14;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:5.97;s:5:"bytes";i:978;s:11:"size_before";i:16375;s:10:"size_after";i:15397;s:4:"time";d:0.01;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.368000772772644;s:5:"bytes";i:6276;s:11:"size_before";i:186342;s:10:"size_after";i:180066;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:4.38;s:5:"bytes";i:660;s:11:"size_before";i:15072;s:10:"size_after";i:14412;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:2.83;s:5:"bytes";i:225;s:11:"size_before";i:7953;s:10:"size_after";i:7728;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:1.65;s:5:"bytes";i:1100;s:11:"size_before";i:66678;s:10:"size_after";i:65578;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:4.07;s:5:"bytes";i:907;s:11:"size_before";i:22289;s:10:"size_after";i:21382;s:4:"time";d:0.09;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:4.63;s:5:"bytes";i:2656;s:11:"size_before";i:57351;s:10:"size_after";i:54695;s:4:"time";d:0.02;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:4.28;s:5:"bytes";i:728;s:11:"size_before";i:16999;s:10:"size_after";i:16271;s:4:"time";d:0.01;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>7</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/7-2/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:32 +0000</pubDate>
+		<title><![CDATA[trend tracker]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/street-style-trend-tracker/trend-tracker/</link>
+		<pubDate>Tue, 19 Apr 2022 12:01:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/7-1.jpg</guid>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/trend-tracker.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>115</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>135</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 12:01:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 12:01:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 12:01:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 12:01:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[7-2]]></wp:post_name>
+		<wp:post_name><![CDATA[trend-tracker]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
+		<wp:post_parent>33</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/7-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/trend-tracker.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/7-1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/02/trend-tracker.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:15:"2021/02/7-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:15:"7-1-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"7-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:15:"7-1-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:15:"7-1-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:15:"7-1-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:15:"7-1-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:25:"2021/02/trend-tracker.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:25:"trend-tracker-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"trend-tracker-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:25:"trend-tracker-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:25:"trend-tracker-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:25:"trend-tracker-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:25:"trend-tracker-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.987738186518976;s:5:"bytes";i:7871;s:11:"size_before";i:157807;s:10:"size_after";i:149936;s:4:"time";d:0.22;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.41;s:5:"bytes";i:963;s:11:"size_before";i:12994;s:10:"size_after";i:12031;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:9.71;s:5:"bytes";i:837;s:11:"size_before";i:8620;s:10:"size_after";i:7783;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.24;s:5:"bytes";i:2420;s:11:"size_before";i:57023;s:10:"size_after";i:54603;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:5.14;s:5:"bytes";i:1079;s:11:"size_before";i:20991;s:10:"size_after";i:19912;s:4:"time";d:0.04;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.81;s:5:"bytes";i:1594;s:11:"size_before";i:41804;s:10:"size_after";i:40210;s:4:"time";d:0.08;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:5.97;s:5:"bytes";i:978;s:11:"size_before";i:16375;s:10:"size_after";i:15397;s:4:"time";d:0.06;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.241536116302504;s:5:"bytes";i:6086;s:11:"size_before";i:116111;s:10:"size_after";i:110025;s:4:"time";d:0.13;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.52;s:5:"bytes";i:599;s:11:"size_before";i:7962;s:10:"size_after";i:7363;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:11.48;s:5:"bytes";i:684;s:11:"size_before";i:5960;s:10:"size_after";i:5276;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.29;s:5:"bytes";i:1919;s:11:"size_before";i:44737;s:10:"size_after";i:42818;s:4:"time";d:0.02;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.24;s:5:"bytes";i:1008;s:11:"size_before";i:16162;s:10:"size_after";i:15154;s:4:"time";d:0.01;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:3.38;s:5:"bytes";i:985;s:11:"size_before";i:29128;s:10:"size_after";i:28143;s:4:"time";d:0.05;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.33;s:5:"bytes";i:891;s:11:"size_before";i:12162;s:10:"size_after";i:11271;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>8</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/attachment/8/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:34 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/8.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>116</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[8]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/8.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/8.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:13:"2021/02/8.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:13:"8-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:13:"8-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:13:"8-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:13:"8-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:13:"8-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.549979964634823;s:5:"bytes";i:15097;s:11:"size_before";i:272019;s:10:"size_after";i:256922;s:4:"time";d:0.43000000000000005;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.38;s:5:"bytes";i:1517;s:11:"size_before";i:20558;s:10:"size_after";i:19041;s:4:"time";d:0.06;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:9.88;s:5:"bytes";i:1044;s:11:"size_before";i:10568;s:10:"size_after";i:9524;s:4:"time";d:0.2;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.74;s:5:"bytes";i:5323;s:11:"size_before";i:112338;s:10:"size_after";i:107015;s:4:"time";d:0.05;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.33;s:5:"bytes";i:1842;s:11:"size_before";i:29089;s:10:"size_after";i:27247;s:4:"time";d:0.06;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:4.9;s:5:"bytes";i:3797;s:11:"size_before";i:77490;s:10:"size_after";i:73693;s:4:"time";d:0.03;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.16;s:5:"bytes";i:1574;s:11:"size_before";i:21976;s:10:"size_after";i:20402;s:4:"time";d:0.03;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>8</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/8-2/</link>
-		<pubDate>Thu, 11 Feb 2021 07:53:34 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/8-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-11 07:53:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-11 07:53:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[8-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>81</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/spacious-fashion-blog/wp-content/uploads/sites/147/2021/02/8-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/02/8-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:350;s:4:"file";s:15:"2021/02/8-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:15:"8-1-300x140.jpg";s:5:"width";i:300;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"8-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"featured-blog-large";a:4:{s:4:"file";s:15:"8-1-750x350.jpg";s:5:"width";i:750;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}s:20:"featured-blog-medium";a:4:{s:4:"file";s:15:"8-1-270x270.jpg";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:8:"featured";a:4:{s:4:"file";s:15:"8-1-642x300.jpg";s:5:"width";i:642;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:26:"featured-blog-medium-small";a:4:{s:4:"file";s:15:"8-1-230x230.jpg";s:5:"width";i:230;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.549979964634823;s:5:"bytes";i:15097;s:11:"size_before";i:272019;s:10:"size_after";i:256922;s:4:"time";d:0.54;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:6:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.38;s:5:"bytes";i:1517;s:11:"size_before";i:20558;s:10:"size_after";i:19041;s:4:"time";d:0.08;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:9.88;s:5:"bytes";i:1044;s:11:"size_before";i:10568;s:10:"size_after";i:9524;s:4:"time";d:0.01;}s:19:"featured-blog-large";O:8:"stdClass":5:{s:7:"percent";d:4.74;s:5:"bytes";i:5323;s:11:"size_before";i:112338;s:10:"size_after";i:107015;s:4:"time";d:0.08;}s:20:"featured-blog-medium";O:8:"stdClass":5:{s:7:"percent";d:6.33;s:5:"bytes";i:1842;s:11:"size_before";i:29089;s:10:"size_after";i:27247;s:4:"time";d:0.02;}s:8:"featured";O:8:"stdClass":5:{s:7:"percent";d:4.9;s:5:"bytes";i:3797;s:11:"size_before";i:77490;s:10:"size_after";i:73693;s:4:"time";d:0.04;}s:26:"featured-blog-medium-small";O:8:"stdClass":5:{s:7:"percent";d:7.16;s:5:"bytes";i:1574;s:11:"size_before";i:21976;s:10:"size_after";i:20402;s:4:"time";d:0.31;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/sample-page/</link>
 		<pubDate>Wed, 17 Feb 2021 04:54:26 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -893,6 +1041,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 04:54:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 04:54:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 04:54:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 04:54:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -908,182 +1058,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/home__trashed/</link>
-		<pubDate>Wed, 29 Jul 2015 13:44:44 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://spacious-fashion-blog-demo.sites.qsandbox.com/?page_id=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to your test/sandbox site from <strong><a href="//qSandbox.com">qSandbox.com</a></strong>
-
-Play with it, experiment, share it with friends, clients etc.
-If you run into an issue with the service do <a href="//qsandbox.com/app/contact.php" target="_blank" rel="noopener">contact us</a> so we can look into it ASAP.
-
-When you need more resources feel free to check the <a href="//qsandbox.com/app/pricing.php" target="_blank" rel="noopener">upgrade page</a> and get more test sites and disk space.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[home__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612959017]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612959017]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blog</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/blog__trashed/</link>
-		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://spacious-fashion-blog-demo.sites.qsandbox.com/?page_id=11</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612960353]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[blog]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612960353]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[blog]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About Us</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/about-us__trashed/</link>
-		<pubDate>Wed, 10 Feb 2021 07:44:42 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://spacious-fashion-blog-demo.sites.qsandbox.com/?page_id=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 07:44:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 07:44:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612959163]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[about-us]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612959163]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[about-us]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/contact/</link>
 		<pubDate>Wed, 10 Feb 2021 07:45:12 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1112,6 +1087,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 07:45:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 07:45:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:45:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:45:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1139,7 +1116,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best Street Style at the Spring 2021 Couture Shows in England</title>
+		<title><![CDATA[The Best Street Style at the Spring 2021 Couture Shows in England]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/the-best-street-style-at-the-spring-2021-couture-shows-in-england/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:34 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1272,6 +1249,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 08:09:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 12:00:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 12:00:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-street-style-at-the-spring-2021-couture-shows-in-england]]></wp:post_name>
@@ -1292,14 +1271,6 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[117]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1309,15 +1280,11 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[117]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[133]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Street Style Trend Tracker</title>
+		<title><![CDATA[Street Style Trend Tracker]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/street-style-trend-tracker/</link>
 		<pubDate>Wed, 10 Feb 2021 08:11:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1450,6 +1417,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 08:11:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:11:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 12:01:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 12:01:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[street-style-trend-tracker]]></wp:post_name>
@@ -1461,8 +1430,12 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1474,19 +1447,15 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>No Normal Clothes: The Men’s Fall 2021 Collections</title>
+		<title><![CDATA[No Normal Clothes: The Men’s Fall 2021 Collections]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/no-normal-clothes-the-mens-fall-2021-collections/</link>
 		<pubDate>Wed, 10 Feb 2021 10:30:56 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1567,6 +1536,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 10:30:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 10:30:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:59:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:59:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[no-normal-clothes-the-mens-fall-2021-collections]]></wp:post_name>
@@ -1587,10 +1558,6 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[112]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1600,11 +1567,11 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[112]]></wp:meta_value>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Brighten Up Your Week With These 20 Items</title>
+		<title><![CDATA[Brighten Up Your Week With These 20 Items]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/10/brighten-up-your-week-with-these-20-items/</link>
 		<pubDate>Wed, 10 Feb 2021 10:36:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1677,6 +1644,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-10 10:36:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 10:36:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[brighten-up-your-week-with-these-20-items]]></wp:post_name>
@@ -1690,8 +1659,12 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="category" nicename="home"><![CDATA[Home]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1703,19 +1676,11 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[spacious_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		<wp:meta_value><![CDATA[129]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>12 Takeaways From the Pre-Fall 2021 Collections</title>
+		<title><![CDATA[12 Takeaways From the Pre-Fall 2021 Collections]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/12-takeaways-from-the-pre-fall-2021-collections/</link>
 		<pubDate>Thu, 11 Feb 2021 04:31:00 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1808,6 +1773,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-11 04:31:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-11 04:31:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:58:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:58:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[12-takeaways-from-the-pre-fall-2021-collections]]></wp:post_name>
@@ -1828,10 +1795,6 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[114]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1841,11 +1804,11 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[114]]></wp:meta_value>
+		<wp:meta_value><![CDATA[127]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Emma Jackson Delivers Super Bowl Style With a Twist</title>
+		<title><![CDATA[Emma Jackson Delivers Super Bowl Style With a Twist]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/11/emma-jackson-delivers-super-bowl-style-with-a-twist/</link>
 		<pubDate>Thu, 11 Feb 2021 04:35:19 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1954,6 +1917,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-11 04:35:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-11 04:35:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:56:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:56:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[emma-jackson-delivers-super-bowl-style-with-a-twist]]></wp:post_name>
@@ -1973,10 +1938,6 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1986,231 +1947,11 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About Us</title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/about-us-2/</link>
-		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/about-us-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>104</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/105/</link>
-		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>105</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[105]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/106/</link>
-		<pubDate>Wed, 17 Feb 2021 05:09:53 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>106</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-17 05:09:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-17 05:09:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[106]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/120/</link>
-		<pubDate>Wed, 17 Feb 2021 05:17:25 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/?p=120</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-17 05:17:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[120]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/121/</link>
 		<pubDate>Wed, 17 Feb 2021 05:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2221,6 +1962,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:17:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[121]]></wp:post_name>
@@ -2265,7 +2008,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/122/</link>
 		<pubDate>Wed, 17 Feb 2021 05:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2276,6 +2019,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:17:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[122]]></wp:post_name>
@@ -2320,7 +2065,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/spacious-fashion-blog/2021/02/17/123/</link>
 		<pubDate>Wed, 17 Feb 2021 05:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2331,6 +2076,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-17 05:17:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-17 05:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-17 05:17:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[123]]></wp:post_name>
@@ -2374,6 +2121,31 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://themegrilldemos.com/spacious-fashion-blog/2022/04/19/wp-global-styles-spacious/</link>
+		<pubDate>Tue, 19 Apr 2022 11:53:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/spacious-fashion-blog/2022/04/19/wp-global-styles-spacious/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-19 11:53:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-04-19 11:53:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-19 11:53:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-19 11:53:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-spacious]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="spacious"><![CDATA[spacious]]></category>
+						</item>
 				</channel>
 </rss>
 	
