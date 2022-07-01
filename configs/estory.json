@@ -1,0 +1,36 @@
+{
+    "name": "eStory",
+    "slug": "estory",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "estory-default": {
+        "title": "eStory",
+        "preview": "https://themegrilldemos.com/estory",
+        "description": "A Full Site Editing WordPress Theme",
+        "template": [
+          "estory"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "core_options": {
+          "blogname": "eStory"         
+        }
+        
+      }
+    }
+  }
+  
