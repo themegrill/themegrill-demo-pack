@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-12-24 13:23" -->
+	<!-- generator="WordPress/6.0" created="2022-07-11 05:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Construction</title>
 	<link>https://zakrademos.com/construction</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Thu, 24 Dec 2020 13:23:18 +0000</pubDate>
+	<pubDate>Mon, 11 Jul 2022 05:49:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/construction</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -62,7 +83,7 @@
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[useful-pages]]></wp:term_slug><wp:term_name><![CDATA[Useful Pages]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://zakrademos.com/construction/wp-content/uploads/sites/14/2020/07/zakra.png</url>
@@ -73,7 +94,7 @@
 </image> 
 
 		<item>
-		<title>team_3.jpg</title>
+		<title><![CDATA[team_3.jpg]]></title>
 		<link>https://zakrademos.com/construction/team_3-jpg/</link>
 		<pubDate>Sat, 02 Feb 2019 17:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -84,6 +105,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 17:04:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-02 17:04:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team_3-jpg]]></wp:post_name>
@@ -116,7 +139,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>25388788904_72d2f5ec6f_z.jpg</title>
+		<title><![CDATA[25388788904_72d2f5ec6f_z.jpg]]></title>
 		<link>https://zakrademos.com/construction/25388788904_72d2f5ec6f_z-jpg/</link>
 		<pubDate>Sat, 02 Feb 2019 17:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -127,6 +150,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 17:04:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-02 17:04:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[25388788904_72d2f5ec6f_z-jpg]]></wp:post_name>
@@ -159,7 +184,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team_4.jpg</title>
+		<title><![CDATA[team_4.jpg]]></title>
 		<link>https://zakrademos.com/construction/team_4-jpg/</link>
 		<pubDate>Sat, 02 Feb 2019 17:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -170,6 +195,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 17:04:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-02 17:04:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team_4-jpg]]></wp:post_name>
@@ -202,7 +229,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team_2.jpg</title>
+		<title><![CDATA[team_2.jpg]]></title>
 		<link>https://zakrademos.com/construction/team_2-jpg/</link>
 		<pubDate>Sat, 02 Feb 2019 17:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -213,6 +240,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 17:04:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-02 17:04:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-02 17:04:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team_2-jpg]]></wp:post_name>
@@ -245,7 +274,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_1-1.png</title>
+		<title><![CDATA[logo_1-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_1-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -256,6 +285,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_1-1-png]]></wp:post_name>
@@ -288,7 +319,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_2-1.png</title>
+		<title><![CDATA[logo_2-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_2-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -299,6 +330,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_2-1-png]]></wp:post_name>
@@ -331,7 +364,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_3-1.png</title>
+		<title><![CDATA[logo_3-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_3-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -342,6 +375,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_3-1-png]]></wp:post_name>
@@ -374,7 +409,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_4-1.png</title>
+		<title><![CDATA[logo_4-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_4-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -385,6 +420,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_4-1-png]]></wp:post_name>
@@ -417,7 +454,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_5-1.png</title>
+		<title><![CDATA[logo_5-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_5-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -428,6 +465,8 @@
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_5-1-png]]></wp:post_name>
@@ -460,7 +499,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_6-1.png</title>
+		<title><![CDATA[logo_6-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_6-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -471,6 +510,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_6-1-png]]></wp:post_name>
@@ -503,7 +544,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo_7-1.png</title>
+		<title><![CDATA[logo_7-1.png]]></title>
 		<link>https://zakrademos.com/construction/logo_7-1-png/</link>
 		<pubDate>Tue, 05 Feb 2019 08:40:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -514,6 +555,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 08:40:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 08:40:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 08:40:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo_7-1-png]]></wp:post_name>
@@ -546,7 +589,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra-construction</title>
+		<title><![CDATA[zakra-construction]]></title>
 		<link>https://zakrademos.com/construction/zakra-construction/</link>
 		<pubDate>Tue, 05 Feb 2019 17:25:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -557,6 +600,8 @@
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-05 17:25:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-05 17:25:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-05 17:25:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-05 17:25:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction]]></wp:post_name>
@@ -589,7 +634,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Town-construction</title>
+		<title><![CDATA[Town-construction]]></title>
 		<link>https://zakrademos.com/construction/?attachment_id=661</link>
 		<pubDate>Wed, 13 Feb 2019 05:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -600,6 +645,8 @@
 		<wp:post_id>661</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 05:25:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 05:25:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 05:25:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 05:25:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[town-construction]]></wp:post_name>
@@ -624,7 +671,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project-resort</title>
+		<title><![CDATA[project-resort]]></title>
 		<link>https://zakrademos.com/construction/?attachment_id=671</link>
 		<pubDate>Wed, 13 Feb 2019 05:56:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -635,6 +682,8 @@
 		<wp:post_id>671</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 05:56:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 05:56:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 05:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 05:56:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project-resort]]></wp:post_name>
@@ -667,7 +716,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dozer1</title>
+		<title><![CDATA[dozer1]]></title>
 		<link>https://zakrademos.com/construction/home/dozer1/</link>
 		<pubDate>Wed, 03 Jul 2019 10:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -678,6 +727,8 @@
 		<wp:post_id>843</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-03 10:29:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-03 10:29:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-03 10:29:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-03 10:29:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dozer1]]></wp:post_name>
@@ -702,7 +753,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bridge (580 by 332)</title>
+		<title><![CDATA[bridge (580 by 332)]]></title>
 		<link>https://zakrademos.com/construction/home/bridge-580-by-332/</link>
 		<pubDate>Wed, 23 Oct 2019 04:30:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -713,6 +764,8 @@
 		<wp:post_id>923</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:30:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:30:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:32:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:32:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bridge-580-by-332]]></wp:post_name>
@@ -737,7 +790,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>colony (580 by 332)</title>
+		<title><![CDATA[colony (580 by 332)]]></title>
 		<link>https://zakrademos.com/construction/home/colony-580-by-332/</link>
 		<pubDate>Wed, 23 Oct 2019 04:31:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -748,6 +801,8 @@
 		<wp:post_id>924</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:31:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:31:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:32:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:32:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[colony-580-by-332]]></wp:post_name>
@@ -772,7 +827,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bridge (808 by 462)</title>
+		<title><![CDATA[bridge (808 by 462)]]></title>
 		<link>https://zakrademos.com/construction/2019/02/06/state-of-the-art-minimal-bridge/bridge-808-by-462-2/</link>
 		<pubDate>Wed, 23 Oct 2019 04:34:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -783,6 +838,8 @@
 		<wp:post_id>927</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:34:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:34:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:35:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:35:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bridge-808-by-462-2]]></wp:post_name>
@@ -807,7 +864,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>colony (808 by 462)</title>
+		<title><![CDATA[colony (808 by 462)]]></title>
 		<link>https://zakrademos.com/construction/2019/02/06/new-colony-homes-built-in-peaceful-area-just-outside-the-city/colony-800-by-462/</link>
 		<pubDate>Wed, 23 Oct 2019 04:35:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -818,6 +875,8 @@
 		<wp:post_id>929</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:35:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:35:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:36:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:36:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[colony-800-by-462]]></wp:post_name>
@@ -842,7 +901,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project-tower</title>
+		<title><![CDATA[project-tower]]></title>
 		<link>https://zakrademos.com/construction/home/project-tower-3/</link>
 		<pubDate>Wed, 23 Oct 2019 04:49:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -853,6 +912,8 @@
 		<wp:post_id>933</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:49:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:49:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:49:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:49:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project-tower-3]]></wp:post_name>
@@ -877,7 +938,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/construction/2019/02/02/zakra/</link>
 		<pubDate>Sat, 02 Feb 2019 15:09:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -893,6 +954,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 15:09:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 15:09:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:21:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:21:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -904,7 +967,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Zakra Construction - Team section</title>
+		<title><![CDATA[Zakra Construction - Team section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-team</link>
 		<pubDate>Wed, 06 Feb 2019 16:45:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -955,6 +1018,8 @@
 		<wp:post_id>446</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 16:45:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 16:45:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:18:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:18:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-team]]></wp:post_name>
@@ -991,7 +1056,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Services section</title>
+		<title><![CDATA[Zakra Construction - Services section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-services</link>
 		<pubDate>Thu, 07 Feb 2019 06:11:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1013,6 +1078,8 @@
 		<wp:post_id>518</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-07 06:11:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-07 06:11:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-07 06:11:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-07 06:11:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-services]]></wp:post_name>
@@ -1049,7 +1116,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Pricing section</title>
+		<title><![CDATA[Zakra Construction - Pricing section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-pricing</link>
 		<pubDate>Mon, 11 Feb 2019 18:16:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1121,6 +1188,8 @@
 		<wp:post_id>547</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-11 18:16:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-11 18:16:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-11 18:16:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-11 18:16:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-pricing]]></wp:post_name>
@@ -1157,7 +1226,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Single Project page</title>
+		<title><![CDATA[Zakra Construction - Single Project page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-single-project</link>
 		<pubDate>Tue, 12 Feb 2019 08:39:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1206,6 +1275,8 @@
 		<wp:post_id>583</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 08:39:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 08:39:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:16:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:16:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-single-project]]></wp:post_name>
@@ -1242,7 +1313,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Projects section</title>
+		<title><![CDATA[Zakra Construction - Projects section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-projects</link>
 		<pubDate>Tue, 12 Feb 2019 08:50:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1264,6 +1335,8 @@
 		<wp:post_id>587</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 08:50:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 08:50:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:14:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:14:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-projects]]></wp:post_name>
@@ -1300,7 +1373,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Testimonials section</title>
+		<title><![CDATA[Zakra Construction - Testimonials section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-testimonials</link>
 		<pubDate>Tue, 12 Feb 2019 08:51:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1320,6 +1393,8 @@
 		<wp:post_id>590</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 08:51:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 08:51:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:13:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:13:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-testimonials]]></wp:post_name>
@@ -1356,7 +1431,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Clients section</title>
+		<title><![CDATA[Zakra Construction - Clients section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-clients</link>
 		<pubDate>Tue, 12 Feb 2019 08:54:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1368,6 +1443,8 @@
 		<wp:post_id>593</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 08:54:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 08:54:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:12:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:12:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-clients]]></wp:post_name>
@@ -1404,7 +1481,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Achievements/Counters section</title>
+		<title><![CDATA[Zakra Construction - Achievements/Counters section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-achievements-counters</link>
 		<pubDate>Tue, 12 Feb 2019 08:55:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1425,6 +1502,8 @@
 		<wp:post_id>596</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 08:55:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 08:55:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-12 08:55:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-12 08:55:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-achievements-counters]]></wp:post_name>
@@ -1461,7 +1540,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Team page</title>
+		<title><![CDATA[Zakra Construction - Team page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-team-page</link>
 		<pubDate>Tue, 12 Feb 2019 09:24:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1594,6 +1673,8 @@
 		<wp:post_id>615</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 09:24:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 09:24:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:12:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:12:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-team-page]]></wp:post_name>
@@ -1630,7 +1711,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Front page</title>
+		<title><![CDATA[Zakra Construction - Front page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-front-page</link>
 		<pubDate>Tue, 12 Feb 2019 10:36:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1810,6 +1891,8 @@
 		<wp:post_id>625</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 10:36:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 10:36:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:10:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:10:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-front-page]]></wp:post_name>
@@ -1846,7 +1929,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - About page</title>
+		<title><![CDATA[Zakra Construction - About page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-about-page</link>
 		<pubDate>Tue, 12 Feb 2019 11:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1913,6 +1996,8 @@
 		<wp:post_id>647</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 11:02:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 11:02:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:06:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:06:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-about-page]]></wp:post_name>
@@ -1949,7 +2034,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>midtown-church</title>
+		<title><![CDATA[midtown-church]]></title>
 		<link>https://zakrademos.com/construction/home/midtown-church/</link>
 		<pubDate>Wed, 23 Oct 2019 04:50:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1960,6 +2045,8 @@
 		<wp:post_id>934</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:50:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:50:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:50:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:50:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[midtown-church]]></wp:post_name>
@@ -1984,7 +2071,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project-hotel</title>
+		<title><![CDATA[project-hotel]]></title>
 		<link>https://zakrademos.com/construction/home/project-hotel-2/</link>
 		<pubDate>Wed, 23 Oct 2019 04:50:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1995,6 +2082,8 @@
 		<wp:post_id>935</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-23 04:50:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-23 04:50:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:50:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:50:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project-hotel-2]]></wp:post_name>
@@ -2019,7 +2108,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Front Page</title>
+		<title><![CDATA[Zakra Construction - Front Page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-front-page-2</link>
 		<pubDate>Fri, 15 Nov 2019 10:43:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2199,6 +2288,8 @@
 		<wp:post_id>939</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 10:43:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 10:43:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 10:43:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 10:43:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-front-page-2]]></wp:post_name>
@@ -2235,7 +2326,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Single Project Page</title>
+		<title><![CDATA[Zakra Construction - Single Project Page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-single-project-page</link>
 		<pubDate>Fri, 15 Nov 2019 10:45:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2284,6 +2375,8 @@
 		<wp:post_id>942</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 10:45:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 10:45:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 10:45:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 10:45:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-single-project-page]]></wp:post_name>
@@ -2320,7 +2413,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Team Page</title>
+		<title><![CDATA[Zakra Construction - Team Page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-team-page-2</link>
 		<pubDate>Fri, 15 Nov 2019 10:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2453,6 +2546,8 @@
 		<wp:post_id>945</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 10:47:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 10:47:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 10:47:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 10:47:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-team-page-2]]></wp:post_name>
@@ -2489,7 +2584,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - About Page</title>
+		<title><![CDATA[Zakra Construction - About Page]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-about-page-2</link>
 		<pubDate>Fri, 15 Nov 2019 10:48:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2556,6 +2651,8 @@
 		<wp:post_id>948</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 10:48:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 10:48:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 10:48:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 10:48:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-about-page-2]]></wp:post_name>
@@ -2592,7 +2689,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Banner Section</title>
+		<title><![CDATA[Zakra Construction - Banner Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-banner-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2610,6 +2707,8 @@
 		<wp:post_id>951</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:02:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:02:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:02:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:02:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-banner-section]]></wp:post_name>
@@ -2646,7 +2745,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/construction/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:10:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2657,6 +2756,8 @@
 		<wp:post_id>1015</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:10:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:10:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:10:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:10:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -2677,7 +2778,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/construction/?post_type=everest_form&#038;p=386</link>
 		<pubDate>Wed, 06 Feb 2019 15:28:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2688,6 +2789,8 @@
 		<wp:post_id>386</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 15:28:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 15:28:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -2699,7 +2802,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/construction/?post_type=everest_form&#038;p=708</link>
 		<pubDate>Wed, 13 Feb 2019 10:54:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2710,6 +2813,8 @@
 		<wp:post_id>708</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 10:54:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 10:54:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 05:02:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 05:02:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-3]]></wp:post_name>
@@ -2721,7 +2826,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>PAGES</title>
+		<title><![CDATA[PAGES]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/pages/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2732,6 +2837,8 @@
 		<wp:post_id>844</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pages]]></wp:post_name>
@@ -2776,7 +2883,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Projects</title>
+		<title><![CDATA[Home - Projects]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-projects/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2787,6 +2894,8 @@
 		<wp:post_id>845</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-projects]]></wp:post_name>
@@ -2831,7 +2940,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Services</title>
+		<title><![CDATA[Home - Services]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-services/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2842,6 +2951,8 @@
 		<wp:post_id>846</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-services]]></wp:post_name>
@@ -2886,7 +2997,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Team</title>
+		<title><![CDATA[Home - Team]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-team/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2897,6 +3008,8 @@
 		<wp:post_id>847</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-team]]></wp:post_name>
@@ -2941,7 +3054,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Testimonials</title>
+		<title><![CDATA[Home - Testimonials]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-testimonials/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2952,6 +3065,8 @@
 		<wp:post_id>848</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-testimonials]]></wp:post_name>
@@ -2996,7 +3111,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Happy Clients</title>
+		<title><![CDATA[Home - Happy Clients]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-happy-clients/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3007,6 +3122,8 @@
 		<wp:post_id>849</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-happy-clients]]></wp:post_name>
@@ -3051,7 +3168,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Achievements</title>
+		<title><![CDATA[Home - Achievements]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-achievements/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3062,6 +3179,8 @@
 		<wp:post_id>851</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-achievements]]></wp:post_name>
@@ -3106,7 +3225,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Banner Section</title>
+		<title><![CDATA[Zakra Construction - Banner Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-banner-section-2</link>
 		<pubDate>Fri, 15 Nov 2019 11:02:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3124,6 +3243,8 @@
 		<wp:post_id>954</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:02:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:02:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:02:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:02:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-banner-section-2]]></wp:post_name>
@@ -3160,7 +3281,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Services</title>
+		<title><![CDATA[Zakra Construction - Services]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-services-2</link>
 		<pubDate>Fri, 15 Nov 2019 11:03:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3182,6 +3303,8 @@
 		<wp:post_id>957</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:03:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:03:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:03:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:03:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-services-2]]></wp:post_name>
@@ -3218,7 +3341,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Projects Section</title>
+		<title><![CDATA[Zakra Construction - Projects Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-projects-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:04:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3240,6 +3363,8 @@
 		<wp:post_id>960</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:04:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:04:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:04:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:04:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-projects-section]]></wp:post_name>
@@ -3276,7 +3401,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Team Section</title>
+		<title><![CDATA[Zakra Construction - Team Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-team-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:04:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3327,6 +3452,8 @@
 		<wp:post_id>963</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:04:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:04:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:04:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:04:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-team-section]]></wp:post_name>
@@ -3363,7 +3490,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Clients Section</title>
+		<title><![CDATA[Zakra Construction - Clients Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-clients-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:05:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3383,6 +3510,8 @@
 		<wp:post_id>966</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:05:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:05:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:05:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:05:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-clients-section]]></wp:post_name>
@@ -3419,7 +3548,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Pricing Section</title>
+		<title><![CDATA[Zakra Construction - Pricing Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-pricing-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:06:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3491,6 +3620,8 @@
 		<wp:post_id>969</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:06:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:06:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:06:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:06:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-pricing-section]]></wp:post_name>
@@ -3527,7 +3658,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Happy Cients Section</title>
+		<title><![CDATA[Zakra Construction - Happy Cients Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-happy-cients-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:07:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3539,6 +3670,8 @@
 		<wp:post_id>972</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:07:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:07:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:07:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:07:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-happy-cients-section]]></wp:post_name>
@@ -3575,7 +3708,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Achievements Section</title>
+		<title><![CDATA[Zakra Construction - Achievements Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-achievements-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:08:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3596,6 +3729,8 @@
 		<wp:post_id>975</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:08:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:08:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:08:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:08:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-achievements-section]]></wp:post_name>
@@ -3632,7 +3767,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - About Intro Section</title>
+		<title><![CDATA[Zakra Construction - About Intro Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-about-intro-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:19:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3645,6 +3780,8 @@
 		<wp:post_id>981</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:19:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:19:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:19:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:19:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-about-intro-section]]></wp:post_name>
@@ -3681,7 +3818,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction - Single Project Description Section</title>
+		<title><![CDATA[Zakra Construction - Single Project Description Section]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=zakra-construction-single-project-description-section</link>
 		<pubDate>Fri, 15 Nov 2019 11:22:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3729,6 +3866,8 @@
 		<wp:post_id>984</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 11:22:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 11:22:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 11:22:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 11:22:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-single-project-description-section]]></wp:post_name>
@@ -3765,7 +3904,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/construction/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 06:59:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3776,6 +3915,8 @@
 		<wp:post_id>1011</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 06:59:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 06:59:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 06:59:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 06:59:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -3799,7 +3940,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/construction/</link>
 		<pubDate>Sat, 02 Feb 2019 15:11:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3981,6 +4122,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-02 15:11:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-02 15:11:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:54:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:54:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4048,7 +4191,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New Resort Being Built with Modern Technology</title>
+		<title><![CDATA[New Resort Being Built with Modern Technology]]></title>
 		<link>https://zakrademos.com/construction/2019/02/06/new-resort-being-built-with-modern-technology/</link>
 		<pubDate>Wed, 06 Feb 2019 10:52:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4075,6 +4218,8 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		<wp:post_id>329</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 10:52:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 10:52:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-06 10:52:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-06 10:52:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-resort-being-built-with-modern-technology]]></wp:post_name>
@@ -4119,7 +4264,7 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/construction/blog/</link>
 		<pubDate>Wed, 06 Feb 2019 10:52:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4130,6 +4275,8 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		<wp:post_id>331</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 10:52:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 10:52:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-06 10:52:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-06 10:52:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -4165,21 +4312,21 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/construction/contact/</link>
 		<pubDate>Wed, 06 Feb 2019 15:29:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">http://concerned-coyote.w5.wpsandbox.pro/?page_id=387</guid>
 		<description></description>
-		<content:encoded><![CDATA[This contact form is created using <a href="https://wpeverest.com/wordpress-plugins/everest-forms/" target="_blank" rel="noopener noreferrer">Everest Forms</a>. To download this contact form plugin click <a href="https://downloads.wordpress.org/plugin/everest-forms.zip" rel="nofollow">here</a>.
+		<content:encoded><![CDATA[This contact form is created using <a href="https://wordpress.org/plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>. To download this contact form plugin click <a href="https://downloads.wordpress.org/plugin/everest-forms.zip" rel="nofollow">here</a>.
 
-This contact form is just for demo purpose. If you have any theme related support questions, please put your query in our support forum <a href="http://themegrill.com/support-forum/" target="_blank" rel="noopener noreferrer">http://themegrill.com/support-forum/</a>.
-And if you have any theme related sales questions or if you just want to say hello, please send your message via our contact page <a href="http://themegrill.com/contact/" target="_blank" rel="noopener noreferrer">http://themegrill.com/contact/</a>.
 [everest_form id="386"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>387</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 15:29:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 15:29:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 05:43:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 05:43:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -4213,9 +4360,17 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Our Team</title>
+		<title><![CDATA[Our Team]]></title>
 		<link>https://zakrademos.com/construction/our-team/</link>
 		<pubDate>Wed, 06 Feb 2019 16:46:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4369,6 +4524,8 @@ Google-plus
 		<wp:post_id>449</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 16:46:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 16:46:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:58:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:58:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team]]></wp:post_name>
@@ -4428,51 +4585,57 @@ Google-plus
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single Project</title>
+		<title><![CDATA[Single Project]]></title>
 		<link>https://zakrademos.com/construction/single-project/</link>
 		<pubDate>Mon, 11 Feb 2019 18:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">http://concerned-coyote.w5.wpsandbox.pro/?page_id=544</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="1400" height="800" src="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort.jpg" alt="" srcset="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort.jpg 1400w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-300x171.jpg 300w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-768x439.jpg 768w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-1024x585.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px">
-<h4>Project Description</h4>
-<img src="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-tower-2-263x300.jpg" alt="" width="263" height="300">
-
-Sesame snaps dragée croissant powder pudding marzipan apple pie macaroon. Chocolate bar candy canes tootsie roll dessert jelly apple pie. Ice cream cake cheesecake tootsie roll apple pie. Gummies halvah chocolate bar muffin dessert cotton candy. Toffee lemon drops wafer cake chocolate bar marshmallow croissant. Gingerbread jelly-o pudding cheesecake cake chocolate cake lollipop. Danish icing cheesecake jelly-o ice cream ice cream chupa chups. Chocolate bar sugar plum cupcake sweet roll candy pie. Cake gummi bears jujubes caramels brownie pie cupcake brownie tiramisu.
-
-Cotton candy danish bear claw. Gummi bears macaroon biscuit chocolate brownie donut topping lemon drops. Jelly chocolate cake soufflé jelly beans brownie sweet. Dragée dessert chocolate cake. Tiramisu jujubes macaroon. Danish jelly gummi bears jujubes powder jujubes biscuit danish.
-
-Jelly beans tart fruitcake carrot cake. Dessert gummies pudding halvah. Brownie biscuit gingerbread biscuit cheesecake icing dessert donut. Gummi bears carrot cake sesame snaps caramels icing chocolate chocolate bar cotton candy cupcake. Pudding sesame snaps chocolate muffin cookie danish sweet carrot cake. Croissant candy oat cake macaroon cotton candy gingerbread dragée. Fruitcake brownie sugar plum gummies jelly beans. Muffin chocolate cake chupa chups cake dessert biscuit. Jelly sesame snaps dragée. Cookie cheesecake cake croissant sweet bear claw bonbon.
-<h4>Project Details</h4>
-<ul>
- 	<li>
-										Built Area : <b>12,000 sq. feet</b></li>
- 	<li>
-										Total Cost : <b>$952,000</b></li>
- 	<li>
-										Project Type : <b>Big</b></li>
- 	<li>
-										What we Built : <b>Luxury Pent House</b></li>
- 	<li>
-										Project Time : <b>6 months 2 weeks</b></li>
-</ul>
-<h4>Important Points</h4>
-<ul>
- 	<li>
-										<b>55</b> doors and windows</li>
- 	<li>
-										<b>10</b> Open Trace</li>
- 	<li>
-										<b>1</b> Swimming Pool</li>
- 	<li>
-										<b>10</b> Bedroomns</li>
- 	<li>
-										Open Sea View</li>
-</ul>]]></content:encoded>
+		<content:encoded><![CDATA[<img width="1400" height="800" src="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort.jpg" alt="" loading="lazy" srcset="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort.jpg 1400w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-300x171.jpg 300w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-768x439.jpg 768w, https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/02/project-resort-1024x585.jpg 1024w" sizes="(max-width: 1400px) 100vw, 1400px" />														
+			<h4>Project Description</h4>		
+		<p><img src="https://zakrademos.com/construction/wp-content/uploads/sites/14/2019/07/dozer1-300x194.png" alt="" width="300" height="194" /></p><p>Sesame snaps dragée croissant powder pudding marzipan apple pie macaroon. Chocolate bar candy canes tootsie roll dessert jelly apple pie. Ice cream cake cheesecake tootsie roll apple pie. Gummies halvah chocolate bar muffin dessert cotton candy. Toffee lemon drops wafer cake chocolate bar marshmallow croissant. Gingerbread jelly-o pudding cheesecake cake chocolate cake lollipop. Danish icing cheesecake jelly-o ice cream ice cream chupa chups. Chocolate bar sugar plum cupcake sweet roll candy pie. Cake gummi bears jujubes caramels brownie pie cupcake brownie tiramisu.</p><p>Cotton candy danish bear claw. Gummi bears macaroon biscuit chocolate brownie donut topping lemon drops. Jelly chocolate cake soufflé jelly beans brownie sweet. Dragée dessert chocolate cake. Tiramisu jujubes macaroon. Danish jelly gummi bears jujubes powder jujubes biscuit danish.</p><p>Jelly beans tart fruitcake carrot cake. Dessert gummies pudding halvah. Brownie biscuit gingerbread biscuit cheesecake icing dessert donut. Gummi bears carrot cake sesame snaps caramels icing chocolate chocolate bar cotton candy cupcake. Pudding sesame snaps chocolate muffin cookie danish sweet carrot cake. Croissant candy oat cake macaroon cotton candy gingerbread dragée. Fruitcake brownie sugar plum gummies jelly beans. Muffin chocolate cake chupa chups cake dessert biscuit. Jelly sesame snaps dragée. Cookie cheesecake cake croissant sweet bear claw bonbon.</p>		
+			<h4>Project Details</h4>		
+					<ul>
+							<li>
+										Built Area : <b>12,000 sq. feet</b>
+									</li>
+								<li>
+										Total Cost : <b>$952,000</b>
+									</li>
+								<li>
+										Project Type : <b>Big</b>
+									</li>
+								<li>
+										What we Built : <b>Luxury Pent House</b>  
+									</li>
+								<li>
+										Project Time : <b>6 months 2 weeks</b>
+									</li>
+						</ul>
+			<h4>Important Points</h4>		
+					<ul>
+							<li>
+										<b>55</b> doors and windows
+									</li>
+								<li>
+										<b>10</b> Open Trace
+									</li>
+								<li>
+										<b>1</b> Swimming Pool
+									</li>
+								<li>
+										<b>10</b> Bedroomns
+									</li>
+								<li>
+										Open Sea View
+									</li>
+						</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>544</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-11 18:07:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-11 18:07:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-01 09:29:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-01 09:29:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-project]]></wp:post_name>
@@ -4512,27 +4675,31 @@ Jelly beans tart fruitcake carrot cake. Dessert gummies pudding halvah. Brownie 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"5ce1b9e","elType":"section","settings":{"background_background":"classic","margin":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b54985d","elType":"column","settings":{"_column_size":100,"space_between_widgets":0,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2c2fff5","elType":"widget","settings":{"image":{"url":"https:\/\/zakrademos.com\/construction\/wp-content\/uploads\/sites\/14\/2019\/02\/project-resort.jpg","id":671},"image_size":"full","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"deca0d0","elType":"section","settings":{"structure":"22","margin":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":true},"content_width":{"unit":"px","size":1240}},"elements":[{"id":"5df6587","elType":"column","settings":{"_column_size":66,"_inline_size":66.694,"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":100,"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"3e7559c","elType":"widget","settings":{"section_title":"","title":"Project Description","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"433813c","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":"20"},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"divider"},{"id":"80ea8fe","elType":"widget","settings":{"editor":"<p><img class=\"size-medium wp-image-674 alignleft\" src=\"https:\/\/zakrademos.com\/construction\/wp-content\/uploads\/sites\/14\/2019\/02\/project-tower-2-263x300.jpg\" alt=\"\" width=\"263\" height=\"300\" \/><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Sesame snaps drag\u00e9e croissant powder pudding marzipan apple pie macaroon. Chocolate bar candy canes tootsie roll dessert jelly apple pie. Ice cream cake cheesecake tootsie roll apple pie. Gummies halvah chocolate bar muffin dessert cotton candy. Toffee lemon drops wafer cake chocolate bar marshmallow croissant. Gingerbread jelly-o pudding cheesecake cake chocolate cake lollipop. Danish icing cheesecake jelly-o ice cream ice cream chupa chups. Chocolate bar sugar plum cupcake sweet roll candy pie. Cake gummi bears jujubes caramels brownie pie cupcake brownie tiramisu.<\/span><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Cotton candy danish bear claw. Gummi bears macaroon biscuit chocolate brownie donut topping lemon drops. Jelly chocolate cake souffl\u00e9 jelly beans brownie sweet. Drag\u00e9e dessert chocolate cake. Tiramisu jujubes macaroon. Danish jelly gummi bears jujubes powder jujubes biscuit danish.<\/span><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Jelly beans tart fruitcake carrot cake. Dessert gummies pudding halvah. Brownie biscuit gingerbread biscuit cheesecake icing dessert donut. Gummi bears carrot cake sesame snaps caramels icing chocolate chocolate bar cotton candy cupcake. Pudding sesame snaps chocolate muffin cookie danish sweet carrot cake. Croissant candy oat cake macaroon cotton candy gingerbread drag\u00e9e. Fruitcake brownie sugar plum gummies jelly beans. Muffin chocolate cake chupa chups cake dessert biscuit. Jelly sesame snaps drag\u00e9e. Cookie cheesecake cake croissant sweet bear claw bonbon.<\/span><\/p>","align":"justify"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"7288abe","elType":"column","settings":{"_column_size":33,"_inline_size":33.303,"_inline_size_tablet":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4e7f4d55","elType":"widget","settings":{"section_title":"","title":"Project Details","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"4f6a3b5c","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":"20"},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"divider"},{"id":"65854039","elType":"widget","settings":{"section_icon":"","icon_list":[{"text":"Built Area : <b>12,000 sq. feet<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"f13b332"},{"text":"Total Cost : <b>$952,000<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"03da8ee"},{"text":"Project Type : <b>Big<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"87e5dc9"},{"text":"What we Built : <b>Luxury Pent House<\/b>  ","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"1219509"},{"text":"Project Time : <b>6 months 2 weeks<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"7f6e69b"}],"section_icon_style":"","icon_color":"#ffb716","icon_size":{"unit":"px","size":16},"icon_align":"left","section_text_style":"","text_indent":{"unit":"px","size":15},"icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15},"icon_typography_line_height":{"unit":"em","size":2.4},"_section_style":"","_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","icon_align_mobile":"left","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"icon-list"},{"id":"8857d4a","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"31516ded","elType":"widget","settings":{"section_title":"","title":"Important Points","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"2eec9cd1","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":20},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":""},"elements":[],"widgetType":"divider"},{"id":"2a391107","elType":"widget","settings":{"section_icon":"","icon_list":[{"text":"<b>55<\/b> doors and windows","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"f13b332"},{"text":"<b>10<\/b> Open Trace","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"03da8ee"},{"text":"<b>1<\/b> Swimming Pool","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"87e5dc9"},{"text":"<b>10<\/b> Bedroomns","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"1219509"},{"text":"Open Sea View","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"4f46969"}],"section_icon_style":"","icon_color":"#ffb716","icon_size":{"unit":"px","size":16},"icon_align":"left","section_text_style":"","text_indent":{"unit":"px","size":15},"icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15},"icon_typography_line_height":{"unit":"em","size":2.4},"_section_style":"","_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","icon_align_mobile":"left","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"5ce1b9e","elType":"section","settings":{"background_background":"classic","margin":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b54985d","elType":"column","settings":{"_column_size":100,"space_between_widgets":0,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2c2fff5","elType":"widget","settings":{"image":{"url":"https:\/\/zakrademos.com\/construction\/wp-content\/uploads\/sites\/14\/2019\/02\/project-resort.jpg","id":671},"image_size":"full","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"deca0d0","elType":"section","settings":{"structure":"22","margin":{"unit":"px","top":"40","right":0,"bottom":"40","left":0,"isLinked":true},"content_width":{"unit":"px","size":1240}},"elements":[{"id":"5df6587","elType":"column","settings":{"_column_size":66,"_inline_size":66.694,"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":100,"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"3e7559c","elType":"widget","settings":{"section_title":"","title":"Project Description","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"433813c","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":"20"},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"80ea8fe","elType":"widget","settings":{"editor":"<p><img class=\"alignnone size-medium wp-image-843\" src=\"https:\/\/zakrademos.com\/construction\/wp-content\/uploads\/sites\/14\/2019\/07\/dozer1-300x194.png\" alt=\"\" width=\"300\" height=\"194\" \/><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Sesame snaps drag\u00e9e croissant powder pudding marzipan apple pie macaroon. Chocolate bar candy canes tootsie roll dessert jelly apple pie. Ice cream cake cheesecake tootsie roll apple pie. Gummies halvah chocolate bar muffin dessert cotton candy. Toffee lemon drops wafer cake chocolate bar marshmallow croissant. Gingerbread jelly-o pudding cheesecake cake chocolate cake lollipop. Danish icing cheesecake jelly-o ice cream ice cream chupa chups. Chocolate bar sugar plum cupcake sweet roll candy pie. Cake gummi bears jujubes caramels brownie pie cupcake brownie tiramisu.<\/span><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Cotton candy danish bear claw. Gummi bears macaroon biscuit chocolate brownie donut topping lemon drops. Jelly chocolate cake souffl\u00e9 jelly beans brownie sweet. Drag\u00e9e dessert chocolate cake. Tiramisu jujubes macaroon. Danish jelly gummi bears jujubes powder jujubes biscuit danish.<\/span><\/p><p class=\"paragraph ng-attr-widget\"><span class=\"ng-directive ng-binding\">Jelly beans tart fruitcake carrot cake. Dessert gummies pudding halvah. Brownie biscuit gingerbread biscuit cheesecake icing dessert donut. Gummi bears carrot cake sesame snaps caramels icing chocolate chocolate bar cotton candy cupcake. Pudding sesame snaps chocolate muffin cookie danish sweet carrot cake. Croissant candy oat cake macaroon cotton candy gingerbread drag\u00e9e. Fruitcake brownie sugar plum gummies jelly beans. Muffin chocolate cake chupa chups cake dessert biscuit. Jelly sesame snaps drag\u00e9e. Cookie cheesecake cake croissant sweet bear claw bonbon.<\/span><\/p>","align":"justify"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"7288abe","elType":"column","settings":{"_column_size":33,"_inline_size":33.303,"_inline_size_tablet":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4e7f4d55","elType":"widget","settings":{"section_title":"","title":"Project Details","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"4f6a3b5c","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":"20"},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"65854039","elType":"widget","settings":{"section_icon":"","icon_list":[{"text":"Built Area : <b>12,000 sq. feet<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"f13b332"},{"text":"Total Cost : <b>$952,000<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"03da8ee"},{"text":"Project Type : <b>Big<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"87e5dc9"},{"text":"What we Built : <b>Luxury Pent House<\/b>  ","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"1219509"},{"text":"Project Time : <b>6 months 2 weeks<\/b>","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"7f6e69b"}],"section_icon_style":"","icon_color":"#ffb716","icon_size":{"unit":"px","size":16},"icon_align":"left","section_text_style":"","text_indent":{"unit":"px","size":15},"icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15},"icon_typography_line_height":{"unit":"em","size":2.4},"_section_style":"","_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","icon_align_mobile":"left","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"icon-list"},{"id":"8857d4a","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"31516ded","elType":"widget","settings":{"section_title":"","title":"Important Points","link":{"is_external":"","url":""},"size":"medium","align":"left","section_title_style":"","typography_typography":"custom","typography_font_size":{"unit":"px","size":30},"typography_line_height":{"unit":"em","size":"1"},"typography_letter_spacing":{"unit":"px","size":0.7},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","header_size":"h4","typography_font_size_tablet":{"unit":"px","size":40},"typography_font_size_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"heading"},{"id":"2eec9cd1","elType":"widget","settings":{"section_divider":"","weight":{"unit":"px","size":"3"},"color":"#ffb716","width":{"unit":"%","size":20},"align":"left","gap":{"unit":"px","size":10},"_section_style":"","_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"2a391107","elType":"widget","settings":{"section_icon":"","icon_list":[{"text":"<b>55<\/b> doors and windows","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"f13b332"},{"text":"<b>10<\/b> Open Trace","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"03da8ee"},{"text":"<b>1<\/b> Swimming Pool","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"87e5dc9"},{"text":"<b>10<\/b> Bedroomns","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"1219509"},{"text":"Open Sea View","icon":"fa fa-check","link":{"url":"","is_external":"","nofollow":""},"_id":"4f46969"}],"section_icon_style":"","icon_color":"#ffb716","icon_size":{"unit":"px","size":16},"icon_align":"left","section_text_style":"","text_indent":{"unit":"px","size":15},"icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15},"icon_typography_line_height":{"unit":"em","size":2.4},"_section_style":"","_padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_section_background":"","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"inset":"","color":"rgba(0,0,0,0.5)"},"_section_responsive":"","responsive_description":"","icon_align_mobile":"left","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:2;s:7:"padding";i:3;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;s:13:"margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:13:"content_width";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:3;s:4:"link";i:3;s:4:"size";i:3;s:5:"align";i:3;s:11:"header_size";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:21:"typography_typography";i:3;s:20:"typography_font_size";i:3;s:22:"typography_line_height";i:3;s:25:"typography_letter_spacing";i:3;s:27:"typography_font_size_tablet";i:3;s:27:"typography_font_size_mobile";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:3;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:3;s:5:"color";i:3;s:3:"gap";i:3;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:2;}}s:5:"style";a:3:{s:18:"section_icon_style";a:2:{s:10:"icon_color";i:2;s:9:"icon_size";i:2;}s:17:"section_icon_list";a:2:{s:10:"icon_align";i:2;s:17:"icon_align_mobile";i:2;}s:18:"section_text_style";a:4:{s:11:"text_indent";i:2;s:26:"icon_typography_typography";i:2;s:25:"icon_typography_font_size";i:2;s:27:"icon_typography_line_height";i:2;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:2;s:15:"_padding_tablet";i:2;}s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:2;s:7:"padding";i:3;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;s:13:"margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:13:"content_width";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:3;s:4:"link";i:3;s:4:"size";i:3;s:5:"align";i:3;s:11:"header_size";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:21:"typography_typography";i:3;s:20:"typography_font_size";i:3;s:22:"typography_line_height";i:3;s:25:"typography_letter_spacing";i:3;s:27:"typography_font_size_tablet";i:3;s:27:"typography_font_size_mobile";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:3;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:3;s:5:"color";i:3;s:3:"gap";i:3;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:2;}}s:5:"style";a:3:{s:18:"section_icon_style";a:2:{s:10:"icon_color";i:2;s:9:"icon_size";i:2;}s:17:"section_icon_list";a:2:{s:10:"icon_align";i:2;s:17:"icon_align_mobile";i:2;}s:18:"section_text_style";a:4:{s:11:"text_indent";i:2;s:26:"icon_typography_typography";i:2;s:25:"icon_typography_font_size";i:2;s:27:"icon_typography_line_height";i:2;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:2;s:15:"_padding_tablet";i:2;}s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/construction/about/</link>
 		<pubDate>Tue, 12 Feb 2019 09:16:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4619,6 +4786,8 @@ We take pride in every project we have done. We have grown a lot with our work y
 		<wp:post_id>613</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-12 09:16:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-12 09:16:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 10:57:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 10:57:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -4678,7 +4847,7 @@ We take pride in every project we have done. We have grown a lot with our work y
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/construction/sample-page-2/</link>
 		<pubDate>Thu, 09 Mar 2017 03:18:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4697,6 +4866,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>850</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-09 03:18:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-09 03:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-03-09 03:18:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-03-09 03:18:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
@@ -4712,7 +4883,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home - Pricing</title>
+		<title><![CDATA[Home - Pricing]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home-pricing/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4723,6 +4894,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>852</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-pricing]]></wp:post_name>
@@ -4767,7 +4940,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/853/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4778,6 +4951,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>853</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[853]]></wp:post_name>
@@ -4822,7 +4997,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>SINGLE PROJECT</title>
+		<title><![CDATA[SINGLE PROJECT]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/single-project/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4833,6 +5008,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>854</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-project]]></wp:post_name>
@@ -4877,7 +5054,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ABOUT</title>
+		<title><![CDATA[ABOUT]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/about/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4888,6 +5065,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>855</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -4932,7 +5111,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/856/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4943,6 +5122,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>856</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 04:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[856]]></wp:post_name>
@@ -4987,7 +5168,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/857/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4998,6 +5179,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>857</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 04:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[857]]></wp:post_name>
@@ -5042,7 +5225,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/858/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5053,6 +5236,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>858</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 04:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[858]]></wp:post_name>
@@ -5097,7 +5282,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/859/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5108,6 +5293,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>859</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-11 04:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[859]]></wp:post_name>
@@ -5152,7 +5339,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/860/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5163,6 +5350,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>860</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[860]]></wp:post_name>
@@ -5207,7 +5396,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>BLOG</title>
+		<title><![CDATA[BLOG]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/blog/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5218,6 +5407,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>861</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -5262,7 +5453,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>HOME</title>
+		<title><![CDATA[HOME]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/home/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5273,6 +5464,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>862</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5317,7 +5510,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>CONTACT</title>
+		<title><![CDATA[CONTACT]]></title>
 		<link>https://zakrademos.com/construction/2019/07/11/contact/</link>
 		<pubDate>Thu, 11 Jul 2019 04:59:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5328,6 +5521,8 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		<wp:post_id>863</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-11 04:59:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-11 04:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5372,7 +5567,7 @@ As a new WordPress user, you should go to <a href="http://blankinstall.web-dev.o
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New Colony Homes built in peaceful area just outside the city</title>
+		<title><![CDATA[New Colony Homes built in peaceful area just outside the city]]></title>
 		<link>https://zakrademos.com/construction/2019/02/06/new-colony-homes-built-in-peaceful-area-just-outside-the-city/</link>
 		<pubDate>Wed, 06 Feb 2019 11:19:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5399,6 +5594,8 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		<wp:post_id>346</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 11:19:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 11:19:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:36:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:36:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-colony-homes-built-in-peaceful-area-just-outside-the-city]]></wp:post_name>
@@ -5443,7 +5640,7 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>State of the art minimal bridge</title>
+		<title><![CDATA[State of the art minimal bridge]]></title>
 		<link>https://zakrademos.com/construction/2019/02/06/state-of-the-art-minimal-bridge/</link>
 		<pubDate>Wed, 06 Feb 2019 11:21:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5470,6 +5667,8 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		<wp:post_id>349</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-06 11:21:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-06 11:21:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-23 04:35:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-23 04:35:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[state-of-the-art-minimal-bridge]]></wp:post_name>
@@ -5513,6 +5712,31 @@ Nunc non aliquam mauris. Aenean commodo viverra ex sed rhoncus. In hac habitasse
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://zakrademos.com/construction/2022/07/11/wp-global-styles-zakra/</link>
+		<pubDate>Mon, 11 Jul 2022 04:29:54 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/construction/2022/07/11/wp-global-styles-zakra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1060</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-11 04:29:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-11 04:29:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 04:29:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 04:29:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-zakra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="zakra"><![CDATA[zakra]]></category>
+						</item>
 				</channel>
 </rss>
 	
