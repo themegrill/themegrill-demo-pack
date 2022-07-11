@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0" created="2022-07-08 14:18" -->
+	<!-- generator="WordPress/6.0" created="2022-07-11 03:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>eStory</title>
 	<link>https://themegrilldemos.com/estory</link>
 	<description>A Full Site Editing WordPress Theme</description>
-	<pubDate>Fri, 08 Jul 2022 14:18:59 +0000</pubDate>
+	<pubDate>Mon, 11 Jul 2022 03:48:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -2145,35 +2145,15 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"layout":{"type":"flex","orientation":"horizontal"},"style":{"spacing":{"blockGap":"1.6em"}}} -->
-<!-- wp:navigation-link {"label":"Home","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
-<!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
-<!-- wp:navigation-link {"label":"Page Layout","url":"#","kind":"custom","isTopLevelLink":false} /-->
-
-<!-- wp:navigation-link {"label":"Contact","url":"#","kind":"custom","isTopLevelLink":false} /-->
-<!-- /wp:navigation-submenu -->
-
-<!-- wp:navigation-link {"label":"Get Theme","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
-<!-- wp:social-links {"iconColor":"white","iconColorValue":"#ffffff","iconBackgroundColor":"background","iconBackgroundColorValue":"#1F1717","style":{"spacing":{"blockGap":"0.33333333333em"}}} -->
-<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"facebook.com","service":"facebook"} /-->
-
-<!-- wp:social-link {"url":"twitter.com","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"instagram.com","service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"youtube.com","service":"youtube"} /--></ul>
-<!-- /wp:social-links -->
-<!-- /wp:navigation --></div>
+<!-- wp:navigation {"ref":281,"layout":{"type":"flex","orientation":"horizontal"},"style":{"spacing":{"blockGap":"1.6em"}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2022-06-08 10:08:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-06-08 10:08:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-08 14:08:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-08 14:08:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 03:45:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 03:45:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -3784,6 +3764,48 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Header navigation]]></title>
+		<link>https://themegrilldemos.com/estory/2022/07/11/header-navigation/</link>
+		<pubDate>Mon, 11 Jul 2022 03:43:47 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/estory/2022/07/11/header-navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:home-link {"label":"Home"} /-->
+
+<!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
+<!-- wp:navigation-link {"label":"Archive","type":"category","id":6,"url":"https://themegrilldemos.com/estory/category/health/","title":"Archive","kind":"taxonomy","isTopLevelLink":false} /-->
+
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":85,"url":"https://themegrilldemos.com/estory/contact/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-link {"label":"Get Theme","url":"#","kind":"custom","isTopLevelLink":true} /-->
+
+<!-- wp:social-links {"iconColor":"white","iconColorValue":"#ffffff","iconBackgroundColor":"background","iconBackgroundColorValue":"#1F1717","style":{"spacing":{"blockGap":"0.33333333333em"}}} -->
+<ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"facebook.com","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"twitter.com","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"instagram.com","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"youtube.com","service":"youtube"} /--></ul>
+<!-- /wp:social-links -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>281</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-11 03:43:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-11 03:43:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-11 03:47:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-11 03:47:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header-navigation]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
