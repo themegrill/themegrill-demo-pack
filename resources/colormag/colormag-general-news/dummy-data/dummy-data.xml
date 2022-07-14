@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.2" created="2022-03-25 01:36" -->
+	<!-- generator="WordPress/6.0" created="2022-07-12 17:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>ColorMag General News</title>
 	<link>https://themegrilldemos.com/colormag-general-news</link>
 	<description>WordPress Template Site for  General News, Flash News, Headlines</description>
-	<pubDate>Fri, 25 Mar 2022 01:36:29 +0000</pubDate>
+	<pubDate>Tue, 12 Jul 2022 17:02:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -124,7 +124,7 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 <image>
 	<url>https://themegrilldemos.com/colormag-general-news/wp-content/uploads/sites/64/2020/02/fav.jpg</url>
@@ -1802,18 +1802,30 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-22 11:54:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-22 11:54:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:54:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:54:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 16:59:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 16:59:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[contact-form__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657645142]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/colormag-general-news/?post_type=everest_form&#038;p=8</link>
@@ -1821,13 +1833,13 @@
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">http://philosopical-falcon.w5.wpsandbox.pro/?post_type=everest_form&#038;p=8</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"8","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Sandbox","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"8","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-17 10:21:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-17 10:21:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-17 10:21:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-17 10:21:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 17:00:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 17:00:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -2007,18 +2019,30 @@
 		<wp:post_id>1051</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-03 07:55:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-03 07:55:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-03 07:55:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-03 07:55:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 16:59:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 16:59:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[contact-form-2__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657645146]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact-form-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[45]]></title>
 		<link>https://themegrilldemos.com/colormag-general-news/2019/12/23/woman-who-founded-sanctuary-for-animals-accused-in-their-deaths/attachment/45/</link>
@@ -4617,137 +4641,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[5 Best Insider Tricks to Help Wild-Animal]]></title>
-		<link>https://themegrilldemos.com/colormag-general-news/2019/12/19/5-best-insider-tricks-to-help-wild-animal/</link>
-		<pubDate>Thu, 19 Dec 2019 06:42:49 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://philosopical-falcon.w5.wpsandbox.pro/2019/12/19/travel-copy-copy-3/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.<br>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Curabitur cursus et ligula ut rhoncus. Phasellus consequat sapien eget consequat condimentum. Nullam tristique non neque vulputate commodo. Nulla eget dui fermentum, porta dolor sed, placerat lacus. Nunc at risus molestie, iaculis sapien in, dapibus ante.</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Praesent tellus ipsum, luctus vel orci eget,&nbsp;facilisis placerat enim. Suspendisse laoreet erat vel metus molestie luctus. Donec molestie risus ac velit ornare elementum. Suspendisse malesuada bibendum est, at tempor purus fringilla ac. Ut ut nulla vitae felis viverra efficitur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Curabitur maximus elementum mi non laoreet. Vivamus iaculis ex vitae nulla dictum, ac tempus risus varius. Nunc in rutrum nisl, sodales malesuada tortor. In lectus dui, venenatis non urna ac, pulvinar imperdiet augue. Donec dapibus ipsum congue eros rhoncus, ut rutrum nulla varius. Proin in euismod purus, ac ullamcorper eros.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":6} -->
-<h6>Donec quis diam nec purus maximus interdum quis id metus.</h6>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque pretium dui nisl, sed bibendum tortor varius sit amet. Fusce placerat nulla non risus pulvinar pulvinar. Integer ut blandit turpis. Nulla pellentesque lectus a sem dignissim laoreet at eu elit. Sed mattis magna vehicula dictum cursus. Nulla ac imperdiet justo. Donec sollicitudin ultricies molestie.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Nulla pellentesque lectus a sem dignissim laoreet at eu elit.</li><li>Sed mattis magna vehicula dictum cursus.</li><li>Nulla ac imperdiet justo.</li><li>Donec sollicitudin ultricies&nbsp;molestie.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Maecenas congue ipsum tortor, ut fermentum dui blandit ac.&nbsp;<strong>Sed scelerisque nisi eget augue blandit volutpat.</strong>&nbsp;Etiam ornare urna at orci ultrices faucibus eget eu nunc. Sed nibh ante, mollis non eros sit amet, posuere blandit orci. In porta vulputate auctor. Etiam elit nunc, hendrerit vel convallis aliquet, iaculis a metus. Cras vitae quam elit.&nbsp;<em>In quis elit et nibh condimentum ultrices at nec elit</em>. Duis pellentesque lorem sed risus pulvinar fringilla. Nullam aliquet mattis interdum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Sed mollis sapien nec auctor porttitor. Morbi vestibulum libero id neque commodo lobortis. Duis quis sollicitudin mi, cursus fermentum ipsum. Suspendisse mollis tortor non volutpat pharetra. Curabitur mi felis, scelerisque sed massa ac, ornare tristique leo. Aenean eget est velit. Morbi urna nibh, posuere vel sollicitudin et, vulputate non lectus. Curabitur eu turpis quis arcu consectetur tincidunt. Morbi ante metus, efficitur nec enim non, porttitor porttitor mi. Quisque ac luctus nulla, sed hendrerit nulla. Donec dapibus posuere ligula vel congue. Mauris sed mollis enim, quis cursus ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum viverra orci nec faucibus. Vivamus malesuada, felis ut auctor tincidunt, dui purus pretium magna, ac hendrerit ex massa at augue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-19 06:42:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-19 06:42:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-19 06:42:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-19 06:42:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[5-best-insider-tricks-to-help-wild-animal]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="feature-news"><![CDATA[Feature News]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-copy-copy-3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5-best-insider-tricks-to-help-you-travel-super-cheap]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[904]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-copy-copy-3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5-best-insider-tricks-to-help-you-travel-super-cheap]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[904]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Contact Us]]></title>
 		<link>https://themegrilldemos.com/colormag-general-news/contact-us/</link>
 		<pubDate>Fri, 20 Dec 2019 08:59:55 +0000</pubDate>
@@ -5995,6 +5888,30 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[ThemeGrill Demo Showcase]]></title>
+		<link>https://themegrilldemos.com/colormag-general-news/themegrill-demo-showcase/</link>
+		<pubDate>Wed, 06 Jul 2022 08:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-general-news/themegrill-demo-showcase/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1404</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-06 08:16:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-06 08:16:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 08:16:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 08:16:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[themegrill-demo-showcase]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Sporting Performance and Food: The Athlete’s Diet]]></title>
 		<link>https://themegrilldemos.com/colormag-general-news/2019/12/22/60-hours-on-burning-kangaroo-island/</link>
 		<pubDate>Sun, 22 Dec 2019 10:00:02 +0000</pubDate>
@@ -6151,6 +6068,137 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1025]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[5 Best Insider Tricks to Help Wild-Animal]]></title>
+		<link>https://themegrilldemos.com/colormag-general-news/2019/12/19/5-best-insider-tricks-to-help-wild-animal/</link>
+		<pubDate>Thu, 19 Dec 2019 06:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://philosopical-falcon.w5.wpsandbox.pro/2019/12/19/travel-copy-copy-3/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.<br>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Curabitur cursus et ligula ut rhoncus. Phasellus consequat sapien eget consequat condimentum. Nullam tristique non neque vulputate commodo. Nulla eget dui fermentum, porta dolor sed, placerat lacus. Nunc at risus molestie, iaculis sapien in, dapibus ante.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Praesent tellus ipsum, luctus vel orci eget,&nbsp;facilisis placerat enim. Suspendisse laoreet erat vel metus molestie luctus. Donec molestie risus ac velit ornare elementum. Suspendisse malesuada bibendum est, at tempor purus fringilla ac. Ut ut nulla vitae felis viverra efficitur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curabitur maximus elementum mi non laoreet. Vivamus iaculis ex vitae nulla dictum, ac tempus risus varius. Nunc in rutrum nisl, sodales malesuada tortor. In lectus dui, venenatis non urna ac, pulvinar imperdiet augue. Donec dapibus ipsum congue eros rhoncus, ut rutrum nulla varius. Proin in euismod purus, ac ullamcorper eros.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Donec quis diam nec purus maximus interdum quis id metus.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pellentesque pretium dui nisl, sed bibendum tortor varius sit amet. Fusce placerat nulla non risus pulvinar pulvinar. Integer ut blandit turpis. Nulla pellentesque lectus a sem dignissim laoreet at eu elit. Sed mattis magna vehicula dictum cursus. Nulla ac imperdiet justo. Donec sollicitudin ultricies molestie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nulla pellentesque lectus a sem dignissim laoreet at eu elit.</li><li>Sed mattis magna vehicula dictum cursus.</li><li>Nulla ac imperdiet justo.</li><li>Donec sollicitudin ultricies&nbsp;molestie.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Maecenas congue ipsum tortor, ut fermentum dui blandit ac.&nbsp;<strong>Sed scelerisque nisi eget augue blandit volutpat.</strong>&nbsp;Etiam ornare urna at orci ultrices faucibus eget eu nunc. Sed nibh ante, mollis non eros sit amet, posuere blandit orci. In porta vulputate auctor. Etiam elit nunc, hendrerit vel convallis aliquet, iaculis a metus. Cras vitae quam elit.&nbsp;<em>In quis elit et nibh condimentum ultrices at nec elit</em>. Duis pellentesque lorem sed risus pulvinar fringilla. Nullam aliquet mattis interdum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sed mollis sapien nec auctor porttitor. Morbi vestibulum libero id neque commodo lobortis. Duis quis sollicitudin mi, cursus fermentum ipsum. Suspendisse mollis tortor non volutpat pharetra. Curabitur mi felis, scelerisque sed massa ac, ornare tristique leo. Aenean eget est velit. Morbi urna nibh, posuere vel sollicitudin et, vulputate non lectus. Curabitur eu turpis quis arcu consectetur tincidunt. Morbi ante metus, efficitur nec enim non, porttitor porttitor mi. Quisque ac luctus nulla, sed hendrerit nulla. Donec dapibus posuere ligula vel congue. Mauris sed mollis enim, quis cursus ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum viverra orci nec faucibus. Vivamus malesuada, felis ut auctor tincidunt, dui purus pretium magna, ac hendrerit ex massa at augue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>199</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-19 06:42:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-12-19 06:42:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-19 06:42:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-19 06:42:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[5-best-insider-tricks-to-help-wild-animal]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="feature-news"><![CDATA[Feature News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-copy-copy-3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5-best-insider-tricks-to-help-you-travel-super-cheap]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[904]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-copy-copy-3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5-best-insider-tricks-to-help-you-travel-super-cheap]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[904]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8945,6 +8993,153 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Police Arrest Protesters Amid Curfew In  Northeast]]></title>
+		<link>https://themegrilldemos.com/colormag-general-news/2020/02/13/cats-may-have-attachment-styles-that-mirror-peoples/</link>
+		<pubDate>Thu, 13 Feb 2020 00:05:48 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://philosopical-falcon.w5.wpsandbox.pro/2019/12/17/travel-copy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.<br>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Curabitur cursus et ligula ut rhoncus. Phasellus consequat sapien eget consequat condimentum. Nullam tristique non neque vulputate commodo. Nulla eget dui fermentum, porta dolor sed, placerat lacus. Nunc at risus molestie, iaculis sapien in, dapibus ante.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Praesent tellus ipsum, luctus vel orci eget,&nbsp;facilisis placerat enim. Suspendisse laoreet erat vel metus molestie luctus. Donec molestie risus ac velit ornare elementum. Suspendisse malesuada bibendum est, at tempor purus fringilla ac. Ut ut nulla vitae felis viverra efficitur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curabitur maximus elementum mi non laoreet. Vivamus iaculis ex vitae nulla dictum, ac tempus risus varius. Nunc in rutrum nisl, sodales malesuada tortor. In lectus dui, venenatis non urna ac, pulvinar imperdiet augue. Donec dapibus ipsum congue eros rhoncus, ut rutrum nulla varius. Proin in euismod purus, ac ullamcorper eros.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Donec quis diam nec purus maximus interdum quis id metus.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pellentesque pretium dui nisl, sed bibendum tortor varius sit amet. Fusce placerat nulla non risus pulvinar pulvinar. Integer ut blandit turpis. Nulla pellentesque lectus a sem dignissim laoreet at eu elit. Sed mattis magna vehicula dictum cursus. Nulla ac imperdiet justo. Donec sollicitudin ultricies molestie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nulla pellentesque lectus a sem dignissim laoreet at eu elit.</li><li>Sed mattis magna vehicula dictum cursus.</li><li>Nulla ac imperdiet justo.</li><li>Donec sollicitudin ultricies&nbsp;molestie.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Maecenas congue ipsum tortor, ut fermentum dui blandit ac.&nbsp;<strong>Sed scelerisque nisi eget augue blandit volutpat.</strong>&nbsp;Etiam ornare urna at orci ultrices faucibus eget eu nunc. Sed nibh ante, mollis non eros sit amet, posuere blandit orci. In porta vulputate auctor. Etiam elit nunc, hendrerit vel convallis aliquet, iaculis a metus. Cras vitae quam elit.&nbsp;<em>In quis elit et nibh condimentum ultrices at nec elit</em>. Duis pellentesque lorem sed risus pulvinar fringilla. Nullam aliquet mattis interdum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sed mollis sapien nec auctor porttitor. Morbi vestibulum libero id neque commodo lobortis. Duis quis sollicitudin mi, cursus fermentum ipsum. Suspendisse mollis tortor non volutpat pharetra. Curabitur mi felis, scelerisque sed massa ac, ornare tristique leo. Aenean eget est velit. Morbi urna nibh, posuere vel sollicitudin et, vulputate non lectus. Curabitur eu turpis quis arcu consectetur tincidunt. Morbi ante metus, efficitur nec enim non, porttitor porttitor mi. Quisque ac luctus nulla, sed hendrerit nulla. Donec dapibus posuere ligula vel congue. Mauris sed mollis enim, quis cursus ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum viverra orci nec faucibus. Vivamus malesuada, felis ut auctor tincidunt, dui purus pretium magna, ac hendrerit ex massa at augue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2020-02-13 00:05:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-02-13 00:05:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 00:05:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 00:05:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cats-may-have-attachment-styles-that-mirror-peoples]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="news"><![CDATA[News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-most-beautiful-sunset-viewpoints-in-the-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1060]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-12-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-12-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[travel-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-most-beautiful-sunset-viewpoints-in-the-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1060]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-12-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-12-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-02-07]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Why a global city is so vulnerable to virus spread]]></title>
 		<link>https://themegrilldemos.com/colormag-general-news/2019/12/23/25-incredible-places-to-visit-for-anyone/</link>
 		<pubDate>Mon, 23 Dec 2019 06:52:04 +0000</pubDate>
@@ -9109,153 +9304,6 @@ Maecenas congue ipsum tortor, ut fermentum dui blandit ac.&nbsp;<strong>Sed scel
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1046]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Police Arrest Protesters Amid Curfew In  Northeast]]></title>
-		<link>https://themegrilldemos.com/colormag-general-news/2020/02/13/cats-may-have-attachment-styles-that-mirror-peoples/</link>
-		<pubDate>Thu, 13 Feb 2020 00:05:48 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://philosopical-falcon.w5.wpsandbox.pro/2019/12/17/travel-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Non autem hoc: igitur ne illud quidem. Atque haec coniunctio confusioque virtutum tamen a philosophis ratione quadam distinguitur. Utilitatis causa amicitia est quaesita. Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia. Itaque his sapiens semper vacabit. Duo Reges: constructio interrete. At enim hic etiam dolore.<br>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Curabitur cursus et ligula ut rhoncus. Phasellus consequat sapien eget consequat condimentum. Nullam tristique non neque vulputate commodo. Nulla eget dui fermentum, porta dolor sed, placerat lacus. Nunc at risus molestie, iaculis sapien in, dapibus ante.</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Praesent tellus ipsum, luctus vel orci eget,&nbsp;facilisis placerat enim. Suspendisse laoreet erat vel metus molestie luctus. Donec molestie risus ac velit ornare elementum. Suspendisse malesuada bibendum est, at tempor purus fringilla ac. Ut ut nulla vitae felis viverra efficitur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Curabitur maximus elementum mi non laoreet. Vivamus iaculis ex vitae nulla dictum, ac tempus risus varius. Nunc in rutrum nisl, sodales malesuada tortor. In lectus dui, venenatis non urna ac, pulvinar imperdiet augue. Donec dapibus ipsum congue eros rhoncus, ut rutrum nulla varius. Proin in euismod purus, ac ullamcorper eros.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":6} -->
-<h6>Donec quis diam nec purus maximus interdum quis id metus.</h6>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Pellentesque pretium dui nisl, sed bibendum tortor varius sit amet. Fusce placerat nulla non risus pulvinar pulvinar. Integer ut blandit turpis. Nulla pellentesque lectus a sem dignissim laoreet at eu elit. Sed mattis magna vehicula dictum cursus. Nulla ac imperdiet justo. Donec sollicitudin ultricies molestie.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Nulla pellentesque lectus a sem dignissim laoreet at eu elit.</li><li>Sed mattis magna vehicula dictum cursus.</li><li>Nulla ac imperdiet justo.</li><li>Donec sollicitudin ultricies&nbsp;molestie.</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Maecenas congue ipsum tortor, ut fermentum dui blandit ac.&nbsp;<strong>Sed scelerisque nisi eget augue blandit volutpat.</strong>&nbsp;Etiam ornare urna at orci ultrices faucibus eget eu nunc. Sed nibh ante, mollis non eros sit amet, posuere blandit orci. In porta vulputate auctor. Etiam elit nunc, hendrerit vel convallis aliquet, iaculis a metus. Cras vitae quam elit.&nbsp;<em>In quis elit et nibh condimentum ultrices at nec elit</em>. Duis pellentesque lorem sed risus pulvinar fringilla. Nullam aliquet mattis interdum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Sed mollis sapien nec auctor porttitor. Morbi vestibulum libero id neque commodo lobortis. Duis quis sollicitudin mi, cursus fermentum ipsum. Suspendisse mollis tortor non volutpat pharetra. Curabitur mi felis, scelerisque sed massa ac, ornare tristique leo. Aenean eget est velit. Morbi urna nibh, posuere vel sollicitudin et, vulputate non lectus. Curabitur eu turpis quis arcu consectetur tincidunt. Morbi ante metus, efficitur nec enim non, porttitor porttitor mi. Quisque ac luctus nulla, sed hendrerit nulla. Donec dapibus posuere ligula vel congue. Mauris sed mollis enim, quis cursus ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum viverra orci nec faucibus. Vivamus malesuada, felis ut auctor tincidunt, dui purus pretium magna, ac hendrerit ex massa at augue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Familiares nostros, credo, Sironem dicis et Philodemum, cum optimos viros, tum homines doctissimos. Philosophi autem in suis lectulis plerumque moriuntur. Universa enim illorum ratione cum tota vestra confligendum puto. Nonne igitur tibi videntur, inquit, mala? Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Quia dolori non voluptas contraria est, sed doloris privatio. Sed tempus est, si videtur, et recta quidem ad me. An eiusdem modi?</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-13 00:05:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-13 00:05:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-13 00:05:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-13 00:05:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[cats-may-have-attachment-styles-that-mirror-peoples]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="news"><![CDATA[News]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-most-beautiful-sunset-viewpoints-in-the-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1060]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-12-17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-12-22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-02-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_layout]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[travel-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-most-beautiful-sunset-viewpoints-in-the-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1060]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-12-17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-12-22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020-02-07]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
