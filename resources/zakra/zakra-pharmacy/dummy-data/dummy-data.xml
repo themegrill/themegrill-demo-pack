@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-11-23 10:32" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 16:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,13 @@
 	<title>Zakra Pharmacy</title>
 	<link>https://zakrademos.com/pharmacy</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Mon, 23 Nov 2020 10:32:17 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 16:02:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/pharmacy</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[teamzakra]]></wp:author_login><wp:author_email><![CDATA[team@zakratheme.com]]></wp:author_email><wp:author_display_name><![CDATA[teamzakra]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -45,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -65,7 +85,7 @@
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[Social Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/pharmacy/wp-content/uploads/sites/23/2020/07/zakra.png</url>
@@ -76,7 +96,7 @@
 </image> 
 
 		<item>
-		<title>header-image</title>
+		<title><![CDATA[header-image]]></title>
 		<link>https://zakrademos.com/pharmacy/home/header-image/</link>
 		<pubDate>Wed, 05 Jun 2019 11:29:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -87,6 +107,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 11:29:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 11:29:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 11:29:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 11:29:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-image]]></wp:post_name>
@@ -111,7 +133,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>med-1</title>
+		<title><![CDATA[med-1]]></title>
 		<link>https://zakrademos.com/pharmacy/home/med-1/</link>
 		<pubDate>Thu, 06 Jun 2019 08:51:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -122,6 +144,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 08:51:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 08:51:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 08:51:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 08:51:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[med-1]]></wp:post_name>
@@ -146,7 +170,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>med-2</title>
+		<title><![CDATA[med-2]]></title>
 		<link>https://zakrademos.com/pharmacy/home/med-2/</link>
 		<pubDate>Thu, 06 Jun 2019 08:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -157,6 +181,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 08:51:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 08:51:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 08:51:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 08:51:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[med-2]]></wp:post_name>
@@ -181,7 +207,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>stethescope</title>
+		<title><![CDATA[stethescope]]></title>
 		<link>https://zakrademos.com/pharmacy/home/stethescope/</link>
 		<pubDate>Thu, 06 Jun 2019 11:04:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -192,6 +218,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 11:04:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 11:04:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 11:04:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 11:04:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stethescope]]></wp:post_name>
@@ -216,7 +244,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Test-1</title>
+		<title><![CDATA[Test-1]]></title>
 		<link>https://zakrademos.com/pharmacy/home/test-1/</link>
 		<pubDate>Fri, 07 Jun 2019 08:54:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -227,6 +255,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 08:54:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 08:54:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 08:54:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 08:54:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[test-1]]></wp:post_name>
@@ -251,7 +281,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>test-2</title>
+		<title><![CDATA[test-2]]></title>
 		<link>https://zakrademos.com/pharmacy/home/test-2/</link>
 		<pubDate>Fri, 07 Jun 2019 09:29:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -262,6 +292,8 @@
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:29:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:29:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:29:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:29:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[test-2]]></wp:post_name>
@@ -286,7 +318,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>doctor</title>
+		<title><![CDATA[doctor]]></title>
 		<link>https://zakrademos.com/pharmacy/home/doctor/</link>
 		<pubDate>Fri, 07 Jun 2019 10:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -297,6 +329,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 10:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 10:19:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 10:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 10:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[doctor]]></wp:post_name>
@@ -321,7 +355,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>medicine</title>
+		<title><![CDATA[medicine]]></title>
 		<link>https://zakrademos.com/pharmacy/home/medicine/</link>
 		<pubDate>Fri, 07 Jun 2019 11:45:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -332,6 +366,8 @@
 		<wp:post_id>202</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 11:45:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 11:45:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 11:45:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 11:45:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[medicine]]></wp:post_name>
@@ -356,7 +392,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>doctor-2</title>
+		<title><![CDATA[doctor-2]]></title>
 		<link>https://zakrademos.com/pharmacy/about/doctor-2/</link>
 		<pubDate>Wed, 12 Jun 2019 08:48:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -367,6 +403,8 @@
 		<wp:post_id>286</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-12 08:48:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-12 08:48:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-12 08:48:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-12 08:48:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[doctor-2]]></wp:post_name>
@@ -391,7 +429,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>drug</title>
+		<title><![CDATA[drug]]></title>
 		<link>https://zakrademos.com/pharmacy/about/drug/</link>
 		<pubDate>Wed, 12 Jun 2019 09:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -402,6 +440,8 @@
 		<wp:post_id>298</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-12 09:56:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-12 09:56:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-12 09:56:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-12 09:56:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[drug]]></wp:post_name>
@@ -426,7 +466,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team-single</title>
+		<title><![CDATA[team-single]]></title>
 		<link>https://zakrademos.com/pharmacy/about/team-single/</link>
 		<pubDate>Thu, 13 Jun 2019 07:11:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -437,6 +477,8 @@
 		<wp:post_id>325</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 07:11:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 07:11:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 07:11:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 07:11:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team-single]]></wp:post_name>
@@ -461,7 +503,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jennifer</title>
+		<title><![CDATA[jennifer]]></title>
 		<link>https://zakrademos.com/pharmacy/about/jennifer/</link>
 		<pubDate>Thu, 13 Jun 2019 09:24:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -472,6 +514,8 @@
 		<wp:post_id>338</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 09:24:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 09:24:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 09:24:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 09:24:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jennifer]]></wp:post_name>
@@ -496,7 +540,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>john</title>
+		<title><![CDATA[john]]></title>
 		<link>https://zakrademos.com/pharmacy/about/john/</link>
 		<pubDate>Thu, 13 Jun 2019 09:25:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -507,6 +551,8 @@
 		<wp:post_id>339</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 09:25:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 09:25:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 09:25:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 09:25:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[john]]></wp:post_name>
@@ -531,7 +577,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>michael</title>
+		<title><![CDATA[michael]]></title>
 		<link>https://zakrademos.com/pharmacy/about/michael/</link>
 		<pubDate>Thu, 13 Jun 2019 09:25:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -542,6 +588,8 @@
 		<wp:post_id>340</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 09:25:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 09:25:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 09:25:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 09:25:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michael]]></wp:post_name>
@@ -566,7 +614,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>niki</title>
+		<title><![CDATA[niki]]></title>
 		<link>https://zakrademos.com/pharmacy/about/niki/</link>
 		<pubDate>Thu, 13 Jun 2019 09:25:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -577,6 +625,8 @@
 		<wp:post_id>341</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 09:25:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 09:25:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 09:25:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 09:25:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[niki]]></wp:post_name>
@@ -601,7 +651,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://zakrademos.com/pharmacy/contact/contact-2/</link>
 		<pubDate>Fri, 14 Jun 2019 10:19:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -612,6 +662,8 @@
 		<wp:post_id>373</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-14 10:19:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-14 10:19:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-14 10:19:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-14 10:19:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
@@ -636,7 +688,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tomatoes</title>
+		<title><![CDATA[tomatoes]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/vitamin-k-helps-not-harms-patients-on-warfarin/tomatoes/</link>
 		<pubDate>Mon, 17 Jun 2019 11:24:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -647,6 +699,8 @@
 		<wp:post_id>417</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:24:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:24:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:24:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:24:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tomatoes]]></wp:post_name>
@@ -671,7 +725,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pills</title>
+		<title><![CDATA[pills]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/fda-approves-drospirenone-tablet-for-pregnancy-prevention/pills/</link>
 		<pubDate>Mon, 17 Jun 2019 11:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -682,6 +736,8 @@
 		<wp:post_id>420</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:26:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:26:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:26:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:26:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pills]]></wp:post_name>
@@ -706,7 +762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>thermostat</title>
+		<title><![CDATA[thermostat]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/galcanezumab-gnlm-receives-fda-approval-for-episodic-cluster-headaches/thermostat/</link>
 		<pubDate>Mon, 17 Jun 2019 11:28:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -717,6 +773,8 @@
 		<wp:post_id>423</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:28:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:28:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:28:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:28:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[thermostat]]></wp:post_name>
@@ -741,7 +799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prescription</title>
+		<title><![CDATA[prescription]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/multidisciplinary-approach-recommended-for-management-of-preexisting-diabetes-in-pregnancy/prescription/</link>
 		<pubDate>Mon, 17 Jun 2019 11:30:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -752,6 +810,8 @@
 		<wp:post_id>426</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:30:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:30:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:30:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:30:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prescription]]></wp:post_name>
@@ -776,7 +836,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/10/zakra/</link>
 		<pubDate>Mon, 10 Jun 2019 11:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -807,6 +867,8 @@
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 11:08:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 11:08:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -818,7 +880,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>lab</title>
+		<title><![CDATA[lab]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/study-teens-with-adhd-have-a-higher-crash-risk/lab/</link>
 		<pubDate>Mon, 17 Jun 2019 11:31:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -829,6 +891,8 @@
 		<wp:post_id>429</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:31:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:31:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:31:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:31:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lab]]></wp:post_name>
@@ -853,7 +917,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sunblock</title>
+		<title><![CDATA[sunblock]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/sunscreen-one-of-the-best-ways-to-reduce-skin-cancer-risk/sunblock/</link>
 		<pubDate>Mon, 17 Jun 2019 11:32:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -864,6 +928,8 @@
 		<wp:post_id>432</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:32:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:32:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:32:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:32:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sunblock]]></wp:post_name>
@@ -888,7 +954,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
+		<title><![CDATA[banner]]></title>
 		<link>https://zakrademos.com/pharmacy/banner/</link>
 		<pubDate>Tue, 18 Jun 2019 05:27:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -899,6 +965,8 @@
 		<wp:post_id>437</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-18 05:27:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-18 05:27:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-18 05:27:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-18 05:27:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner]]></wp:post_name>
@@ -923,10 +991,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/pharmacy/logo-2/</link>
 		<pubDate>Wed, 14 Aug 2019 09:27:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/pharmacy/wp-content/uploads/sites/23/2019/08/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -934,6 +1002,8 @@
 		<wp:post_id>539</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:27:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:27:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 09:27:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 09:27:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
@@ -958,10 +1028,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-logo</title>
+		<title><![CDATA[footer-logo]]></title>
 		<link>https://zakrademos.com/pharmacy/footer-logo-2/</link>
 		<pubDate>Wed, 14 Aug 2019 09:29:48 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/pharmacy/wp-content/uploads/sites/23/2019/08/footer-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -969,6 +1039,8 @@
 		<wp:post_id>540</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:29:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:29:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 09:29:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 09:29:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo-2]]></wp:post_name>
@@ -989,7 +1061,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Front Page</title>
+		<title><![CDATA[Zakra Pharmacy - Front Page]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-front-page</link>
 		<pubDate>Mon, 18 Nov 2019 10:10:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1114,6 +1186,8 @@
 		<wp:post_id>542</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:10:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:10:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:10:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:10:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-front-page]]></wp:post_name>
@@ -1150,7 +1224,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Page</title>
+		<title><![CDATA[Zakra Pharmacy - About Page]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-page</link>
 		<pubDate>Mon, 18 Nov 2019 10:11:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1221,6 +1295,8 @@
 		<wp:post_id>545</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:11:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:11:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-page]]></wp:post_name>
@@ -1257,7 +1333,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Products Page</title>
+		<title><![CDATA[Zakra Pharmacy - Products Page]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-products-page</link>
 		<pubDate>Mon, 18 Nov 2019 10:12:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1333,6 +1409,8 @@
 		<wp:post_id>548</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:12:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:12:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:12:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:12:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-products-page]]></wp:post_name>
@@ -1369,7 +1447,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - FAQ Page</title>
+		<title><![CDATA[Zakra Pharmacy - FAQ Page]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-faq-page</link>
 		<pubDate>Mon, 18 Nov 2019 10:13:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1391,6 +1469,8 @@
 		<wp:post_id>551</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:13:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:13:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:13:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:13:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-faq-page]]></wp:post_name>
@@ -1427,7 +1507,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Contact Page</title>
+		<title><![CDATA[Zakra Pharmacy - Contact Page]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-contact-page</link>
 		<pubDate>Mon, 18 Nov 2019 10:14:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1468,6 +1548,8 @@
 		<wp:post_id>554</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:14:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:14:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:14:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:14:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-contact-page]]></wp:post_name>
@@ -1504,7 +1586,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Banner Section</title>
+		<title><![CDATA[Zakra Pharmacy - Banner Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-banner-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:15:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1523,6 +1605,8 @@
 		<wp:post_id>557</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:15:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:15:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:15:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:15:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-banner-section]]></wp:post_name>
@@ -1559,7 +1643,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Products Section</title>
+		<title><![CDATA[Zakra Pharmacy - Products Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-products-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:17:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1601,6 +1685,8 @@
 		<wp:post_id>560</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:17:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:17:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:17:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:17:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-products-section]]></wp:post_name>
@@ -1637,7 +1723,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Testimonials Section</title>
+		<title><![CDATA[Zakra Pharmacy - Testimonials Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-testimonials-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:18:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1659,6 +1745,8 @@
 		<wp:post_id>563</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:18:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:18:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:18:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:18:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-testimonials-section]]></wp:post_name>
@@ -1695,7 +1783,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Services Section</title>
+		<title><![CDATA[Zakra Pharmacy - Services Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-services-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:19:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1739,6 +1827,8 @@
 		<wp:post_id>566</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:19:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:19:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:19:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:19:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-services-section]]></wp:post_name>
@@ -1775,7 +1865,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Section</title>
+		<title><![CDATA[Zakra Pharmacy - About Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:20:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1805,6 +1895,8 @@
 		<wp:post_id>569</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:20:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:20:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:20:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:20:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-section]]></wp:post_name>
@@ -1841,7 +1933,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Subscribe Section</title>
+		<title><![CDATA[Zakra Pharmacy - Subscribe Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-subscribe-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:21:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1854,6 +1946,8 @@
 		<wp:post_id>572</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:21:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:21:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:21:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:21:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-subscribe-section]]></wp:post_name>
@@ -1890,7 +1984,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Intro Section</title>
+		<title><![CDATA[Zakra Pharmacy - About Intro Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-intro-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:22:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1904,6 +1998,8 @@
 		<wp:post_id>575</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:22:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:22:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:22:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:22:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-intro-section]]></wp:post_name>
@@ -1940,7 +2036,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Counter Section</title>
+		<title><![CDATA[Zakra Pharmacy - About Counter Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-counter-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:23:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1958,6 +2054,8 @@
 		<wp:post_id>578</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:23:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:23:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:23:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:23:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-counter-section]]></wp:post_name>
@@ -1994,7 +2092,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/pharmacy/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2005,6 +2103,8 @@
 		<wp:post_id>598</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:03:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:03:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -2025,29 +2125,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/pharmacy/?post_type=everest_form&#038;p=5</link>
-		<pubDate>Thu, 20 Jun 2019 10:21:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/zakra-pharmacy/?post_type=everest_form&#038;p=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":"5","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"10","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Pharmacy","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-20 10:21:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-20 10:21:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/mc4wp-form/217/</link>
 		<pubDate>Fri, 21 Jun 2019 05:37:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2060,6 +2138,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-21 05:37:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-21 05:37:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-21 05:37:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-21 05:37:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[217]]></wp:post_name>
@@ -2115,39 +2195,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/pharmacy/?post_type=everest_form&#038;p=383</link>
-		<pubDate>Fri, 14 Jun 2019 10:58:52 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">http://distinct-otter.w6.wpsandbox.pro/?post_type=everest_form&#038;p=383</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":"383","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"10","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Pharmacy","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>383</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-14 10:58:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-14 10:58:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://zakrademos.com/pharmacy/?post_type=everest_form&#038;p=387</link>
 		<pubDate>Fri, 14 Jun 2019 11:03:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">http://distinct-otter.w6.wpsandbox.pro/?post_type=everest_form&#038;p=387</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"387","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"aqMxIKszHg-1":{"id":"aqMxIKszHg-1","type":"number","label":"Mobile","meta-key":"number_1462","description":"","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"10","external_url":"","layout_class":"default","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Pharmacy","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Contact form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","aqMxIKszHg-1","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"387","form_enabled":"1","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"aqMxIKszHg-1":{"id":"aqMxIKszHg-1","type":"number","label":"Mobile","meta-key":"number_1462","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"10","external_url":"","layout_class":"default","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Pharmacy","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Contact form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","aqMxIKszHg-1","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>387</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-14 11:03:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-14 11:03:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:36:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:36:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2-2]]></wp:post_name>
@@ -2159,7 +2219,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/facebook/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2170,6 +2230,8 @@
 		<wp:post_id>438</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -2214,7 +2276,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/twitter/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2225,6 +2287,8 @@
 		<wp:post_id>439</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -2269,7 +2333,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Linkedin</title>
+		<title><![CDATA[Linkedin]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/linkedin/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2280,6 +2344,8 @@
 		<wp:post_id>440</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -2324,7 +2390,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/499/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2335,6 +2401,8 @@
 		<wp:post_id>499</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[499]]></wp:post_name>
@@ -2379,7 +2447,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About us</title>
+		<title><![CDATA[About us]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/about-us/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2391,6 +2459,8 @@
 		<wp:post_id>500</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -2435,7 +2505,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>All products</title>
+		<title><![CDATA[All products]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/all-products/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2447,6 +2517,8 @@
 		<wp:post_id>501</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-products]]></wp:post_name>
@@ -2491,7 +2563,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ</title>
+		<title><![CDATA[FAQ]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/faq/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2503,6 +2575,8 @@
 		<wp:post_id>502</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
@@ -2547,7 +2621,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/503/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2560,6 +2634,8 @@
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[503]]></wp:post_name>
@@ -2604,7 +2680,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/504/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2615,6 +2691,8 @@
 		<wp:post_id>504</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[504]]></wp:post_name>
@@ -2659,7 +2737,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact us</title>
+		<title><![CDATA[Contact us]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/contact-us/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2671,6 +2749,8 @@
 		<wp:post_id>507</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -2715,7 +2795,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/508/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2726,6 +2806,8 @@
 		<wp:post_id>508</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[508]]></wp:post_name>
@@ -2770,7 +2852,121 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Team Section</title>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/pharmacy/2019/07/12/509/</link>
+		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/pharmacy/2019/07/12/509/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>509</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[509]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[FAQ]]></title>
+		<link>https://zakrademos.com/pharmacy/2019/07/12/faq-2/</link>
+		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/pharmacy/2019/07/12/faq-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>510</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[faq-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Zakra Pharmacy - About Team Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-team-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:23:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2806,6 +3002,8 @@
 		<wp:post_id>581</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:23:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:23:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:23:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:23:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-team-section]]></wp:post_name>
@@ -2842,7 +3040,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - About Vision Section</title>
+		<title><![CDATA[Zakra Pharmacy - About Vision Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-about-vision-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2873,6 +3071,8 @@
 		<wp:post_id>584</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:24:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:24:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:24:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:24:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-about-vision-section]]></wp:post_name>
@@ -2909,7 +3109,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Contact Info Section</title>
+		<title><![CDATA[Zakra Pharmacy - Contact Info Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-contact-info-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:26:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2936,6 +3136,8 @@
 		<wp:post_id>587</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:26:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:26:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:26:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:26:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-contact-info-section]]></wp:post_name>
@@ -2972,7 +3174,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Pharmacy - Contact Form Section</title>
+		<title><![CDATA[Zakra Pharmacy - Contact Form Section]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=zakra-pharmacy-contact-form-section</link>
 		<pubDate>Mon, 18 Nov 2019 10:27:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2993,6 +3195,8 @@
 		<wp:post_id>590</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 10:27:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 10:27:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 10:27:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 10:27:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-pharmacy-contact-form-section]]></wp:post_name>
@@ -3029,7 +3233,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/pharmacy/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:12:54 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -3040,6 +3244,8 @@
 		<wp:post_id>596</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:12:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:12:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:12:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:12:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -3059,11 +3265,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:5:{i:0;a:3:{s:3:"_id";s:8:"36794b3c";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"65051754";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:2;a:3:{s:3:"_id";s:8:"4935a85f";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:3;a:3:{s:3:"_id";s:8:"71242192";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:4;a:3:{s:3:"_id";s:7:"7c8297a";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"800";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"700";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:5:{i:0;a:3:{s:3:"_id";s:8:"36794b3c";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"65051754";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:2;a:3:{s:3:"_id";s:8:"4935a85f";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:3;a:3:{s:3:"_id";s:8:"71242192";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:4;a:3:{s:3:"_id";s:7:"7c8297a";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"800";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"700";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/pharmacy/blog/</link>
 		<pubDate>Wed, 05 Jun 2019 09:32:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3075,6 +3281,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:32:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:32:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 11:49:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 11:49:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -3110,7 +3318,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/pharmacy/about/</link>
 		<pubDate>Wed, 05 Jun 2019 09:36:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3179,6 +3387,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:36:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:36:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 07:30:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 07:30:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3234,7 +3444,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Faq&#039;s</title>
+		<title><![CDATA[Faq's]]></title>
 		<link>https://zakrademos.com/pharmacy/faqs/</link>
 		<pubDate>Wed, 05 Jun 2019 09:37:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3257,6 +3467,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:37:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:37:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 09:37:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 09:37:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faqs]]></wp:post_name>
@@ -3312,7 +3524,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/pharmacy/contact/</link>
 		<pubDate>Wed, 05 Jun 2019 09:40:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3350,6 +3562,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:40:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:40:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 07:31:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 07:31:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3405,7 +3619,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Products</title>
+		<title><![CDATA[Products]]></title>
 		<link>https://zakrademos.com/pharmacy/products/</link>
 		<pubDate>Wed, 05 Jun 2019 10:17:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3481,6 +3695,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 10:17:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 10:17:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 07:30:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 07:30:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[products]]></wp:post_name>
@@ -3540,7 +3756,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vitamin K Helps, Not Harms Patients on Warfarin</title>
+		<title><![CDATA[Vitamin K Helps, Not Harms Patients on Warfarin]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/vitamin-k-helps-not-harms-patients-on-warfarin/</link>
 		<pubDate>Mon, 17 Jun 2019 11:24:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3561,6 +3777,8 @@
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:24:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:24:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:24:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:24:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vitamin-k-helps-not-harms-patients-on-warfarin]]></wp:post_name>
@@ -3601,7 +3819,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FDA Approves Drospirenone Tablet for Pregnancy Prevention</title>
+		<title><![CDATA[FDA Approves Drospirenone Tablet for Pregnancy Prevention]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/fda-approves-drospirenone-tablet-for-pregnancy-prevention/</link>
 		<pubDate>Mon, 17 Jun 2019 11:26:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3622,6 +3840,8 @@
 		<wp:post_id>419</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:26:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:26:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:26:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:26:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fda-approves-drospirenone-tablet-for-pregnancy-prevention]]></wp:post_name>
@@ -3662,7 +3882,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Galcanezumab-gnlm Receives FDA Approval for Episodic Cluster Headaches</title>
+		<title><![CDATA[Galcanezumab-gnlm Receives FDA Approval for Episodic Cluster Headaches]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/galcanezumab-gnlm-receives-fda-approval-for-episodic-cluster-headaches/</link>
 		<pubDate>Mon, 17 Jun 2019 11:28:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3683,6 +3903,8 @@
 		<wp:post_id>421</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:28:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:28:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:28:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:28:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[galcanezumab-gnlm-receives-fda-approval-for-episodic-cluster-headaches]]></wp:post_name>
@@ -3723,7 +3945,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Multidisciplinary Approach Recommended for Management of Preexisting Diabetes in Pregnancy</title>
+		<title><![CDATA[Multidisciplinary Approach Recommended for Management of Preexisting Diabetes in Pregnancy]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/multidisciplinary-approach-recommended-for-management-of-preexisting-diabetes-in-pregnancy/</link>
 		<pubDate>Mon, 17 Jun 2019 11:30:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3744,6 +3966,8 @@
 		<wp:post_id>425</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:30:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:30:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:30:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:30:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[multidisciplinary-approach-recommended-for-management-of-preexisting-diabetes-in-pregnancy]]></wp:post_name>
@@ -3784,7 +4008,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Study: Teens with ADHD Have a Higher Crash Risk</title>
+		<title><![CDATA[Study: Teens with ADHD Have a Higher Crash Risk]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/study-teens-with-adhd-have-a-higher-crash-risk/</link>
 		<pubDate>Mon, 17 Jun 2019 11:31:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3805,6 +4029,8 @@
 		<wp:post_id>428</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:31:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:31:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:31:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:31:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[study-teens-with-adhd-have-a-higher-crash-risk]]></wp:post_name>
@@ -3845,7 +4071,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sunscreen: One of the Best Ways to Reduce Skin Cancer Risk</title>
+		<title><![CDATA[Sunscreen: One of the Best Ways to Reduce Skin Cancer Risk]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/06/17/sunscreen-one-of-the-best-ways-to-reduce-skin-cancer-risk/</link>
 		<pubDate>Mon, 17 Jun 2019 11:32:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3866,6 +4092,8 @@
 		<wp:post_id>431</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-17 11:32:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-17 11:32:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-17 11:32:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-17 11:32:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sunscreen-one-of-the-best-ways-to-reduce-skin-cancer-risk]]></wp:post_name>
@@ -3906,7 +4134,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/pharmacy/sample-page/</link>
 		<pubDate>Thu, 20 Jun 2019 10:12:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3925,6 +4153,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		<wp:post_id>496</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-20 10:12:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-20 10:12:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:20:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:20:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -3944,7 +4174,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/pharmacy/</link>
 		<pubDate>Wed, 05 Jun 2019 09:30:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4065,6 +4295,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		<wp:post_id>498</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:30:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:30:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 07:28:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 07:28:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4120,117 +4352,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://zakrademos.com/pharmacy/2019/07/12/509/</link>
-		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/pharmacy/2019/07/12/509/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>509</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[509]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>FAQ</title>
-		<link>https://zakrademos.com/pharmacy/2019/07/12/faq-2/</link>
-		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/pharmacy/2019/07/12/faq-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>510</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[faq-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/pharmacy/2019/07/12/511/</link>
 		<pubDate>Fri, 12 Jul 2019 06:18:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4241,6 +4363,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		<wp:post_id>511</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 06:18:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 06:18:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 06:18:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[511]]></wp:post_name>

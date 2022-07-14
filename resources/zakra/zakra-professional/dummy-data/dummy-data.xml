@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.2" created="2021-03-06 10:01" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 09:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,14 @@
 	<title>Zakra Professional</title>
 	<link>https://zakrademos.com/professional</link>
 	<description>WordPress Template Site for Any Professional Corporate</description>
-	<pubDate>Sat, 06 Mar 2021 10:01:53 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 09:29:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/professional</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>6</wp:author_id><wp:author_login><![CDATA[superadmin]]></wp:author_login><wp:author_email><![CDATA[rabinstha.me@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[superadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>6</wp:author_id><wp:author_login><![CDATA[superadmin]]></wp:author_login><wp:author_email><![CDATA[rabinstha.me@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[superadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -45,6 +45,27 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
@@ -61,7 +82,7 @@
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/professional/wp-content/uploads/sites/46/2020/07/cropped-zakra-32x32.png</url>
@@ -72,7 +93,7 @@
 </image> 
 
 		<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/professional/logo/</link>
 		<pubDate>Tue, 14 Apr 2020 06:24:35 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -83,6 +104,8 @@
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 06:24:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 06:24:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-14 06:24:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-14 06:24:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -111,7 +134,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo.png</title>
+		<title><![CDATA[cropped-logo.png]]></title>
 		<link>https://zakrademos.com/professional/cropped-logo-png/</link>
 		<pubDate>Tue, 14 Apr 2020 06:24:47 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -122,6 +145,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 06:24:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 06:24:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-14 06:24:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-14 06:24:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-png]]></wp:post_name>
@@ -158,7 +183,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio4</title>
+		<title><![CDATA[portfolio4]]></title>
 		<link>https://zakrademos.com/professional/portfolio4/</link>
 		<pubDate>Tue, 14 Apr 2020 12:20:21 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -169,6 +194,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 12:20:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 12:20:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-14 12:20:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-14 12:20:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio4]]></wp:post_name>
@@ -197,7 +224,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio5</title>
+		<title><![CDATA[portfolio5]]></title>
 		<link>https://zakrademos.com/professional/portfolio5/</link>
 		<pubDate>Tue, 14 Apr 2020 12:20:34 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -208,6 +235,8 @@
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 12:20:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 12:20:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-14 12:20:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-14 12:20:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio5]]></wp:post_name>
@@ -236,7 +265,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tlagency</title>
+		<title><![CDATA[tlagency]]></title>
 		<link>https://zakrademos.com/professional/home-2/tlagency/</link>
 		<pubDate>Wed, 15 Apr 2020 08:56:34 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -247,6 +276,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-15 08:56:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-15 08:56:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-15 08:56:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-15 08:56:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tlagency]]></wp:post_name>
@@ -275,7 +306,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trueagency</title>
+		<title><![CDATA[trueagency]]></title>
 		<link>https://zakrademos.com/professional/home-2/trueagency/</link>
 		<pubDate>Wed, 15 Apr 2020 08:56:35 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -286,6 +317,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-15 08:56:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-15 08:56:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-15 08:56:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-15 08:56:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trueagency]]></wp:post_name>
@@ -314,7 +347,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>webtechnology</title>
+		<title><![CDATA[webtechnology]]></title>
 		<link>https://zakrademos.com/professional/home-2/webtechnology/</link>
 		<pubDate>Wed, 15 Apr 2020 08:56:37 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -325,6 +358,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-15 08:56:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-15 08:56:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-15 08:56:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-15 08:56:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[webtechnology]]></wp:post_name>
@@ -353,7 +388,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>creative agency</title>
+		<title><![CDATA[creative agency]]></title>
 		<link>https://zakrademos.com/professional/home-2/creative-agency/</link>
 		<pubDate>Wed, 15 Apr 2020 08:56:38 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -364,6 +399,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-15 08:56:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-15 08:56:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-15 08:56:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-15 08:56:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[creative-agency]]></wp:post_name>
@@ -392,7 +429,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/professional/zakra/</link>
 		<pubDate>Wed, 15 Jul 2020 05:05:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -403,6 +440,8 @@
 		<wp:post_id>469</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:05:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:05:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:05:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:05:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -423,7 +462,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-zakra.png</title>
+		<title><![CDATA[cropped-zakra.png]]></title>
 		<link>https://zakrademos.com/professional/cropped-zakra-png/</link>
 		<pubDate>Wed, 15 Jul 2020 05:05:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -434,6 +473,8 @@
 		<wp:post_id>470</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:05:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:05:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:05:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:05:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-zakra-png]]></wp:post_name>
@@ -456,9 +497,13 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:25:"2020/07/cropped-zakra.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:25:"cropped-zakra-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"cropped-zakra-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-270";a:4:{s:4:"file";s:25:"cropped-zakra-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:25:"cropped-zakra-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:25:"cropped-zakra-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:23:"cropped-zakra-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_a4b9c4f4ac238f1f49c40ae5fc39fade]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>bolg1</title>
+		<title><![CDATA[bolg1]]></title>
 		<link>https://zakrademos.com/professional/2020/04/17/team-gathering/bolg1/</link>
 		<pubDate>Mon, 22 Feb 2021 12:36:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -469,6 +514,8 @@
 		<wp:post_id>623</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:36:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:36:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:36:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:36:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bolg1]]></wp:post_name>
@@ -489,7 +536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog3</title>
+		<title><![CDATA[blog3]]></title>
 		<link>https://zakrademos.com/professional/2015/07/29/hello-world-2/blog3/</link>
 		<pubDate>Mon, 22 Feb 2021 12:36:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -500,6 +547,8 @@
 		<wp:post_id>625</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:36:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:36:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:36:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:36:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog3]]></wp:post_name>
@@ -520,7 +569,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>we-do</title>
+		<title><![CDATA[we-do]]></title>
 		<link>https://zakrademos.com/professional/portfolio/portfolio-details/we-do/</link>
 		<pubDate>Mon, 22 Feb 2021 12:37:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -531,6 +580,8 @@
 		<wp:post_id>627</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:37:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:37:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:37:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:37:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[we-do]]></wp:post_name>
@@ -551,7 +602,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio1</title>
+		<title><![CDATA[portfolio1]]></title>
 		<link>https://zakrademos.com/professional/portfolio/portfolio-details/portfolio1/</link>
 		<pubDate>Mon, 22 Feb 2021 12:38:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -562,6 +613,8 @@
 		<wp:post_id>628</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:38:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:38:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:38:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:38:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio1]]></wp:post_name>
@@ -582,7 +635,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio2</title>
+		<title><![CDATA[portfolio2]]></title>
 		<link>https://zakrademos.com/professional/portfolio/portfolio-details/portfolio2/</link>
 		<pubDate>Mon, 22 Feb 2021 12:38:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -593,6 +646,8 @@
 		<wp:post_id>629</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:38:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:38:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:38:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:38:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio2]]></wp:post_name>
@@ -613,7 +668,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio3</title>
+		<title><![CDATA[portfolio3]]></title>
 		<link>https://zakrademos.com/professional/portfolio/portfolio-details/portfolio3/</link>
 		<pubDate>Mon, 22 Feb 2021 12:39:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -624,6 +679,8 @@
 		<wp:post_id>631</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:39:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:39:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:39:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:39:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio3]]></wp:post_name>
@@ -644,7 +701,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>startup-sem</title>
+		<title><![CDATA[startup-sem]]></title>
 		<link>https://zakrademos.com/professional/portfolio/startup-sem/</link>
 		<pubDate>Mon, 22 Feb 2021 12:40:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -655,6 +712,8 @@
 		<wp:post_id>635</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:40:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:40:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:40:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:40:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[startup-sem]]></wp:post_name>
@@ -675,7 +734,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>heroimage</title>
+		<title><![CDATA[heroimage]]></title>
 		<link>https://zakrademos.com/professional/home-2/heroimage/</link>
 		<pubDate>Mon, 22 Feb 2021 12:41:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -686,6 +745,8 @@
 		<wp:post_id>639</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:41:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:41:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:41:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:41:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[heroimage]]></wp:post_name>
@@ -706,7 +767,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>getintouch-bg</title>
+		<title><![CDATA[getintouch-bg]]></title>
 		<link>https://zakrademos.com/professional/home-2/getintouch-bg/</link>
 		<pubDate>Mon, 22 Feb 2021 12:42:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -717,6 +778,8 @@
 		<wp:post_id>640</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:42:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:42:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:42:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:42:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[getintouch-bg]]></wp:post_name>
@@ -737,7 +800,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team1</title>
+		<title><![CDATA[team1]]></title>
 		<link>https://zakrademos.com/professional/home-2/team1/</link>
 		<pubDate>Mon, 22 Feb 2021 12:42:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -748,6 +811,8 @@
 		<wp:post_id>641</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:42:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:42:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:42:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:42:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team1]]></wp:post_name>
@@ -768,33 +833,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/professional/?post_type=everest_form&#038;p=3</link>
-		<pubDate>Mon, 04 May 2020 06:55:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/professional/?post_type=everest_form&#038;p=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":3,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Professional","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-04 06:55:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-04 06:55:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=default-kit</link>
 		<pubDate>Tue, 14 Apr 2020 05:51:43 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -805,6 +844,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 05:51:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 05:51:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-14 05:51:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-14 05:51:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -828,7 +869,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/professional/2020/05/04/146/</link>
 		<pubDate>Mon, 04 May 2020 07:12:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -839,6 +880,8 @@
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 07:12:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 07:58:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 07:58:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[146]]></wp:post_name>
@@ -887,7 +930,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/professional/2020/05/04/147/</link>
 		<pubDate>Mon, 04 May 2020 07:12:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -898,6 +941,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 07:12:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 10:22:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 10:22:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[147]]></wp:post_name>
@@ -946,17 +991,80 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/professional/2020/05/04/155/</link>
+		<pubDate>Mon, 04 May 2020 07:12:24 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/professional/2020/05/04/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>155</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-04 07:12:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 10:22:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 10:22:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[155]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[154]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/professional/?post_type=everest_form&#038;p=183</link>
 		<pubDate>Thu, 16 Apr 2020 11:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-professional.sites.qsandbox.com/?post_type=everest_form&#038;p=183</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"183","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Full Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"e.g. Jack Obama","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"e.g. jack.obama@gmail.com","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"e.g. Like to join team","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"e.g. Hello","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Zakra Professional","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"183","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Full Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"e.g. Jack Obama","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"e.g. jack.obama@gmail.com","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"e.g. Like to join team","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"e.g. Hello","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"122","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Professional","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-16 11:45:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-16 11:45:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:23:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:23:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -972,7 +1080,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home banner</title>
+		<title><![CDATA[home banner]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=home-banner</link>
 		<pubDate>Thu, 28 May 2020 06:19:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -991,6 +1099,8 @@
 		<wp:post_id>362</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-28 06:19:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-28 06:19:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-28 06:19:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-28 06:19:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-banner]]></wp:post_name>
@@ -1027,7 +1137,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home</title>
+		<title><![CDATA[home]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=home</link>
 		<pubDate>Fri, 29 May 2020 04:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1167,6 +1277,8 @@
 		<wp:post_id>372</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-29 04:17:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-29 04:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 04:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 04:17:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1203,7 +1315,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about</title>
+		<title><![CDATA[about]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=about</link>
 		<pubDate>Fri, 29 May 2020 04:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1250,6 +1362,8 @@
 		<wp:post_id>375</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-29 04:18:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-29 04:18:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 04:18:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 04:18:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1286,7 +1400,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio</title>
+		<title><![CDATA[portfolio]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=portfolio</link>
 		<pubDate>Fri, 29 May 2020 04:18:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1328,6 +1442,8 @@
 		<wp:post_id>378</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-29 04:18:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-29 04:18:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 04:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 04:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -1364,7 +1480,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=contact</link>
 		<pubDate>Fri, 29 May 2020 04:19:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1385,6 +1501,8 @@
 		<wp:post_id>381</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-29 04:19:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-29 04:19:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 04:19:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 04:19:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1421,7 +1539,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio details</title>
+		<title><![CDATA[portfolio details]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=portfolio-details</link>
 		<pubDate>Fri, 29 May 2020 04:19:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1456,6 +1574,8 @@
 		<wp:post_id>384</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-29 04:19:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-29 04:19:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 04:19:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 04:19:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-details]]></wp:post_name>
@@ -1492,7 +1612,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>demo</title>
+		<title><![CDATA[demo]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=demo</link>
 		<pubDate>Sun, 07 Jun 2020 18:02:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1510,6 +1630,8 @@
 		<wp:post_id>402</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 18:02:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 18:02:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 18:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 18:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demo]]></wp:post_name>
@@ -1546,7 +1668,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/professional/?elementor_library=default-kit-2</link>
 		<pubDate>Tue, 16 Jun 2020 06:59:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1557,6 +1679,8 @@
 		<wp:post_id>443</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 06:59:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 06:59:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 06:59:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 06:59:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit-2]]></wp:post_name>
@@ -1580,11 +1704,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#2B2B2B";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#D90A2C";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#2B2B2B";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#123458";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"78df4dbf";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"3c05b7ea";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"5b60b59d";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"3fb71b49";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"141362f6";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"4c7fd45c";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"4a849aa8";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"2878fd13";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#2B2B2B";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#D90A2C";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#2B2B2B";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#123458";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"78df4dbf";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"3c05b7ea";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"5b60b59d";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"3fb71b49";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"141362f6";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"4c7fd45c";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"4a849aa8";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"2878fd13";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team2</title>
+		<title><![CDATA[team2]]></title>
 		<link>https://zakrademos.com/professional/home-2/team2/</link>
 		<pubDate>Mon, 22 Feb 2021 12:42:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1595,6 +1719,8 @@
 		<wp:post_id>642</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:42:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:42:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:42:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:42:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team2]]></wp:post_name>
@@ -1615,7 +1741,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team3</title>
+		<title><![CDATA[team3]]></title>
 		<link>https://zakrademos.com/professional/home-2/team3/</link>
 		<pubDate>Mon, 22 Feb 2021 12:42:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1626,6 +1752,8 @@
 		<wp:post_id>643</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:42:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:42:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:42:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:42:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team3]]></wp:post_name>
@@ -1646,7 +1774,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>review</title>
+		<title><![CDATA[review]]></title>
 		<link>https://zakrademos.com/professional/home-2/review/</link>
 		<pubDate>Mon, 22 Feb 2021 12:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1657,6 +1785,8 @@
 		<wp:post_id>644</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:43:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:43:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:43:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:43:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[review]]></wp:post_name>
@@ -1677,7 +1807,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>whatwedo</title>
+		<title><![CDATA[whatwedo]]></title>
 		<link>https://zakrademos.com/professional/about/whatwedo/</link>
 		<pubDate>Mon, 22 Feb 2021 12:43:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1688,6 +1818,8 @@
 		<wp:post_id>648</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:43:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:43:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:43:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:43:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[whatwedo]]></wp:post_name>
@@ -1708,7 +1840,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ourphilosophy</title>
+		<title><![CDATA[ourphilosophy]]></title>
 		<link>https://zakrademos.com/professional/about/ourphilosophy/</link>
 		<pubDate>Mon, 22 Feb 2021 12:44:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1719,6 +1851,8 @@
 		<wp:post_id>649</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:44:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:44:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:44:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:44:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ourphilosophy]]></wp:post_name>
@@ -1739,7 +1873,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>counter-bg</title>
+		<title><![CDATA[counter-bg]]></title>
 		<link>https://zakrademos.com/professional/about/counter-bg/</link>
 		<pubDate>Mon, 22 Feb 2021 12:44:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1750,6 +1884,8 @@
 		<wp:post_id>650</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-22 12:44:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-22 12:44:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:44:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:44:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[counter-bg]]></wp:post_name>
@@ -1770,7 +1906,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>office-presentation</title>
+		<title><![CDATA[office-presentation]]></title>
 		<link>https://zakrademos.com/professional/2020/04/17/office-presentation/office-presentation-2/</link>
 		<pubDate>Sat, 06 Mar 2021 10:00:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1781,6 +1917,8 @@
 		<wp:post_id>661</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-06 10:00:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-06 10:00:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-06 10:00:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-06 10:00:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[office-presentation-2]]></wp:post_name>
@@ -1801,7 +1939,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/professional/blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -1812,6 +1950,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1855,7 +1995,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/professional/</link>
 		<pubDate>Tue, 14 Apr 2020 05:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -1995,6 +2135,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-14 05:51:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-14 05:51:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:43:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:43:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -2058,7 +2200,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/professional/about/</link>
 		<pubDate>Wed, 15 Apr 2020 09:52:26 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2111,6 +2253,8 @@ Orci ut risus arcu sed orci varius sit. Nare nisl viverra sem in dolor. Nunc, pr
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-15 09:52:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-15 09:52:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:44:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:44:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2174,7 +2318,7 @@ Orci ut risus arcu sed orci varius sit. Nare nisl viverra sem in dolor. Nunc, pr
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Business Seminar</title>
+		<title><![CDATA[Business Seminar]]></title>
 		<link>https://zakrademos.com/professional/2015/07/29/hello-world-2/</link>
 		<pubDate>Wed, 29 Jul 2015 13:40:59 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2187,6 +2331,8 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:40:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:36:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:36:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
@@ -2250,7 +2396,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 							</wp:comment>
 					</item>
 					<item>
-		<title>Portfolio</title>
+		<title><![CDATA[Portfolio]]></title>
 		<link>https://zakrademos.com/professional/portfolio/</link>
 		<pubDate>Thu, 16 Apr 2020 09:24:27 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2292,6 +2438,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-16 09:24:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-16 09:24:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:41:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -2355,66 +2503,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://zakrademos.com/professional/2020/05/04/155/</link>
-		<pubDate>Mon, 04 May 2020 07:12:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/professional/2020/05/04/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-04 07:12:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[155]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[154]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/professional/contact/</link>
 		<pubDate>Thu, 16 Apr 2020 11:26:05 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2441,6 +2530,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-16 11:26:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-16 11:26:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 12:45:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 12:45:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2504,7 +2595,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/professional/2020/05/04/175/</link>
 		<pubDate>Mon, 04 May 2020 07:12:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2515,6 +2606,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 07:12:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 07:58:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 07:58:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[175]]></wp:post_name>
@@ -2563,7 +2656,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Portfolio Details</title>
+		<title><![CDATA[Portfolio Details]]></title>
 		<link>https://zakrademos.com/professional/portfolio/portfolio-details/</link>
 		<pubDate>Fri, 17 Apr 2020 04:05:33 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2598,6 +2691,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-17 04:05:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-17 04:05:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:39:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:39:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-details]]></wp:post_name>
@@ -2661,7 +2756,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Team Gathering</title>
+		<title><![CDATA[Team Gathering]]></title>
 		<link>https://zakrademos.com/professional/2020/04/17/team-gathering/</link>
 		<pubDate>Fri, 17 Apr 2020 10:20:30 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2678,6 +2773,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-17 10:20:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-17 10:20:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-22 12:36:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-22 12:36:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team-gathering]]></wp:post_name>
@@ -2726,7 +2823,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Office Presentation</title>
+		<title><![CDATA[Office Presentation]]></title>
 		<link>https://zakrademos.com/professional/2020/04/17/office-presentation/</link>
 		<pubDate>Fri, 17 Apr 2020 10:23:56 +0000</pubDate>
 		<dc:creator><![CDATA[superadmin]]></dc:creator>
@@ -2747,6 +2844,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-17 10:23:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-17 10:23:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-06 10:00:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-06 10:00:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[office-presentation]]></wp:post_name>
@@ -2795,7 +2894,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/professional/2020/05/04/237/</link>
 		<pubDate>Mon, 04 May 2020 07:12:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2806,6 +2905,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 07:12:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 07:12:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 10:22:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 10:22:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[237]]></wp:post_name>
@@ -2853,6 +2954,31 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://zakrademos.com/professional/2022/07/12/wp-global-styles-zakra/</link>
+		<pubDate>Tue, 12 Jul 2022 08:20:26 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/professional/2022/07/12/wp-global-styles-zakra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>662</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-12 08:20:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-12 08:20:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:20:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:20:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-zakra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="zakra"><![CDATA[zakra]]></category>
+						</item>
 				</channel>
 </rss>
 	

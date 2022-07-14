@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.2" created="2021-03-01 11:44" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 08:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,11 +28,11 @@
 <channel>
 	<title>Travel Blog</title>
 	<link>https://zakrademos.com/travel-blog</link>
-	<description>WordPress Template Site for Travel Blog</description>
-	<pubDate>Mon, 01 Mar 2021 11:44:29 +0000</pubDate>
+	<description>WordPress Template Site for Professional and Personal Travel Blogger</description>
+	<pubDate>Wed, 13 Jul 2022 08:43:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/travel-blog</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -43,13 +43,34 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+				<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 		<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/travel-blog/?elementor_library=default-kit</link>
 		<pubDate>Mon, 15 Feb 2021 10:05:35 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -60,6 +81,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:05:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:05:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-20 08:50:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-20 08:50:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -83,21 +106,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:16:"site_description";s:39:"WordPress Template Site for Travel Blog";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:16:"site_description";s:68:"WordPress Template Site for Professional and Personal Travel Blogger";s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/travel-blog/?post_type=everest_form&#038;p=26</link>
 		<pubDate>Thu, 04 Feb 2021 05:24:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?post_type=everest_form&#038;p=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"26","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Subject","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"19","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"My qSandbox Test Site","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"26","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Subject","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"19","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Travel Blog","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 05:24:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 05:24:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:51:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:51:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -109,7 +134,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/zakra/</link>
 		<pubDate>Thu, 04 Feb 2021 08:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -121,6 +146,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 08:23:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 08:23:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 11:28:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 11:28:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -132,7 +159,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>client01</title>
+		<title><![CDATA[client01]]></title>
 		<link>https://zakrademos.com/travel-blog/home/client01/</link>
 		<pubDate>Fri, 05 Feb 2021 01:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -143,6 +170,8 @@
 		<wp:post_id>186</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 01:55:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 01:55:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 01:55:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 01:55:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[client01]]></wp:post_name>
@@ -163,7 +192,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>client02</title>
+		<title><![CDATA[client02]]></title>
 		<link>https://zakrademos.com/travel-blog/home/client02/</link>
 		<pubDate>Fri, 05 Feb 2021 01:57:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -174,6 +203,8 @@
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 01:57:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 01:57:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 01:57:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 01:57:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[client02]]></wp:post_name>
@@ -194,7 +225,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>client03</title>
+		<title><![CDATA[client03]]></title>
 		<link>https://zakrademos.com/travel-blog/home/client03/</link>
 		<pubDate>Fri, 05 Feb 2021 01:58:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -205,6 +236,8 @@
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 01:58:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 01:58:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 01:58:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 01:58:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[client03]]></wp:post_name>
@@ -225,7 +258,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-img-01</title>
+		<title><![CDATA[blog-img-01]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/23-ways-to-cut-your-expenses-and-have-more-money-for-travel/blog-img-01/</link>
 		<pubDate>Fri, 05 Feb 2021 02:05:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -236,6 +269,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 02:05:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 02:05:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 02:05:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 02:05:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-img-01]]></wp:post_name>
@@ -256,7 +291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-img-02</title>
+		<title><![CDATA[blog-img-02]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/the-best-place-to-travel-in-2021/blog-img-02/</link>
 		<pubDate>Fri, 05 Feb 2021 02:22:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -267,6 +302,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 02:22:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 02:22:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 02:22:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 02:22:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-img-02]]></wp:post_name>
@@ -287,7 +324,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-img-03</title>
+		<title><![CDATA[blog-img-03]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/8-best-things-to-do-in-thailand/blog-img-03/</link>
 		<pubDate>Fri, 05 Feb 2021 02:22:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -298,6 +335,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 02:22:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 02:22:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 02:22:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 02:22:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-img-03]]></wp:post_name>
@@ -318,7 +357,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-img</title>
+		<title><![CDATA[about-img]]></title>
 		<link>https://zakrademos.com/travel-blog/about/about-img/</link>
 		<pubDate>Fri, 05 Feb 2021 03:02:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -329,6 +368,8 @@
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:02:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:02:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:02:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:02:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-img]]></wp:post_name>
@@ -349,7 +390,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
+		<title><![CDATA[banner]]></title>
 		<link>https://zakrademos.com/travel-blog/home/banner/</link>
 		<pubDate>Fri, 05 Feb 2021 03:17:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -360,6 +401,8 @@
 		<wp:post_id>228</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:17:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:17:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:17:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:17:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner]]></wp:post_name>
@@ -380,7 +423,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>inner-bg</title>
+		<title><![CDATA[inner-bg]]></title>
 		<link>https://zakrademos.com/travel-blog/inner-bg/</link>
 		<pubDate>Fri, 05 Feb 2021 03:24:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -391,6 +434,8 @@
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:24:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:24:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:24:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:24:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[inner-bg]]></wp:post_name>
@@ -411,7 +456,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>middle-bg</title>
+		<title><![CDATA[middle-bg]]></title>
 		<link>https://zakrademos.com/travel-blog/home/middle-bg/</link>
 		<pubDate>Fri, 05 Feb 2021 03:28:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -422,6 +467,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:28:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:28:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:28:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:28:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[middle-bg]]></wp:post_name>
@@ -442,7 +489,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>background-img</title>
+		<title><![CDATA[background-img]]></title>
 		<link>https://zakrademos.com/travel-blog/home/background-img/</link>
 		<pubDate>Fri, 05 Feb 2021 03:28:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -453,6 +500,8 @@
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:28:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:28:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:28:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:28:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[background-img]]></wp:post_name>
@@ -473,7 +522,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>main-logo</title>
+		<title><![CDATA[main-logo]]></title>
 		<link>https://zakrademos.com/travel-blog/main-logo/</link>
 		<pubDate>Fri, 05 Feb 2021 03:42:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -484,6 +533,8 @@
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-05 03:42:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-05 03:42:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-05 03:42:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-05 03:42:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[main-logo]]></wp:post_name>
@@ -504,7 +555,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-img-1</title>
+		<title><![CDATA[about-img-1]]></title>
 		<link>https://zakrademos.com/travel-blog/about/about-img-1/</link>
 		<pubDate>Sat, 06 Feb 2021 13:31:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -515,6 +566,8 @@
 		<wp:post_id>291</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-06 13:31:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-06 13:31:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-06 13:31:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-06 13:31:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-img-1]]></wp:post_name>
@@ -535,7 +588,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-img-07</title>
+		<title><![CDATA[blog-img-07]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/11-best-things-to-do-at-the-sun-moon-lake/blog-img-07/</link>
 		<pubDate>Mon, 08 Feb 2021 10:47:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -546,6 +599,8 @@
 		<wp:post_id>312</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-08 10:47:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-08 10:47:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-08 10:47:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-08 10:47:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-img-07]]></wp:post_name>
@@ -566,7 +621,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>client-img1</title>
+		<title><![CDATA[client-img1]]></title>
 		<link>https://zakrademos.com/travel-blog/home/client-img1/</link>
 		<pubDate>Wed, 24 Feb 2021 01:12:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -577,6 +632,8 @@
 		<wp:post_id>349</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-24 01:12:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-24 01:12:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 01:12:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 01:12:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[client-img1]]></wp:post_name>
@@ -597,7 +654,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>travel</title>
+		<title><![CDATA[travel]]></title>
 		<link>https://zakrademos.com/travel-blog/home/travel/</link>
 		<pubDate>Wed, 24 Feb 2021 01:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -608,6 +665,8 @@
 		<wp:post_id>352</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-24 01:18:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-24 01:18:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 01:18:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 01:18:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
@@ -628,7 +687,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-img-09</title>
+		<title><![CDATA[blog-img-09]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/14-great-travel-backpacks-for-your-next-trip/blog-img-09/</link>
 		<pubDate>Wed, 24 Feb 2021 06:41:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -639,6 +698,8 @@
 		<wp:post_id>354</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-24 06:41:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-24 06:41:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 06:41:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 06:41:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-img-09]]></wp:post_name>
@@ -659,7 +720,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/travel-blog/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Mon, 15 Feb 2021 10:05:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -670,18 +731,32 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:05:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:05:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:51:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:51:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[contact-form__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657612270]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/travel-blog/blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -692,6 +767,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -707,7 +784,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/travel-blog/about/</link>
 		<pubDate>Thu, 04 Feb 2021 03:34:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -826,6 +903,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 03:34:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 03:34:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 01:18:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 01:18:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -861,7 +940,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/travel-blog/contact/</link>
 		<pubDate>Thu, 04 Feb 2021 05:24:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -906,6 +985,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 05:24:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 05:24:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-04 05:24:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-04 05:24:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -945,7 +1026,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>11 Best Things to Do at the Sun Moon Lake</title>
+		<title><![CDATA[11 Best Things to Do at the Sun Moon Lake]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/11-best-things-to-do-at-the-sun-moon-lake/</link>
 		<pubDate>Thu, 04 Feb 2021 06:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -966,6 +1047,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 06:43:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 06:43:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-04 06:43:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-04 06:43:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[11-best-things-to-do-at-the-sun-moon-lake]]></wp:post_name>
@@ -1010,7 +1093,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>14 Great Travel Backpacks for Your Next Trip</title>
+		<title><![CDATA[14 Great Travel Backpacks for Your Next Trip]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/14-great-travel-backpacks-for-your-next-trip/</link>
 		<pubDate>Thu, 04 Feb 2021 06:45:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1027,6 +1110,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 06:45:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 06:45:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 06:41:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 06:41:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[14-great-travel-backpacks-for-your-next-trip]]></wp:post_name>
@@ -1083,7 +1168,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>8 Best Things to Do in Thailand</title>
+		<title><![CDATA[8 Best Things to Do in Thailand]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/8-best-things-to-do-in-thailand/</link>
 		<pubDate>Thu, 04 Feb 2021 06:45:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1100,6 +1185,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 06:45:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 06:45:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-04 06:45:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-04 06:45:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[8-best-things-to-do-in-thailand]]></wp:post_name>
@@ -1152,7 +1239,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best Place To Travel in 2021</title>
+		<title><![CDATA[The Best Place To Travel in 2021]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/the-best-place-to-travel-in-2021/</link>
 		<pubDate>Thu, 04 Feb 2021 06:45:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1169,6 +1256,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 06:45:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 06:45:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-04 06:45:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-04 06:45:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-place-to-travel-in-2021]]></wp:post_name>
@@ -1217,7 +1306,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>23 Ways to Cut Your Expenses and Have More Money for Travel</title>
+		<title><![CDATA[23 Ways to Cut Your Expenses and Have More Money for Travel]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/04/23-ways-to-cut-your-expenses-and-have-more-money-for-travel/</link>
 		<pubDate>Thu, 04 Feb 2021 06:45:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1234,6 +1323,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-04 06:45:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-04 06:45:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-04 06:45:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-04 06:45:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[23-ways-to-cut-your-expenses-and-have-more-money-for-travel]]></wp:post_name>
@@ -1282,7 +1373,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/travel-blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:44:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1561,6 +1652,8 @@
 		<wp:post_id>313</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-24 07:14:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-24 07:14:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1600,7 +1693,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/15/314/</link>
 		<pubDate>Mon, 15 Feb 2021 10:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1611,6 +1704,8 @@
 		<wp:post_id>314</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:23:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 10:23:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[314]]></wp:post_name>
@@ -1655,7 +1750,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/15/315/</link>
 		<pubDate>Mon, 15 Feb 2021 10:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1666,6 +1761,8 @@
 		<wp:post_id>315</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:23:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 10:23:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[315]]></wp:post_name>
@@ -1710,7 +1807,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/15/316/</link>
 		<pubDate>Mon, 15 Feb 2021 10:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1721,6 +1818,8 @@
 		<wp:post_id>316</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:23:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 10:23:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[316]]></wp:post_name>
@@ -1765,7 +1864,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/travel-blog/2021/02/15/317/</link>
 		<pubDate>Mon, 15 Feb 2021 10:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1776,6 +1875,8 @@
 		<wp:post_id>317</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-15 10:23:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-15 10:23:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-15 10:23:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[317]]></wp:post_name>
@@ -1819,6 +1920,31 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://zakrademos.com/travel-blog/2022/07/12/wp-global-styles-zakra/</link>
+		<pubDate>Tue, 12 Jul 2022 07:49:48 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/travel-blog/2022/07/12/wp-global-styles-zakra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>356</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-12 07:49:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-12 07:49:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:49:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:49:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-zakra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="zakra"><![CDATA[zakra]]></category>
+						</item>
 				</channel>
 </rss>
 	

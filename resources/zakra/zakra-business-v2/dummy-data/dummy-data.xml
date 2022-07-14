@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-07 11:58" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 16:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,15 +29,14 @@
 	<title>Zakra Business</title>
 	<link>https://zakrademos.com/business-v2</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Thu, 07 Jan 2021 11:58:50 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 16:19:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/business-v2</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[rabinstha.me@gmail.com]]></wp:author_login><wp:author_email><![CDATA[rabinstha.me@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Rabinsthame]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[teamzakra]]></wp:author_login><wp:author_email><![CDATA[team@zakratheme.com]]></wp:author_email><wp:author_display_name><![CDATA[teamzakra]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -76,14 +75,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -94,7 +114,7 @@
 	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[quick-links]]></wp:term_slug><wp:term_name><![CDATA[Quick Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2020/07/zakra.png</url>
@@ -105,10 +125,10 @@
 </image> 
 
 		<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/business-v2/logo/</link>
 		<pubDate>Fri, 26 Jul 2019 09:34:50 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -116,6 +136,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 09:34:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 09:34:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:00:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:00:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -140,10 +162,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo.png</title>
+		<title><![CDATA[cropped-logo.png]]></title>
 		<link>https://zakrademos.com/business-v2/cropped-logo-png/</link>
 		<pubDate>Fri, 26 Jul 2019 09:35:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/cropped-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -153,6 +175,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 09:35:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 09:35:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-26 09:35:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-26 09:35:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-png]]></wp:post_name>
@@ -189,10 +213,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfilio-feature</title>
+		<title><![CDATA[portfilio-feature]]></title>
 		<link>https://zakrademos.com/business-v2/portfilio-feature/</link>
 		<pubDate>Tue, 30 Jul 2019 06:26:45 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/portfilio-feature.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -202,6 +226,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-30 06:26:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-30 06:26:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-30 06:26:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-30 06:26:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfilio-feature]]></wp:post_name>
@@ -226,10 +252,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>port1</title>
+		<title><![CDATA[port1]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/port1/</link>
 		<pubDate>Wed, 31 Jul 2019 05:48:03 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/port1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -237,6 +263,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-31 05:48:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-31 05:48:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[port1]]></wp:post_name>
@@ -261,10 +289,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>port4</title>
+		<title><![CDATA[port4]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/port4/</link>
 		<pubDate>Wed, 31 Jul 2019 06:00:28 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/port4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -272,6 +300,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-31 06:00:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-31 06:00:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[port4]]></wp:post_name>
@@ -296,10 +326,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-img</title>
+		<title><![CDATA[banner-img]]></title>
 		<link>https://zakrademos.com/business-v2/home/banner-img/</link>
 		<pubDate>Wed, 31 Jul 2019 08:37:01 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/banner-img.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -307,6 +337,8 @@
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-31 08:37:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-31 08:37:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:08:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:08:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-img]]></wp:post_name>
@@ -331,10 +363,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-circle</title>
+		<title><![CDATA[banner-circle]]></title>
 		<link>https://zakrademos.com/business-v2/home/banner-circle/</link>
 		<pubDate>Wed, 31 Jul 2019 10:48:02 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/banner-circle.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -342,6 +374,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-31 10:48:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-31 10:48:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:09:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:09:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-circle]]></wp:post_name>
@@ -366,10 +400,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-img1</title>
+		<title><![CDATA[banner-img1]]></title>
 		<link>https://zakrademos.com/business-v2/home/banner-img1/</link>
 		<pubDate>Wed, 31 Jul 2019 10:56:49 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/banner-img1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -377,6 +411,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-31 10:56:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-31 10:56:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:52:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:52:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-img1]]></wp:post_name>
@@ -401,10 +437,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>homep-aboutbg</title>
+		<title><![CDATA[homep-aboutbg]]></title>
 		<link>https://zakrademos.com/business-v2/home/homep-aboutbg/</link>
 		<pubDate>Thu, 01 Aug 2019 05:14:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/homep-aboutbg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -412,6 +448,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 05:14:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 05:14:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:54:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:54:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homep-aboutbg]]></wp:post_name>
@@ -436,10 +474,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>homepage-section2</title>
+		<title><![CDATA[homepage-section2]]></title>
 		<link>https://zakrademos.com/business-v2/home/homepage-section2/</link>
 		<pubDate>Thu, 01 Aug 2019 05:16:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/homepage-section2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -447,6 +485,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 05:16:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 05:16:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:54:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:54:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage-section2]]></wp:post_name>
@@ -471,10 +511,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-logo</title>
+		<title><![CDATA[footer-logo]]></title>
 		<link>https://zakrademos.com/business-v2/footer-logo/</link>
 		<pubDate>Thu, 01 Aug 2019 05:51:16 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/footer-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -482,6 +522,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 05:51:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 05:51:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:00:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo]]></wp:post_name>
@@ -506,10 +548,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>main-banner</title>
+		<title><![CDATA[main-banner]]></title>
 		<link>https://zakrademos.com/business-v2/home/main-banner/</link>
 		<pubDate>Thu, 01 Aug 2019 10:39:10 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/main-banner.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -517,6 +559,8 @@
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 10:39:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 10:39:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:08:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:08:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[main-banner]]></wp:post_name>
@@ -541,10 +585,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-img1</title>
+		<title><![CDATA[portfolio-img1]]></title>
 		<link>https://zakrademos.com/business-v2/home/portfolio-img1/</link>
 		<pubDate>Thu, 01 Aug 2019 11:24:51 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/portfolio-img1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -552,6 +596,8 @@
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 11:24:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 11:24:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:55:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:55:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-img1]]></wp:post_name>
@@ -576,10 +622,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-img3</title>
+		<title><![CDATA[portfolio-img3]]></title>
 		<link>https://zakrademos.com/business-v2/home/portfolio-img3/</link>
 		<pubDate>Thu, 01 Aug 2019 11:25:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/portfolio-img3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -587,6 +633,8 @@
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 11:25:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 11:25:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:56:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:56:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-img3]]></wp:post_name>
@@ -611,10 +659,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-img4</title>
+		<title><![CDATA[portfolio-img4]]></title>
 		<link>https://zakrademos.com/business-v2/home/portfolio-img4/</link>
 		<pubDate>Thu, 01 Aug 2019 11:25:26 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/portfolio-img4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -622,6 +670,8 @@
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 11:25:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 11:25:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:56:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:56:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-img4]]></wp:post_name>
@@ -646,10 +696,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-img5</title>
+		<title><![CDATA[portfolio-img5]]></title>
 		<link>https://zakrademos.com/business-v2/home/portfolio-img5/</link>
 		<pubDate>Thu, 01 Aug 2019 11:25:28 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/portfolio-img5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -657,6 +707,8 @@
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 11:25:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 11:25:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:56:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:56:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-img5]]></wp:post_name>
@@ -681,10 +733,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-img2</title>
+		<title><![CDATA[portfolio-img2]]></title>
 		<link>https://zakrademos.com/business-v2/home/portfolio-img2/</link>
 		<pubDate>Thu, 01 Aug 2019 11:32:46 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/portfolio-img2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -692,6 +744,8 @@
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 11:32:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 11:32:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:55:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:55:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-img2]]></wp:post_name>
@@ -716,10 +770,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>homepage-about-bg</title>
+		<title><![CDATA[homepage-about-bg]]></title>
 		<link>https://zakrademos.com/business-v2/home/homepage-about-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 05:42:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/homepage-about-bg.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -729,6 +783,8 @@
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:42:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:42:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:42:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:42:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage-about-bg]]></wp:post_name>
@@ -753,10 +809,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial1</title>
+		<title><![CDATA[testimonial1]]></title>
 		<link>https://zakrademos.com/business-v2/home/testimonial1/</link>
 		<pubDate>Fri, 02 Aug 2019 06:16:52 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/testimonial1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -764,6 +820,8 @@
 		<wp:post_id>233</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:16:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:16:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial1]]></wp:post_name>
@@ -788,10 +846,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner1</title>
+		<title><![CDATA[partner1]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner1/</link>
 		<pubDate>Fri, 02 Aug 2019 06:18:14 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -799,6 +857,8 @@
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:18:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:18:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner1]]></wp:post_name>
@@ -823,10 +883,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner2</title>
+		<title><![CDATA[partner2]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner2/</link>
 		<pubDate>Fri, 02 Aug 2019 06:18:27 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -834,6 +894,8 @@
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:18:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:18:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner2]]></wp:post_name>
@@ -858,10 +920,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner3</title>
+		<title><![CDATA[partner3]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner3/</link>
 		<pubDate>Fri, 02 Aug 2019 06:18:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -869,6 +931,8 @@
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:18:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:18:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner3]]></wp:post_name>
@@ -893,10 +957,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner5</title>
+		<title><![CDATA[partner5]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner5/</link>
 		<pubDate>Fri, 02 Aug 2019 06:18:40 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -904,6 +968,8 @@
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:18:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:18:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner5]]></wp:post_name>
@@ -928,10 +994,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>homepage-partner-bg</title>
+		<title><![CDATA[homepage-partner-bg]]></title>
 		<link>https://zakrademos.com/business-v2/home/homepage-partner-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 06:19:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/homepage-partner-bg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -939,6 +1005,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:19:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:19:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:59:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:59:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage-partner-bg]]></wp:post_name>
@@ -963,10 +1031,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner3</title>
+		<title><![CDATA[partner3]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner3-2/</link>
 		<pubDate>Fri, 02 Aug 2019 06:32:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner3-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -974,6 +1042,8 @@
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:32:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:32:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner3-2]]></wp:post_name>
@@ -998,10 +1068,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>partner1</title>
+		<title><![CDATA[partner1]]></title>
 		<link>https://zakrademos.com/business-v2/home/partner1-2/</link>
 		<pubDate>Fri, 02 Aug 2019 06:32:34 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/partner1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1009,6 +1079,8 @@
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:32:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:32:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:00:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:00:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[partner1-2]]></wp:post_name>
@@ -1033,10 +1105,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-img1</title>
+		<title><![CDATA[about-img1]]></title>
 		<link>https://zakrademos.com/business-v2/about/about-img1/</link>
 		<pubDate>Mon, 05 Aug 2019 09:18:49 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/about-img1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1044,6 +1116,8 @@
 		<wp:post_id>272</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 09:18:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 09:18:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:14:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:14:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-img1]]></wp:post_name>
@@ -1068,10 +1142,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team1</title>
+		<title><![CDATA[team1]]></title>
 		<link>https://zakrademos.com/business-v2/about/team1/</link>
 		<pubDate>Tue, 06 Aug 2019 05:15:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1079,6 +1153,8 @@
 		<wp:post_id>288</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:15:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:15:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team1]]></wp:post_name>
@@ -1103,10 +1179,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team2</title>
+		<title><![CDATA[team2]]></title>
 		<link>https://zakrademos.com/business-v2/about/team2/</link>
 		<pubDate>Tue, 06 Aug 2019 05:24:37 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1114,6 +1190,8 @@
 		<wp:post_id>289</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:24:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:24:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team2]]></wp:post_name>
@@ -1138,10 +1216,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team3</title>
+		<title><![CDATA[team3]]></title>
 		<link>https://zakrademos.com/business-v2/about/team3/</link>
 		<pubDate>Tue, 06 Aug 2019 05:24:47 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1149,6 +1227,8 @@
 		<wp:post_id>290</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:24:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:24:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team3]]></wp:post_name>
@@ -1173,10 +1253,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team4</title>
+		<title><![CDATA[team4]]></title>
 		<link>https://zakrademos.com/business-v2/about/team4/</link>
 		<pubDate>Tue, 06 Aug 2019 05:26:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1184,6 +1264,8 @@
 		<wp:post_id>291</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:26:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:26:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:16:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:16:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team4]]></wp:post_name>
@@ -1208,10 +1290,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team5</title>
+		<title><![CDATA[team5]]></title>
 		<link>https://zakrademos.com/business-v2/about/team5/</link>
 		<pubDate>Tue, 06 Aug 2019 05:26:08 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1219,6 +1301,8 @@
 		<wp:post_id>292</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:26:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:26:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:16:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:16:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team5]]></wp:post_name>
@@ -1243,10 +1327,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team6</title>
+		<title><![CDATA[team6]]></title>
 		<link>https://zakrademos.com/business-v2/about/team6/</link>
 		<pubDate>Tue, 06 Aug 2019 05:26:11 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/team6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1254,6 +1338,8 @@
 		<wp:post_id>293</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:26:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:26:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:16:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:16:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team6]]></wp:post_name>
@@ -1278,10 +1364,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>mission</title>
+		<title><![CDATA[mission]]></title>
 		<link>https://zakrademos.com/business-v2/about/mission/</link>
 		<pubDate>Tue, 06 Aug 2019 05:33:37 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/mission.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1289,6 +1375,8 @@
 		<wp:post_id>295</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 05:33:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 05:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:16:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:16:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
@@ -1313,10 +1401,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blogimg-1</title>
+		<title><![CDATA[blogimg-1]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/get-the-latest-news/blogimg-1/</link>
 		<pubDate>Tue, 06 Aug 2019 10:47:54 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/blogimg-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1326,6 +1414,8 @@
 		<wp:post_id>319</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 10:47:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 10:47:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-06 10:47:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-06 10:47:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogimg-1]]></wp:post_name>
@@ -1350,10 +1440,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blogimg-2</title>
+		<title><![CDATA[blogimg-2]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/get-the-latest-news/blogimg-2/</link>
 		<pubDate>Tue, 06 Aug 2019 10:52:39 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/blogimg-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1363,6 +1453,8 @@
 		<wp:post_id>321</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 10:52:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 10:52:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-06 10:52:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-06 10:52:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogimg-2]]></wp:post_name>
@@ -1387,10 +1479,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blogimg-3</title>
+		<title><![CDATA[blogimg-3]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/faster-and-convenient-to-use/blogimg-3/</link>
 		<pubDate>Tue, 06 Aug 2019 10:58:41 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/blogimg-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1400,6 +1492,8 @@
 		<wp:post_id>322</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 10:58:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 10:58:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-06 10:58:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-06 10:58:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogimg-3]]></wp:post_name>
@@ -1424,10 +1518,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-4</title>
+		<title><![CDATA[blog-4]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/managing-content-ended/blog-4/</link>
 		<pubDate>Tue, 06 Aug 2019 11:07:09 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/07/blog-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1435,6 +1529,8 @@
 		<wp:post_id>323</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 11:07:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 11:07:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-4]]></wp:post_name>
@@ -1459,10 +1555,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>experience-img</title>
+		<title><![CDATA[experience-img]]></title>
 		<link>https://zakrademos.com/business-v2/home/experience-img/</link>
 		<pubDate>Wed, 07 Aug 2019 08:25:16 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/experience-img.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1470,6 +1566,8 @@
 		<wp:post_id>334</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 08:25:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 08:25:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:19:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:19:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[experience-img]]></wp:post_name>
@@ -1494,10 +1592,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-1</title>
+		<title><![CDATA[testimonial-1]]></title>
 		<link>https://zakrademos.com/business-v2/home/testimonial-1/</link>
 		<pubDate>Wed, 07 Aug 2019 09:26:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/testimonial-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1505,6 +1603,8 @@
 		<wp:post_id>342</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 09:26:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 09:26:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-1]]></wp:post_name>
@@ -1529,10 +1629,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-1</title>
+		<title><![CDATA[testimonial-1]]></title>
 		<link>https://zakrademos.com/business-v2/home/testimonial-1-2/</link>
 		<pubDate>Wed, 07 Aug 2019 09:26:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/testimonial-1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1540,6 +1640,8 @@
 		<wp:post_id>343</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 09:26:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 09:26:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-1-2]]></wp:post_name>
@@ -1564,10 +1666,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-2</title>
+		<title><![CDATA[testimonial-2]]></title>
 		<link>https://zakrademos.com/business-v2/home/testimonial-2/</link>
 		<pubDate>Wed, 07 Aug 2019 09:27:23 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/testimonial-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1575,6 +1677,8 @@
 		<wp:post_id>344</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 09:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 09:27:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:15:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:15:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-2]]></wp:post_name>
@@ -1599,10 +1703,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-2</title>
+		<title><![CDATA[testimonial-2]]></title>
 		<link>https://zakrademos.com/business-v2/home/testimonial-2-2/</link>
 		<pubDate>Wed, 07 Aug 2019 09:27:23 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/testimonial-2-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1612,6 +1716,8 @@
 		<wp:post_id>345</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 09:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 09:27:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-07 09:27:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-07 09:27:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-2-2]]></wp:post_name>
@@ -1636,10 +1742,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img1</title>
+		<title><![CDATA[prot-img1]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img1/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1647,6 +1753,8 @@
 		<wp:post_id>502</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:10:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:10:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img1]]></wp:post_name>
@@ -1671,10 +1779,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img1</title>
+		<title><![CDATA[prot-img1]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img1-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img1-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1682,6 +1790,8 @@
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:10:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:10:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img1-2]]></wp:post_name>
@@ -1706,10 +1816,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img2</title>
+		<title><![CDATA[prot-img2]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:45 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1717,6 +1827,8 @@
 		<wp:post_id>504</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img2]]></wp:post_name>
@@ -1741,10 +1853,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img2</title>
+		<title><![CDATA[prot-img2]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img2-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:45 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img2-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1754,6 +1866,8 @@
 		<wp:post_id>505</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 05:28:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 05:28:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img2-2]]></wp:post_name>
@@ -1778,10 +1892,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img3</title>
+		<title><![CDATA[prot-img3]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img3/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:56 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1789,6 +1903,8 @@
 		<wp:post_id>506</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img3]]></wp:post_name>
@@ -1813,10 +1929,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img3</title>
+		<title><![CDATA[prot-img3]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img3-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:28:56 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img3-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1826,6 +1942,8 @@
 		<wp:post_id>507</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:28:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:28:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 05:28:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 05:28:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img3-2]]></wp:post_name>
@@ -1850,10 +1968,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img5</title>
+		<title><![CDATA[prot-img5]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img5/</link>
 		<pubDate>Tue, 13 Aug 2019 05:29:40 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1861,6 +1979,8 @@
 		<wp:post_id>508</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:29:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:29:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img5]]></wp:post_name>
@@ -1885,10 +2005,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img5</title>
+		<title><![CDATA[prot-img5]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img5-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:29:40 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img5-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1896,6 +2016,8 @@
 		<wp:post_id>509</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:29:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:29:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img5-2]]></wp:post_name>
@@ -1920,10 +2042,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img6</title>
+		<title><![CDATA[prot-img6]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img6/</link>
 		<pubDate>Tue, 13 Aug 2019 05:30:11 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1931,6 +2053,8 @@
 		<wp:post_id>510</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:30:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:30:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img6]]></wp:post_name>
@@ -1955,10 +2079,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>prot-img6</title>
+		<title><![CDATA[prot-img6]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/prot-img6-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:30:11 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img6-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1966,6 +2090,8 @@
 		<wp:post_id>511</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:30:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:30:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[prot-img6-2]]></wp:post_name>
@@ -1990,10 +2116,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img7</title>
+		<title><![CDATA[pprt-img7]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img7/</link>
 		<pubDate>Tue, 13 Aug 2019 05:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2001,6 +2127,8 @@
 		<wp:post_id>512</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img7]]></wp:post_name>
@@ -2025,10 +2153,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img7</title>
+		<title><![CDATA[pprt-img7]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img7-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:39:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img7-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2036,6 +2164,8 @@
 		<wp:post_id>513</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img7-2]]></wp:post_name>
@@ -2060,10 +2190,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img8</title>
+		<title><![CDATA[pprt-img8]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img8/</link>
 		<pubDate>Tue, 13 Aug 2019 05:39:49 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2071,6 +2201,8 @@
 		<wp:post_id>514</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:39:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:39:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img8]]></wp:post_name>
@@ -2095,10 +2227,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img8</title>
+		<title><![CDATA[pprt-img8]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img8-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:39:49 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img8-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2108,6 +2240,8 @@
 		<wp:post_id>515</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:39:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:39:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 05:39:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 05:39:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img8-2]]></wp:post_name>
@@ -2132,10 +2266,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img9</title>
+		<title><![CDATA[pprt-img9]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img9/</link>
 		<pubDate>Tue, 13 Aug 2019 05:40:10 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2143,6 +2277,8 @@
 		<wp:post_id>516</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:40:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:40:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:11:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:11:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img9]]></wp:post_name>
@@ -2167,10 +2303,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pprt-img9</title>
+		<title><![CDATA[pprt-img9]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/pprt-img9-2/</link>
 		<pubDate>Tue, 13 Aug 2019 05:40:10 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/pprt-img9-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2180,6 +2316,8 @@
 		<wp:post_id>517</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 05:40:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 05:40:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 05:40:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 05:40:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pprt-img9-2]]></wp:post_name>
@@ -2204,10 +2342,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-banner</title>
+		<title><![CDATA[blog-banner]]></title>
 		<link>https://zakrademos.com/business-v2/business-single/blog-banner/</link>
 		<pubDate>Tue, 13 Aug 2019 07:01:17 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/blog-banner.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2217,6 +2355,8 @@
 		<wp:post_id>528</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 07:01:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 07:01:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 07:01:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 07:01:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-banner]]></wp:post_name>
@@ -2241,10 +2381,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/zakra/</link>
 		<pubDate>Mon, 29 Jul 2019 09:18:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/2019/07/29/zakra/</guid>
 		<description></description>
 		<content:encoded><![CDATA[.mc4wp-form input[type="submit"]
@@ -2260,6 +2400,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-29 09:18:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-29 09:18:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:54:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:54:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -2271,10 +2413,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>blog-banner</title>
+		<title><![CDATA[blog-banner]]></title>
 		<link>https://zakrademos.com/business-v2/business-single/blog-banner-2/</link>
 		<pubDate>Tue, 13 Aug 2019 07:01:17 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/blog-banner-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2284,6 +2426,8 @@
 		<wp:post_id>529</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-13 07:01:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-13 07:01:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 07:01:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 07:01:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-banner-2]]></wp:post_name>
@@ -2308,10 +2452,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img-1</title>
+		<title><![CDATA[img-1]]></title>
 		<link>https://zakrademos.com/business-v2/home/img-1/</link>
 		<pubDate>Wed, 14 Aug 2019 09:06:59 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/img-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2319,6 +2463,8 @@
 		<wp:post_id>582</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:06:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:06:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:53:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:53:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-1]]></wp:post_name>
@@ -2343,10 +2489,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img-2</title>
+		<title><![CDATA[img-2]]></title>
 		<link>https://zakrademos.com/business-v2/home/img-2/</link>
 		<pubDate>Wed, 14 Aug 2019 09:25:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/img-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -2354,6 +2500,8 @@
 		<wp:post_id>591</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:25:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:25:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:57:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:57:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-2]]></wp:post_name>
@@ -2378,7 +2526,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo-1.png</title>
+		<title><![CDATA[cropped-logo-1.png]]></title>
 		<link>https://zakrademos.com/business-v2/cropped-logo-1-png/</link>
 		<pubDate>Tue, 03 Sep 2019 07:00:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2389,6 +2537,8 @@
 		<wp:post_id>638</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 07:00:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 07:00:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 07:00:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 07:00:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-1-png]]></wp:post_name>
@@ -2421,7 +2571,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Front Page</title>
+		<title><![CDATA[Zakra Business V2 - Front Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-front-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:11:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2560,6 +2710,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>640</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:11:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:11:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:11:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:11:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-front-page]]></wp:post_name>
@@ -2596,7 +2748,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - About Page</title>
+		<title><![CDATA[Zakra Business V2 - About Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-about-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:12:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2644,6 +2796,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>643</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:12:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:12:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:12:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:12:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-about-page]]></wp:post_name>
@@ -2680,7 +2834,7 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Service Page</title>
+		<title><![CDATA[Zakra Business V2 - Service Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-service-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2798,6 +2952,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>646</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:14:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:14:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:14:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:14:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-service-page]]></wp:post_name>
@@ -2834,7 +2990,7 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Portfolio Page</title>
+		<title><![CDATA[Zakra Business V2 - Portfolio Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-portfolio-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:15:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2854,6 +3010,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>649</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:15:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:15:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:15:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:15:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-portfolio-page]]></wp:post_name>
@@ -2890,7 +3048,7 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - FAQ Page</title>
+		<title><![CDATA[Zakra Business V2 - FAQ Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-faq-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:16:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2912,6 +3070,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>652</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:16:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:16:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:16:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:16:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-faq-page]]></wp:post_name>
@@ -2948,7 +3108,7 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Contact Page</title>
+		<title><![CDATA[Zakra Business V2 - Contact Page]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-contact-page</link>
 		<pubDate>Fri, 15 Nov 2019 05:17:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2991,6 +3151,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>655</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:17:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:17:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:17:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:17:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-contact-page]]></wp:post_name>
@@ -3027,7 +3189,7 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Banner Section</title>
+		<title><![CDATA[Zakra Business V2 - Banner Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-banner-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:18:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3051,6 +3213,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>658</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:18:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:18:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:18:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:18:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-banner-section]]></wp:post_name>
@@ -3087,7 +3251,7 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Image with Content Section</title>
+		<title><![CDATA[Zakra Business V2 - Image with Content Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-image-with-content-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:21:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3110,6 +3274,8 @@ be greater than your fear of failure. </h2>
 		<wp:post_id>661</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:21:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:21:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:21:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:21:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-image-with-content-section]]></wp:post_name>
@@ -3146,7 +3312,7 @@ be greater than your fear of failure. </h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Services Section</title>
+		<title><![CDATA[Zakra Business V2 - Services Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-services-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3186,6 +3352,8 @@ be greater than your fear of failure. </h2>
 		<wp:post_id>664</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:22:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-services-section]]></wp:post_name>
@@ -3222,7 +3390,7 @@ be greater than your fear of failure. </h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Portfolio Section</title>
+		<title><![CDATA[Zakra Business V2 - Portfolio Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-portfolio-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:24:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3252,6 +3420,8 @@ be greater than your fear of failure. </h2>
 		<wp:post_id>670</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:24:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:24:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:24:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:24:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-portfolio-section]]></wp:post_name>
@@ -3288,7 +3458,7 @@ be greater than your fear of failure. </h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Testimonials Section</title>
+		<title><![CDATA[Zakra Business V2 - Testimonials Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-testimonials-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3319,6 +3489,8 @@ be greater than your fear of failure. </h2>
 		<wp:post_id>673</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:25:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:25:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:25:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:25:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-testimonials-section]]></wp:post_name>
@@ -3355,7 +3527,7 @@ be greater than your fear of failure. </h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Clients Section</title>
+		<title><![CDATA[Zakra Business V2 - Clients Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-clients-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:26:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3384,6 +3556,8 @@ whatever it is they want to do.</h2>
 		<wp:post_id>676</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:26:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:26:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:26:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:26:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-clients-section]]></wp:post_name>
@@ -3420,7 +3594,7 @@ whatever it is they want to do.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Subscribe Section</title>
+		<title><![CDATA[Zakra Business V2 - Subscribe Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-subscribe-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3433,6 +3607,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>679</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:27:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:27:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:27:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:27:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-subscribe-section]]></wp:post_name>
@@ -3469,7 +3645,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - Content with Counter Section</title>
+		<title><![CDATA[Zakra Business V2 - Content with Counter Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-content-with-counter-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:42:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3488,6 +3664,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>682</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:42:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:42:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:42:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:42:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-content-with-counter-section]]></wp:post_name>
@@ -3524,7 +3702,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/business-v2/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 05:46:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3535,6 +3713,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>725</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:46:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:46:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:46:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:46:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -3555,29 +3735,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/business-v2/?post_type=everest_form&#038;p=3</link>
-		<pubDate>Tue, 03 Sep 2019 06:16:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/business-v2/?post_type=everest_form&#038;p=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":3,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Business","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-03 06:16:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-03 06:16:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/mc4wp-form/244/</link>
 		<pubDate>Tue, 03 Sep 2019 06:39:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3593,6 +3751,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:39:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:39:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:39:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:39:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[244]]></wp:post_name>
@@ -3704,10 +3864,10 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/mc4wp-form/246/</link>
 		<pubDate>Fri, 02 Aug 2019 08:43:11 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/mc4wp-form/246/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3722,6 +3882,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 08:43:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 08:43:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 08:43:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 08:43:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[246]]></wp:post_name>
@@ -3813,43 +3975,19 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/business-v2/?post_type=everest_form&#038;p=376</link>
-		<pubDate>Thu, 08 Aug 2019 08:49:25 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
-		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?post_type=everest_form&#038;p=376</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				{"id":376,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Business","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>376</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-08 08:49:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-08 08:49:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/business-v2/?post_type=everest_form&#038;p=383</link>
 		<pubDate>Thu, 08 Aug 2019 10:30:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?post_type=everest_form&#038;p=383</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				{"id":"383","form_enabled":"1","form_field_id":6,"form_fields":{"sqHi9nZC3O-1":{"id":"sqHi9nZC3O-1","type":"first-name","label":"","meta-key":"first_name_7086","description":"","placeholder":"First Name","css":""},"Pbw48XJb1J-2":{"id":"Pbw48XJb1J-2","type":"last-name","label":"","meta-key":"last_name_8430","description":"","placeholder":"Last Name","css":""},"Yv5kwyeMRs-3":{"id":"Yv5kwyeMRs-3","type":"email","label":"","meta-key":"email_3390","description":"","placeholder":"Email","default_value":"","css":""},"me9BbZWpMA-4":{"id":"me9BbZWpMA-4","type":"text","label":"","meta-key":"single_line_text_2211","description":"","placeholder":"Subject","default_value":"","css":"","input_mask":""},"xO6PSc5n3r-5":{"id":"xO6PSc5n3r-5","type":"textarea","label":"","meta-key":"paragraph_text_4902","description":"","placeholder":"Message","css":""}},"settings":{"form_title":"Contact","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"9","external_url":"","layout_class":"layout-two","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Business","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["sqHi9nZC3O-1"],"grid_2":["Pbw48XJb1J-2"]},"row_2":{"grid_1":["Yv5kwyeMRs-3"],"grid_2":["me9BbZWpMA-4"]},"row_3":{"grid_1":["xO6PSc5n3r-5"]}}}		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[{"id":"383","form_enabled":"1","form_field_id":6,"form_fields":{"sqHi9nZC3O-1":{"id":"sqHi9nZC3O-1","type":"first-name","label":"","meta-key":"first_name_7086","description":"","required-field-message":"This field is required.","placeholder":"First Name","default_value":"","css":""},"Pbw48XJb1J-2":{"id":"Pbw48XJb1J-2","type":"last-name","label":"","meta-key":"last_name_8430","description":"","required-field-message":"This field is required.","placeholder":"Last Name","default_value":"","css":""},"Yv5kwyeMRs-3":{"id":"Yv5kwyeMRs-3","type":"email","label":"","meta-key":"email_3390","description":"","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","default_value":"","css":""},"me9BbZWpMA-4":{"id":"me9BbZWpMA-4","type":"text","label":"","meta-key":"single_line_text_2211","description":"","required-field-message":"This field is required.","placeholder":"Subject","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"xO6PSc5n3r-5":{"id":"xO6PSc5n3r-5","type":"textarea","label":"","meta-key":"paragraph_text_4902","description":"","required-field-message":"This field is required.","placeholder":"Message","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"9","external_url":"","layout_class":"layout-two","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Business","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Contact","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["sqHi9nZC3O-1"],"grid_2":["Pbw48XJb1J-2"]},"row_2":{"grid_1":["Yv5kwyeMRs-3"],"grid_2":["me9BbZWpMA-4"]},"row_3":{"grid_1":["xO6PSc5n3r-5"]}}}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>383</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-08 10:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-08 10:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 09:04:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 09:04:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3861,7 +3999,7 @@ on the latest news, tutorials and special offers</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/592/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3872,6 +4010,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>592</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[592]]></wp:post_name>
@@ -3916,7 +4056,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/593/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3927,6 +4067,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>593</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[593]]></wp:post_name>
@@ -3971,7 +4113,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/594/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3982,6 +4124,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>594</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[594]]></wp:post_name>
@@ -4026,7 +4170,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/595/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4037,6 +4181,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>595</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[595]]></wp:post_name>
@@ -4081,7 +4227,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/596/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4092,6 +4238,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>596</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[596]]></wp:post_name>
@@ -4136,7 +4284,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/597/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4147,6 +4295,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>597</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[597]]></wp:post_name>
@@ -4191,7 +4341,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/600/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4202,6 +4352,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>600</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[600]]></wp:post_name>
@@ -4246,7 +4398,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/601/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4257,6 +4409,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>601</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[601]]></wp:post_name>
@@ -4301,7 +4455,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/602/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4312,6 +4466,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>602</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[602]]></wp:post_name>
@@ -4356,7 +4512,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/604/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4367,6 +4523,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>604</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[604]]></wp:post_name>
@@ -4411,7 +4569,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ&#039;S</title>
+		<title><![CDATA[FAQ'S]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/faqs/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4422,6 +4580,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>606</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faqs]]></wp:post_name>
@@ -4466,7 +4626,7 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ&#039;S</title>
+		<title><![CDATA[FAQ'S]]></title>
 		<link>https://zakrademos.com/business-v2/2019/09/03/faqs-2/</link>
 		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4477,6 +4637,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>608</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faqs-2]]></wp:post_name>
@@ -4521,7 +4683,121 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - About Team Section</title>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/business-v2/2019/09/03/613/</link>
+		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/business-v2/2019/09/03/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>613</wp:post_id>
+		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[613]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="quick-links"><![CDATA[Quick Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/business-v2/2019/09/03/614/</link>
+		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/business-v2/2019/09/03/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>614</wp:post_id>
+		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:43:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:43:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[614]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="quick-links"><![CDATA[Quick Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Zakra Business V2 - About Team Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-about-team-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:44:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4552,6 +4828,8 @@ is progress. Working together is success.</h2>
 		<wp:post_id>685</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:44:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:44:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:44:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:44:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-about-team-section]]></wp:post_name>
@@ -4588,7 +4866,7 @@ is progress. Working together is success.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Business V2 - About Image with Content Section</title>
+		<title><![CDATA[Zakra Business V2 - About Image with Content Section]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=zakra-business-v2-about-image-with-content-section</link>
 		<pubDate>Fri, 15 Nov 2019 05:47:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4602,6 +4880,8 @@ is progress. Working together is success.</h2>
 		<wp:post_id>688</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:47:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-15 05:47:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 05:47:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 05:47:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-business-v2-about-image-with-content-section]]></wp:post_name>
@@ -4638,7 +4918,7 @@ is progress. Working together is success.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/business-v2/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4649,6 +4929,8 @@ is progress. Working together is success.</h2>
 		<wp:post_id>712</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:26:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:26:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:26:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:26:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -4668,11 +4950,11 @@ is progress. Working together is success.</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#001842";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#001842";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#001842";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#FDAF27";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"3077af2c";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:7:"ca64b63";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"50ce6679";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"3b751d1a";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"6cfa9ba0";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"5b1eabb4";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"79d803f7";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"11c8d923";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"500";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#001842";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#001842";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#001842";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#FDAF27";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"3077af2c";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:7:"ca64b63";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"50ce6679";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"3b751d1a";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"6cfa9ba0";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"5b1eabb4";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"79d803f7";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"11c8d923";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"500";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/business-v2/sample-page/</link>
 		<pubDate>Tue, 03 Sep 2019 06:15:25 +0000</pubDate>
 		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
@@ -4701,6 +4983,8 @@ is progress. Working together is success.</h2>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 06:15:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 06:15:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:15:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:15:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -4716,10 +5000,10 @@ is progress. Working together is success.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/business-v2/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:17 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>
@@ -4855,6 +5139,8 @@ on the latest news, tutorials and special offers</h2>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-25 06:55:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-25 06:55:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5062,10 +5348,10 @@ on the latest news, tutorials and special offers</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/business-v2/about/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:27 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Marketing is no longer about the stuff that you 
@@ -5111,6 +5397,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-06 10:55:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-06 10:55:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -5310,10 +5598,10 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Portfolio</title>
+		<title><![CDATA[Portfolio]]></title>
 		<link>https://zakrademos.com/business-v2/portfolio/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:46 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[<figure><a href="https://zakrademos.com/business-v2/business-single/"><img width="348" height="450" src="https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img1-1.jpg" alt="" srcset="https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img1-1.jpg 348w, https://zakrademos.com/business-v2/wp-content/uploads/sites/30/2019/08/prot-img1-1-232x300.jpg 232w" sizes="(max-width: 348px) 100vw, 348px" /></a></figure><h3><a href="https://zakrademos.com/business-v2/business-single/">Interz Tech.</a></h3><p>CONSULTING DEVELOPMENT</p>		
@@ -5331,6 +5619,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-06 11:02:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-06 11:02:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -5530,10 +5820,10 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://zakrademos.com/business-v2/services/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:35 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- /.ec-icon-inner -->
@@ -5649,6 +5939,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-06 11:00:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-06 11:00:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -5848,10 +6140,10 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/business-v2/blog/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5860,6 +6152,8 @@ make, but about the stories you tell.</h2>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-25 06:45:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-25 06:45:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -6031,10 +6325,10 @@ make, but about the stories you tell.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/business-v2/contact/</link>
 		<pubDate>Fri, 26 Jul 2019 08:57:07 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>A team is not a group of people who work together, 
@@ -6072,6 +6366,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-26 08:57:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-26 08:57:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 05:54:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 05:54:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -6271,10 +6567,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Managing content ended</title>
+		<title><![CDATA[Managing content ended]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/managing-content-ended/</link>
 		<pubDate>Mon, 29 Jul 2019 05:48:35 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -6288,6 +6584,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-29 05:48:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-29 05:48:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 08:50:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 08:50:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[managing-content-ended]]></wp:post_name>
@@ -6460,10 +6758,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Offline mode</title>
+		<title><![CDATA[Offline mode]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/offline-mode/</link>
 		<pubDate>Mon, 29 Jul 2019 06:00:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -6477,6 +6775,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-29 06:00:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-29 06:00:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:45:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:45:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[offline-mode]]></wp:post_name>
@@ -6649,10 +6949,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Faster and convenient to use</title>
+		<title><![CDATA[Faster and convenient to use]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/faster-and-convenient-to-use/</link>
 		<pubDate>Mon, 29 Jul 2019 06:01:14 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -6666,6 +6966,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-29 06:01:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-29 06:01:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:45:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:45:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[faster-and-convenient-to-use]]></wp:post_name>
@@ -6838,10 +7140,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Get the latest news</title>
+		<title><![CDATA[Get the latest news]]></title>
 		<link>https://zakrademos.com/business-v2/2019/07/29/get-the-latest-news/</link>
 		<pubDate>Mon, 29 Jul 2019 06:02:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -6855,6 +7157,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-29 06:02:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-29 06:02:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:44:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:44:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[get-the-latest-news]]></wp:post_name>
@@ -7027,10 +7331,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Business Single</title>
+		<title><![CDATA[Business Single]]></title>
 		<link>https://zakrademos.com/business-v2/business-single/</link>
 		<pubDate>Tue, 30 Jul 2019 06:37:40 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=98</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -7045,6 +7349,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-30 06:37:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-30 06:37:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-30 06:37:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-30 06:37:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-single]]></wp:post_name>
@@ -7244,10 +7550,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ&#039;S</title>
+		<title><![CDATA[FAQ'S]]></title>
 		<link>https://zakrademos.com/business-v2/faqs/</link>
 		<pubDate>Tue, 06 Aug 2019 10:07:07 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://generous-emu.w5.wpsandbox.pro/?page_id=312</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="">What are the biggest challenges to starting a business?</a>
@@ -7267,6 +7573,8 @@ a team is a group of people who trust each other.</h2>
 		<wp:post_id>312</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-06 10:07:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-06 10:07:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-06 11:02:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-06 11:02:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faqs]]></wp:post_name>
@@ -7466,10 +7774,10 @@ a team is a group of people who trust each other.</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
+		<title><![CDATA[Hello world!]]></title>
 		<link>https://zakrademos.com/business-v2/2017/03/09/hello-world-2/</link>
 		<pubDate>Thu, 09 Mar 2017 03:18:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://blankinstall.web-dev.oxygen-is-really-amazing-and-everyone-loves-it.com/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi tristique mauris nec arcu rutrum, vel egestas sapien fermentum. Vestibulum a dui in nunc sollicitudin imperdiet. Integer lacinia ac neque nec cursus. Phasellus semper a nibh vel malesuada. Maecenas ut libero ultrices lacus sodales porttitor.
@@ -7479,6 +7787,8 @@ Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invid
 		<wp:post_id>603</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-09 03:18:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-09 03:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 06:45:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 06:45:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
@@ -7653,121 +7963,11 @@ Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invid
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravatar</a>.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title></title>
-		<link>https://zakrademos.com/business-v2/2019/09/03/613/</link>
-		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/business-v2/2019/09/03/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>613</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[613]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="quick-links"><![CDATA[Quick Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://zakrademos.com/business-v2/2019/09/03/614/</link>
-		<pubDate>Tue, 03 Sep 2019 06:29:23 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/business-v2/2019/09/03/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>614</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-03 06:29:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-03 06:29:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[614]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="quick-links"><![CDATA[Quick Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	

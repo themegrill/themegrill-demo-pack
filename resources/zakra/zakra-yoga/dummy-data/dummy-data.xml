@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-11-23 10:25" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 16:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Yoga</title>
 	<link>https://zakrademos.com/yoga</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Mon, 23 Nov 2020 10:25:39 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 16:45:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/yoga</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -50,14 +50,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -74,7 +95,7 @@
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/yoga/wp-content/uploads/sites/6/2020/07/zakra.png</url>
@@ -85,7 +106,7 @@
 </image> 
 
 		<item>
-		<title>footer-bg</title>
+		<title><![CDATA[footer-bg]]></title>
 		<link>https://zakrademos.com/yoga/footer-bg/</link>
 		<pubDate>Thu, 06 Sep 2018 04:40:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -96,6 +117,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 04:40:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 04:40:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 04:40:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 04:40:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-bg]]></wp:post_name>
@@ -120,7 +143,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
+		<title><![CDATA[banner]]></title>
 		<link>https://zakrademos.com/yoga/banner/</link>
 		<pubDate>Thu, 06 Sep 2018 04:55:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -131,6 +154,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 04:55:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 04:55:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 04:55:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 04:55:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner]]></wp:post_name>
@@ -155,7 +180,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rawpixel-788417-unsplash</title>
+		<title><![CDATA[rawpixel-788417-unsplash]]></title>
 		<link>https://zakrademos.com/yoga/rawpixel-788417-unsplash/</link>
 		<pubDate>Thu, 06 Sep 2018 05:09:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -166,6 +191,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 05:09:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 05:09:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 05:09:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 05:09:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rawpixel-788417-unsplash]]></wp:post_name>
@@ -190,7 +217,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>work</title>
+		<title><![CDATA[work]]></title>
 		<link>https://zakrademos.com/yoga/work/</link>
 		<pubDate>Thu, 06 Sep 2018 05:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -201,6 +228,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 05:44:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 05:44:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 05:44:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 05:44:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[work]]></wp:post_name>
@@ -225,7 +254,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>diet</title>
+		<title><![CDATA[diet]]></title>
 		<link>https://zakrademos.com/yoga/diet/</link>
 		<pubDate>Thu, 06 Sep 2018 05:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -236,6 +265,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 05:44:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 05:44:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 05:44:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 05:44:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[diet]]></wp:post_name>
@@ -260,7 +291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>instructors</title>
+		<title><![CDATA[instructors]]></title>
 		<link>https://zakrademos.com/yoga/instructors/</link>
 		<pubDate>Thu, 06 Sep 2018 05:44:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -271,6 +302,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 05:44:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 05:44:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 05:44:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 05:44:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instructors]]></wp:post_name>
@@ -295,7 +328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 122</title>
+		<title><![CDATA[Group 122]]></title>
 		<link>https://zakrademos.com/yoga/group-122/</link>
 		<pubDate>Thu, 06 Sep 2018 05:54:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -306,6 +339,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 05:54:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 05:54:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 05:54:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 05:54:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-122]]></wp:post_name>
@@ -330,7 +365,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portrait</title>
+		<title><![CDATA[portrait]]></title>
 		<link>https://zakrademos.com/yoga/portrait/</link>
 		<pubDate>Thu, 06 Sep 2018 07:10:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -341,6 +376,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 07:10:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 07:10:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 07:10:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 07:10:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portrait]]></wp:post_name>
@@ -365,7 +402,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bruce</title>
+		<title><![CDATA[bruce]]></title>
 		<link>https://zakrademos.com/yoga/bruce/</link>
 		<pubDate>Thu, 06 Sep 2018 07:10:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -376,6 +413,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 07:10:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 07:10:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 07:10:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 07:10:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bruce]]></wp:post_name>
@@ -400,7 +439,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bruce-mars</title>
+		<title><![CDATA[bruce-mars]]></title>
 		<link>https://zakrademos.com/yoga/bruce-mars/</link>
 		<pubDate>Thu, 06 Sep 2018 07:10:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -411,6 +450,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 07:10:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 07:10:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 07:10:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 07:10:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bruce-mars]]></wp:post_name>
@@ -435,7 +476,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>le-minh-phuong-478540-unsplash</title>
+		<title><![CDATA[le-minh-phuong-478540-unsplash]]></title>
 		<link>https://zakrademos.com/yoga/le-minh-phuong-478540-unsplash/</link>
 		<pubDate>Thu, 06 Sep 2018 09:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -446,6 +487,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:02:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:02:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:02:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:02:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[le-minh-phuong-478540-unsplash]]></wp:post_name>
@@ -470,7 +513,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>le-minh-phuong</title>
+		<title><![CDATA[le-minh-phuong]]></title>
 		<link>https://zakrademos.com/yoga/le-minh-phuong/</link>
 		<pubDate>Thu, 06 Sep 2018 09:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -481,6 +524,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:13:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:13:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:13:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:13:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[le-minh-phuong]]></wp:post_name>
@@ -505,7 +550,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jacob-postuma</title>
+		<title><![CDATA[jacob-postuma]]></title>
 		<link>https://zakrademos.com/yoga/jacob-postuma/</link>
 		<pubDate>Thu, 06 Sep 2018 09:13:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -516,6 +561,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:13:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:13:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:13:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:13:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jacob-postuma]]></wp:post_name>
@@ -540,7 +587,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>erik-brolin</title>
+		<title><![CDATA[erik-brolin]]></title>
 		<link>https://zakrademos.com/yoga/erik-brolin/</link>
 		<pubDate>Thu, 06 Sep 2018 09:13:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -551,6 +598,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:13:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:13:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[erik-brolin]]></wp:post_name>
@@ -575,7 +624,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>michael-dam-258165-unsplash</title>
+		<title><![CDATA[michael-dam-258165-unsplash]]></title>
 		<link>https://zakrademos.com/yoga/michael-dam-258165-unsplash/</link>
 		<pubDate>Thu, 06 Sep 2018 09:28:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -586,6 +635,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:28:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:28:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:28:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:28:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michael-dam-258165-unsplash]]></wp:post_name>
@@ -610,7 +661,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quote</title>
+		<title><![CDATA[quote]]></title>
 		<link>https://zakrademos.com/yoga/quote/</link>
 		<pubDate>Thu, 06 Sep 2018 09:56:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -621,6 +672,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 09:56:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 09:56:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 09:56:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 09:56:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quote]]></wp:post_name>
@@ -645,7 +698,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/yoga/logo/</link>
 		<pubDate>Thu, 06 Sep 2018 10:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -656,6 +709,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-06 10:20:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-06 10:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-06 10:20:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-06 10:20:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -680,7 +735,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>thought-catalog</title>
+		<title><![CDATA[thought-catalog]]></title>
 		<link>https://zakrademos.com/yoga/thought-catalog/</link>
 		<pubDate>Mon, 10 Sep 2018 08:36:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -691,6 +746,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 08:36:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 08:36:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 08:36:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 08:36:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[thought-catalog]]></wp:post_name>
@@ -715,7 +772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>people</title>
+		<title><![CDATA[people]]></title>
 		<link>https://zakrademos.com/yoga/people/</link>
 		<pubDate>Mon, 10 Sep 2018 09:23:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -726,6 +783,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:23:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:23:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 09:23:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 09:23:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people]]></wp:post_name>
@@ -750,7 +809,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>yoga-coach</title>
+		<title><![CDATA[yoga-coach]]></title>
 		<link>https://zakrademos.com/yoga/yoga-coach/</link>
 		<pubDate>Mon, 10 Sep 2018 09:23:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -761,6 +820,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:23:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:23:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 09:23:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 09:23:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[yoga-coach]]></wp:post_name>
@@ -785,7 +846,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>lessons</title>
+		<title><![CDATA[lessons]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=lessons</link>
 		<pubDate>Fri, 07 Sep 2018 04:26:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -803,6 +864,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-07 04:26:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-07 04:26:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:20:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:20:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lessons]]></wp:post_name>
@@ -835,7 +898,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>packages</title>
+		<title><![CDATA[packages]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=packages</link>
 		<pubDate>Fri, 07 Sep 2018 04:27:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -856,6 +919,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-07 04:27:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-07 04:27:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:18:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:18:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[packages]]></wp:post_name>
@@ -888,7 +953,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about</title>
+		<title><![CDATA[about]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=about</link>
 		<pubDate>Fri, 07 Sep 2018 04:27:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -914,6 +979,8 @@
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-07 04:27:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-07 04:27:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:16:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:16:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -946,7 +1013,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/yoga/2018/09/07/zakra/</link>
 		<pubDate>Fri, 07 Sep 2018 07:15:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -957,6 +1024,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-07 07:15:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-07 07:15:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -968,7 +1037,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>ballet</title>
+		<title><![CDATA[ballet]]></title>
 		<link>https://zakrademos.com/yoga/ballet/</link>
 		<pubDate>Mon, 10 Sep 2018 09:23:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -979,6 +1048,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:23:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:23:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 09:23:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 09:23:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ballet]]></wp:post_name>
@@ -1003,7 +1074,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
+		<title><![CDATA[banner]]></title>
 		<link>https://zakrademos.com/yoga/banner-2/</link>
 		<pubDate>Mon, 10 Sep 2018 09:28:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1014,6 +1085,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:28:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:28:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 09:28:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 09:28:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-2]]></wp:post_name>
@@ -1038,7 +1111,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>header-bg</title>
+		<title><![CDATA[header-bg]]></title>
 		<link>https://zakrademos.com/yoga/header-bg/</link>
 		<pubDate>Mon, 10 Sep 2018 09:33:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1049,6 +1122,8 @@
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:33:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:33:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 09:33:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 09:33:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-bg]]></wp:post_name>
@@ -1073,7 +1148,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-full</title>
+		<title><![CDATA[about-full]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=about-full</link>
 		<pubDate>Mon, 10 Sep 2018 09:42:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1086,6 +1161,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:42:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:42:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:15:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:15:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-full]]></wp:post_name>
@@ -1118,7 +1195,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>title</title>
+		<title><![CDATA[title]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=title</link>
 		<pubDate>Mon, 10 Sep 2018 10:08:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1135,6 +1212,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 10:08:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 10:08:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-10 10:08:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 10:08:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[title]]></wp:post_name>
@@ -1167,7 +1246,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-dark</title>
+		<title><![CDATA[logo-dark]]></title>
 		<link>https://zakrademos.com/yoga/logo-dark/</link>
 		<pubDate>Thu, 27 Sep 2018 10:22:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1178,6 +1257,8 @@
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 10:22:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 10:22:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 10:22:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 10:22:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-dark]]></wp:post_name>
@@ -1202,7 +1283,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Front Page</title>
+		<title><![CDATA[Zakra Yoga - Front Page]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-front-page</link>
 		<pubDate>Thu, 21 Nov 2019 04:01:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1265,6 +1346,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:01:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:01:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:01:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:01:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-front-page]]></wp:post_name>
@@ -1297,7 +1380,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Packages Page</title>
+		<title><![CDATA[Zakra Yoga - Packages Page]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-packages-page</link>
 		<pubDate>Thu, 21 Nov 2019 04:04:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1318,6 +1401,8 @@
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:04:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:04:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:04:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:04:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-packages-page]]></wp:post_name>
@@ -1350,7 +1435,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Lessons Page</title>
+		<title><![CDATA[Zakra Yoga - Lessons Page]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-lessons-page</link>
 		<pubDate>Thu, 21 Nov 2019 04:07:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1371,6 +1456,8 @@
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:07:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:07:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:07:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:07:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-lessons-page]]></wp:post_name>
@@ -1403,7 +1490,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - About Page</title>
+		<title><![CDATA[Zakra Yoga - About Page]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-about-page</link>
 		<pubDate>Thu, 21 Nov 2019 04:07:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1428,6 +1515,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:07:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:07:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:07:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:07:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-about-page]]></wp:post_name>
@@ -1460,7 +1549,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Contact Page</title>
+		<title><![CDATA[Zakra Yoga - Contact Page]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-contact-page</link>
 		<pubDate>Thu, 21 Nov 2019 04:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1485,6 +1574,8 @@
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:08:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:08:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-contact-page]]></wp:post_name>
@@ -1517,7 +1608,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Banner Section</title>
+		<title><![CDATA[Zakra Yoga - Banner Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-banner-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:09:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1532,6 +1623,8 @@
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:09:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:09:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:09:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:09:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-banner-section]]></wp:post_name>
@@ -1564,7 +1657,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Welcome Section</title>
+		<title><![CDATA[Zakra Yoga - Welcome Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-welcome-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:11:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1590,6 +1683,8 @@
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:11:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:11:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:11:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:11:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-welcome-section]]></wp:post_name>
@@ -1622,7 +1717,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Packages Section</title>
+		<title><![CDATA[Zakra Yoga - Packages Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-packages-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:12:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1643,6 +1738,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:12:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:12:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:12:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:12:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-packages-section]]></wp:post_name>
@@ -1675,7 +1772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Call to Action Section</title>
+		<title><![CDATA[Zakra Yoga - Call to Action Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-call-to-action-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:13:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1690,6 +1787,8 @@
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:13:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:13:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:13:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:13:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-call-to-action-section]]></wp:post_name>
@@ -1722,7 +1821,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/yoga/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:10:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1733,6 +1832,8 @@
 		<wp:post_id>265</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:10:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:10:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:10:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:10:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -1753,7 +1854,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>subscription</title>
+		<title><![CDATA[subscription]]></title>
 		<link>https://zakrademos.com/yoga/mc4wp-form/subscription/</link>
 		<pubDate>Fri, 07 Sep 2018 04:52:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1767,6 +1868,8 @@
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-07 04:52:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-07 04:52:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-07 04:52:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-07 04:52:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[subscription]]></wp:post_name>
@@ -1818,7 +1921,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/privacy-policy/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1829,6 +1932,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -1873,7 +1978,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Terms and Conditions</title>
+		<title><![CDATA[Terms and Conditions]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/terms-and-conditions/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1884,6 +1989,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[terms-and-conditions]]></wp:post_name>
@@ -1928,17 +2035,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/yoga/?post_type=everest_form&#038;p=108</link>
 		<pubDate>Mon, 10 Sep 2018 09:54:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-yoga/?post_type=everest_form&#038;p=108</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"108","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"Name","label_hide":"1","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"Email","label_hide":"1","default_value":"","css":""},"wgA53d0a7M-1":{"id":"wgA53d0a7M-1","type":"number","label":"Number","meta-key":"number_9150","description":"","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"Phone","label_hide":"1","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"Subject","label_hide":"1","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"Message","label_hide":"1","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Yoga","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5c5ab3270926e":{"connection_name":"User Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Modular Yoga","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","wgA53d0a7M-1"],"grid_2":["subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"108","form_enabled":"1","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"wgA53d0a7M-1":{"id":"wgA53d0a7M-1","type":"number","label":"Number","meta-key":"number_9150","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"Phone","label_hide":"1","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Subject","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"281","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Yoga","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","wgA53d0a7M-1"],"grid_2":["subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-10 09:54:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-10 09:54:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 15:10:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 15:10:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -1950,7 +2059,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/facebook/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1961,6 +2070,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -2005,7 +2116,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LinkedIn</title>
+		<title><![CDATA[LinkedIn]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/linkedin/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2016,6 +2127,8 @@
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -2060,7 +2173,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/twitter/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2071,6 +2184,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -2115,7 +2230,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/196/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2126,6 +2241,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[196]]></wp:post_name>
@@ -2170,7 +2287,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/203/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2181,6 +2298,8 @@
 		<wp:post_id>203</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[203]]></wp:post_name>
@@ -2225,7 +2344,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/204/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2236,6 +2355,8 @@
 		<wp:post_id>204</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[204]]></wp:post_name>
@@ -2280,7 +2401,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/205/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2291,6 +2412,8 @@
 		<wp:post_id>205</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[205]]></wp:post_name>
@@ -2335,7 +2458,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/206/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2346,6 +2469,8 @@
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[206]]></wp:post_name>
@@ -2390,7 +2515,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/207/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2401,6 +2526,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[207]]></wp:post_name>
@@ -2445,7 +2572,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Lessons Section</title>
+		<title><![CDATA[Zakra Yoga - Lessons Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-lessons-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:14:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2466,6 +2593,8 @@
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:14:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:14:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:14:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:14:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-lessons-section]]></wp:post_name>
@@ -2498,7 +2627,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Testimonial Section</title>
+		<title><![CDATA[Zakra Yoga - Testimonial Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-testimonial-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:14:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2511,6 +2640,8 @@
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:14:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:14:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:14:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:14:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-testimonial-section]]></wp:post_name>
@@ -2543,7 +2674,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Subscribe Section</title>
+		<title><![CDATA[Zakra Yoga - Subscribe Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-subscribe-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:15:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2555,6 +2686,8 @@
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:15:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:15:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:15:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:15:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-subscribe-section]]></wp:post_name>
@@ -2587,7 +2720,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - About Intro Section</title>
+		<title><![CDATA[Zakra Yoga - About Intro Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-about-intro-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2600,6 +2733,8 @@
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:17:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:17:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:17:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:17:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-about-intro-section]]></wp:post_name>
@@ -2632,7 +2767,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - About Team Section</title>
+		<title><![CDATA[Zakra Yoga - About Team Section]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-about-team-section</link>
 		<pubDate>Thu, 21 Nov 2019 04:18:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2652,6 +2787,8 @@
 		<wp:post_id>256</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:18:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:18:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:18:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:18:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-about-team-section]]></wp:post_name>
@@ -2684,7 +2821,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Yoga - Contact Form Secton</title>
+		<title><![CDATA[Zakra Yoga - Contact Form Secton]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=zakra-yoga-contact-form-secton</link>
 		<pubDate>Thu, 21 Nov 2019 04:19:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2708,6 +2845,8 @@
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-21 04:19:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-21 04:19:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-21 04:19:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-21 04:19:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-yoga-contact-form-secton]]></wp:post_name>
@@ -2740,7 +2879,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/yoga/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:19:09 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2751,6 +2890,8 @@
 		<wp:post_id>263</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:19:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:19:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:19:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:19:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2770,7 +2911,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How can yoga make you strong?</title>
+		<title><![CDATA[How can yoga make you strong?]]></title>
 		<link>https://zakrademos.com/yoga/2018/09/11/how-can-yoga-make-you-strong/</link>
 		<pubDate>Tue, 11 Sep 2018 04:41:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2805,6 +2946,8 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 04:41:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 04:41:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 04:41:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 04:41:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-can-yoga-make-you-strong]]></wp:post_name>
@@ -2829,7 +2972,7 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Benefits of yoga and meditation</title>
+		<title><![CDATA[Benefits of yoga and meditation]]></title>
 		<link>https://zakrademos.com/yoga/2018/09/11/benefits-of-yoga-and-meditation/</link>
 		<pubDate>Tue, 11 Sep 2018 04:43:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2864,6 +3007,8 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 04:43:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 04:43:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 04:43:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 04:43:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[benefits-of-yoga-and-meditation]]></wp:post_name>
@@ -2888,7 +3033,7 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>News</title>
+		<title><![CDATA[News]]></title>
 		<link>https://zakrademos.com/yoga/news/</link>
 		<pubDate>Tue, 11 Sep 2018 04:51:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2899,6 +3044,8 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 04:51:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 04:51:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 04:51:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 04:51:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news]]></wp:post_name>
@@ -2918,7 +3065,7 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beginner</title>
+		<title><![CDATA[Beginner]]></title>
 		<link>https://zakrademos.com/yoga/beginner/</link>
 		<pubDate>Mon, 29 Oct 2018 04:28:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2937,6 +3084,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>197</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:28:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:28:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:28:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:28:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beginner]]></wp:post_name>
@@ -2988,7 +3137,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Advanced Member</title>
+		<title><![CDATA[Advanced Member]]></title>
 		<link>https://zakrademos.com/yoga/advanced-member/</link>
 		<pubDate>Mon, 29 Oct 2018 04:32:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3007,6 +3156,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:32:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:32:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:32:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:32:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[advanced-member]]></wp:post_name>
@@ -3058,7 +3209,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Core Member</title>
+		<title><![CDATA[Core Member]]></title>
 		<link>https://zakrademos.com/yoga/core-member/</link>
 		<pubDate>Mon, 29 Oct 2018 04:32:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3077,6 +3228,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:32:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:32:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:32:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:32:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[core-member]]></wp:post_name>
@@ -3128,7 +3281,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Personal</title>
+		<title><![CDATA[Personal]]></title>
 		<link>https://zakrademos.com/yoga/personal/</link>
 		<pubDate>Mon, 29 Oct 2018 04:33:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3147,6 +3300,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:33:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:33:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:33:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[personal]]></wp:post_name>
@@ -3198,7 +3353,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Balle</title>
+		<title><![CDATA[Balle]]></title>
 		<link>https://zakrademos.com/yoga/balle/</link>
 		<pubDate>Mon, 29 Oct 2018 04:35:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3217,6 +3372,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>202</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:35:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:35:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:35:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:35:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[balle]]></wp:post_name>
@@ -3268,7 +3425,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group</title>
+		<title><![CDATA[Group]]></title>
 		<link>https://zakrademos.com/yoga/group/</link>
 		<pubDate>Mon, 29 Oct 2018 04:36:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3287,6 +3444,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 04:36:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 04:36:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 04:36:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 04:36:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group]]></wp:post_name>
@@ -3338,7 +3497,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2019/07/09/215/</link>
 		<pubDate>Tue, 09 Jul 2019 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3349,6 +3508,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[215]]></wp:post_name>
@@ -3393,7 +3554,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/yoga/</link>
 		<pubDate>Fri, 07 Aug 2020 10:28:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3461,6 +3622,8 @@ Never miss any update from us. Subscribe to our newsletter]]></content:encoded>
 		<wp:post_id>268</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-07 10:28:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-07 10:28:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:40:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:40:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -3536,7 +3699,7 @@ Never miss any update from us. Subscribe to our newsletter]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Packages</title>
+		<title><![CDATA[Packages]]></title>
 		<link>https://zakrademos.com/yoga/packages/</link>
 		<pubDate>Mon, 10 Aug 2020 08:27:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3557,6 +3720,8 @@ The perfect kick-start for the new comers. Get acces to the 5 classes per week.$
 		<wp:post_id>275</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:27:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:27:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:40:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:40:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[packages]]></wp:post_name>
@@ -3616,7 +3781,7 @@ The perfect kick-start for the new comers. Get acces to the 5 classes per week.$
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Lessons</title>
+		<title><![CDATA[Lessons]]></title>
 		<link>https://zakrademos.com/yoga/lessons/</link>
 		<pubDate>Mon, 10 Aug 2020 08:27:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3637,6 +3802,8 @@ Balle LessonThis is not to discredit the idea that before laws, queens were only
 		<wp:post_id>277</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:27:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:27:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lessons]]></wp:post_name>
@@ -3696,7 +3863,7 @@ Balle LessonThis is not to discredit the idea that before laws, queens were only
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/yoga/about/</link>
 		<pubDate>Fri, 07 Aug 2020 10:28:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3721,6 +3888,8 @@ Yoga Instructor]]></content:encoded>
 		<wp:post_id>281</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-07 10:28:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-07 10:28:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:39:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:39:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3780,7 +3949,7 @@ Yoga Instructor]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Us</title>
+		<title><![CDATA[Contact Us]]></title>
 		<link>https://zakrademos.com/yoga/contact-us/</link>
 		<pubDate>Mon, 10 Aug 2020 08:27:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3802,6 +3971,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>298</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:27:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:27:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:39:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:39:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -3861,7 +4032,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2020/08/10/309/</link>
 		<pubDate>Mon, 10 Aug 2020 08:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3872,6 +4043,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>309</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:38:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[309]]></wp:post_name>
@@ -3916,7 +4089,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2020/08/10/310/</link>
 		<pubDate>Mon, 10 Aug 2020 08:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3927,6 +4100,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>310</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:38:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[310]]></wp:post_name>
@@ -3971,7 +4146,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2020/08/10/311/</link>
 		<pubDate>Mon, 10 Aug 2020 08:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3982,6 +4157,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>311</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:38:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[311]]></wp:post_name>
@@ -4026,7 +4203,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2020/08/10/312/</link>
 		<pubDate>Mon, 10 Aug 2020 08:38:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4037,6 +4214,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>312</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:38:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[312]]></wp:post_name>
@@ -4081,7 +4260,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/yoga/2020/08/10/318/</link>
 		<pubDate>Mon, 10 Aug 2020 08:51:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4092,6 +4271,8 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		<wp:post_id>318</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:51:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:51:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:51:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[318]]></wp:post_name>
@@ -4136,7 +4317,7 @@ In the Yoga Studio, we are always dedicated to teach a better Yoga. We make sure
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Start your day with yoga</title>
+		<title><![CDATA[Start your day with yoga]]></title>
 		<link>https://zakrademos.com/yoga/2018/09/11/start-your-day-with-yoga/</link>
 		<pubDate>Tue, 11 Sep 2018 04:44:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4171,6 +4352,8 @@ Duis sem tortor, feugiat suscipit erat at, auctor bibendum velit. Praesent preti
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 04:44:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 04:44:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 04:44:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 04:44:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[start-your-day-with-yoga]]></wp:post_name>

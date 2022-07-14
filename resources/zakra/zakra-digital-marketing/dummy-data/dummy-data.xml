@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-20 08:18" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 10:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,11 +28,11 @@
 <channel>
 	<title>Zakra Digital Marketing</title>
 	<link>https://zakrademos.com/digital-marketing</link>
-	<description>Zakra Digital Marketing– WordPress Template Site for all kind of Digital Marketing</description>
-	<pubDate>Wed, 20 Jan 2021 08:18:35 +0000</pubDate>
+	<description>WordPress Template Site for all kind of Digital Marketing</description>
+	<pubDate>Wed, 13 Jul 2022 10:10:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/digital-marketing</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -61,10 +61,31 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Work &amp; Case Study - row2]]></wp:cat_name>
 	</wp:category>
-					<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+				<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/digital-marketing/wp-content/uploads/sites/84/2020/11/footer-logo.png</url>
@@ -75,7 +96,7 @@
 </image> 
 
 		<item>
-		<title>logo-spectrum</title>
+		<title><![CDATA[logo-spectrum]]></title>
 		<link>https://zakrademos.com/digital-marketing/logo-spectrum/</link>
 		<pubDate>Fri, 20 Nov 2020 11:35:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -86,6 +107,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:35:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:35:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:35:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:35:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-spectrum]]></wp:post_name>
@@ -110,7 +133,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>take-care-your-bussiness</title>
+		<title><![CDATA[take-care-your-bussiness]]></title>
 		<link>https://zakrademos.com/digital-marketing/take-care-your-bussiness/</link>
 		<pubDate>Fri, 20 Nov 2020 11:36:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -121,6 +144,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:36:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:36:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:36:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:36:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[take-care-your-bussiness]]></wp:post_name>
@@ -145,7 +170,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>video-bg</title>
+		<title><![CDATA[video-bg]]></title>
 		<link>https://zakrademos.com/digital-marketing/video-bg/</link>
 		<pubDate>Fri, 20 Nov 2020 11:36:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -156,6 +181,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:36:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:36:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:36:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:36:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-bg]]></wp:post_name>
@@ -180,7 +207,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>DM-logo</title>
+		<title><![CDATA[DM-logo]]></title>
 		<link>https://zakrademos.com/digital-marketing/dm-logo/</link>
 		<pubDate>Fri, 20 Nov 2020 11:36:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -191,6 +218,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:36:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:36:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:36:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:36:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dm-logo]]></wp:post_name>
@@ -215,7 +244,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero-image</title>
+		<title><![CDATA[hero-image]]></title>
 		<link>https://zakrademos.com/digital-marketing/hero-image/</link>
 		<pubDate>Fri, 20 Nov 2020 11:36:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -226,6 +255,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:36:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:36:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:36:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:36:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-image]]></wp:post_name>
@@ -250,7 +281,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-business</title>
+		<title><![CDATA[logo-business]]></title>
 		<link>https://zakrademos.com/digital-marketing/logo-business/</link>
 		<pubDate>Fri, 20 Nov 2020 11:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -261,6 +292,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:37:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:37:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:37:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:37:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-business]]></wp:post_name>
@@ -285,7 +318,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-inspector</title>
+		<title><![CDATA[logo-inspector]]></title>
 		<link>https://zakrademos.com/digital-marketing/logo-inspector/</link>
 		<pubDate>Fri, 20 Nov 2020 11:37:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -296,6 +329,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:37:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:37:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:37:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:37:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-inspector]]></wp:post_name>
@@ -320,7 +355,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-mascat</title>
+		<title><![CDATA[logo-mascat]]></title>
 		<link>https://zakrademos.com/digital-marketing/logo-mascat/</link>
 		<pubDate>Fri, 20 Nov 2020 11:37:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -331,6 +366,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:37:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:37:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:37:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:37:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-mascat]]></wp:post_name>
@@ -355,7 +392,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-production</title>
+		<title><![CDATA[logo-production]]></title>
 		<link>https://zakrademos.com/digital-marketing/logo-production/</link>
 		<pubDate>Fri, 20 Nov 2020 11:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -366,6 +403,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:37:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:37:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:37:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:37:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-production]]></wp:post_name>
@@ -390,7 +429,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-logo</title>
+		<title><![CDATA[footer-logo]]></title>
 		<link>https://zakrademos.com/digital-marketing/footer-logo/</link>
 		<pubDate>Tue, 24 Nov 2020 12:43:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -401,6 +440,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-24 12:43:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-24 12:43:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-24 12:43:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-24 12:43:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo]]></wp:post_name>
@@ -425,7 +466,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-analytics</title>
+		<title><![CDATA[ico-analytics]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-analytics/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -436,6 +477,8 @@
 		<wp:post_id>242</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-analytics]]></wp:post_name>
@@ -460,7 +503,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-email</title>
+		<title><![CDATA[ico-email]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-email/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -471,6 +514,8 @@
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-email]]></wp:post_name>
@@ -495,7 +540,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-goal</title>
+		<title><![CDATA[ico-goal]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-goal/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -506,6 +551,8 @@
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-goal]]></wp:post_name>
@@ -530,7 +577,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-rank</title>
+		<title><![CDATA[ico-rank]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-rank/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -541,6 +588,8 @@
 		<wp:post_id>245</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-rank]]></wp:post_name>
@@ -565,7 +614,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-rocket</title>
+		<title><![CDATA[ico-rocket]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-rocket/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -576,6 +625,8 @@
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-rocket]]></wp:post_name>
@@ -600,7 +651,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ico-socialmedia</title>
+		<title><![CDATA[ico-socialmedia]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/ico-socialmedia/</link>
 		<pubDate>Wed, 25 Nov 2020 11:19:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -611,6 +662,8 @@
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-25 11:19:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-25 11:19:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-25 11:19:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-25 11:19:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ico-socialmedia]]></wp:post_name>
@@ -635,7 +688,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Albert Flores</title>
+		<title><![CDATA[Albert Flores]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/marketing-analysis/albert-flores/</link>
 		<pubDate>Mon, 30 Nov 2020 06:00:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -646,6 +699,8 @@
 		<wp:post_id>331</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:00:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:00:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:00:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:00:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[albert-flores]]></wp:post_name>
@@ -670,7 +725,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Robert Fox</title>
+		<title><![CDATA[Robert Fox]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/marketing-analysis/robert-fox/</link>
 		<pubDate>Mon, 30 Nov 2020 06:01:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -681,6 +736,8 @@
 		<wp:post_id>339</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:01:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:01:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:01:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:01:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[robert-fox]]></wp:post_name>
@@ -705,7 +762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Seo-Hacks</title>
+		<title><![CDATA[Seo-Hacks]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/affiliate-marketing/seo-hacks-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:11:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -716,6 +773,8 @@
 		<wp:post_id>349</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:11:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:11:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:11:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:11:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[seo-hacks-2]]></wp:post_name>
@@ -740,7 +799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Marketing-Analysis</title>
+		<title><![CDATA[Marketing-Analysis]]></title>
 		<link>https://zakrademos.com/digital-marketing/marketing-analysis-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:15:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -751,6 +810,8 @@
 		<wp:post_id>351</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:15:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:15:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:15:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:15:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marketing-analysis-2]]></wp:post_name>
@@ -775,7 +836,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/digital-marketing/?elementor_library=default-kit</link>
 		<pubDate>Tue, 29 Dec 2020 08:17:36 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -786,6 +847,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:17:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:17:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-26 06:33:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-26 06:33:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -809,7 +872,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#242F65";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#7963E0";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:9:"#333333E6";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#7963E0";}}s:13:"custom_colors";a:3:{i:0;a:3:{s:3:"_id";s:7:"9b922dd";s:5:"title";s:18:"Section Background";s:5:"color";s:7:"#F8F8F8";}i:1;a:3:{s:3:"_id";s:7:"1322b27";s:5:"title";s:5:"White";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:7:"8e1f940";s:5:"title";s:6:"Orange";s:5:"color";s:7:"#F5941F";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:23:"Zakra Digital Marketing";s:16:"site_description";s:84:"Zakra Digital Marketing– WordPress Template Site for all kind of Digital Marketing";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"3";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#242F65";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#7963E0";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:9:"#333333E6";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#7963E0";}}s:13:"custom_colors";a:3:{i:0;a:3:{s:3:"_id";s:7:"9b922dd";s:5:"title";s:18:"Section Background";s:5:"color";s:7:"#F8F8F8";}i:1;a:3:{s:3:"_id";s:7:"1322b27";s:5:"title";s:5:"White";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:7:"8e1f940";s:5:"title";s:6:"Orange";s:5:"color";s:7:"#F5941F";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:23:"Zakra Digital Marketing";s:16:"site_description";s:57:"WordPress Template Site for all kind of Digital Marketing";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"3";s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -821,17 +884,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/digital-marketing/?post_type=everest_form&#038;p=20</link>
 		<pubDate>Fri, 20 Nov 2020 10:05:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-digital-marketing.sites.qsandbox.com/?post_type=everest_form&#038;p=20</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"20","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email Address","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"62","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"My qSandbox Test Site","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_2":{"grid_1":["fullname"],"grid_2":["email"]},"row_1":{"grid_1":["message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"20","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email Address","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"62","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Digital Marketing","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_2":{"grid_1":["fullname"],"grid_2":["email"]},"row_1":{"grid_1":["message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 10:05:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 10:05:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:32:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:32:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -843,7 +908,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/digital-marketing/?elementor_library=default-kit-2</link>
 		<pubDate>Fri, 20 Nov 2020 11:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -854,6 +919,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 11:47:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 11:47:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 11:47:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 11:47:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit-2]]></wp:post_name>
@@ -889,7 +956,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Marketing-Tools</title>
+		<title><![CDATA[Marketing-Tools]]></title>
 		<link>https://zakrademos.com/digital-marketing/marketing-tools-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:15:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -900,6 +967,8 @@
 		<wp:post_id>352</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:15:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:15:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:15:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:15:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marketing-tools-2]]></wp:post_name>
@@ -924,7 +993,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Skycraper-Formula</title>
+		<title><![CDATA[Skycraper-Formula]]></title>
 		<link>https://zakrademos.com/digital-marketing/skycraper-formula-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:15:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -935,6 +1004,8 @@
 		<wp:post_id>354</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:15:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:15:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:15:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:15:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[skycraper-formula-2]]></wp:post_name>
@@ -959,7 +1030,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Website-Page-Ranking</title>
+		<title><![CDATA[Website-Page-Ranking]]></title>
 		<link>https://zakrademos.com/digital-marketing/website-page-ranking-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -970,6 +1041,8 @@
 		<wp:post_id>355</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:15:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:15:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:15:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:15:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[website-page-ranking-2]]></wp:post_name>
@@ -994,7 +1067,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Amazon-Marketing-Strategy</title>
+		<title><![CDATA[Amazon-Marketing-Strategy]]></title>
 		<link>https://zakrademos.com/digital-marketing/amazon-marketing-strategy-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1005,6 +1078,8 @@
 		<wp:post_id>356</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:15:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:15:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:15:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:15:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[amazon-marketing-strategy-2]]></wp:post_name>
@@ -1029,7 +1104,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Apple-Digital-Marketing</title>
+		<title><![CDATA[Apple-Digital-Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/apple-digital-marketing-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1040,6 +1115,8 @@
 		<wp:post_id>357</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:16:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:16:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:16:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:16:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apple-digital-marketing-2]]></wp:post_name>
@@ -1064,7 +1141,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Digital-Marketing-Insight</title>
+		<title><![CDATA[Digital-Marketing-Insight]]></title>
 		<link>https://zakrademos.com/digital-marketing/digital-marketing-insight-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:16:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1075,6 +1152,8 @@
 		<wp:post_id>358</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:16:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:16:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:16:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:16:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[digital-marketing-insight-2]]></wp:post_name>
@@ -1099,7 +1178,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Email-Marketing</title>
+		<title><![CDATA[Email-Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/email-marketing/</link>
 		<pubDate>Mon, 30 Nov 2020 06:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1110,6 +1189,8 @@
 		<wp:post_id>359</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:16:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:16:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:16:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:16:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-marketing]]></wp:post_name>
@@ -1134,7 +1215,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Google-Digital-Marketing</title>
+		<title><![CDATA[Google-Digital-Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/google-digital-marketing-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1145,6 +1226,8 @@
 		<wp:post_id>360</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:16:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:16:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:16:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:16:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-digital-marketing-2]]></wp:post_name>
@@ -1169,7 +1252,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Affiliate-Marketing</title>
+		<title><![CDATA[Affiliate-Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/seo-hacks/affiliate-marketing-2/</link>
 		<pubDate>Mon, 30 Nov 2020 06:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1180,6 +1263,8 @@
 		<wp:post_id>364</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 06:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 06:29:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 06:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 06:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[affiliate-marketing-2]]></wp:post_name>
@@ -1204,17 +1289,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Subscribe</title>
+		<title><![CDATA[Subscribe]]></title>
 		<link>https://zakrademos.com/digital-marketing/?post_type=everest_form&#038;p=408</link>
 		<pubDate>Mon, 30 Nov 2020 10:59:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-digital-marketing.sites.qsandbox.com/?post_type=everest_form&#038;p=408</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"408","form_enabled":"1","form_field_id":1,"form_fields":{"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Your Email Address","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""}},"settings":{"form_title":"Subscribe","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"62","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Digital Marketing","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["email"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"408","form_enabled":"1","form_field_id":1,"form_fields":{"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Your Email Address","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""}},"settings":{"form_title":"Subscribe","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"62","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Digital Marketing","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["email"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>408</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 10:59:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 10:59:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:33:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:33:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -1226,7 +1313,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Subscribe-background</title>
+		<title><![CDATA[Subscribe-background]]></title>
 		<link>https://zakrademos.com/digital-marketing/home/subscribe-background/</link>
 		<pubDate>Mon, 30 Nov 2020 11:57:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1237,6 +1324,8 @@
 		<wp:post_id>440</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-30 11:57:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-30 11:57:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-30 11:57:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-30 11:57:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[subscribe-background]]></wp:post_name>
@@ -1261,7 +1350,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>marketing-solution</title>
+		<title><![CDATA[marketing-solution]]></title>
 		<link>https://zakrademos.com/digital-marketing/about/marketing-solution/</link>
 		<pubDate>Wed, 02 Dec 2020 09:56:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1272,6 +1361,8 @@
 		<wp:post_id>630</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-02 09:56:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-02 09:56:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-02 09:56:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-02 09:56:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marketing-solution]]></wp:post_name>
@@ -1296,7 +1387,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Lydia-Franci</title>
+		<title><![CDATA[Lydia-Franci]]></title>
 		<link>https://zakrademos.com/digital-marketing/about/lydia-franci-2/</link>
 		<pubDate>Wed, 02 Dec 2020 10:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1307,6 +1398,8 @@
 		<wp:post_id>635</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-02 10:01:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-02 10:01:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-02 10:01:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-02 10:01:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lydia-franci-2]]></wp:post_name>
@@ -1331,7 +1424,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>social-marketing</title>
+		<title><![CDATA[social-marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/services/social-marketing/</link>
 		<pubDate>Thu, 03 Dec 2020 04:11:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1342,6 +1435,8 @@
 		<wp:post_id>694</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-03 04:11:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-03 04:11:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-03 04:11:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-03 04:11:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[social-marketing]]></wp:post_name>
@@ -1366,7 +1461,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ppc-advertising</title>
+		<title><![CDATA[ppc-advertising]]></title>
 		<link>https://zakrademos.com/digital-marketing/services/ppc-advertising/</link>
 		<pubDate>Thu, 03 Dec 2020 04:11:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1377,6 +1472,8 @@
 		<wp:post_id>695</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-03 04:11:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-03 04:11:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-03 04:11:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-03 04:11:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ppc-advertising]]></wp:post_name>
@@ -1401,7 +1498,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jessica-Alba-Marketing-Expert</title>
+		<title><![CDATA[Jessica-Alba-Marketing-Expert]]></title>
 		<link>https://zakrademos.com/digital-marketing/jessica-alba-marketing-expert/</link>
 		<pubDate>Tue, 29 Dec 2020 08:28:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1412,6 +1509,8 @@
 		<wp:post_id>1008</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:28:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:28:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 08:28:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 08:28:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jessica-alba-marketing-expert]]></wp:post_name>
@@ -1436,7 +1535,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sub-page-heroimage</title>
+		<title><![CDATA[sub-page-heroimage]]></title>
 		<link>https://zakrademos.com/digital-marketing/sub-page-heroimage/</link>
 		<pubDate>Tue, 29 Dec 2020 08:28:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1447,6 +1546,8 @@
 		<wp:post_id>1009</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:28:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:28:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 08:28:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 08:28:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sub-page-heroimage]]></wp:post_name>
@@ -1471,7 +1572,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/digital-marketing/sample-page/</link>
 		<pubDate>Tue, 29 Dec 2020 08:17:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1500,6 +1601,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:17:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:17:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 08:17:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 08:17:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1515,7 +1618,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/digital-marketing/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Tue, 29 Dec 2020 08:17:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1526,18 +1629,32 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:17:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:17:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:31:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:31:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[contact-form__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657614712]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/digital-marketing/blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1548,6 +1665,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1651,7 +1770,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/digital-marketing/about/</link>
 		<pubDate>Fri, 20 Nov 2020 12:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1766,6 +1885,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:04:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:04:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 08:14:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 08:14:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1909,11 +2030,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:11:{s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:3;s:11:"second_text";i:3;s:8:"html_tag";i:2;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:5:{s:16:"headings_stacked";i:3;s:27:"first_typography_typography";i:2;s:33:"first_typography_font_size_mobile";i:1;s:33:"first_typography_font_size_tablet";i:1;s:25:"headings_alignment_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:11:"hover_color";i:2;s:29:"button_background_hover_color";i:2;s:25:"button_hover_border_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:13:"border_radius";i:2;s:12:"text_padding";i:2;s:16:"background_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:25;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:6:{s:12:"_inline_size";i:25;s:19:"_inline_size_tablet";i:9;s:16:"content_position";i:4;s:5:"align";i:2;s:19:"_inline_size_mobile";i:4;s:6:"_title";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:12;s:6:"margin";i:7;s:13:"margin_mobile";i:1;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:6;}}s:5:"style";a:3:{s:13:"section_style";a:9:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:27:"background_hover_background";i:1;s:25:"background_hover_position";i:1;s:23:"background_hover_repeat";i:1;s:26:"background_bg_width_mobile";i:1;}s:26:"section_background_overlay";a:8:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:23:"background_overlay_size";i:1;s:26:"background_overlay_opacity";i:1;s:35:"background_overlay_hover_background";i:1;s:33:"background_overlay_hover_position";i:1;s:32:"background_overlay_hover_opacity";i:1;s:35:"background_overlay_hover_transition";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:8;}s:14:"section_layout";a:5:{s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;s:16:"content_position";i:2;s:6:"_title";i:5;s:13:"custom_height";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:4;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:5;s:7:"padding";i:6;s:14:"padding_mobile";i:3;s:13:"margin_tablet";i:2;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:6:{s:9:"icon_type";i:5;s:4:"icon";i:2;s:7:"caption";i:5;s:5:"title";i:5;s:11:"description";i:5;s:5:"image";i:3;}}s:5:"style";a:4:{s:28:"ec_service_box_style_section";a:5:{s:19:"service_box_padding";i:5;s:17:"content_alignment";i:3;s:25:"service_box_border_radius";i:3;s:25:"service_box_bg_background";i:3;s:20:"service_box_bg_color";i:3;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:5;s:27:"title_typography_typography";i:2;s:33:"title_typography_font_size_mobile";i:2;s:12:"title_margin";i:3;}s:33:"ec_service_box_icon_style_section";a:4:{s:13:"icon_position";i:3;s:10:"image_size";i:3;s:18:"icon_border_radius";i:3;s:11:"icon_margin";i:3;}s:40:"ec_service_box_style_description_section";a:1:{s:18:"description_margin";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:6:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:8:"src_icon";i:1;s:13:"src_icon_size";i:1;s:20:"src_icon_size_mobile";i:1;s:12:"src_btn_icon";i:1;}}s:5:"style";a:2:{s:22:"ec_modal_style_section";a:3:{s:5:"width";i:1;s:27:"content_popup_bg_background";i:1;s:22:"content_popup_bg_color";i:1;}s:27:"ec_modal_icon_style_section";a:1:{s:14:"src_icon_color";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:3:{s:31:"ec_counter_number_style_section";a:3:{s:28:"number_typography_typography";i:4;s:27:"number_typography_font_size";i:4;s:12:"number_color";i:4;}s:30:"ec_counter_title_style_section";a:2:{s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;}s:29:"ec_counter_icon_style_section";a:1:{s:14:"icon_font_size";i:4;}}}}s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:1;}}s:5:"style";a:1:{s:21:"section_style_general";a:3:{s:13:"border_radius";i:1;s:7:"overlay";i:1;s:17:"image_size_tablet";i:1;}}}}s:34:"elementor-companion-media-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:2:{s:32:"ec_media_carousel_slides_section";a:2:{s:6:"slides";i:1;s:14:"enable_caption";i:1;}s:34:"ec_media_carousel_settings_section";a:4:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;s:10:"spv_mobile";i:1;}}s:5:"style";a:1:{s:38:"ec_media_carousel_slides_style_section";a:2:{s:13:"slide_spacing";i:1;s:19:"slide_border_border";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:3;s:11:"second_text";i:3;s:8:"html_tag";i:2;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:5:{s:16:"headings_stacked";i:3;s:27:"first_typography_typography";i:2;s:33:"first_typography_font_size_mobile";i:1;s:33:"first_typography_font_size_tablet";i:1;s:25:"headings_alignment_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:11:"hover_color";i:2;s:29:"button_background_hover_color";i:2;s:25:"button_hover_border_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:13:"border_radius";i:2;s:12:"text_padding";i:2;s:16:"background_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:25;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:6:{s:12:"_inline_size";i:25;s:19:"_inline_size_tablet";i:9;s:16:"content_position";i:4;s:5:"align";i:2;s:19:"_inline_size_mobile";i:4;s:6:"_title";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:12;s:6:"margin";i:7;s:13:"margin_mobile";i:1;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:6;}}s:5:"style";a:3:{s:13:"section_style";a:9:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:27:"background_hover_background";i:1;s:25:"background_hover_position";i:1;s:23:"background_hover_repeat";i:1;s:26:"background_bg_width_mobile";i:1;}s:26:"section_background_overlay";a:8:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:23:"background_overlay_size";i:1;s:26:"background_overlay_opacity";i:1;s:35:"background_overlay_hover_background";i:1;s:33:"background_overlay_hover_position";i:1;s:32:"background_overlay_hover_opacity";i:1;s:35:"background_overlay_hover_transition";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:8;}s:14:"section_layout";a:5:{s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;s:16:"content_position";i:2;s:6:"_title";i:5;s:13:"custom_height";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:4;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:5;s:7:"padding";i:6;s:14:"padding_mobile";i:3;s:13:"margin_tablet";i:2;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:6:{s:9:"icon_type";i:5;s:4:"icon";i:2;s:7:"caption";i:5;s:5:"title";i:5;s:11:"description";i:5;s:5:"image";i:3;}}s:5:"style";a:4:{s:28:"ec_service_box_style_section";a:5:{s:19:"service_box_padding";i:5;s:17:"content_alignment";i:3;s:25:"service_box_border_radius";i:3;s:25:"service_box_bg_background";i:3;s:20:"service_box_bg_color";i:3;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:5;s:27:"title_typography_typography";i:2;s:33:"title_typography_font_size_mobile";i:2;s:12:"title_margin";i:3;}s:33:"ec_service_box_icon_style_section";a:4:{s:13:"icon_position";i:3;s:10:"image_size";i:3;s:18:"icon_border_radius";i:3;s:11:"icon_margin";i:3;}s:40:"ec_service_box_style_description_section";a:1:{s:18:"description_margin";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:6:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:8:"src_icon";i:1;s:13:"src_icon_size";i:1;s:20:"src_icon_size_mobile";i:1;s:12:"src_btn_icon";i:1;}}s:5:"style";a:2:{s:22:"ec_modal_style_section";a:3:{s:5:"width";i:1;s:27:"content_popup_bg_background";i:1;s:22:"content_popup_bg_color";i:1;}s:27:"ec_modal_icon_style_section";a:1:{s:14:"src_icon_color";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:3:{s:31:"ec_counter_number_style_section";a:3:{s:28:"number_typography_typography";i:4;s:27:"number_typography_font_size";i:4;s:12:"number_color";i:4;}s:30:"ec_counter_title_style_section";a:2:{s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;}s:29:"ec_counter_icon_style_section";a:1:{s:14:"icon_font_size";i:4;}}}}s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:1;}}s:5:"style";a:1:{s:21:"section_style_general";a:3:{s:13:"border_radius";i:1;s:7:"overlay";i:1;s:17:"image_size_tablet";i:1;}}}}s:34:"elementor-companion-media-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:2:{s:32:"ec_media_carousel_slides_section";a:2:{s:6:"slides";i:1;s:14:"enable_caption";i:1;}s:34:"ec_media_carousel_settings_section";a:4:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;s:10:"spv_mobile";i:1;}}s:5:"style";a:1:{s:38:"ec_media_carousel_slides_style_section";a:2:{s:13:"slide_spacing";i:1;s:19:"slide_border_border";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://zakrademos.com/digital-marketing/services/</link>
 		<pubDate>Fri, 20 Nov 2020 12:04:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1980,6 +2101,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:04:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:04:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 08:15:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 08:15:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -2091,11 +2214,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:4;}}s:5:"style";a:1:{s:21:"section_style_general";a:4:{s:13:"border_radius";i:4;s:7:"overlay";i:4;s:17:"image_size_tablet";i:4;s:10:"image_size";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:13;s:16:"content_position";i:6;s:19:"_inline_size_tablet";i:3;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:9;s:14:"padding_mobile";i:7;s:6:"margin";i:4;s:13:"margin_mobile";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:7:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:1;}}}}s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:4;s:11:"second_text";i:4;s:8:"html_tag";i:4;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:3:{s:16:"headings_stacked";i:4;s:27:"first_typography_typography";i:4;s:33:"first_typography_font_size_mobile";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:25:"typography_text_transform";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;s:16:"background_color";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:7:"padding";i:6;s:14:"padding_mobile";i:5;s:6:"margin";i:1;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:2;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:6:"_title";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:5;s:16:"background_color";i:2;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:1;s:4:"icon";i:1;s:7:"caption";i:1;s:5:"title";i:1;s:11:"description";i:1;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:1;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:1;s:12:"title_margin";i:1;s:33:"title_typography_font_size_mobile";i:1;s:11:"title_color";i:1;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:1;s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:1:{s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:9:{s:17:"evf_field_padding";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:30:"evf_field_typography_font_size";i:1;s:23:"evf_field_border_radius";i:1;s:14:"evf_field_text";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:16:{s:17:"evf_btn_alignment";i:1;s:29:"evf_btn_typography_typography";i:1;s:28:"evf_btn_typography_font_size";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:20:"evf_btn_border_width";i:1;s:15:"evf_btn_spacing";i:1;s:15:"evf_btn_padding";i:1;s:30:"evf_btn_typography_font_family";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:20:"evf_btn_border_color";i:1;s:19:"evf_btn_color_hover";i:1;s:16:"evf_btn_bg_hover";i:1;s:26:"evf_btn_border_color_hover";i:1;s:33:"evf_btn_typography_text_transform";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:4;}}s:5:"style";a:1:{s:21:"section_style_general";a:4:{s:13:"border_radius";i:4;s:7:"overlay";i:4;s:17:"image_size_tablet";i:4;s:10:"image_size";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:13;s:16:"content_position";i:6;s:19:"_inline_size_tablet";i:3;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:9;s:14:"padding_mobile";i:7;s:6:"margin";i:4;s:13:"margin_mobile";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:7:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:1;}}}}s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:4;s:11:"second_text";i:4;s:8:"html_tag";i:4;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:3:{s:16:"headings_stacked";i:4;s:27:"first_typography_typography";i:4;s:33:"first_typography_font_size_mobile";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:25:"typography_text_transform";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;s:16:"background_color";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:7:"padding";i:6;s:14:"padding_mobile";i:5;s:6:"margin";i:1;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:2;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:6:"_title";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:5;s:16:"background_color";i:2;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:1;s:4:"icon";i:1;s:7:"caption";i:1;s:5:"title";i:1;s:11:"description";i:1;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:1;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:1;s:12:"title_margin";i:1;s:33:"title_typography_font_size_mobile";i:1;s:11:"title_color";i:1;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:10;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:1;s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:1:{s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:9:{s:17:"evf_field_padding";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:30:"evf_field_typography_font_size";i:1;s:23:"evf_field_border_radius";i:1;s:14:"evf_field_text";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:16:{s:17:"evf_btn_alignment";i:1;s:29:"evf_btn_typography_typography";i:1;s:28:"evf_btn_typography_font_size";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:20:"evf_btn_border_width";i:1;s:15:"evf_btn_spacing";i:1;s:15:"evf_btn_padding";i:1;s:30:"evf_btn_typography_font_family";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:20:"evf_btn_border_color";i:1;s:19:"evf_btn_color_hover";i:1;s:16:"evf_btn_bg_hover";i:1;s:26:"evf_btn_border_color_hover";i:1;s:33:"evf_btn_typography_text_transform";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Works</title>
+		<title><![CDATA[Works]]></title>
 		<link>https://zakrademos.com/digital-marketing/works/</link>
 		<pubDate>Fri, 20 Nov 2020 12:05:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2172,6 +2295,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:05:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:05:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 08:14:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 08:14:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[works]]></wp:post_name>
@@ -2283,11 +2408,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:7;s:19:"_inline_size_tablet";i:3;s:16:"content_position";i:1;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:1;s:4:"icon";i:1;s:7:"caption";i:1;s:5:"title";i:1;s:11:"description";i:1;}}s:5:"style";a:2:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:1;}s:34:"ec_service_box_style_title_section";a:3:{s:9:"title_tag";i:1;s:27:"title_typography_typography";i:1;s:33:"title_typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:6:"_title";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:3;s:7:"padding";i:2;s:14:"padding_mobile";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:4:{s:22:"classic_posts_per_page";i:2;s:19:"classic_meta_select";i:2;s:22:"classic_columns_tablet";i:1;s:15:"classic_columns";i:1;}s:13:"section_query";a:1:{s:27:"terms_post_category_choices";i:2;}}s:5:"style";a:8:{s:28:"classic_section_style_layout";a:2:{s:15:"classic_row_gap";i:2;s:13:"classic_align";i:2;}s:25:"classic_section_style_box";a:4:{s:19:"classic_box_padding";i:2;s:23:"classic_content_padding";i:2;s:25:"classic_box_border_radius";i:2;s:20:"classic_box_bg_color";i:2;}s:27:"classic_section_style_image";a:1:{s:21:"classic_image_spacing";i:2;}s:27:"classic_section_style_title";a:6:{s:19:"classic_title_color";i:2;s:35:"classic_title_typography_typography";i:2;s:36:"classic_title_typography_font_family";i:2;s:34:"classic_title_typography_font_size";i:2;s:36:"classic_title_typography_font_weight";i:2;s:21:"classic_title_spacing";i:2;}s:29:"classic_section_style_excerpt";a:2:{s:38:"classic_excerpt_typography_font_family";i:2;s:38:"classic_excerpt_typography_font_weight";i:2;}s:26:"classic_section_style_meta";a:2:{s:35:"classic_meta_typography_font_family";i:2;s:35:"classic_meta_typography_font_weight";i:2;}s:22:"card_section_style_box";a:1:{s:22:"card_box_border_radius";i:2;}s:24:"card_section_style_image";a:2:{s:16:"card_avatar_size";i:2;s:25:"card_avatar_border_radius";i:2;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:7;s:19:"_inline_size_tablet";i:3;s:16:"content_position";i:1;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:1;s:4:"icon";i:1;s:7:"caption";i:1;s:5:"title";i:1;s:11:"description";i:1;}}s:5:"style";a:2:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:1;}s:34:"ec_service_box_style_title_section";a:3:{s:9:"title_tag";i:1;s:27:"title_typography_typography";i:1;s:33:"title_typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:6:"_title";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:3;s:7:"padding";i:2;s:14:"padding_mobile";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:4:{s:22:"classic_posts_per_page";i:2;s:19:"classic_meta_select";i:2;s:22:"classic_columns_tablet";i:1;s:15:"classic_columns";i:1;}s:13:"section_query";a:1:{s:27:"terms_post_category_choices";i:2;}}s:5:"style";a:8:{s:28:"classic_section_style_layout";a:2:{s:15:"classic_row_gap";i:2;s:13:"classic_align";i:2;}s:25:"classic_section_style_box";a:4:{s:19:"classic_box_padding";i:2;s:23:"classic_content_padding";i:2;s:25:"classic_box_border_radius";i:2;s:20:"classic_box_bg_color";i:2;}s:27:"classic_section_style_image";a:2:{s:21:"classic_image_spacing";i:2;s:27:"classic_image_border_radius";i:2;}s:27:"classic_section_style_title";a:6:{s:19:"classic_title_color";i:2;s:35:"classic_title_typography_typography";i:2;s:36:"classic_title_typography_font_family";i:2;s:34:"classic_title_typography_font_size";i:2;s:36:"classic_title_typography_font_weight";i:2;s:21:"classic_title_spacing";i:2;}s:29:"classic_section_style_excerpt";a:2:{s:38:"classic_excerpt_typography_font_family";i:2;s:38:"classic_excerpt_typography_font_weight";i:2;}s:26:"classic_section_style_meta";a:2:{s:35:"classic_meta_typography_font_family";i:2;s:35:"classic_meta_typography_font_weight";i:2;}s:22:"card_section_style_box";a:1:{s:22:"card_box_border_radius";i:2;}s:24:"card_section_style_image";a:2:{s:16:"card_avatar_size";i:2;s:25:"card_avatar_border_radius";i:2;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/digital-marketing/contact/</link>
 		<pubDate>Fri, 20 Nov 2020 12:07:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2337,6 +2462,8 @@
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:07:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:07:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 08:17:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 08:17:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2448,11 +2575,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:1;s:11:"second_text";i:1;s:8:"html_tag";i:1;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:1:{s:15:"headings_margin";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:2;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:2;}}s:5:"style";a:4:{s:9:"evf_label";a:2:{s:24:"evf_label_spacing_tablet";i:1;s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:11:{s:17:"evf_field_padding";i:2;s:24:"evf_field_padding_tablet";i:1;s:14:"evf_field_text";i:2;s:31:"evf_field_typography_typography";i:2;s:32:"evf_field_typography_font_family";i:2;s:30:"evf_field_typography_font_size";i:2;s:23:"evf_field_border_border";i:2;s:22:"evf_field_border_width";i:2;s:23:"evf_field_border_radius";i:2;s:22:"evf_field_border_color";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:18:{s:24:"evf_btn_alignment_tablet";i:1;s:15:"evf_btn_spacing";i:2;s:15:"evf_btn_padding";i:2;s:29:"evf_btn_typography_typography";i:2;s:30:"evf_btn_typography_font_family";i:2;s:28:"evf_btn_typography_font_size";i:2;s:30:"evf_btn_typography_font_weight";i:2;s:33:"evf_btn_typography_text_transform";i:2;s:21:"evf_btn_border_radius";i:2;s:21:"evf_btn_border_border";i:1;s:20:"evf_btn_border_width";i:2;s:13:"evf_btn_color";i:2;s:10:"evf_btn_bg";i:2;s:20:"evf_btn_border_color";i:2;s:19:"evf_btn_color_hover";i:2;s:16:"evf_btn_bg_hover";i:2;s:17:"evf_btn_alignment";i:1;s:26:"evf_btn_border_color_hover";i:1;}s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:2;s:11:"evf_row_gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:14:"_margin_tablet";i:1;s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:8;s:6:"_title";i:2;s:19:"_inline_size_tablet";i:5;s:16:"content_position";i:2;s:5:"align";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:8:{s:21:"background_background";i:3;s:16:"background_color";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:7:"padding";i:3;s:13:"margin_mobile";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:2;s:7:"caption";i:2;s:5:"title";i:2;s:11:"description";i:2;s:4:"icon";i:1;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:4:{s:17:"content_alignment";i:1;s:19:"service_box_padding";i:2;s:25:"service_box_border_radius";i:1;s:25:"service_box_bg_background";i:1;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:2;s:12:"title_margin";i:1;s:33:"title_typography_font_size_mobile";i:1;s:11:"title_color";i:1;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:14:"_margin_mobile";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:1;s:10:"icon_align";i:1;}s:18:"section_icon_style";a:3:{s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;s:10:"icon_color";i:1;}s:18:"section_text_style";a:5:{s:10:"text_color";i:1;s:11:"text_indent";i:1;s:26:"icon_typography_typography";i:1;s:27:"icon_typography_font_family";i:1;s:27:"icon_typography_font_weight";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:4:{s:6:"_title";i:4;s:6:"layout";i:1;s:3:"gap";i:1;s:13:"custom_height";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:3;s:14:"padding_mobile";i:2;s:6:"margin";i:1;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:3:{s:22:"css_filters_brightness";i:1;s:20:"css_filters_contrast";i:1;s:20:"css_filters_saturate";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:1;s:11:"second_text";i:1;s:8:"html_tag";i:1;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:1:{s:15:"headings_margin";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:2;s:15:"control_percent";i:10;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:2;}}s:5:"style";a:4:{s:9:"evf_label";a:2:{s:24:"evf_label_spacing_tablet";i:1;s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:11:{s:17:"evf_field_padding";i:2;s:24:"evf_field_padding_tablet";i:1;s:14:"evf_field_text";i:2;s:31:"evf_field_typography_typography";i:2;s:32:"evf_field_typography_font_family";i:2;s:30:"evf_field_typography_font_size";i:2;s:23:"evf_field_border_border";i:2;s:22:"evf_field_border_width";i:2;s:23:"evf_field_border_radius";i:2;s:22:"evf_field_border_color";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:18:{s:24:"evf_btn_alignment_tablet";i:1;s:15:"evf_btn_spacing";i:2;s:15:"evf_btn_padding";i:2;s:29:"evf_btn_typography_typography";i:2;s:30:"evf_btn_typography_font_family";i:2;s:28:"evf_btn_typography_font_size";i:2;s:30:"evf_btn_typography_font_weight";i:2;s:33:"evf_btn_typography_text_transform";i:2;s:21:"evf_btn_border_radius";i:2;s:21:"evf_btn_border_border";i:1;s:20:"evf_btn_border_width";i:2;s:13:"evf_btn_color";i:2;s:10:"evf_btn_bg";i:2;s:20:"evf_btn_border_color";i:2;s:19:"evf_btn_color_hover";i:2;s:16:"evf_btn_bg_hover";i:2;s:17:"evf_btn_alignment";i:1;s:26:"evf_btn_border_color_hover";i:1;}s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:2;s:11:"evf_row_gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:14:"_margin_tablet";i:1;s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:8;s:6:"_title";i:2;s:19:"_inline_size_tablet";i:5;s:16:"content_position";i:2;s:5:"align";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:8:{s:21:"background_background";i:3;s:16:"background_color";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:7:"padding";i:3;s:13:"margin_mobile";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:2;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:2;s:7:"caption";i:2;s:5:"title";i:2;s:11:"description";i:2;s:4:"icon";i:1;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:4:{s:17:"content_alignment";i:1;s:19:"service_box_padding";i:2;s:25:"service_box_border_radius";i:1;s:25:"service_box_bg_background";i:1;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:2;s:12:"title_margin";i:1;s:33:"title_typography_font_size_mobile";i:1;s:11:"title_color";i:1;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:14:"_margin_mobile";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:1;s:10:"icon_align";i:1;}s:18:"section_icon_style";a:3:{s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;s:10:"icon_color";i:1;}s:18:"section_text_style";a:5:{s:10:"text_color";i:1;s:11:"text_indent";i:1;s:26:"icon_typography_typography";i:1;s:27:"icon_typography_font_family";i:1;s:27:"icon_typography_font_weight";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:4:{s:6:"_title";i:4;s:6:"layout";i:1;s:3:"gap";i:1;s:13:"custom_height";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:3;s:14:"padding_mobile";i:2;s:6:"margin";i:1;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:1:{s:21:"background_background";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:3:{s:22:"css_filters_brightness";i:1;s:20:"css_filters_contrast";i:1;s:20:"css_filters_saturate";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:14:"_element_width";i:5;}s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:5;s:4:"link";i:5;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:5;s:13:"primary_color";i:5;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Affilate Marketing</title>
+		<title><![CDATA[Affilate Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/seo-hacks/</link>
 		<pubDate>Fri, 20 Nov 2020 12:14:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2493,6 +2620,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:14:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:14:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[seo-hacks]]></wp:post_name>
@@ -2589,7 +2718,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Google Digital Marketing</title>
+		<title><![CDATA[Google Digital Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/apple-digital-marketing/</link>
 		<pubDate>Fri, 20 Nov 2020 12:18:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2626,6 +2755,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:18:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:18:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:18:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:18:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apple-digital-marketing]]></wp:post_name>
@@ -2722,7 +2853,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Email Marketing Tips</title>
+		<title><![CDATA[Email Marketing Tips]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/website-page-ranking/</link>
 		<pubDate>Fri, 20 Nov 2020 12:22:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2759,6 +2890,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:22:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:22:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:22:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:22:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[website-page-ranking]]></wp:post_name>
@@ -2859,7 +2992,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Marketing tools</title>
+		<title><![CDATA[Marketing tools]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/marketing-tools/</link>
 		<pubDate>Fri, 20 Nov 2020 03:44:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2888,6 +3021,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 03:44:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 03:44:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 03:44:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 03:44:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marketing-tools]]></wp:post_name>
@@ -2988,7 +3123,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Digital Marketing Insight</title>
+		<title><![CDATA[Digital Marketing Insight]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/19/digital-marketing-insight/</link>
 		<pubDate>Thu, 19 Nov 2020 11:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3025,6 +3160,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-19 11:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-19 11:48:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-19 11:48:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-19 11:48:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[digital-marketing-insight]]></wp:post_name>
@@ -3129,7 +3266,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Amazon Marketing Strategy</title>
+		<title><![CDATA[Amazon Marketing Strategy]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/18/amazon-marketing-strategy/</link>
 		<pubDate>Wed, 18 Nov 2020 12:49:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3162,6 +3299,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-18 12:49:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-18 12:49:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-18 12:49:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-18 12:49:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[amazon-marketing-strategy]]></wp:post_name>
@@ -3270,7 +3409,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/digital-marketing/</link>
 		<pubDate>Wed, 29 Jul 2015 13:44:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3517,6 +3656,8 @@
 		<wp:post_id>1010</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 07:56:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 07:56:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3660,11 +3801,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:14:{s:6:"column";a:3:{s:5:"count";i:54;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:6:{s:12:"_inline_size";i:54;s:19:"_inline_size_tablet";i:33;s:16:"content_position";i:8;s:5:"align";i:4;s:6:"_title";i:2;s:19:"_inline_size_mobile";i:4;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:18;}s:16:"section_advanced";a:3:{s:7:"padding";i:21;s:6:"margin";i:10;s:13:"margin_mobile";i:2;}}s:5:"style";a:3:{s:13:"section_style";a:11:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:27:"background_hover_background";i:1;s:25:"background_hover_position";i:1;s:23:"background_hover_repeat";i:1;s:26:"background_bg_width_mobile";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:26:"section_background_overlay";a:8:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:23:"background_overlay_size";i:1;s:26:"background_overlay_opacity";i:1;s:35:"background_overlay_hover_background";i:1;s:33:"background_overlay_hover_position";i:1;s:32:"background_overlay_hover_opacity";i:1;s:35:"background_overlay_hover_transition";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:2;}}}}s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:4;s:11:"second_text";i:4;s:8:"html_tag";i:3;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:19:{s:18:"headings_alignment";i:1;s:16:"headings_stacked";i:3;s:15:"headings_margin";i:1;s:27:"first_typography_typography";i:2;s:33:"first_typography_font_size_tablet";i:2;s:28:"first_typography_line_height";i:1;s:35:"first_typography_line_height_tablet";i:1;s:28:"second_typography_typography";i:1;s:34:"second_typography_font_size_tablet";i:1;s:36:"second_typography_line_height_tablet";i:1;s:25:"headings_alignment_mobile";i:2;s:19:"headings_gap_mobile";i:1;s:22:"headings_margin_mobile";i:1;s:33:"first_typography_font_size_mobile";i:2;s:34:"second_typography_font_size_mobile";i:1;s:36:"second_typography_line_height_mobile";i:1;s:12:"second_color";i:1;s:11:"first_color";i:1;s:25:"headings_alignment_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:5:"align";i:1;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:2;s:22:"typography_font_family";i:2;s:22:"typography_line_height";i:1;s:27:"typography_font_size_tablet";i:1;s:10:"text_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:2;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:3;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:15:{s:21:"typography_typography";i:3;s:22:"typography_font_weight";i:3;s:17:"button_text_color";i:1;s:16:"background_color";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:13:"border_border";i:3;s:12:"border_width";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:25:"typography_text_transform";i:3;s:25:"typography_letter_spacing";i:1;s:12:"border_color";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:26;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:15;}s:14:"section_layout";a:9:{s:6:"layout";i:1;s:6:"height";i:1;s:13:"custom_height";i:2;s:6:"_title";i:11;s:20:"custom_height_tablet";i:1;s:20:"custom_height_mobile";i:1;s:16:"content_position";i:2;s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;}}s:5:"style";a:3:{s:18:"section_background";a:6:{s:21:"background_background";i:8;s:28:"background_slideshow_gallery";i:1;s:36:"background_slideshow_background_size";i:1;s:40:"background_slideshow_background_position";i:1;s:47:"background_slideshow_background_position_mobile";i:1;s:16:"background_color";i:4;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:10;s:6:"margin";i:12;s:14:"padding_mobile";i:7;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}}}}s:34:"elementor-companion-media-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:2:{s:32:"ec_media_carousel_slides_section";a:2:{s:6:"slides";i:1;s:14:"enable_caption";i:1;}s:34:"ec_media_carousel_settings_section";a:4:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;s:10:"spv_mobile";i:1;}}s:5:"style";a:1:{s:38:"ec_media_carousel_slides_style_section";a:2:{s:13:"slide_spacing";i:1;s:19:"slide_border_border";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:12;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:6:{s:9:"icon_type";i:12;s:4:"icon";i:6;s:7:"caption";i:12;s:5:"title";i:12;s:11:"description";i:12;s:5:"image";i:6;}}s:5:"style";a:5:{s:28:"ec_service_box_style_section";a:5:{s:19:"service_box_padding";i:12;s:17:"content_alignment";i:6;s:25:"service_box_border_radius";i:6;s:25:"service_box_bg_background";i:6;s:20:"service_box_bg_color";i:6;}s:34:"ec_service_box_style_title_section";a:5:{s:9:"title_tag";i:12;s:27:"title_typography_typography";i:5;s:33:"title_typography_font_size_mobile";i:6;s:12:"title_margin";i:1;s:11:"title_color";i:1;}s:34:"ec_service_box_hover_style_section";a:4:{s:31:"service_box_hover_bg_background";i:6;s:26:"service_box_hover_bg_color";i:6;s:29:"service_box_hover_title_color";i:6;s:35:"service_box_hover_description_color";i:6;}s:33:"ec_service_box_icon_style_section";a:6:{s:13:"icon_position";i:6;s:10:"image_size";i:6;s:18:"icon_border_border";i:6;s:17:"icon_border_width";i:6;s:18:"icon_border_radius";i:6;s:17:"icon_border_color";i:6;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:6;s:14:"_margin_mobile";i:2;}}}}s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:1;}}s:5:"style";a:1:{s:21:"section_style_general";a:3:{s:13:"border_radius";i:1;s:7:"overlay";i:1;s:17:"image_size_tablet";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:6:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:8:"src_icon";i:1;s:13:"src_icon_size";i:1;s:20:"src_icon_size_mobile";i:1;s:12:"src_btn_icon";i:1;}}s:5:"style";a:2:{s:22:"ec_modal_style_section";a:3:{s:5:"width";i:1;s:27:"content_popup_bg_background";i:1;s:22:"content_popup_bg_color";i:1;}s:27:"ec_modal_icon_style_section";a:1:{s:14:"src_icon_color";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:3:{s:31:"ec_counter_number_style_section";a:3:{s:28:"number_typography_typography";i:4;s:27:"number_typography_font_size";i:4;s:12:"number_color";i:4;}s:30:"ec_counter_title_style_section";a:2:{s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;}s:29:"ec_counter_icon_style_section";a:1:{s:14:"icon_font_size";i:4;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:3;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:4:{s:22:"classic_posts_per_page";i:3;s:19:"classic_meta_select";i:3;s:22:"classic_columns_tablet";i:2;s:15:"classic_columns";i:1;}s:13:"section_query";a:1:{s:27:"terms_post_category_choices";i:3;}}s:5:"style";a:8:{s:28:"classic_section_style_layout";a:2:{s:15:"classic_row_gap";i:3;s:13:"classic_align";i:3;}s:25:"classic_section_style_box";a:4:{s:19:"classic_box_padding";i:3;s:23:"classic_content_padding";i:3;s:25:"classic_box_border_radius";i:3;s:20:"classic_box_bg_color";i:3;}s:27:"classic_section_style_image";a:1:{s:21:"classic_image_spacing";i:3;}s:27:"classic_section_style_title";a:6:{s:19:"classic_title_color";i:3;s:35:"classic_title_typography_typography";i:3;s:36:"classic_title_typography_font_family";i:3;s:34:"classic_title_typography_font_size";i:3;s:36:"classic_title_typography_font_weight";i:3;s:21:"classic_title_spacing";i:3;}s:29:"classic_section_style_excerpt";a:2:{s:38:"classic_excerpt_typography_font_family";i:3;s:38:"classic_excerpt_typography_font_weight";i:3;}s:26:"classic_section_style_meta";a:2:{s:35:"classic_meta_typography_font_family";i:3;s:35:"classic_meta_typography_font_weight";i:3;}s:22:"card_section_style_box";a:1:{s:22:"card_box_border_radius";i:3;}s:24:"card_section_style_image";a:2:{s:16:"card_avatar_size";i:3;s:25:"card_avatar_border_radius";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:10;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:10;s:4:"size";i:10;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:10;}s:17:"_section_position";a:1:{s:14:"_element_width";i:10;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:6;s:4:"link";i:5;}}}}s:40:"elementor-companion-testimonial-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:2:{s:38:"ec_testimonial_carousel_slides_section";a:1:{s:6:"slides";i:1;}s:40:"ec_testimonial_carousel_settings_section";a:3:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;}}s:5:"style";a:7:{s:44:"ec_testimonial_carousel_slides_style_section";a:9:{s:26:"imageinfo_infobox_position";i:1;s:25:"image_info_image_position";i:1;s:27:"image_info_infobox_position";i:1;s:13:"slide_spacing";i:1;s:13:"slide_padding";i:1;s:19:"slide_border_border";i:1;s:20:"slide_spacing_mobile";i:1;s:20:"slide_spacing_tablet";i:1;s:20:"slide_padding_mobile";i:1;}s:43:"ec_testimonial_carousel_image_style_section";a:2:{s:10:"image_size";i:1;s:26:"author_image_border_radius";i:1;}s:42:"ec_testimonial_carousel_name_style_section";a:5:{s:33:"author_name_typography_typography";i:1;s:34:"author_name_typography_font_family";i:1;s:32:"author_name_typography_font_size";i:1;s:18:"author_name_margin";i:1;s:17:"author_name_color";i:1;}s:45:"ec_testimonial_carousel_message_style_section";a:9:{s:36:"author_message_typography_typography";i:1;s:37:"author_message_typography_font_family";i:1;s:35:"author_message_typography_font_size";i:1;s:42:"author_message_typography_font_size_mobile";i:1;s:37:"author_message_typography_font_weight";i:1;s:21:"author_message_margin";i:1;s:37:"author_message_typography_line_height";i:1;s:20:"author_message_color";i:1;s:36:"author_message_typography_font_style";i:1;}s:39:"ec_testimonial_carousel_general_section";a:2:{s:21:"slide_wrapper_padding";i:1;s:28:"slide_wrapper_padding_mobile";i:1;}s:48:"ec_testimonial_carousel_navigation_style_section";a:2:{s:8:"dot_size";i:1;s:9:"dot_color";i:1;}s:45:"ec_testimonial_carousel_caption_style_section";a:1:{s:20:"author_caption_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:1;s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:1:{s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:9:{s:17:"evf_field_padding";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:30:"evf_field_typography_font_size";i:1;s:23:"evf_field_border_radius";i:1;s:14:"evf_field_text";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:16:{s:17:"evf_btn_alignment";i:1;s:29:"evf_btn_typography_typography";i:1;s:28:"evf_btn_typography_font_size";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:20:"evf_btn_border_width";i:1;s:15:"evf_btn_spacing";i:1;s:15:"evf_btn_padding";i:1;s:30:"evf_btn_typography_font_family";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:20:"evf_btn_border_color";i:1;s:19:"evf_btn_color_hover";i:1;s:16:"evf_btn_bg_hover";i:1;s:26:"evf_btn_border_color_hover";i:1;s:33:"evf_btn_typography_text_transform";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:14:{s:6:"column";a:3:{s:5:"count";i:54;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:6:{s:12:"_inline_size";i:54;s:19:"_inline_size_tablet";i:33;s:16:"content_position";i:8;s:5:"align";i:4;s:6:"_title";i:2;s:19:"_inline_size_mobile";i:4;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:18;}s:16:"section_advanced";a:3:{s:7:"padding";i:21;s:6:"margin";i:10;s:13:"margin_mobile";i:2;}}s:5:"style";a:3:{s:13:"section_style";a:11:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:27:"background_hover_background";i:1;s:25:"background_hover_position";i:1;s:23:"background_hover_repeat";i:1;s:26:"background_bg_width_mobile";i:1;s:15:"background_xpos";i:1;s:15:"background_ypos";i:1;}s:26:"section_background_overlay";a:8:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:23:"background_overlay_size";i:1;s:26:"background_overlay_opacity";i:1;s:35:"background_overlay_hover_background";i:1;s:33:"background_overlay_hover_position";i:1;s:32:"background_overlay_hover_opacity";i:1;s:35:"background_overlay_hover_transition";i:1;}s:14:"section_border";a:1:{s:13:"border_radius";i:2;}}}}s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:3:{s:10:"first_text";i:4;s:11:"second_text";i:4;s:8:"html_tag";i:3;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:19:{s:18:"headings_alignment";i:1;s:16:"headings_stacked";i:3;s:15:"headings_margin";i:1;s:27:"first_typography_typography";i:2;s:33:"first_typography_font_size_tablet";i:2;s:28:"first_typography_line_height";i:1;s:35:"first_typography_line_height_tablet";i:1;s:28:"second_typography_typography";i:1;s:34:"second_typography_font_size_tablet";i:1;s:36:"second_typography_line_height_tablet";i:1;s:25:"headings_alignment_mobile";i:2;s:19:"headings_gap_mobile";i:1;s:22:"headings_margin_mobile";i:1;s:33:"first_typography_font_size_mobile";i:2;s:34:"second_typography_font_size_mobile";i:1;s:36:"second_typography_line_height_mobile";i:1;s:12:"second_color";i:1;s:11:"first_color";i:1;s:25:"headings_alignment_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:5:"align";i:1;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:2;s:22:"typography_font_family";i:2;s:22:"typography_line_height";i:1;s:27:"typography_font_size_tablet";i:1;s:10:"text_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:2;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:3;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:15:{s:21:"typography_typography";i:3;s:22:"typography_font_weight";i:3;s:17:"button_text_color";i:1;s:16:"background_color";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:13:"border_border";i:3;s:12:"border_width";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:25:"typography_text_transform";i:3;s:25:"typography_letter_spacing";i:1;s:12:"border_color";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:26;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:15;}s:14:"section_layout";a:9:{s:6:"layout";i:1;s:6:"height";i:1;s:13:"custom_height";i:2;s:6:"_title";i:11;s:20:"custom_height_tablet";i:1;s:20:"custom_height_mobile";i:1;s:16:"content_position";i:2;s:12:"height_inner";i:1;s:19:"custom_height_inner";i:1;}}s:5:"style";a:3:{s:18:"section_background";a:6:{s:21:"background_background";i:8;s:28:"background_slideshow_gallery";i:1;s:36:"background_slideshow_background_size";i:1;s:40:"background_slideshow_background_position";i:1;s:47:"background_slideshow_background_position_mobile";i:1;s:16:"background_color";i:4;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:10;s:6:"margin";i:12;s:14:"padding_mobile";i:7;s:14:"padding_tablet";i:1;s:13:"margin_tablet";i:1;}}}}s:34:"elementor-companion-media-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:2:{s:32:"ec_media_carousel_slides_section";a:2:{s:6:"slides";i:1;s:14:"enable_caption";i:1;}s:34:"ec_media_carousel_settings_section";a:4:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;s:10:"spv_mobile";i:1;}}s:5:"style";a:1:{s:38:"ec_media_carousel_slides_style_section";a:2:{s:13:"slide_spacing";i:1;s:19:"slide_border_border";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:12;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:6:{s:9:"icon_type";i:12;s:4:"icon";i:6;s:7:"caption";i:12;s:5:"title";i:12;s:11:"description";i:12;s:5:"image";i:6;}}s:5:"style";a:5:{s:28:"ec_service_box_style_section";a:5:{s:19:"service_box_padding";i:12;s:17:"content_alignment";i:6;s:25:"service_box_border_radius";i:6;s:25:"service_box_bg_background";i:6;s:20:"service_box_bg_color";i:6;}s:34:"ec_service_box_style_title_section";a:5:{s:9:"title_tag";i:12;s:27:"title_typography_typography";i:5;s:33:"title_typography_font_size_mobile";i:6;s:12:"title_margin";i:1;s:11:"title_color";i:1;}s:34:"ec_service_box_hover_style_section";a:4:{s:31:"service_box_hover_bg_background";i:6;s:26:"service_box_hover_bg_color";i:6;s:29:"service_box_hover_title_color";i:6;s:35:"service_box_hover_description_color";i:6;}s:33:"ec_service_box_icon_style_section";a:6:{s:13:"icon_position";i:6;s:10:"image_size";i:6;s:18:"icon_border_border";i:6;s:17:"icon_border_width";i:6;s:18:"icon_border_radius";i:6;s:17:"icon_border_color";i:6;}s:40:"ec_service_box_style_description_section";a:3:{s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:17:"description_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:6;s:14:"_margin_mobile";i:2;}}}}s:34:"elementor-companion-advanced-image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:1:{s:5:"image";i:1;}}s:5:"style";a:1:{s:21:"section_style_general";a:3:{s:13:"border_radius";i:1;s:7:"overlay";i:1;s:17:"image_size_tablet";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:6:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:8:"src_icon";i:1;s:13:"src_icon_size";i:1;s:20:"src_icon_size_mobile";i:1;s:12:"src_btn_icon";i:1;}}s:5:"style";a:2:{s:22:"ec_modal_style_section";a:3:{s:5:"width";i:1;s:27:"content_popup_bg_background";i:1;s:22:"content_popup_bg_color";i:1;}s:27:"ec_modal_icon_style_section";a:1:{s:14:"src_icon_color";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:22:"_box_shadow_box_shadow";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:3:{s:31:"ec_counter_number_style_section";a:3:{s:28:"number_typography_typography";i:4;s:27:"number_typography_font_size";i:4;s:12:"number_color";i:4;}s:30:"ec_counter_title_style_section";a:2:{s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;}s:29:"ec_counter_icon_style_section";a:1:{s:14:"icon_font_size";i:4;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:3;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:4:{s:22:"classic_posts_per_page";i:3;s:19:"classic_meta_select";i:3;s:22:"classic_columns_tablet";i:2;s:15:"classic_columns";i:1;}s:13:"section_query";a:1:{s:27:"terms_post_category_choices";i:3;}}s:5:"style";a:8:{s:28:"classic_section_style_layout";a:2:{s:15:"classic_row_gap";i:3;s:13:"classic_align";i:3;}s:25:"classic_section_style_box";a:4:{s:19:"classic_box_padding";i:3;s:23:"classic_content_padding";i:3;s:25:"classic_box_border_radius";i:3;s:20:"classic_box_bg_color";i:3;}s:27:"classic_section_style_image";a:2:{s:21:"classic_image_spacing";i:3;s:27:"classic_image_border_radius";i:3;}s:27:"classic_section_style_title";a:6:{s:19:"classic_title_color";i:3;s:35:"classic_title_typography_typography";i:3;s:36:"classic_title_typography_font_family";i:3;s:34:"classic_title_typography_font_size";i:3;s:36:"classic_title_typography_font_weight";i:3;s:21:"classic_title_spacing";i:3;}s:29:"classic_section_style_excerpt";a:2:{s:38:"classic_excerpt_typography_font_family";i:3;s:38:"classic_excerpt_typography_font_weight";i:3;}s:26:"classic_section_style_meta";a:2:{s:35:"classic_meta_typography_font_family";i:3;s:35:"classic_meta_typography_font_weight";i:3;}s:22:"card_section_style_box";a:1:{s:22:"card_box_border_radius";i:3;}s:24:"card_section_style_image";a:2:{s:16:"card_avatar_size";i:3;s:25:"card_avatar_border_radius";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:10;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:10;s:4:"size";i:10;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:10;}s:17:"_section_position";a:1:{s:14:"_element_width";i:10;}}s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:6;s:4:"link";i:5;}}}}s:40:"elementor-companion-testimonial-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:2:{s:38:"ec_testimonial_carousel_slides_section";a:1:{s:6:"slides";i:1;}s:40:"ec_testimonial_carousel_settings_section";a:3:{s:3:"spv";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;}}s:5:"style";a:7:{s:44:"ec_testimonial_carousel_slides_style_section";a:9:{s:26:"imageinfo_infobox_position";i:1;s:25:"image_info_image_position";i:1;s:27:"image_info_infobox_position";i:1;s:13:"slide_spacing";i:1;s:13:"slide_padding";i:1;s:19:"slide_border_border";i:1;s:20:"slide_spacing_mobile";i:1;s:20:"slide_spacing_tablet";i:1;s:20:"slide_padding_mobile";i:1;}s:43:"ec_testimonial_carousel_image_style_section";a:2:{s:10:"image_size";i:1;s:26:"author_image_border_radius";i:1;}s:42:"ec_testimonial_carousel_name_style_section";a:5:{s:33:"author_name_typography_typography";i:1;s:34:"author_name_typography_font_family";i:1;s:32:"author_name_typography_font_size";i:1;s:18:"author_name_margin";i:1;s:17:"author_name_color";i:1;}s:45:"ec_testimonial_carousel_message_style_section";a:9:{s:36:"author_message_typography_typography";i:1;s:37:"author_message_typography_font_family";i:1;s:35:"author_message_typography_font_size";i:1;s:42:"author_message_typography_font_size_mobile";i:1;s:37:"author_message_typography_font_weight";i:1;s:21:"author_message_margin";i:1;s:37:"author_message_typography_line_height";i:1;s:20:"author_message_color";i:1;s:36:"author_message_typography_font_style";i:1;}s:39:"ec_testimonial_carousel_general_section";a:2:{s:21:"slide_wrapper_padding";i:1;s:28:"slide_wrapper_padding_mobile";i:1;}s:48:"ec_testimonial_carousel_navigation_style_section";a:2:{s:8:"dot_size";i:1;s:9:"dot_color";i:1;}s:45:"ec_testimonial_carousel_caption_style_section";a:1:{s:20:"author_caption_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:10;s:8:"controls";a:3:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:2:{s:14:"evf_column_gap";i:1;s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:1:{s:17:"evf_label_spacing";i:1;}s:15:"evf_field_style";a:9:{s:17:"evf_field_padding";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:30:"evf_field_typography_font_size";i:1;s:23:"evf_field_border_radius";i:1;s:14:"evf_field_text";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:28:"evf_field_border_color_focus";i:1;}s:7:"evf_btn";a:16:{s:17:"evf_btn_alignment";i:1;s:29:"evf_btn_typography_typography";i:1;s:28:"evf_btn_typography_font_size";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:20:"evf_btn_border_width";i:1;s:15:"evf_btn_spacing";i:1;s:15:"evf_btn_padding";i:1;s:30:"evf_btn_typography_font_family";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:20:"evf_btn_border_color";i:1;s:19:"evf_btn_color_hover";i:1;s:16:"evf_btn_bg_hover";i:1;s:26:"evf_btn_border_color_hover";i:1;s:33:"evf_btn_typography_text_transform";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1011/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3675,6 +3816,8 @@
 		<wp:post_id>1011</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1011]]></wp:post_name>
@@ -3719,7 +3862,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1012/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3730,6 +3873,8 @@
 		<wp:post_id>1012</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1012]]></wp:post_name>
@@ -3774,7 +3919,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1013/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3785,6 +3930,8 @@
 		<wp:post_id>1013</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1013]]></wp:post_name>
@@ -3829,7 +3976,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1014/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3840,6 +3987,8 @@
 		<wp:post_id>1014</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1014]]></wp:post_name>
@@ -3884,7 +4033,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1015/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3895,6 +4044,8 @@
 		<wp:post_id>1015</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1015]]></wp:post_name>
@@ -3939,7 +4090,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/12/29/1016/</link>
 		<pubDate>Tue, 29 Dec 2020 08:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3950,6 +4101,8 @@
 		<wp:post_id>1016</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 08:36:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 08:36:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1016]]></wp:post_name>
@@ -3994,7 +4147,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Marketing Analysis</title>
+		<title><![CDATA[Marketing Analysis]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/marketing-analysis/</link>
 		<pubDate>Fri, 20 Nov 2020 12:33:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4023,6 +4176,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:33:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:33:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:33:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:33:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marketing-analysis]]></wp:post_name>
@@ -4123,7 +4278,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Skycraper Formula</title>
+		<title><![CDATA[Skycraper Formula]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/skycraper-formula/</link>
 		<pubDate>Fri, 20 Nov 2020 12:32:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4148,6 +4303,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:32:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:32:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:32:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:32:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[skycraper-formula]]></wp:post_name>
@@ -4248,7 +4405,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Website Page Ranking</title>
+		<title><![CDATA[Website Page Ranking]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/email-marketing-tips/</link>
 		<pubDate>Fri, 20 Nov 2020 12:52:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4281,6 +4438,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:52:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:52:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:52:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:52:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-marketing-tips]]></wp:post_name>
@@ -4377,7 +4536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Apple Digital Marketing</title>
+		<title><![CDATA[Apple Digital Marketing]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/google-digital-marketing/</link>
 		<pubDate>Fri, 20 Nov 2020 12:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4410,6 +4569,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:53:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:53:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:53:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:53:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-digital-marketing]]></wp:post_name>
@@ -4506,7 +4667,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>SEO Hacks</title>
+		<title><![CDATA[SEO Hacks]]></title>
 		<link>https://zakrademos.com/digital-marketing/2020/11/20/affiliate-marketing/</link>
 		<pubDate>Fri, 20 Nov 2020 12:54:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4547,6 +4708,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2020-11-20 12:54:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-11-20 12:54:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-20 12:54:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-20 12:54:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[affiliate-marketing]]></wp:post_name>
@@ -4650,6 +4813,31 @@
 		<wp:meta_value><![CDATA[65]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://zakrademos.com/digital-marketing/2022/07/12/wp-global-styles-zakra/</link>
+		<pubDate>Tue, 12 Jul 2022 08:31:21 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/digital-marketing/2022/07/12/wp-global-styles-zakra/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1018</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-12 08:31:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-12 08:31:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:31:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:31:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-zakra]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="zakra"><![CDATA[zakra]]></category>
+						</item>
 				</channel>
 </rss>
 	

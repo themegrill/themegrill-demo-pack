@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-11 10:33" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 15:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Gym</title>
 	<link>https://zakrademos.com/gym</link>
 	<description>WordPress Template Site for Gym, Fitness, and Yoga Center</description>
-	<pubDate>Mon, 11 Jan 2021 10:33:58 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 15:11:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/gym</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -60,7 +81,7 @@
 			<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/gym/wp-content/uploads/sites/47/2020/07/zakra.png</url>
@@ -71,7 +92,7 @@
 </image> 
 
 		<item>
-		<title>Logo</title>
+		<title><![CDATA[Logo]]></title>
 		<link>https://zakrademos.com/gym/logo/</link>
 		<pubDate>Tue, 31 Mar 2020 12:15:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -82,6 +103,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-31 12:15:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-31 12:15:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-31 12:15:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-31 12:15:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -114,7 +137,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pattern</title>
+		<title><![CDATA[pattern]]></title>
 		<link>https://zakrademos.com/gym/pattern/</link>
 		<pubDate>Wed, 01 Apr 2020 09:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -125,6 +148,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-01 09:57:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-01 09:57:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-01 09:57:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-01 09:57:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pattern]]></wp:post_name>
@@ -153,7 +178,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-Logo.png</title>
+		<title><![CDATA[cropped-Logo.png]]></title>
 		<link>https://zakrademos.com/gym/cropped-logo-png/</link>
 		<pubDate>Fri, 03 Apr 2020 09:08:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -164,6 +189,8 @@
 		<wp:post_id>304</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 09:08:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 09:08:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 09:08:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 09:08:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-png]]></wp:post_name>
@@ -204,7 +231,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Johnson White</title>
+		<title><![CDATA[Johnson White]]></title>
 		<link>https://zakrademos.com/gym/about/johnson-white/</link>
 		<pubDate>Fri, 03 Apr 2020 09:56:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -215,6 +242,8 @@
 		<wp:post_id>326</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 09:56:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 09:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 09:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 09:56:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[johnson-white]]></wp:post_name>
@@ -247,7 +276,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact-banner</title>
+		<title><![CDATA[contact-banner]]></title>
 		<link>https://zakrademos.com/gym/contact/contact-banner/</link>
 		<pubDate>Mon, 04 May 2020 16:22:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -258,6 +287,8 @@
 		<wp:post_id>576</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:22:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:22:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:22:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:22:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-banner]]></wp:post_name>
@@ -286,7 +317,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>class-body-building</title>
+		<title><![CDATA[class-body-building]]></title>
 		<link>https://zakrademos.com/gym/home/class-body-building/</link>
 		<pubDate>Mon, 04 May 2020 16:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -297,6 +328,8 @@
 		<wp:post_id>578</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:29:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:29:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:29:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:29:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[class-body-building]]></wp:post_name>
@@ -321,7 +354,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-video</title>
+		<title><![CDATA[banner-video]]></title>
 		<link>https://zakrademos.com/gym/home/banner-video/</link>
 		<pubDate>Mon, 04 May 2020 16:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -332,6 +365,8 @@
 		<wp:post_id>579</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:29:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:29:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:29:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:29:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-video]]></wp:post_name>
@@ -356,7 +391,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>class-aerobic</title>
+		<title><![CDATA[class-aerobic]]></title>
 		<link>https://zakrademos.com/gym/home/class-aerobic/</link>
 		<pubDate>Mon, 04 May 2020 16:29:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -367,6 +402,8 @@
 		<wp:post_id>580</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:29:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:29:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:29:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:29:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[class-aerobic]]></wp:post_name>
@@ -399,7 +436,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>class-yoga</title>
+		<title><![CDATA[class-yoga]]></title>
 		<link>https://zakrademos.com/gym/home/class-yoga/</link>
 		<pubDate>Mon, 04 May 2020 16:29:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -410,6 +447,8 @@
 		<wp:post_id>581</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:29:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:29:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:29:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:29:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[class-yoga]]></wp:post_name>
@@ -438,7 +477,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-body-building</title>
+		<title><![CDATA[gallery-body-building]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-body-building/</link>
 		<pubDate>Mon, 04 May 2020 16:35:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -449,6 +488,8 @@
 		<wp:post_id>584</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:35:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:35:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:35:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:35:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-body-building]]></wp:post_name>
@@ -481,7 +522,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-rope</title>
+		<title><![CDATA[gallery-rope]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-rope/</link>
 		<pubDate>Mon, 04 May 2020 16:39:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -492,6 +533,8 @@
 		<wp:post_id>585</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-04 16:39:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-04 16:39:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-04 16:39:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-04 16:39:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-rope]]></wp:post_name>
@@ -520,7 +563,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woman-rope-workout</title>
+		<title><![CDATA[woman-rope-workout]]></title>
 		<link>https://zakrademos.com/gym/2020/04/02/battle-rope-contest/woman-rope-workout/</link>
 		<pubDate>Tue, 05 May 2020 07:13:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -531,6 +574,8 @@
 		<wp:post_id>598</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 07:13:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 07:13:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 07:13:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 07:13:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-rope-workout]]></wp:post_name>
@@ -559,7 +604,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>man-body-building</title>
+		<title><![CDATA[man-body-building]]></title>
 		<link>https://zakrademos.com/gym/2020/04/02/we-never-stop-running/man-body-building/</link>
 		<pubDate>Tue, 05 May 2020 07:17:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -570,6 +615,8 @@
 		<wp:post_id>599</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 07:17:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 07:17:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 07:17:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 07:17:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[man-body-building]]></wp:post_name>
@@ -598,7 +645,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-woman-stretching</title>
+		<title><![CDATA[banner-woman-stretching]]></title>
 		<link>https://zakrademos.com/gym/blog/banner-woman-stretching/</link>
 		<pubDate>Tue, 05 May 2020 07:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -609,6 +656,8 @@
 		<wp:post_id>600</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 07:23:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 07:23:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 07:23:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 07:23:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-woman-stretching]]></wp:post_name>
@@ -637,7 +686,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pregnent-women-yoga</title>
+		<title><![CDATA[pregnent-women-yoga]]></title>
 		<link>https://zakrademos.com/gym/pregnent-women-yoga/</link>
 		<pubDate>Tue, 05 May 2020 09:59:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -648,6 +697,8 @@
 		<wp:post_id>619</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 09:59:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 09:59:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 09:59:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 09:59:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pregnent-women-yoga]]></wp:post_name>
@@ -680,7 +731,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-woman-stretching-sea</title>
+		<title><![CDATA[banner-woman-stretching-sea]]></title>
 		<link>https://zakrademos.com/gym/banner-woman-stretching-sea/</link>
 		<pubDate>Tue, 05 May 2020 10:02:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -691,6 +742,8 @@
 		<wp:post_id>620</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:02:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:02:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:02:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:02:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-woman-stretching-sea]]></wp:post_name>
@@ -719,7 +772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-womain-pulling-resistance-bands</title>
+		<title><![CDATA[gallery-womain-pulling-resistance-bands]]></title>
 		<link>https://zakrademos.com/gym/gallery/gallery-womain-pulling-resistance-bands/</link>
 		<pubDate>Tue, 05 May 2020 10:17:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -730,6 +783,8 @@
 		<wp:post_id>624</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:17:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:17:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:17:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:17:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-womain-pulling-resistance-bands]]></wp:post_name>
@@ -758,7 +813,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-women-streching</title>
+		<title><![CDATA[gallery-women-streching]]></title>
 		<link>https://zakrademos.com/gym/gallery-women-streching/</link>
 		<pubDate>Tue, 05 May 2020 10:20:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -769,6 +824,8 @@
 		<wp:post_id>626</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:20:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:20:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:20:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:20:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-women-streching]]></wp:post_name>
@@ -797,7 +854,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-red-woman-stretching</title>
+		<title><![CDATA[gallery-red-woman-stretching]]></title>
 		<link>https://zakrademos.com/gym/gallery/gallery-red-woman-stretching/</link>
 		<pubDate>Tue, 05 May 2020 10:22:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -808,6 +865,8 @@
 		<wp:post_id>628</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:22:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:22:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:22:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:22:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-red-woman-stretching]]></wp:post_name>
@@ -836,7 +895,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer1</title>
+		<title><![CDATA[trainer1]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer1/</link>
 		<pubDate>Tue, 05 May 2020 10:31:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -847,6 +906,8 @@
 		<wp:post_id>630</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:31:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:31:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:31:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:31:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer1]]></wp:post_name>
@@ -879,7 +940,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer2</title>
+		<title><![CDATA[trainer2]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer2/</link>
 		<pubDate>Tue, 05 May 2020 10:31:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -890,6 +951,8 @@
 		<wp:post_id>631</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:31:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:31:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:31:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:31:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer2]]></wp:post_name>
@@ -918,7 +981,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer3</title>
+		<title><![CDATA[trainer3]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer3/</link>
 		<pubDate>Tue, 05 May 2020 10:31:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -929,6 +992,8 @@
 		<wp:post_id>632</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:31:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:31:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:31:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:31:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer3]]></wp:post_name>
@@ -953,7 +1018,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer6</title>
+		<title><![CDATA[trainer6]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer6/</link>
 		<pubDate>Tue, 05 May 2020 10:32:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -964,6 +1029,8 @@
 		<wp:post_id>633</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:32:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:32:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:32:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:32:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer6]]></wp:post_name>
@@ -992,7 +1059,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>traner4</title>
+		<title><![CDATA[traner4]]></title>
 		<link>https://zakrademos.com/gym/trainer/traner4/</link>
 		<pubDate>Tue, 05 May 2020 10:32:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1003,6 +1070,8 @@
 		<wp:post_id>634</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:32:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:32:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:32:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:32:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[traner4]]></wp:post_name>
@@ -1031,7 +1100,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer5</title>
+		<title><![CDATA[trainer5]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer5/</link>
 		<pubDate>Tue, 05 May 2020 10:33:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1042,6 +1111,8 @@
 		<wp:post_id>636</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:33:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:33:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:33:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:33:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer5]]></wp:post_name>
@@ -1070,7 +1141,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-trainer</title>
+		<title><![CDATA[banner-trainer]]></title>
 		<link>https://zakrademos.com/gym/trainer/banner-trainer/</link>
 		<pubDate>Tue, 05 May 2020 10:47:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1081,6 +1152,8 @@
 		<wp:post_id>640</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:47:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:47:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:47:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:47:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-trainer]]></wp:post_name>
@@ -1105,7 +1178,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-man-lifting-weight</title>
+		<title><![CDATA[banner-man-lifting-weight]]></title>
 		<link>https://zakrademos.com/gym/gallery/banner-man-lifting-weight/</link>
 		<pubDate>Tue, 05 May 2020 10:50:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1116,6 +1189,8 @@
 		<wp:post_id>642</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 10:50:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 10:50:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 10:50:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 10:50:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-man-lifting-weight]]></wp:post_name>
@@ -1144,7 +1219,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-hands-lifting-weight</title>
+		<title><![CDATA[banner-hands-lifting-weight]]></title>
 		<link>https://zakrademos.com/gym/about/banner-hands-lifting-weight/</link>
 		<pubDate>Tue, 05 May 2020 11:01:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1155,6 +1230,8 @@
 		<wp:post_id>646</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:01:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:01:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:01:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:01:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-hands-lifting-weight]]></wp:post_name>
@@ -1179,7 +1256,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>women-lifting-weight</title>
+		<title><![CDATA[women-lifting-weight]]></title>
 		<link>https://zakrademos.com/gym/about/women-lifting-weight/</link>
 		<pubDate>Tue, 05 May 2020 11:04:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1190,6 +1267,8 @@
 		<wp:post_id>648</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:04:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:04:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:04:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:04:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[women-lifting-weight]]></wp:post_name>
@@ -1218,7 +1297,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-2</title>
+		<title><![CDATA[carousel-2]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-2/</link>
 		<pubDate>Tue, 05 May 2020 11:29:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1229,6 +1308,8 @@
 		<wp:post_id>651</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:29:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:29:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:29:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:29:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-2]]></wp:post_name>
@@ -1257,7 +1338,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-3</title>
+		<title><![CDATA[carousel-3]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-3/</link>
 		<pubDate>Tue, 05 May 2020 11:29:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1268,6 +1349,8 @@
 		<wp:post_id>652</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:29:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:29:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:29:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:29:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-3]]></wp:post_name>
@@ -1292,7 +1375,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-4</title>
+		<title><![CDATA[carousel-4]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-4-2/</link>
 		<pubDate>Tue, 05 May 2020 11:29:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1303,6 +1386,8 @@
 		<wp:post_id>654</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:29:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:29:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:29:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:29:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-4-2]]></wp:post_name>
@@ -1327,7 +1412,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-5</title>
+		<title><![CDATA[carousel-5]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-5/</link>
 		<pubDate>Tue, 05 May 2020 11:29:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1338,6 +1423,8 @@
 		<wp:post_id>655</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:29:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:29:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:29:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:29:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-5]]></wp:post_name>
@@ -1362,7 +1449,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-6</title>
+		<title><![CDATA[carousel-6]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-6/</link>
 		<pubDate>Tue, 05 May 2020 11:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1373,6 +1460,8 @@
 		<wp:post_id>657</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:30:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:30:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:30:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:30:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-6]]></wp:post_name>
@@ -1397,7 +1486,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carousel-1</title>
+		<title><![CDATA[carousel-1]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/carousel-1/</link>
 		<pubDate>Tue, 05 May 2020 11:30:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1408,6 +1497,8 @@
 		<wp:post_id>659</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-05 11:30:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-05 11:30:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-05 11:30:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-05 11:30:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carousel-1]]></wp:post_name>
@@ -1432,7 +1523,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gym-product-1</title>
+		<title><![CDATA[gym-product-1]]></title>
 		<link>https://zakrademos.com/gym/home/gym-product-1/</link>
 		<pubDate>Wed, 06 May 2020 07:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1443,6 +1534,8 @@
 		<wp:post_id>664</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-product-1]]></wp:post_name>
@@ -1471,7 +1564,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gym-product-2</title>
+		<title><![CDATA[gym-product-2]]></title>
 		<link>https://zakrademos.com/gym/home/gym-product-2/</link>
 		<pubDate>Wed, 06 May 2020 07:02:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1482,6 +1575,8 @@
 		<wp:post_id>666</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:02:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:02:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:02:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:02:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-product-2]]></wp:post_name>
@@ -1506,7 +1601,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-main-pulling-resistance-bands</title>
+		<title><![CDATA[gallery-main-pulling-resistance-bands]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-main-pulling-resistance-bands/</link>
 		<pubDate>Wed, 06 May 2020 07:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1517,6 +1612,8 @@
 		<wp:post_id>668</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:05:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:05:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:05:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:05:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-main-pulling-resistance-bands]]></wp:post_name>
@@ -1541,7 +1638,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-women-holding-weight</title>
+		<title><![CDATA[gallery-women-holding-weight]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-women-holding-weight/</link>
 		<pubDate>Wed, 06 May 2020 07:14:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1552,6 +1649,8 @@
 		<wp:post_id>670</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:14:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:14:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:14:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:14:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-women-holding-weight]]></wp:post_name>
@@ -1580,7 +1679,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-woman-stretching</title>
+		<title><![CDATA[gallery-woman-stretching]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-woman-stretching/</link>
 		<pubDate>Wed, 06 May 2020 07:21:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1591,6 +1690,8 @@
 		<wp:post_id>671</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:21:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:21:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:21:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:21:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-woman-stretching]]></wp:post_name>
@@ -1619,7 +1720,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Monday-workout-classes</title>
+		<title><![CDATA[Monday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=monday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 03:28:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1639,6 +1740,8 @@
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 03:28:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 03:28:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 03:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 03:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[monday-workout-classes]]></wp:post_name>
@@ -1707,7 +1810,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Tuesday-workout-classes</title>
+		<title><![CDATA[Tuesday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=tuesday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 05:13:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1721,6 +1824,8 @@
 		<wp:post_id>252</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 05:13:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 05:13:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 05:13:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 05:13:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tuesday-workout-classes]]></wp:post_name>
@@ -1781,7 +1886,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Wednesday-workout-classes</title>
+		<title><![CDATA[Wednesday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=wednesday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 05:20:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1797,6 +1902,8 @@
 		<wp:post_id>256</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 05:20:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 05:20:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 05:20:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 05:20:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wednesday-workout-classes]]></wp:post_name>
@@ -1857,7 +1964,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Thursday-workout-classes</title>
+		<title><![CDATA[Thursday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=thusday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 05:21:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1877,6 +1984,8 @@
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 05:21:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 05:21:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 05:21:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 05:21:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[thusday-workout-classes]]></wp:post_name>
@@ -1945,7 +2054,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Friday-workout-classes</title>
+		<title><![CDATA[Friday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=friday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 05:24:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1963,6 +2072,8 @@
 		<wp:post_id>263</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 05:24:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 05:24:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 05:24:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 05:24:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[friday-workout-classes]]></wp:post_name>
@@ -2023,7 +2134,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Saturday-workout-classes</title>
+		<title><![CDATA[Saturday-workout-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=saturday-workout-classes</link>
 		<pubDate>Fri, 03 Apr 2020 05:26:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2037,6 +2148,8 @@
 		<wp:post_id>266</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 05:26:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 05:26:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-03 05:26:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-03 05:26:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[saturday-workout-classes]]></wp:post_name>
@@ -2097,7 +2210,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Home</title>
+		<title><![CDATA[GYM - Home]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-home</link>
 		<pubDate>Sat, 04 Apr 2020 10:13:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2600,6 +2713,8 @@ BEST SHAPE</h3>
 		<wp:post_id>423</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-04 10:13:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-04 10:13:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-04 10:13:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-04 10:13:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-home]]></wp:post_name>
@@ -2668,7 +2783,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - About</title>
+		<title><![CDATA[GYM - About]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-about</link>
 		<pubDate>Sat, 04 Apr 2020 10:14:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2753,6 +2868,8 @@ sed do eiusmod.</p>
 		<wp:post_id>427</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-04 10:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-04 10:14:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-04 10:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-04 10:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-about]]></wp:post_name>
@@ -2821,7 +2938,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/gym/2020/04/06/zakra/</link>
 		<pubDate>Mon, 06 Apr 2020 05:48:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2845,6 +2962,8 @@ a.social{
 		<wp:post_id>476</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 05:48:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 05:48:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 10:01:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 10:01:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -2860,7 +2979,7 @@ a.social{
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Home final</title>
+		<title><![CDATA[GYM - Home final]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-home-final</link>
 		<pubDate>Mon, 06 Apr 2020 06:32:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3363,6 +3482,8 @@ BEST SHAPE</h3>
 		<wp:post_id>485</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:32:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:32:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:32:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:32:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-home-final]]></wp:post_name>
@@ -3431,7 +3552,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>training-woman</title>
+		<title><![CDATA[training-woman]]></title>
 		<link>https://zakrademos.com/gym/home/training-woman/</link>
 		<pubDate>Wed, 06 May 2020 07:30:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3442,6 +3563,8 @@ BEST SHAPE</h3>
 		<wp:post_id>672</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:30:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:30:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:30:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:30:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[training-woman]]></wp:post_name>
@@ -3470,7 +3593,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-woman-lifting-weight</title>
+		<title><![CDATA[banner-woman-lifting-weight]]></title>
 		<link>https://zakrademos.com/gym/home/banner-woman-lifting-weight/</link>
 		<pubDate>Wed, 06 May 2020 07:32:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3481,6 +3604,8 @@ BEST SHAPE</h3>
 		<wp:post_id>674</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:32:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:32:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:32:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:32:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-woman-lifting-weight]]></wp:post_name>
@@ -3505,7 +3630,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-woman-double-weight</title>
+		<title><![CDATA[gallery-woman-double-weight]]></title>
 		<link>https://zakrademos.com/gym/home/gallery-woman-double-weight/</link>
 		<pubDate>Wed, 06 May 2020 07:33:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3516,6 +3641,8 @@ BEST SHAPE</h3>
 		<wp:post_id>676</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:33:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:33:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:33:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:33:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-woman-double-weight]]></wp:post_name>
@@ -3540,7 +3667,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero-image-body-builder</title>
+		<title><![CDATA[hero-image-body-builder]]></title>
 		<link>https://zakrademos.com/gym/hero-image-body-builder/</link>
 		<pubDate>Wed, 06 May 2020 07:39:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3551,6 +3678,8 @@ BEST SHAPE</h3>
 		<wp:post_id>679</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 07:39:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 07:39:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 07:39:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 07:39:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-image-body-builder]]></wp:post_name>
@@ -3575,7 +3704,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-people-dog-running</title>
+		<title><![CDATA[banner-people-dog-running]]></title>
 		<link>https://zakrademos.com/gym/2020/04/02/we-never-stop-running/banner-people-dog-running/</link>
 		<pubDate>Thu, 07 May 2020 02:44:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3586,6 +3715,8 @@ BEST SHAPE</h3>
 		<wp:post_id>728</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-07 02:44:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-07 02:44:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 02:44:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 02:44:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-people-dog-running]]></wp:post_name>
@@ -3610,7 +3741,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon-equipment</title>
+		<title><![CDATA[icon-equipment]]></title>
 		<link>https://zakrademos.com/gym/home/icon-equipment/</link>
 		<pubDate>Thu, 07 May 2020 04:38:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3621,6 +3752,8 @@ BEST SHAPE</h3>
 		<wp:post_id>748</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-07 04:38:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-07 04:38:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 04:38:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 04:38:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-equipment]]></wp:post_name>
@@ -3641,7 +3774,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon-apples</title>
+		<title><![CDATA[icon-apples]]></title>
 		<link>https://zakrademos.com/gym/home/icon-apples/</link>
 		<pubDate>Thu, 07 May 2020 04:38:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3652,6 +3785,8 @@ BEST SHAPE</h3>
 		<wp:post_id>749</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-07 04:38:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-07 04:38:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 04:38:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 04:38:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-apples]]></wp:post_name>
@@ -3672,7 +3807,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon-swimming</title>
+		<title><![CDATA[icon-swimming]]></title>
 		<link>https://zakrademos.com/gym/home/icon-swimming/</link>
 		<pubDate>Thu, 07 May 2020 04:38:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3683,6 +3818,8 @@ BEST SHAPE</h3>
 		<wp:post_id>750</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-07 04:38:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-07 04:38:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 04:38:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 04:38:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-swimming]]></wp:post_name>
@@ -3703,7 +3840,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon-shower</title>
+		<title><![CDATA[icon-shower]]></title>
 		<link>https://zakrademos.com/gym/home/icon-shower/</link>
 		<pubDate>Thu, 07 May 2020 04:38:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3714,6 +3851,8 @@ BEST SHAPE</h3>
 		<wp:post_id>751</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-07 04:38:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-07 04:38:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 04:38:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 04:38:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-shower]]></wp:post_name>
@@ -3734,7 +3873,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/gym/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 05:50:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3745,6 +3884,8 @@ BEST SHAPE</h3>
 		<wp:post_id>933</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:50:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:50:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:50:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:50:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -3765,7 +3906,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - About final</title>
+		<title><![CDATA[GYM - About final]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-about-final</link>
 		<pubDate>Mon, 06 Apr 2020 06:40:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3850,6 +3991,8 @@ sed do eiusmod.</p>
 		<wp:post_id>490</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:40:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:40:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:40:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:40:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-about-final]]></wp:post_name>
@@ -3910,7 +4053,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Contact</title>
+		<title><![CDATA[GYM - Contact]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-contact</link>
 		<pubDate>Mon, 06 Apr 2020 06:47:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3936,6 +4079,8 @@ sed do eiusmod.</p>
 		<wp:post_id>493</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:47:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:47:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:47:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:47:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-contact]]></wp:post_name>
@@ -3996,7 +4141,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Gallery</title>
+		<title><![CDATA[GYM - Gallery]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-gallery</link>
 		<pubDate>Mon, 06 Apr 2020 06:48:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4143,6 +4288,8 @@ sed do eiusmod.</p>
 		<wp:post_id>496</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:48:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:48:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:48:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:48:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-gallery]]></wp:post_name>
@@ -4203,7 +4350,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Trainer</title>
+		<title><![CDATA[GYM - Trainer]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-trainer</link>
 		<pubDate>Mon, 06 Apr 2020 06:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4346,6 +4493,8 @@ sed do eiusmod.</p>
 		<wp:post_id>499</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:48:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:48:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:48:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-trainer]]></wp:post_name>
@@ -4406,7 +4555,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GYM - Trainer details</title>
+		<title><![CDATA[GYM - Trainer details]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gym-trainer-details</link>
 		<pubDate>Mon, 06 Apr 2020 06:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4442,6 +4591,8 @@ sed do eiusmod.</p>
 		<wp:post_id>502</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-06 06:50:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-06 06:50:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-06 06:50:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-06 06:50:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gym-trainer-details]]></wp:post_name>
@@ -4502,7 +4653,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home</title>
+		<title><![CDATA[home]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home</link>
 		<pubDate>Sun, 07 Jun 2020 20:40:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5040,6 +5191,8 @@ BEST SHAPE</h3>
 		<wp:post_id>772</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 20:40:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 20:40:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 20:40:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 20:40:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5084,7 +5237,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about</title>
+		<title><![CDATA[about]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=about</link>
 		<pubDate>Sun, 07 Jun 2020 21:03:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5169,6 +5322,8 @@ sed do eiusmod.</p>
 		<wp:post_id>775</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 21:03:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 21:03:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 21:03:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 21:03:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -5213,7 +5368,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=contact</link>
 		<pubDate>Sun, 07 Jun 2020 21:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5239,6 +5394,8 @@ sed do eiusmod.</p>
 		<wp:post_id>778</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 21:06:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 21:06:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 21:06:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 21:06:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5275,7 +5432,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery</title>
+		<title><![CDATA[gallery]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gallery</link>
 		<pubDate>Sun, 07 Jun 2020 21:07:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5446,6 +5603,8 @@ sed do eiusmod.</p>
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 21:07:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 21:07:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 21:07:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 21:07:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -5482,7 +5641,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer</title>
+		<title><![CDATA[trainer]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainer</link>
 		<pubDate>Sun, 07 Jun 2020 21:10:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5655,6 +5814,8 @@ sed do eiusmod.</p>
 		<wp:post_id>784</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 21:10:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 21:10:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 21:10:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 21:10:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer]]></wp:post_name>
@@ -5691,7 +5852,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer-detail</title>
+		<title><![CDATA[trainer-detail]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainer-detail</link>
 		<pubDate>Sun, 07 Jun 2020 21:12:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5727,6 +5888,8 @@ sed do eiusmod.</p>
 		<wp:post_id>787</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 21:12:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 21:12:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 21:12:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 21:12:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-detail]]></wp:post_name>
@@ -5763,7 +5926,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-banner</title>
+		<title><![CDATA[home-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-banner</link>
 		<pubDate>Tue, 09 Jun 2020 09:53:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5779,6 +5942,8 @@ sed do eiusmod.</p>
 		<wp:post_id>790</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 09:53:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 09:53:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 09:53:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 09:53:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-banner]]></wp:post_name>
@@ -5815,7 +5980,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-banner-2</title>
+		<title><![CDATA[home-banner-2]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-banner-2</link>
 		<pubDate>Tue, 09 Jun 2020 10:05:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5868,6 +6033,8 @@ sed do eiusmod.</p>
 		<wp:post_id>799</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:05:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:05:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:05:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:05:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-banner-2]]></wp:post_name>
@@ -5904,7 +6071,7 @@ sed do eiusmod.</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-what-we-provide</title>
+		<title><![CDATA[home-what-we-provide]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-what-we-provide</link>
 		<pubDate>Tue, 09 Jun 2020 10:11:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5942,6 +6109,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>808</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:11:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:11:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:11:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:11:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-what-we-provide]]></wp:post_name>
@@ -5978,7 +6147,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-work-hard-for-best-shape</title>
+		<title><![CDATA[home-work-hard-for-best-shape]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-work-hard-for-best-shape</link>
 		<pubDate>Tue, 09 Jun 2020 10:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5995,6 +6164,8 @@ BEST SHAPE</h3>
 		<wp:post_id>811</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:16:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:16:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:16:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:16:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-work-hard-for-best-shape]]></wp:post_name>
@@ -6031,7 +6202,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-work-out-classes</title>
+		<title><![CDATA[home-work-out-classes]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-work-out-classes</link>
 		<pubDate>Tue, 09 Jun 2020 10:19:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6154,6 +6325,8 @@ BEST SHAPE</h3>
 		<wp:post_id>814</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:19:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:19:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:19:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:19:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-work-out-classes]]></wp:post_name>
@@ -6190,7 +6363,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-meet-our-trainers</title>
+		<title><![CDATA[home-meet-our-trainers]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-meet-our-trainers</link>
 		<pubDate>Tue, 09 Jun 2020 10:33:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6277,6 +6450,8 @@ BEST SHAPE</h3>
 		<wp:post_id>823</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:33:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:33:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:33:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:33:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-meet-our-trainers]]></wp:post_name>
@@ -6313,7 +6488,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-video</title>
+		<title><![CDATA[home-video]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-video</link>
 		<pubDate>Tue, 09 Jun 2020 10:41:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6324,6 +6499,8 @@ BEST SHAPE</h3>
 		<wp:post_id>829</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:41:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:41:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:41:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:41:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-video]]></wp:post_name>
@@ -6368,7 +6545,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-reviews-from-clients</title>
+		<title><![CDATA[home-reviews-from-clients]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-reviews-from-clients</link>
 		<pubDate>Tue, 09 Jun 2020 10:46:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6394,6 +6571,8 @@ BEST SHAPE</h3>
 		<wp:post_id>832</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 10:46:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 10:46:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 10:46:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 10:46:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-reviews-from-clients]]></wp:post_name>
@@ -6430,7 +6609,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-join-now</title>
+		<title><![CDATA[home-join-now]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-join-now</link>
 		<pubDate>Tue, 09 Jun 2020 11:00:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6447,6 +6626,8 @@ BEST SHAPE</h3>
 		<wp:post_id>835</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 11:00:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 11:00:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 11:00:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 11:00:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-join-now]]></wp:post_name>
@@ -6483,7 +6664,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-choose-best-pricing-plan</title>
+		<title><![CDATA[home-choose-best-pricing-plan]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-choose-best-pricing-plan</link>
 		<pubDate>Tue, 09 Jun 2020 11:08:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6570,6 +6751,8 @@ BEST SHAPE</h3>
 		<wp:post_id>844</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 11:08:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 11:08:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 11:08:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 11:08:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-choose-best-pricing-plan]]></wp:post_name>
@@ -6606,7 +6789,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-work-out-gallery</title>
+		<title><![CDATA[home-work-out-gallery]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-work-out-gallery</link>
 		<pubDate>Tue, 09 Jun 2020 11:17:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6727,6 +6910,8 @@ BEST SHAPE</h3>
 		<wp:post_id>847</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 11:17:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 11:17:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 11:17:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 11:17:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-work-out-gallery]]></wp:post_name>
@@ -6763,7 +6948,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-best-protein-products</title>
+		<title><![CDATA[home-best-protein-products]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-best-protein-products</link>
 		<pubDate>Tue, 09 Jun 2020 15:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6779,6 +6964,8 @@ BEST SHAPE</h3>
 		<wp:post_id>850</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 15:45:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 15:45:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 15:45:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 15:45:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-best-protein-products]]></wp:post_name>
@@ -6815,7 +7002,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-our-latest-blog</title>
+		<title><![CDATA[home-our-latest-blog]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-our-latest-blog</link>
 		<pubDate>Tue, 09 Jun 2020 16:57:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6850,6 +7037,8 @@ BEST SHAPE</h3>
 		<wp:post_id>853</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 16:57:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 16:57:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 16:57:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 16:57:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-latest-blog]]></wp:post_name>
@@ -6886,7 +7075,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-become-member</title>
+		<title><![CDATA[home-become-member]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-become-member</link>
 		<pubDate>Tue, 09 Jun 2020 17:00:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6901,6 +7090,8 @@ BEST SHAPE</h3>
 		<wp:post_id>856</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:00:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:00:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:00:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:00:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-become-member]]></wp:post_name>
@@ -6937,7 +7128,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-follow-us</title>
+		<title><![CDATA[home-follow-us]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=home-follow-us</link>
 		<pubDate>Tue, 09 Jun 2020 17:04:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6951,6 +7142,8 @@ BEST SHAPE</h3>
 		<wp:post_id>862</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:04:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:04:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:04:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:04:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-follow-us]]></wp:post_name>
@@ -6987,7 +7180,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-banner</title>
+		<title><![CDATA[about-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=about-banner</link>
 		<pubDate>Tue, 09 Jun 2020 17:07:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -6998,6 +7191,8 @@ BEST SHAPE</h3>
 		<wp:post_id>865</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:07:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:07:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:07:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:07:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-banner]]></wp:post_name>
@@ -7034,7 +7229,7 @@ BEST SHAPE</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-welcome</title>
+		<title><![CDATA[about-welcome]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=about-welcome</link>
 		<pubDate>Tue, 09 Jun 2020 17:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7051,6 +7246,8 @@ FITNESS CLUB</h3>
 		<wp:post_id>874</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-welcome]]></wp:post_name>
@@ -7095,7 +7292,7 @@ FITNESS CLUB</h3>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what-we-provide</title>
+		<title><![CDATA[what-we-provide]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=what-we-provide</link>
 		<pubDate>Tue, 09 Jun 2020 17:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7135,6 +7332,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>880</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:26:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:26:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:26:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:26:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-provide]]></wp:post_name>
@@ -7171,7 +7370,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>reviews-from-clients</title>
+		<title><![CDATA[reviews-from-clients]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=reviews-from-clients</link>
 		<pubDate>Tue, 09 Jun 2020 17:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7197,6 +7396,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>883</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:29:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:29:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:29:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:29:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[reviews-from-clients]]></wp:post_name>
@@ -7233,7 +7434,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>become-member</title>
+		<title><![CDATA[become-member]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=become-member</link>
 		<pubDate>Tue, 09 Jun 2020 17:32:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7248,6 +7449,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>886</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:32:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:32:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:32:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:32:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[become-member]]></wp:post_name>
@@ -7284,7 +7487,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>follow-us</title>
+		<title><![CDATA[follow-us]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=follow-us</link>
 		<pubDate>Tue, 09 Jun 2020 17:33:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7298,6 +7501,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>889</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:33:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:33:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:33:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:33:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[follow-us]]></wp:post_name>
@@ -7334,7 +7539,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer-banner</title>
+		<title><![CDATA[trainer-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainer-banner</link>
 		<pubDate>Tue, 09 Jun 2020 17:36:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7345,6 +7550,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>892</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:36:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:36:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:36:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:36:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-banner]]></wp:post_name>
@@ -7381,7 +7588,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainers</title>
+		<title><![CDATA[trainers]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainers</link>
 		<pubDate>Tue, 09 Jun 2020 17:43:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7544,6 +7751,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>895</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:43:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:43:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:43:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:43:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainers]]></wp:post_name>
@@ -7580,7 +7789,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer-detail-banner</title>
+		<title><![CDATA[trainer-detail-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainer-detail-banner</link>
 		<pubDate>Tue, 09 Jun 2020 17:47:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7591,6 +7800,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>898</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:47:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:47:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:47:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:47:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-detail-banner]]></wp:post_name>
@@ -7627,7 +7838,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trainer-detail-noah-smith</title>
+		<title><![CDATA[trainer-detail-noah-smith]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=trainer-detail-noah-smith</link>
 		<pubDate>Tue, 09 Jun 2020 17:58:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7653,6 +7864,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>901</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 17:58:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 17:58:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 17:58:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 17:58:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-detail-noah-smith]]></wp:post_name>
@@ -7689,7 +7902,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-banner</title>
+		<title><![CDATA[gallery-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=gallery-banner</link>
 		<pubDate>Tue, 09 Jun 2020 18:08:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7700,6 +7913,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>904</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 18:08:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 18:08:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 18:08:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 18:08:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-banner]]></wp:post_name>
@@ -7736,7 +7951,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>work-out-gallery</title>
+		<title><![CDATA[work-out-gallery]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=work-out-gallery</link>
 		<pubDate>Tue, 09 Jun 2020 18:14:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7897,6 +8112,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>907</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 18:14:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 18:14:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 18:14:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 18:14:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[work-out-gallery]]></wp:post_name>
@@ -7933,7 +8150,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact-banner</title>
+		<title><![CDATA[contact-banner]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=contact-banner</link>
 		<pubDate>Tue, 09 Jun 2020 18:17:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -7944,6 +8161,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>910</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 18:17:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 18:17:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 18:17:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 18:17:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-banner]]></wp:post_name>
@@ -7980,7 +8199,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact-form</title>
+		<title><![CDATA[contact-form]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=contact-form</link>
 		<pubDate>Tue, 09 Jun 2020 18:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8000,6 +8219,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>913</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 18:20:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 18:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 18:20:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 18:20:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -8036,33 +8257,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/gym/?post_type=everest_form&#038;p=3</link>
-		<pubDate>Wed, 06 May 2020 09:37:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/gym/?post_type=everest_form&#038;p=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":3,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Gym","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-06 09:37:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-06 09:37:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/gym/blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8073,6 +8268,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -8248,17 +8445,19 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gym Contact Form</title>
+		<title><![CDATA[Gym Contact Form]]></title>
 		<link>https://zakrademos.com/gym/?post_type=everest_form&#038;p=23</link>
 		<pubDate>Tue, 31 Mar 2020 09:35:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://gym.sites.qsandbox.com/?post_type=everest_form&#038;p=23</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"23","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Full Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email Address","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Gym Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"291","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Gym","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"23","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Full Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email Address","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Gym Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"291","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Gym","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2020-03-31 09:35:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-03-31 09:35:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 11:15:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 11:15:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -8274,7 +8473,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://zakrademos.com/gym/gallery/</link>
 		<pubDate>Wed, 01 Apr 2020 03:10:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8424,6 +8623,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-01 03:10:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-01 03:10:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:25:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:25:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -8631,7 +8832,7 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/gym/contact/</link>
 		<pubDate>Wed, 01 Apr 2020 03:10:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8672,6 +8873,8 @@ sed do eiusmod.</p>]]></content:encoded>
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-01 03:10:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-01 03:10:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:24:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:24:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -8879,7 +9082,230 @@ sed do eiusmod.</p>]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[BATTLE ROPE CONTEST]]></title>
+		<link>https://zakrademos.com/gym/2020/04/02/battle-rope-contest/</link>
+		<pubDate>Thu, 02 Apr 2020 08:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://gym.sites.qsandbox.com/?p=188</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.]]></excerpt:encoded>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-02 08:34:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-02 08:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 03:13:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 03:13:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[battle-rope-contest]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sticky_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_header_main_area]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_header_top_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_primary_menu_item_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[174]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_breadcrumbs_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_bg_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_bar_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header_text_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_repeat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-repeat]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_attachment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fixed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[598]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sticky_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_header_main_area]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_header_top_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_primary_menu_item_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[174]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_breadcrumbs_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_widgets_bg_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_bar_enabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header_text_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_repeat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-repeat]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[center center]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cover]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_title_bg_attachment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fixed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[598]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/gym/about/</link>
 		<pubDate>Fri, 03 Apr 2020 08:28:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -8995,6 +9421,8 @@ sed do eiusmod.
 		<wp:post_id>291</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 08:28:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 08:28:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:26:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:26:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -9256,9 +9684,17 @@ sed do eiusmod.
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:13:{s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:2:{s:10:"first_text";i:5;s:11:"second_text";i:5;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:17:{s:15:"headings_margin";i:5;s:11:"first_color";i:5;s:27:"first_typography_typography";i:5;s:28:"first_typography_font_family";i:5;s:26:"first_typography_font_size";i:5;s:33:"first_typography_font_size_mobile";i:5;s:28:"first_typography_font_weight";i:5;s:31:"first_typography_text_transform";i:5;s:16:"headings_stacked";i:1;s:12:"second_color";i:1;s:28:"second_typography_typography";i:1;s:29:"second_typography_font_family";i:1;s:27:"second_typography_font_size";i:1;s:34:"second_typography_font_size_mobile";i:1;s:29:"second_typography_font_weight";i:1;s:32:"second_typography_text_transform";i:1;s:18:"headings_alignment";i:2;}}s:8:"advanced";a:1:{s:15:"section_effects";a:2:{s:10:"_animation";i:1;s:18:"animation_duration";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:26;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:26;s:16:"content_position";i:2;s:19:"_inline_size_tablet";i:15;s:19:"_inline_size_mobile";i:2;}}s:8:"advanced";a:3:{s:16:"section_advanced";a:4:{s:6:"margin";i:4;s:7:"padding";i:4;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:1;}s:15:"section_effects";a:2:{s:9:"animation";i:5;s:18:"animation_duration";i:4;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:4;s:11:"hide_mobile";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:6:"layout";i:5;s:8:"overflow";i:1;s:3:"gap";i:3;s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:11:{s:21:"background_background";i:4;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:26:"background_position_mobile";i:1;s:22:"background_xpos_mobile";i:1;s:24:"background_repeat_mobile";i:1;s:22:"background_size_mobile";i:1;s:21:"background_attachment";i:3;s:16:"background_color";i:3;}s:26:"section_background_overlay";a:10:{s:24:"background_overlay_color";i:2;s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:29:"background_overlay_attachment";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;s:26:"background_overlay_opacity";i:1;s:22:"css_filters_css_filter";i:1;s:22:"css_filters_brightness";i:1;s:20:"css_filters_contrast";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:6:{s:7:"padding";i:9;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:3;s:6:"margin";i:6;s:13:"margin_mobile";i:2;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:2;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:21:"typography_typography";i:3;s:22:"typography_line_height";i:1;s:10:"text_color";i:3;s:22:"typography_font_weight";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:2;s:10:"column_gap";i:1;}}s:8:"advanced";a:2:{s:15:"section_effects";a:3:{s:10:"_animation";i:1;s:18:"animation_duration";i:1;s:16:"_animation_delay";i:1;}s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:7:"_margin";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:11:"title_color";i:2;}}s:8:"advanced";a:2:{s:15:"section_effects";a:3:{s:10:"_animation";i:2;s:18:"animation_duration";i:2;s:16:"_animation_delay";i:2;}s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}s:15:"section_effects";a:3:{s:10:"_animation";i:1;s:18:"animation_duration";i:1;s:16:"_animation_delay";i:1;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:2:{s:13:"section_video";a:1:{s:11:"youtube_url";i:1;}s:21:"section_image_overlay";a:6:{s:18:"show_image_overlay";i:1;s:13:"image_overlay";i:1;s:9:"lazy_load";i:1;s:8:"lightbox";i:1;s:18:"image_overlay_size";i:1;s:30:"image_overlay_custom_dimension";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}s:5:"style";a:1:{s:19:"section_video_style";a:4:{s:21:"play_icon_size_mobile";i:1;s:22:"css_filters_css_filter";i:1;s:14:"play_icon_size";i:1;s:33:"play_icon_text_shadow_text_shadow";i:1;}}}}s:7:"counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_counter";a:3:{s:13:"ending_number";i:2;s:6:"suffix";i:4;s:5:"title";i:4;}}s:5:"style";a:2:{s:14:"section_number";a:8:{s:12:"number_color";i:4;s:28:"typography_number_typography";i:4;s:29:"typography_number_font_family";i:4;s:27:"typography_number_font_size";i:4;s:34:"typography_number_font_size_mobile";i:4;s:29:"typography_number_font_weight";i:4;s:32:"typography_number_text_transform";i:4;s:29:"typography_number_line_height";i:4;}s:13:"section_title";a:8:{s:11:"title_color";i:4;s:27:"typography_title_typography";i:4;s:28:"typography_title_font_family";i:4;s:26:"typography_title_font_size";i:4;s:33:"typography_title_font_size_mobile";i:4;s:28:"typography_title_font_weight";i:4;s:31:"typography_title_text_transform";i:4;s:31:"typography_title_letter_spacing";i:4;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:4;s:5:"image";i:4;s:7:"caption";i:4;s:5:"title";i:4;s:11:"description";i:4;}}s:5:"style";a:4:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:4;}s:33:"ec_service_box_icon_style_section";a:3:{s:9:"icon_size";i:4;s:11:"icon_margin";i:4;s:12:"icon_padding";i:4;}s:34:"ec_service_box_style_title_section";a:8:{s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:28:"title_typography_font_family";i:4;s:26:"title_typography_font_size";i:4;s:28:"title_typography_font_weight";i:4;s:31:"title_typography_text_transform";i:4;s:19:"title_border_radius";i:4;s:12:"title_margin";i:4;}s:40:"ec_service_box_style_description_section";a:5:{s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:34:"description_typography_font_family";i:4;s:32:"description_typography_font_size";i:4;s:34:"description_typography_font_weight";i:4;}}}}s:40:"elementor-companion-testimonial-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:2:{s:38:"ec_testimonial_carousel_slides_section";a:1:{s:6:"slides";i:1;}s:40:"ec_testimonial_carousel_settings_section";a:4:{s:3:"spv";i:1;s:4:"loop";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;}}s:5:"style";a:4:{s:44:"ec_testimonial_carousel_slides_style_section";a:7:{s:26:"imageinfo_infobox_position";i:1;s:24:"imageinfo_image_position";i:1;s:13:"slide_spacing";i:1;s:13:"slide_padding";i:1;s:18:"slide_border_width";i:1;s:20:"slide_padding_tablet";i:1;s:20:"slide_padding_mobile";i:1;}s:42:"ec_testimonial_carousel_name_style_section";a:7:{s:17:"author_name_color";i:1;s:33:"author_name_typography_typography";i:1;s:34:"author_name_typography_font_family";i:1;s:32:"author_name_typography_font_size";i:1;s:34:"author_name_typography_font_weight";i:1;s:18:"author_name_margin";i:1;s:25:"author_name_margin_tablet";i:1;}s:48:"ec_testimonial_carousel_navigation_style_section";a:5:{s:10:"arrow_size";i:1;s:15:"arrow_icon_size";i:1;s:18:"arrow_normal_color";i:1;s:17:"arrow_hover_color";i:1;s:22:"arrow_icon_size_mobile";i:1;}s:45:"ec_testimonial_carousel_message_style_section";a:5:{s:20:"author_message_color";i:1;s:36:"author_message_typography_typography";i:1;s:35:"author_message_typography_font_size";i:1;s:37:"author_message_typography_line_height";i:1;s:37:"author_message_typography_font_family";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:19:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:33:"button_box_shadow_box_shadow_type";i:1;s:28:"button_box_shadow_box_shadow";i:1;s:12:"text_padding";i:1;s:15:"hover_animation";i:1;s:25:"typography_letter_spacing";i:1;s:29:"button_background_hover_color";i:1;s:17:"button_text_color";i:1;s:11:"hover_color";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:19:"text_padding_tablet";i:1;s:19:"text_padding_mobile";i:1;}}s:8:"advanced";a:2:{s:15:"section_effects";a:3:{s:10:"_animation";i:1;s:18:"animation_duration";i:1;s:16:"_animation_delay";i:1;}s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:1;s:10:"title_text";i:1;s:16:"description_text";i:1;s:8:"position";i:1;s:10:"title_size";i:1;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:10:"icon_space";i:1;s:9:"icon_size";i:1;s:13:"primary_color";i:1;}s:21:"section_style_content";a:15:{s:10:"text_align";i:1;s:26:"content_vertical_alignment";i:1;s:18:"title_bottom_space";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;s:33:"title_typography_font_size_tablet";i:1;s:11:"title_color";i:1;s:17:"description_color";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;s:32:"description_typography_font_size";i:1;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:22:"section_image_carousel";a:6:{s:8:"carousel";i:1;s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:10:"navigation";i:1;s:21:"slides_to_show_tablet";i:1;s:21:"slides_to_show_mobile";i:1;}s:26:"section_additional_options";a:1:{s:5:"speed";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:22:"gallery_vertical_align";i:1;s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_a68a32b5cbc3606d358e92dcb1db5dc1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to import demo content for Zakra WordPress theme" width="759" height="427" src="https://www.youtube.com/embed/0lMZnYwqWEg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_a68a32b5cbc3606d358e92dcb1db5dc1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1613479261]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/gym/</link>
 		<pubDate>Fri, 03 Apr 2020 09:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -9815,6 +10251,8 @@ sed do eiusmod.
 		<wp:post_id>313</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 09:22:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 09:22:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:32:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:32:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -10100,9 +10538,17 @@ sed do eiusmod.
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:18:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:3;s:11:"header_size";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:3;s:21:"typography_typography";i:3;s:22:"typography_font_weight";i:2;s:25:"typography_letter_spacing";i:3;s:27:"typography_font_size_mobile";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;}}s:8:"advanced";a:2:{s:14:"_section_style";a:4:{s:7:"_margin";i:2;s:8:"_padding";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}s:15:"section_effects";a:2:{s:10:"_animation";i:3;s:18:"animation_duration";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:5;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:5;s:5:"align";i:5;s:4:"link";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:19:{s:21:"typography_typography";i:5;s:22:"typography_font_family";i:5;s:20:"typography_font_size";i:5;s:22:"typography_font_weight";i:5;s:25:"typography_text_transform";i:5;s:16:"background_color";i:5;s:13:"border_radius";i:5;s:33:"button_box_shadow_box_shadow_type";i:5;s:28:"button_box_shadow_box_shadow";i:5;s:12:"text_padding";i:5;s:15:"hover_animation";i:5;s:25:"typography_letter_spacing";i:5;s:29:"button_background_hover_color";i:5;s:17:"button_text_color";i:1;s:11:"hover_color";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:19:"text_padding_tablet";i:1;s:19:"text_padding_mobile";i:1;}}s:8:"advanced";a:2:{s:15:"section_effects";a:3:{s:10:"_animation";i:4;s:18:"animation_duration";i:5;s:16:"_animation_delay";i:4;}s:14:"_section_style";a:3:{s:7:"_margin";i:4;s:8:"_padding";i:3;s:14:"_margin_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:62;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:62;s:16:"content_position";i:3;s:19:"_inline_size_tablet";i:26;s:19:"_inline_size_mobile";i:2;}}s:8:"advanced";a:3:{s:16:"section_advanced";a:4:{s:6:"margin";i:5;s:7:"padding";i:5;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:11;s:11:"hide_mobile";i:10;}s:15:"section_effects";a:3:{s:9:"animation";i:17;s:18:"animation_duration";i:13;s:15:"animation_delay";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:32;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:16;}s:14:"section_layout";a:4:{s:6:"layout";i:9;s:3:"gap";i:8;s:8:"overflow";i:5;s:16:"content_position";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:11:{s:21:"background_background";i:8;s:16:"background_image";i:4;s:19:"background_position";i:5;s:17:"background_repeat";i:5;s:15:"background_size";i:5;s:26:"background_position_mobile";i:1;s:22:"background_xpos_mobile";i:1;s:24:"background_repeat_mobile";i:1;s:22:"background_size_mobile";i:1;s:21:"background_attachment";i:4;s:16:"background_color";i:7;}s:26:"section_background_overlay";a:1:{s:24:"background_overlay_color";i:2;}}s:8:"advanced";a:3:{s:16:"section_advanced";a:6:{s:7:"padding";i:14;s:6:"margin";i:17;s:13:"margin_mobile";i:3;s:14:"padding_tablet";i:5;s:14:"padding_mobile";i:4;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}s:15:"section_effects";a:1:{s:9:"animation";i:1;}}}}s:38:"elementor-companion-filterable-gallery";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:3:{s:21:"ec_fg_gallery_section";a:1:{s:5:"items";i:2;}s:22:"ec_fg_controls_section";a:2:{s:13:"enable_filter";i:1;s:10:"categories";i:2;}s:22:"ec_fg_settings_section";a:4:{s:15:"lightbox_slider";i:1;s:13:"lightbox_icon";i:2;s:9:"link_icon";i:2;s:14:"columns_tablet";i:1;}}s:5:"style";a:5:{s:19:"ec_fg_style_section";a:3:{s:10:"column_gap";i:2;s:7:"row_gap";i:2;s:13:"hover_effects";i:1;}s:28:"ec_fg_controls_style_section";a:14:{s:15:"controls_margin";i:2;s:16:"controls_padding";i:2;s:38:"active_control_normal_background_color";i:2;s:18:"controls_alignment";i:1;s:36:"active_control_typography_typography";i:1;s:37:"active_control_typography_font_family";i:1;s:35:"active_control_typography_font_size";i:1;s:37:"active_control_typography_font_weight";i:1;s:40:"active_control_typography_text_transform";i:1;s:27:"active_control_normal_color";i:1;s:43:"active_control_normal_background_background";i:1;s:27:"normal_control_normal_color";i:1;s:25:"hover_control_hover_color";i:1;s:23:"controls_padding_mobile";i:1;}s:24:"ec_fg_item_style_section";a:1:{s:13:"overlay_color";i:2;}s:32:"ec_fg_caption_area_style_section";a:19:{s:17:"caption_alignment";i:2;s:35:"caption_title_typography_typography";i:1;s:36:"caption_title_typography_font_family";i:1;s:34:"caption_title_typography_font_size";i:1;s:36:"caption_title_typography_font_weight";i:1;s:39:"caption_title_typography_text_transform";i:1;s:36:"caption_title_typography_line_height";i:1;s:20:"caption_title_margin";i:1;s:34:"caption_desc_typography_typography";i:1;s:35:"caption_desc_typography_font_family";i:1;s:33:"caption_desc_typography_font_size";i:1;s:35:"caption_desc_typography_font_weight";i:1;s:35:"caption_desc_typography_line_height";i:1;s:19:"caption_desc_margin";i:1;s:41:"caption_title_typography_font_size_mobile";i:1;s:27:"caption_title_margin_tablet";i:1;s:27:"caption_title_margin_mobile";i:1;s:40:"caption_desc_typography_font_size_mobile";i:1;s:42:"caption_desc_typography_line_height_mobile";i:1;}s:23:"ec_fg_btn_style_section";a:6:{s:8:"btn_size";i:1;s:13:"btn_icon_size";i:1;s:17:"btn_border_radius";i:1;s:16:"btn_normal_color";i:1;s:31:"btn_hover_background_background";i:1;s:26:"btn_hover_background_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:32:"elementor-companion-dual-heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:23:"ec_dual_heading_section";a:2:{s:10:"first_text";i:11;s:11:"second_text";i:11;}}s:5:"style";a:1:{s:38:"ec_dual_heading_headings_style_section";a:17:{s:18:"headings_alignment";i:8;s:15:"headings_margin";i:11;s:11:"first_color";i:11;s:27:"first_typography_typography";i:11;s:28:"first_typography_font_family";i:11;s:26:"first_typography_font_size";i:11;s:33:"first_typography_font_size_mobile";i:11;s:28:"first_typography_font_weight";i:11;s:31:"first_typography_text_transform";i:11;s:16:"headings_stacked";i:2;s:12:"second_color";i:2;s:28:"second_typography_typography";i:2;s:29:"second_typography_font_family";i:2;s:27:"second_typography_font_size";i:2;s:34:"second_typography_font_size_mobile";i:2;s:29:"second_typography_font_weight";i:2;s:32:"second_typography_text_transform";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:10;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:9;s:21:"typography_typography";i:10;s:22:"typography_font_weight";i:7;s:10:"text_color";i:10;s:22:"typography_font_family";i:10;s:20:"typography_font_size";i:10;s:22:"typography_line_height";i:2;}}s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:9;s:10:"column_gap";i:1;}}s:8:"advanced";a:1:{s:15:"section_effects";a:3:{s:10:"_animation";i:2;s:18:"animation_duration";i:2;s:16:"_animation_delay";i:2;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:5:{s:9:"icon_type";i:4;s:5:"image";i:4;s:7:"caption";i:4;s:5:"title";i:4;s:11:"description";i:4;}}s:5:"style";a:4:{s:28:"ec_service_box_style_section";a:1:{s:19:"service_box_padding";i:4;}s:33:"ec_service_box_icon_style_section";a:3:{s:9:"icon_size";i:4;s:11:"icon_margin";i:4;s:12:"icon_padding";i:4;}s:34:"ec_service_box_style_title_section";a:8:{s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:28:"title_typography_font_family";i:4;s:26:"title_typography_font_size";i:4;s:28:"title_typography_font_weight";i:4;s:31:"title_typography_text_transform";i:4;s:19:"title_border_radius";i:4;s:12:"title_margin";i:4;}s:40:"ec_service_box_style_description_section";a:5:{s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:34:"description_typography_font_family";i:4;s:32:"description_typography_font_size";i:4;s:34:"description_typography_font_weight";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:2;s:22:"image_custom_dimension";i:2;s:10:"image_size";i:2;}}}}s:24:"elementor-companion-tabs";a:3:{s:5:"count";i:1;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:2:{s:4:"tabs";i:1;s:6:"layout";i:1;}}s:5:"style";a:3:{s:21:"section_style_general";a:1:{s:17:"tabs_border_width";i:1;}s:19:"section_style_title";a:12:{s:15:"title_alignment";i:1;s:13:"title_padding";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;s:19:"title_color_style_2";i:1;s:22:"title_bg_color_style_2";i:1;s:26:"title_active_color_style_2";i:1;s:20:"title_padding_mobile";i:1;s:33:"title_typography_font_size_mobile";i:1;}s:21:"section_style_content";a:5:{s:17:"content_alignment";i:1;s:24:"content_background_color";i:1;s:29:"content_typography_typography";i:1;s:30:"content_typography_font_family";i:1;s:28:"content_typography_font_size";i:1;}}}}s:24:"elementor-companion-team";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:2:{s:15:"section_general";a:5:{s:5:"image";i:3;s:4:"name";i:3;s:11:"designation";i:3;s:11:"description";i:3;s:7:"socials";i:3;}s:11:"section_cta";a:3:{s:8:"cta_type";i:3;s:8:"cta_link";i:3;s:11:"cta_link_to";i:3;}}s:5:"style";a:4:{s:19:"section_style_image";a:3:{s:10:"image_size";i:3;s:12:"image_margin";i:3;s:19:"image_border_radius";i:3;}s:18:"section_style_name";a:6:{s:8:"name_tag";i:3;s:26:"name_typography_typography";i:3;s:11:"name_margin";i:3;s:27:"name_typography_font_family";i:3;s:25:"name_typography_font_size";i:3;s:10:"name_color";i:3;}s:25:"section_style_designation";a:5:{s:17:"designation_color";i:3;s:33:"designation_typography_typography";i:3;s:32:"designation_typography_font_size";i:3;s:18:"designation_margin";i:3;s:34:"designation_typography_font_family";i:3;}s:20:"section_style_social";a:9:{s:16:"social_icon_size";i:3;s:13:"social_margin";i:3;s:19:"social_border_width";i:3;s:19:"social_border_color";i:3;s:20:"social_border_radius";i:3;s:19:"social_normal_color";i:3;s:27:"social_normal_bg_background";i:3;s:22:"social_normal_bg_color";i:3;s:18:"social_hover_color";i:3;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:5:{s:27:"_box_shadow_box_shadow_type";i:3;s:22:"_box_shadow_box_shadow";i:3;s:33:"_box_shadow_hover_box_shadow_type";i:3;s:28:"_box_shadow_hover_box_shadow";i:3;s:14:"_border_radius";i:3;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:2:{s:13:"section_video";a:1:{s:11:"youtube_url";i:1;}s:21:"section_image_overlay";a:4:{s:18:"show_image_overlay";i:1;s:13:"image_overlay";i:1;s:9:"lazy_load";i:1;s:8:"lightbox";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}s:5:"style";a:1:{s:19:"section_video_style";a:1:{s:21:"play_icon_size_mobile";i:1;}}}}s:40:"elementor-companion-testimonial-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:2:{s:38:"ec_testimonial_carousel_slides_section";a:1:{s:6:"slides";i:1;}s:40:"ec_testimonial_carousel_settings_section";a:4:{s:3:"spv";i:1;s:4:"loop";i:1;s:10:"navigation";i:1;s:10:"spv_tablet";i:1;}}s:5:"style";a:4:{s:44:"ec_testimonial_carousel_slides_style_section";a:7:{s:26:"imageinfo_infobox_position";i:1;s:24:"imageinfo_image_position";i:1;s:13:"slide_spacing";i:1;s:13:"slide_padding";i:1;s:18:"slide_border_width";i:1;s:20:"slide_padding_tablet";i:1;s:20:"slide_padding_mobile";i:1;}s:42:"ec_testimonial_carousel_name_style_section";a:7:{s:17:"author_name_color";i:1;s:33:"author_name_typography_typography";i:1;s:34:"author_name_typography_font_family";i:1;s:32:"author_name_typography_font_size";i:1;s:34:"author_name_typography_font_weight";i:1;s:18:"author_name_margin";i:1;s:25:"author_name_margin_tablet";i:1;}s:48:"ec_testimonial_carousel_navigation_style_section";a:5:{s:10:"arrow_size";i:1;s:15:"arrow_icon_size";i:1;s:18:"arrow_normal_color";i:1;s:17:"arrow_hover_color";i:1;s:22:"arrow_icon_size_mobile";i:1;}s:45:"ec_testimonial_carousel_message_style_section";a:5:{s:20:"author_message_color";i:1;s:36:"author_message_typography_typography";i:1;s:35:"author_message_typography_font_size";i:1;s:37:"author_message_typography_line_height";i:1;s:37:"author_message_typography_font_family";i:1;}}}}s:33:"elementor-companion-pricing-table";a:3:{s:5:"count";i:3;s:15:"control_percent";i:8;s:8:"controls";a:3:{s:7:"content";a:5:{s:15:"section_heading";a:2:{s:5:"title";i:3;s:8:"subtitle";i:3;}s:15:"section_pricing";a:4:{s:16:"pricing_position";i:3;s:5:"price";i:3;s:8:"duration";i:3;s:17:"duration_position";i:3;}s:16:"section_features";a:1:{s:8:"features";i:3;}s:11:"section_cta";a:2:{s:8:"cta_text";i:3;s:15:"disclaimer_text";i:3;}s:14:"section_ribbon";a:2:{s:15:"ribbon_position";i:3;s:22:"ribbon_corner_distance";i:3;}}s:5:"style";a:5:{s:21:"section_style_general";a:4:{s:21:"pricing_table_padding";i:3;s:35:"pricing_table_box_shadow_box_shadow";i:3;s:28:"pricing_table_padding_tablet";i:3;s:28:"pricing_table_padding_mobile";i:3;}s:21:"section_style_pricing";a:19:{s:15:"pricing_padding";i:3;s:14:"pricing_margin";i:3;s:22:"spacing_price_duration";i:3;s:11:"price_color";i:3;s:27:"price_typography_typography";i:3;s:28:"price_typography_font_family";i:3;s:26:"price_typography_font_size";i:3;s:28:"price_typography_font_weight";i:3;s:31:"price_typography_text_transform";i:3;s:14:"duration_color";i:3;s:30:"duration_typography_typography";i:3;s:31:"duration_typography_font_family";i:3;s:29:"duration_typography_font_size";i:3;s:31:"duration_typography_font_weight";i:3;s:31:"duration_typography_line_height";i:3;s:34:"duration_typography_letter_spacing";i:3;s:34:"duration_typography_text_transform";i:3;s:33:"price_typography_font_size_tablet";i:3;s:36:"duration_typography_font_size_tablet";i:3;}s:22:"section_style_features";a:11:{s:15:"features_margin";i:3;s:14:"features_style";i:3;s:28:"feature_divider_border_color";i:3;s:13:"feature_color";i:3;s:30:"feature_typography_font_family";i:3;s:28:"feature_typography_font_size";i:3;s:12:"icon_spacing";i:3;s:15:"feature_padding";i:3;s:29:"feature_typography_typography";i:3;s:35:"feature_typography_font_size_tablet";i:3;s:22:"feature_padding_tablet";i:3;}s:17:"section_style_cta";a:17:{s:11:"cta_padding";i:3;s:10:"cta_margin";i:3;s:30:"cta_text_typography_typography";i:3;s:31:"cta_text_typography_font_family";i:3;s:29:"cta_text_typography_font_size";i:3;s:31:"cta_text_typography_font_weight";i:3;s:34:"cta_text_typography_text_transform";i:3;s:18:"cta_button_padding";i:3;s:24:"cta_button_border_radius";i:3;s:23:"cta_button_normal_color";i:3;s:26:"cta_button_normal_bg_color";i:3;s:25:"cta_button_hover_bg_color";i:3;s:36:"cta_text_typography_font_size_tablet";i:3;s:25:"cta_button_padding_tablet";i:3;s:25:"cta_button_padding_mobile";i:3;s:43:"disclaimer_text_typography_font_size_tablet";i:3;s:18:"cta_padding_mobile";i:1;}s:20:"section_style_ribbon";a:16:{s:28:"ribbon_typography_typography";i:3;s:29:"ribbon_typography_font_family";i:3;s:27:"ribbon_typography_font_size";i:3;s:29:"ribbon_typography_font_weight";i:3;s:32:"ribbon_typography_text_transform";i:3;s:29:"ribbon_typography_line_height";i:3;s:32:"ribbon_typography_letter_spacing";i:3;s:12:"ribbon_color";i:3;s:20:"ribbon_bg_background";i:3;s:15:"ribbon_bg_color";i:3;s:14:"ribbon_padding";i:3;s:33:"ribbon_box_shadow_box_shadow_type";i:3;s:28:"ribbon_box_shadow_box_shadow";i:3;s:34:"ribbon_typography_font_size_tablet";i:1;s:36:"ribbon_typography_line_height_tablet";i:1;s:39:"ribbon_typography_letter_spacing_tablet";i:1;}}s:8:"advanced";a:2:{s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:3;}}}}s:9:"image-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:10:"title_size";i:4;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:4;s:10:"image_size";i:4;}s:21:"section_style_content";a:12:{s:10:"text_align";i:4;s:18:"title_bottom_space";i:4;s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:28:"title_typography_font_family";i:4;s:28:"title_typography_font_weight";i:4;s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:34:"description_typography_font_family";i:4;s:34:"description_typography_font_weight";i:4;s:26:"title_typography_font_size";i:4;s:32:"description_typography_font_size";i:4;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:2:{s:7:"content";a:2:{s:13:"section_query";a:3:{s:20:"post_category_filter";i:1;s:27:"terms_post_category_choices";i:1;s:13:"author_filter";i:1;}s:15:"section_general";a:2:{s:22:"classic_posts_per_page";i:1;s:19:"classic_meta_select";i:1;}}s:5:"style";a:7:{s:28:"classic_section_style_layout";a:1:{s:13:"classic_align";i:1;}s:25:"classic_section_style_box";a:7:{s:20:"classic_box_bg_color";i:1;s:23:"classic_content_padding";i:1;s:25:"classic_box_border_radius";i:1;s:34:"classic_box_shadow_box_shadow_type";i:1;s:29:"classic_box_shadow_box_shadow";i:1;s:40:"classic_hover_box_shadow_box_shadow_type";i:1;s:35:"classic_hover_box_shadow_box_shadow";i:1;}s:27:"classic_section_style_image";a:1:{s:21:"classic_image_spacing";i:1;}s:27:"classic_section_style_title";a:9:{s:19:"classic_title_color";i:1;s:25:"classic_title_hover_color";i:1;s:35:"classic_title_typography_typography";i:1;s:36:"classic_title_typography_font_family";i:1;s:34:"classic_title_typography_font_size";i:1;s:36:"classic_title_typography_font_weight";i:1;s:36:"classic_title_typography_line_height";i:1;s:39:"classic_title_typography_letter_spacing";i:1;s:21:"classic_title_spacing";i:1;}s:29:"classic_section_style_excerpt";a:6:{s:21:"classic_excerpt_color";i:1;s:37:"classic_excerpt_typography_typography";i:1;s:38:"classic_excerpt_typography_font_family";i:1;s:36:"classic_excerpt_typography_font_size";i:1;s:38:"classic_excerpt_typography_line_height";i:1;s:23:"classic_excerpt_spacing";i:1;}s:26:"classic_section_style_meta";a:7:{s:16:"classic_meta_gap";i:1;s:18:"classic_meta_color";i:1;s:34:"classic_meta_typography_typography";i:1;s:35:"classic_meta_typography_font_family";i:1;s:33:"classic_meta_typography_font_size";i:1;s:35:"classic_meta_typography_font_weight";i:1;s:20:"classic_meta_spacing";i:1;}s:25:"classic_section_style_cta";a:9:{s:33:"classic_cta_typography_typography";i:1;s:34:"classic_cta_typography_font_family";i:1;s:32:"classic_cta_typography_font_size";i:1;s:34:"classic_cta_typography_font_weight";i:1;s:19:"classic_cta_padding";i:1;s:25:"classic_cta_border_radius";i:1;s:17:"classic_cta_color";i:1;s:20:"classic_cta_bg_color";i:1;s:23:"classic_cta_hover_color";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:1;s:10:"title_text";i:1;s:16:"description_text";i:1;s:8:"position";i:1;s:10:"title_size";i:1;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:10:"icon_space";i:1;s:9:"icon_size";i:1;s:13:"primary_color";i:1;}s:21:"section_style_content";a:14:{s:10:"text_align";i:1;s:26:"content_vertical_alignment";i:1;s:18:"title_bottom_space";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;s:33:"title_typography_font_size_tablet";i:1;s:11:"title_color";i:1;s:17:"description_color";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:34:"description_typography_font_weight";i:1;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:22:"section_image_carousel";a:6:{s:8:"carousel";i:1;s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:10:"navigation";i:1;s:21:"slides_to_show_tablet";i:1;s:21:"slides_to_show_mobile";i:1;}s:26:"section_additional_options";a:1:{s:5:"speed";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:22:"gallery_vertical_align";i:1;s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_a68a32b5cbc3606d358e92dcb1db5dc1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to import demo content for Zakra WordPress theme" width="759" height="427" src="https://www.youtube.com/embed/0lMZnYwqWEg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_a68a32b5cbc3606d358e92dcb1db5dc1]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1613479261]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Trainer</title>
+		<title><![CDATA[Trainer]]></title>
 		<link>https://zakrademos.com/gym/trainer/</link>
 		<pubDate>Fri, 03 Apr 2020 11:38:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10281,6 +10727,8 @@ sed do eiusmod.
 		<wp:post_id>347</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 11:38:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 11:38:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:24:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:24:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer]]></wp:post_name>
@@ -10512,7 +10960,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Trainer Detail</title>
+		<title><![CDATA[Trainer Detail]]></title>
 		<link>https://zakrademos.com/gym/trainer/trainer-detail/</link>
 		<pubDate>Fri, 03 Apr 2020 12:29:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10557,6 +11005,8 @@ sed do eiusmod.
 		<wp:post_id>381</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-03 12:29:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-03 12:29:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 10:25:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 10:25:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-detail]]></wp:post_name>
@@ -10756,7 +11206,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GALLERY</title>
+		<title><![CDATA[GALLERY]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/gallery/</link>
 		<pubDate>Wed, 06 May 2020 09:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10767,6 +11217,8 @@ sed do eiusmod.
 		<wp:post_id>681</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 10:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 10:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -10815,7 +11267,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>CONTACT</title>
+		<title><![CDATA[CONTACT]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/contact/</link>
 		<pubDate>Wed, 06 May 2020 09:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10826,6 +11278,8 @@ sed do eiusmod.
 		<wp:post_id>682</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 10:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 10:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -10874,7 +11328,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ABOUT</title>
+		<title><![CDATA[ABOUT]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/about/</link>
 		<pubDate>Wed, 06 May 2020 09:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10885,6 +11339,8 @@ sed do eiusmod.
 		<wp:post_id>683</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 09:50:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -10933,7 +11389,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>HOME</title>
+		<title><![CDATA[HOME]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/home/</link>
 		<pubDate>Wed, 06 May 2020 09:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -10944,6 +11400,8 @@ sed do eiusmod.
 		<wp:post_id>684</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 09:50:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -10992,7 +11450,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>BLOG</title>
+		<title><![CDATA[BLOG]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/blog/</link>
 		<pubDate>Wed, 06 May 2020 09:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11003,6 +11461,8 @@ sed do eiusmod.
 		<wp:post_id>685</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 10:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 10:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -11051,7 +11511,7 @@ sed do eiusmod.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FREE YOGA CLASSES</title>
+		<title><![CDATA[FREE YOGA CLASSES]]></title>
 		<link>https://zakrademos.com/gym/2015/07/29/free-yoga-classes/</link>
 		<pubDate>Wed, 29 Jul 2015 13:40:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11062,6 +11522,8 @@ sed do eiusmod.
 		<wp:post_id>686</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:40:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 03:14:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 03:14:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[free-yoga-classes]]></wp:post_name>
@@ -11315,13 +11777,13 @@ sed do eiusmod.
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>
-		<title>TRAINER</title>
+		<title><![CDATA[TRAINER]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/trainer-2/</link>
 		<pubDate>Wed, 06 May 2020 09:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11332,6 +11794,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>694</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 10:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 10:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-2]]></wp:post_name>
@@ -11380,7 +11844,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>TRAINER DETAIL</title>
+		<title><![CDATA[TRAINER DETAIL]]></title>
 		<link>https://zakrademos.com/gym/2020/05/06/trainer-detail-2/</link>
 		<pubDate>Wed, 06 May 2020 09:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11391,6 +11855,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>695</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-06 09:50:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-06 09:50:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-06 09:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-06 09:50:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trainer-detail-2]]></wp:post_name>
@@ -11439,7 +11905,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact-map</title>
+		<title><![CDATA[contact-map]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=contact-map</link>
 		<pubDate>Tue, 09 Jun 2020 18:23:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11450,6 +11916,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>919</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-09 18:23:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-09 18:23:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-09 18:23:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-09 18:23:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-map]]></wp:post_name>
@@ -11486,7 +11954,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-counter</title>
+		<title><![CDATA[about-counter]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=about-counter</link>
 		<pubDate>Wed, 10 Jun 2020 04:45:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11508,6 +11976,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>922</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-10 04:45:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-10 04:45:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-10 04:45:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-10 04:45:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-counter]]></wp:post_name>
@@ -11544,7 +12014,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/gym/?elementor_library=default-kit-2</link>
 		<pubDate>Tue, 16 Jun 2020 07:41:38 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -11555,6 +12025,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>930</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:41:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:41:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 08:21:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 08:21:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit-2]]></wp:post_name>
@@ -11590,228 +12062,7 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>BATTLE ROPE CONTEST</title>
-		<link>https://zakrademos.com/gym/2020/04/02/battle-rope-contest/</link>
-		<pubDate>Thu, 02 Apr 2020 08:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://gym.sites.qsandbox.com/?p=188</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.]]></excerpt:encoded>
-		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-02 08:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-02 08:34:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[battle-rope-contest]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_sticky_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_header_main_area]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_header_top_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_primary_menu_item_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[174]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_breadcrumbs_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_bg_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_bar_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header_text_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_repeat]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-repeat]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_position]]></wp:meta_key>
-		<wp:meta_value><![CDATA[center center]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cover]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_attachment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fixed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[598]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_sticky_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_header_main_area]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_header_top_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_primary_menu_item_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[174]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_breadcrumbs_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_widgets_bg_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_bar_enabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header_text_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_repeat]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-repeat]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_position]]></wp:meta_key>
-		<wp:meta_value><![CDATA[center center]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cover]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_title_bg_attachment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fixed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[598]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>WE NEVER STOP RUNNING</title>
+		<title><![CDATA[WE NEVER STOP RUNNING]]></title>
 		<link>https://zakrademos.com/gym/2020/04/02/we-never-stop-running/</link>
 		<pubDate>Thu, 02 Apr 2020 08:39:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -11824,6 +12075,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-02 08:39:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-02 08:39:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-07 03:11:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-07 03:11:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[we-never-stop-running]]></wp:post_name>
