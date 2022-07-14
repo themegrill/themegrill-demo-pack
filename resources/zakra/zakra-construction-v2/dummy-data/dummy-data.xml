@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-08 12:14" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 16:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,13 @@
 	<title>Zakra Construction</title>
 	<link>https://zakrademos.com/construction-v2</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Fri, 08 Jan 2021 12:14:59 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 16:14:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/construction-v2</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[teamzakra]]></wp:author_login><wp:author_email><![CDATA[team@zakratheme.com]]></wp:author_email><wp:author_display_name><![CDATA[teamzakra]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -45,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -63,7 +83,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2020/07/zakra.png</url>
@@ -74,10 +94,10 @@
 </image> 
 
 		<item>
-		<title>body-bg</title>
+		<title><![CDATA[body-bg]]></title>
 		<link>https://zakrademos.com/construction-v2/body-bg/</link>
 		<pubDate>Mon, 26 Aug 2019 05:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/body-bg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -85,6 +105,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 05:51:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 05:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[body-bg]]></wp:post_name>
@@ -113,10 +135,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>service-image</title>
+		<title><![CDATA[service-image]]></title>
 		<link>https://zakrademos.com/construction-v2/home/service-image/</link>
 		<pubDate>Mon, 26 Aug 2019 10:14:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/service-image.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -124,6 +146,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:14:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:14:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[service-image]]></wp:post_name>
@@ -148,10 +172,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-1</title>
+		<title><![CDATA[logo-1]]></title>
 		<link>https://zakrademos.com/construction-v2/home/logo-1/</link>
 		<pubDate>Mon, 26 Aug 2019 10:55:04 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/logo-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -161,6 +185,8 @@
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:55:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:55:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:55:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:55:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
@@ -185,10 +211,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-2</title>
+		<title><![CDATA[logo-2]]></title>
 		<link>https://zakrademos.com/construction-v2/home/logo-2/</link>
 		<pubDate>Mon, 26 Aug 2019 10:55:05 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/logo-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -198,6 +224,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:55:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:55:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:55:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:55:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
@@ -222,10 +250,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-3</title>
+		<title><![CDATA[logo-3]]></title>
 		<link>https://zakrademos.com/construction-v2/home/logo-3/</link>
 		<pubDate>Mon, 26 Aug 2019 10:55:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/logo-3.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -235,6 +263,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:55:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:55:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:55:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:55:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-3]]></wp:post_name>
@@ -259,10 +289,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-4</title>
+		<title><![CDATA[logo-4]]></title>
 		<link>https://zakrademos.com/construction-v2/home/logo-4/</link>
 		<pubDate>Mon, 26 Aug 2019 10:55:08 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/logo-4.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -272,6 +302,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:55:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:55:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:55:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:55:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-4]]></wp:post_name>
@@ -296,10 +328,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-5</title>
+		<title><![CDATA[logo-5]]></title>
 		<link>https://zakrademos.com/construction-v2/home/logo-5/</link>
 		<pubDate>Mon, 26 Aug 2019 10:55:09 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/logo-5.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -309,6 +341,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:55:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:55:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:55:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:55:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-5]]></wp:post_name>
@@ -333,10 +367,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why-us1</title>
+		<title><![CDATA[why-us1]]></title>
 		<link>https://zakrademos.com/construction-v2/home/why-us1/</link>
 		<pubDate>Tue, 27 Aug 2019 08:40:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/why-us1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -344,6 +378,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 08:40:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 08:40:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-us1]]></wp:post_name>
@@ -368,10 +404,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why-us2</title>
+		<title><![CDATA[why-us2]]></title>
 		<link>https://zakrademos.com/construction-v2/home/why-us2/</link>
 		<pubDate>Tue, 27 Aug 2019 08:40:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/why-us2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -379,6 +415,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 08:40:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 08:40:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-us2]]></wp:post_name>
@@ -403,10 +441,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-bg</title>
+		<title><![CDATA[footer-bg]]></title>
 		<link>https://zakrademos.com/construction-v2/home/footer-bg/</link>
 		<pubDate>Wed, 28 Aug 2019 05:20:26 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/footer-bg.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -414,6 +452,8 @@
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 05:20:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 05:20:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:53:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:53:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-bg]]></wp:post_name>
@@ -438,10 +478,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Logo</title>
+		<title><![CDATA[Logo]]></title>
 		<link>https://zakrademos.com/construction-v2/logo/</link>
 		<pubDate>Wed, 28 Aug 2019 05:29:51 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/Logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -451,6 +491,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 05:29:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 05:29:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-28 05:29:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-28 05:29:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -475,10 +517,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer0logo</title>
+		<title><![CDATA[footer0logo]]></title>
 		<link>https://zakrademos.com/construction-v2/footer0logo/</link>
 		<pubDate>Wed, 28 Aug 2019 05:36:25 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/footer0logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -486,6 +528,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 05:36:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 05:36:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-18 06:23:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-18 06:23:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer0logo]]></wp:post_name>
@@ -510,10 +554,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hat</title>
+		<title><![CDATA[hat]]></title>
 		<link>https://zakrademos.com/construction-v2/home/hat/</link>
 		<pubDate>Wed, 28 Aug 2019 06:09:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/hat.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -523,6 +567,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 06:09:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 06:09:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-28 06:09:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-28 06:09:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hat]]></wp:post_name>
@@ -547,10 +593,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>breadcrumb-bg</title>
+		<title><![CDATA[breadcrumb-bg]]></title>
 		<link>https://zakrademos.com/construction-v2/breadcrumb-bg/</link>
 		<pubDate>Wed, 28 Aug 2019 07:05:07 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/breadcrumb-bg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -558,6 +604,8 @@
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 07:05:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 07:05:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 06:43:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 06:43:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[breadcrumb-bg]]></wp:post_name>
@@ -582,10 +630,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-save</title>
+		<title><![CDATA[about-save]]></title>
 		<link>https://zakrademos.com/construction-v2/about/about-save/</link>
 		<pubDate>Wed, 28 Aug 2019 09:10:17 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/about-save.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -593,6 +641,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 09:10:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 09:10:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:51:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:51:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-save]]></wp:post_name>
@@ -617,10 +667,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rachelle</title>
+		<title><![CDATA[rachelle]]></title>
 		<link>https://zakrademos.com/construction-v2/about/rachelle/</link>
 		<pubDate>Wed, 28 Aug 2019 10:34:19 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/rachelle.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -628,6 +678,8 @@
 		<wp:post_id>204</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 10:34:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 10:34:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:52:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:52:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rachelle]]></wp:post_name>
@@ -652,10 +704,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>john</title>
+		<title><![CDATA[john]]></title>
 		<link>https://zakrademos.com/construction-v2/about/john/</link>
 		<pubDate>Wed, 28 Aug 2019 10:34:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/john.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -663,6 +715,8 @@
 		<wp:post_id>205</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 10:34:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 10:34:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:52:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:52:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[john]]></wp:post_name>
@@ -687,10 +741,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>michael</title>
+		<title><![CDATA[michael]]></title>
 		<link>https://zakrademos.com/construction-v2/about/michael/</link>
 		<pubDate>Wed, 28 Aug 2019 10:34:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/michael.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -698,6 +752,8 @@
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 10:34:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 10:34:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:52:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:52:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michael]]></wp:post_name>
@@ -722,10 +778,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tower</title>
+		<title><![CDATA[tower]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:27 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -733,6 +789,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:56:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:56:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower]]></wp:post_name>
@@ -757,10 +815,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tower2</title>
+		<title><![CDATA[tower2]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower2/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:29 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -768,6 +826,8 @@
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:56:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower2]]></wp:post_name>
@@ -792,10 +852,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/26/zakra/</link>
 		<pubDate>Mon, 26 Aug 2019 05:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/2019/08/26/zakra/</guid>
 		<description></description>
 		<content:encoded><![CDATA[body:not(.tg-container--separate) #page {
@@ -806,6 +866,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 05:53:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 05:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:37:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:37:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -817,10 +879,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>tower3</title>
+		<title><![CDATA[tower3]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower3/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:31 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -828,6 +890,8 @@
 		<wp:post_id>228</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:56:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:56:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower3]]></wp:post_name>
@@ -852,10 +916,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tower4</title>
+		<title><![CDATA[tower4]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower4/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -863,6 +927,8 @@
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:57:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:57:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower4]]></wp:post_name>
@@ -887,10 +953,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tower5</title>
+		<title><![CDATA[tower5]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower5/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:36 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -898,6 +964,8 @@
 		<wp:post_id>230</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:57:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:57:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower5]]></wp:post_name>
@@ -922,10 +990,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tower6</title>
+		<title><![CDATA[tower6]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/tower6/</link>
 		<pubDate>Wed, 28 Aug 2019 11:42:38 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/tower6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -933,6 +1001,8 @@
 		<wp:post_id>231</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 11:42:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 11:42:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:57:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:57:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tower6]]></wp:post_name>
@@ -957,10 +1027,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>single-project</title>
+		<title><![CDATA[single-project]]></title>
 		<link>https://zakrademos.com/construction-v2/project/single-project/</link>
 		<pubDate>Thu, 29 Aug 2019 09:57:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -970,6 +1040,8 @@
 		<wp:post_id>282</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 09:57:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 09:57:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 09:57:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 09:57:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-project]]></wp:post_name>
@@ -994,10 +1066,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>3d-print</title>
+		<title><![CDATA[3d-print]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/3d-print/</link>
 		<pubDate>Thu, 29 Aug 2019 11:38:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/3d-print.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1007,6 +1079,8 @@
 		<wp:post_id>304</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:38:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:38:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:38:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:38:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[3d-print]]></wp:post_name>
@@ -1031,10 +1105,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>opera</title>
+		<title><![CDATA[opera]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/opera/</link>
 		<pubDate>Thu, 29 Aug 2019 11:38:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/opera.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1044,6 +1118,8 @@
 		<wp:post_id>305</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:38:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:38:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:38:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:38:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[opera]]></wp:post_name>
@@ -1068,10 +1144,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>glass</title>
+		<title><![CDATA[glass]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/glass/</link>
 		<pubDate>Thu, 29 Aug 2019 11:38:27 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/glass.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1081,6 +1157,8 @@
 		<wp:post_id>306</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:38:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:38:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:38:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:38:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[glass]]></wp:post_name>
@@ -1105,10 +1183,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>building</title>
+		<title><![CDATA[building]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/building/</link>
 		<pubDate>Thu, 29 Aug 2019 11:38:29 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/building.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1118,6 +1196,8 @@
 		<wp:post_id>307</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:38:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:38:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:38:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:38:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[building]]></wp:post_name>
@@ -1142,10 +1222,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>damaged-wall</title>
+		<title><![CDATA[damaged-wall]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/damaged-wall/</link>
 		<pubDate>Thu, 29 Aug 2019 11:38:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/damaged-wall.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1155,6 +1235,8 @@
 		<wp:post_id>308</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:38:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:38:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:38:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:38:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[damaged-wall]]></wp:post_name>
@@ -1179,10 +1261,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>construction</title>
+		<title><![CDATA[construction]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/the-most-demanded-construction-jobs/construction/</link>
 		<pubDate>Thu, 29 Aug 2019 11:41:50 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/construction.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1192,6 +1274,8 @@
 		<wp:post_id>309</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:41:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:41:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-29 11:41:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-29 11:41:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[construction]]></wp:post_name>
@@ -1216,10 +1300,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-image1</title>
+		<title><![CDATA[banner-image1]]></title>
 		<link>https://zakrademos.com/construction-v2/home/banner-image1/</link>
 		<pubDate>Mon, 02 Sep 2019 10:18:50 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/09/banner-image1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1227,6 +1311,8 @@
 		<wp:post_id>352</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-02 10:18:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-02 10:18:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:47:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:47:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-image1]]></wp:post_name>
@@ -1251,10 +1337,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-image2</title>
+		<title><![CDATA[banner-image2]]></title>
 		<link>https://zakrademos.com/construction-v2/home/banner-image2/</link>
 		<pubDate>Mon, 02 Sep 2019 10:37:43 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/09/banner-image2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1262,6 +1348,8 @@
 		<wp:post_id>357</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-02 10:37:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-02 10:37:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:47:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:47:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-image2]]></wp:post_name>
@@ -1286,10 +1374,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>turning-slide1</title>
+		<title><![CDATA[turning-slide1]]></title>
 		<link>https://zakrademos.com/construction-v2/home/turning-slide1/</link>
 		<pubDate>Tue, 03 Sep 2019 04:51:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/09/turning-slide1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1297,6 +1385,8 @@
 		<wp:post_id>375</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 04:51:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 04:51:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[turning-slide1]]></wp:post_name>
@@ -1321,10 +1411,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>turning-slide2</title>
+		<title><![CDATA[turning-slide2]]></title>
 		<link>https://zakrademos.com/construction-v2/home/turning-slide2/</link>
 		<pubDate>Tue, 03 Sep 2019 04:53:43 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/09/turning-slide2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1332,6 +1422,8 @@
 		<wp:post_id>376</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 04:53:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 04:53:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[turning-slide2]]></wp:post_name>
@@ -1356,10 +1448,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>welcom-slide2</title>
+		<title><![CDATA[welcom-slide2]]></title>
 		<link>https://zakrademos.com/construction-v2/home/welcom-slide2/</link>
 		<pubDate>Tue, 03 Sep 2019 05:36:34 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/09/welcom-slide2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1367,6 +1459,8 @@
 		<wp:post_id>389</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 05:36:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 05:36:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:48:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:48:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[welcom-slide2]]></wp:post_name>
@@ -1391,7 +1485,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>body-bg</title>
+		<title><![CDATA[body-bg]]></title>
 		<link>https://zakrademos.com/construction-v2/body-bg-2/</link>
 		<pubDate>Wed, 04 Sep 2019 05:37:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1402,6 +1496,8 @@
 		<wp:post_id>403</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:37:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:37:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:37:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:37:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[body-bg-2]]></wp:post_name>
@@ -1426,7 +1522,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>welcome-slide1</title>
+		<title><![CDATA[welcome-slide1]]></title>
 		<link>https://zakrademos.com/construction-v2/home/welcome-slide1/</link>
 		<pubDate>Wed, 18 Sep 2019 06:46:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1437,6 +1533,8 @@
 		<wp:post_id>443</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-18 06:46:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-18 06:46:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-18 06:46:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-18 06:46:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[welcome-slide1]]></wp:post_name>
@@ -1461,7 +1559,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/construction-v2/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:08:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1472,6 +1570,8 @@
 		<wp:post_id>523</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:08:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:08:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:08:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:08:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -1492,7 +1592,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Front Page</title>
+		<title><![CDATA[Zakra Construction V2 - Front Page]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-front-page</link>
 		<pubDate>Fri, 29 Nov 2019 06:14:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1725,6 +1825,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>448</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:14:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:14:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:14:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:14:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-front-page]]></wp:post_name>
@@ -1761,7 +1863,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - About Page</title>
+		<title><![CDATA[Zakra Construction V2 - About Page]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-about-page</link>
 		<pubDate>Fri, 29 Nov 2019 06:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1891,6 +1993,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>451</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:16:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:16:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:16:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:16:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-about-page]]></wp:post_name>
@@ -1927,7 +2031,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Services Page</title>
+		<title><![CDATA[Zakra Construction V2 - Services Page]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-services-page</link>
 		<pubDate>Fri, 29 Nov 2019 06:17:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2003,6 +2107,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>454</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:17:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:17:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:17:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:17:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-services-page]]></wp:post_name>
@@ -2039,7 +2145,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Our Work Page</title>
+		<title><![CDATA[Zakra Construction V2 - Our Work Page]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-our-work-page</link>
 		<pubDate>Fri, 29 Nov 2019 06:18:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2112,6 +2218,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>457</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:18:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:18:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:18:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:18:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-our-work-page]]></wp:post_name>
@@ -2148,7 +2256,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Contact Page</title>
+		<title><![CDATA[Zakra Construction V2 - Contact Page]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-contact-page</link>
 		<pubDate>Fri, 29 Nov 2019 06:19:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2199,6 +2307,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>460</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:19:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:19:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:19:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:19:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-contact-page]]></wp:post_name>
@@ -2235,7 +2345,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Banner Section</title>
+		<title><![CDATA[Zakra Construction V2 - Banner Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-banner-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:22:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2278,6 +2388,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>463</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:22:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:22:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:22:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:22:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-banner-section]]></wp:post_name>
@@ -2314,7 +2426,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Welcome Section</title>
+		<title><![CDATA[Zakra Construction V2 - Welcome Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-welcome-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:26:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2359,6 +2471,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>466</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:26:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:26:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:26:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:26:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-welcome-section]]></wp:post_name>
@@ -2395,7 +2509,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Services Section</title>
+		<title><![CDATA[Zakra Construction V2 - Services Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-services-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:28:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2437,6 +2551,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>472</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:28:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:28:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:28:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:28:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-services-section]]></wp:post_name>
@@ -2473,7 +2589,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Logo Section</title>
+		<title><![CDATA[Zakra Construction V2 - Logo Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-logo-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:30:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2488,6 +2604,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>475</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:30:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:30:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:30:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:30:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-logo-section]]></wp:post_name>
@@ -2524,7 +2642,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Why Choose Us Section</title>
+		<title><![CDATA[Zakra Construction V2 - Why Choose Us Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-why-choose-us-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:31:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2572,6 +2690,8 @@ adipiscing elit donec nec.
 		<wp:post_id>478</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:31:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:31:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:31:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:31:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-why-choose-us-section]]></wp:post_name>
@@ -2608,7 +2728,7 @@ adipiscing elit donec nec.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Slider Section</title>
+		<title><![CDATA[Zakra Construction V2 - Slider Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-slider-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:37:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2660,6 +2780,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>481</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:37:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:37:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:37:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:37:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-slider-section]]></wp:post_name>
@@ -2696,7 +2818,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Testimonials Section</title>
+		<title><![CDATA[Zakra Construction V2 - Testimonials Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-testimonials-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:38:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2730,6 +2852,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>484</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:38:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:38:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:38:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:38:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-testimonials-section]]></wp:post_name>
@@ -2766,7 +2890,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Footer Image</title>
+		<title><![CDATA[Zakra Construction V2 - Footer Image]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-footer-image</link>
 		<pubDate>Fri, 29 Nov 2019 06:39:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2777,6 +2901,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>487</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:39:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:39:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:39:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:39:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-footer-image]]></wp:post_name>
@@ -2813,7 +2939,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - About Intro Section</title>
+		<title><![CDATA[Zakra Construction V2 - About Intro Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-about-intro-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:43:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2850,6 +2976,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>491</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:43:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:43:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:43:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:43:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-about-intro-section]]></wp:post_name>
@@ -2886,7 +3014,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - About Goals Section</title>
+		<title><![CDATA[Zakra Construction V2 - About Goals Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-about-goals-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2920,6 +3048,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>494</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:44:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:44:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:44:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:44:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-about-goals-section]]></wp:post_name>
@@ -2956,7 +3086,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Team Section</title>
+		<title><![CDATA[Zakra Construction V2 - Team Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-team-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:46:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3011,6 +3141,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>497</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:46:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:46:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:46:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:46:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-team-section]]></wp:post_name>
@@ -3047,7 +3179,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Counter Section</title>
+		<title><![CDATA[Zakra Construction V2 - Counter Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-counter-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3081,6 +3213,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>500</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:47:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:47:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:47:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:47:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-counter-section]]></wp:post_name>
@@ -3117,7 +3251,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Services Service Section</title>
+		<title><![CDATA[Zakra Construction V2 - Services Service Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-services-service-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:48:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3148,6 +3282,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:48:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:48:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:48:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:48:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-services-service-section]]></wp:post_name>
@@ -3184,7 +3320,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Our Work Section</title>
+		<title><![CDATA[Zakra Construction V2 - Our Work Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-our-work-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:50:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3224,6 +3360,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>506</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:50:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:50:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:50:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:50:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-our-work-section]]></wp:post_name>
@@ -3260,7 +3398,7 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Contact Form</title>
+		<title><![CDATA[Zakra Construction V2 - Contact Form]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-contact-form</link>
 		<pubDate>Fri, 29 Nov 2019 06:51:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3307,6 +3445,8 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		<wp:post_id>509</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:51:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:51:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:51:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:51:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-contact-form]]></wp:post_name>
@@ -3343,10 +3483,10 @@ et convallis vitae, fringilla et dui. 										 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/construction-v2/</link>
 		<pubDate>Fri, 23 Aug 2019 06:11:45 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="130" height="118" src="https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/hat.png" alt="" />											
@@ -3567,6 +3707,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:11:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:11:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 12:07:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 12:07:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3678,10 +3820,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/construction-v2/about/</link>
 		<pubDate>Fri, 23 Aug 2019 06:12:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- /.ec-divider -->
@@ -3800,6 +3942,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:12:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:12:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 06:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 06:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3911,10 +4055,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://zakrademos.com/construction-v2/services/</link>
 		<pubDate>Fri, 23 Aug 2019 06:14:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- /.ec-divider -->
@@ -3979,6 +4123,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:14:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:14:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 06:11:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 06:11:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -4090,10 +4236,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/construction-v2/blog/</link>
 		<pubDate>Fri, 23 Aug 2019 06:16:09 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -4103,6 +4249,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:16:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:16:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-23 06:16:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-23 06:16:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -4186,10 +4334,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Our Work</title>
+		<title><![CDATA[Our Work]]></title>
 		<link>https://zakrademos.com/construction-v2/our-work/</link>
 		<pubDate>Fri, 23 Aug 2019 06:21:08 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- /.ec-divider -->
@@ -4260,6 +4408,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:21:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:21:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 06:12:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 06:12:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-work]]></wp:post_name>
@@ -4371,10 +4521,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/construction-v2/contact/</link>
 		<pubDate>Fri, 23 Aug 2019 06:22:34 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- /.ec-divider -->
@@ -4423,6 +4573,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 06:22:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 06:22:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 12:11:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 12:11:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -4534,17 +4686,19 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Construction Contact form</title>
+		<title><![CDATA[Construction Contact form]]></title>
 		<link>https://zakrademos.com/construction-v2/?post_type=everest_form&#038;p=286</link>
 		<pubDate>Thu, 29 Aug 2019 10:08:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?post_type=everest_form&#038;p=286</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"286","form_enabled":"1","form_field_id":5,"form_fields":{"FNps6Kd3Bl-1":{"id":"FNps6Kd3Bl-1","type":"first-name","label":"Full Name","meta-key":"first_name_5190","description":"","required-field-message":"This field is required.","placeholder":"","css":""},"wQiiEnA3M2-2":{"id":"wQiiEnA3M2-2","type":"email","label":"Email","meta-key":"email_1753","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"hIyYOM7wrH-3":{"id":"hIyYOM7wrH-3","type":"text","label":"Subject","meta-key":"single_line_text_7398","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"kArAoutoAN-4":{"id":"kArAoutoAN-4","type":"textarea","label":"Message","meta-key":"paragraph_text_2671","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Construction Contact form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"15","external_url":"","layout_class":"default","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Zakra Construction","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["FNps6Kd3Bl-1","wQiiEnA3M2-2","hIyYOM7wrH-3","kArAoutoAN-4"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"286","form_enabled":"1","form_field_id":5,"form_fields":{"FNps6Kd3Bl-1":{"id":"FNps6Kd3Bl-1","type":"first-name","label":"Full Name","meta-key":"first_name_5190","description":"","required-field-message":"This field is required.","placeholder":"","default_value":"","css":""},"wQiiEnA3M2-2":{"id":"wQiiEnA3M2-2","type":"email","label":"Email","meta-key":"email_1753","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"hIyYOM7wrH-3":{"id":"hIyYOM7wrH-3","type":"text","label":"Subject","meta-key":"single_line_text_7398","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"kArAoutoAN-4":{"id":"kArAoutoAN-4","type":"textarea","label":"Message","meta-key":"paragraph_text_2671","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Construction Contact form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"15","external_url":"","layout_class":"default","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Construction","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Contact form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["FNps6Kd3Bl-1","wQiiEnA3M2-2","hIyYOM7wrH-3","kArAoutoAN-4"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>286</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 10:08:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 10:08:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:51:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:51:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -4556,7 +4710,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Home page</title>
+		<title><![CDATA[Home page]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/home-page/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4567,6 +4721,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>390</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-01 04:13:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-01 04:13:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-page]]></wp:post_name>
@@ -4611,7 +4767,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog page</title>
+		<title><![CDATA[Blog page]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/blog-page/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4622,6 +4778,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>393</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-01 04:13:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-01 04:13:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-page]]></wp:post_name>
@@ -4666,7 +4824,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact page</title>
+		<title><![CDATA[Contact page]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/contact-page/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4677,6 +4835,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>394</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-01 04:13:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-01 04:13:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-page]]></wp:post_name>
@@ -4721,7 +4881,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services page</title>
+		<title><![CDATA[Services page]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/services-page/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4732,6 +4892,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>395</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-01 04:13:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-01 04:13:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-page]]></wp:post_name>
@@ -4776,7 +4938,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/396/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4789,6 +4951,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>396</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[396]]></wp:post_name>
@@ -4833,7 +4997,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/397/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4846,6 +5010,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>397</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[397]]></wp:post_name>
@@ -4890,7 +5056,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/398/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4903,6 +5069,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>398</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[398]]></wp:post_name>
@@ -4947,7 +5115,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/399/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4960,6 +5128,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>399</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[399]]></wp:post_name>
@@ -5004,7 +5174,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/400/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5017,6 +5187,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>400</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[400]]></wp:post_name>
@@ -5061,7 +5233,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/401/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5074,6 +5246,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>401</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[401]]></wp:post_name>
@@ -5118,7 +5292,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About page</title>
+		<title><![CDATA[About page]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/09/04/about-page/</link>
 		<pubDate>Wed, 04 Sep 2019 05:36:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5129,6 +5303,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>402</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 05:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 05:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-01 04:13:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-01 04:13:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-page]]></wp:post_name>
@@ -5173,7 +5349,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Construction V2 - Banner COntact Section</title>
+		<title><![CDATA[Zakra Construction V2 - Banner COntact Section]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=zakra-construction-v2-banner-contact-section</link>
 		<pubDate>Fri, 29 Nov 2019 06:55:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5190,6 +5366,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>514</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-29 06:55:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-29 06:55:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 06:55:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 06:55:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-construction-v2-banner-contact-section]]></wp:post_name>
@@ -5226,7 +5404,7 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/construction-v2/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:03:44 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -5237,6 +5415,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>520</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:03:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:03:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 12:07:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 12:07:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -5272,10 +5452,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Project</title>
+		<title><![CDATA[Project]]></title>
 		<link>https://zakrademos.com/construction-v2/project/</link>
 		<pubDate>Thu, 29 Aug 2019 07:12:45 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?page_id=267</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="1170" height="548" src="https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project.jpg" alt="" srcset="https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project.jpg 1170w, https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project-300x141.jpg 300w, https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project-768x360.jpg 768w, https://zakrademos.com/construction-v2/wp-content/uploads/sites/33/2019/08/single-project-1024x480.jpg 1024w" sizes="(max-width: 1170px) 100vw, 1170px" />											
@@ -5310,6 +5490,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>267</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 07:12:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 07:12:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 06:55:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 06:55:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project]]></wp:post_name>
@@ -5425,10 +5607,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Snøhetta to design Shanghai Grand Opera House</title>
+		<title><![CDATA[Snøhetta to design Shanghai Grand Opera House]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/snohetta-to-design-shanghai-grand-opera-house/</link>
 		<pubDate>Thu, 29 Aug 2019 11:19:16 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=289</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5446,6 +5628,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>289</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:19:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:19:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:40:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:40:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[snohetta-to-design-shanghai-grand-opera-house]]></wp:post_name>
@@ -5534,10 +5718,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>40-story residential tower to rise near Seattle’s Pike Place Market</title>
+		<title><![CDATA[40-story residential tower to rise near Seattle’s Pike Place Market]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/40-story-residential-tower-to-rise-near-seattles-pike-place-market/</link>
 		<pubDate>Thu, 29 Aug 2019 11:20:00 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=291</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5559,6 +5743,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>291</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:20:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:20:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:40:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:40:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[40-story-residential-tower-to-rise-near-seattles-pike-place-market]]></wp:post_name>
@@ -5647,10 +5833,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Easy steps to avoid water damaged walls</title>
+		<title><![CDATA[Easy steps to avoid water damaged walls]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/easy-steps-to-avoid-water-damaged-walls/</link>
 		<pubDate>Thu, 29 Aug 2019 11:21:05 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=294</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5668,6 +5854,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>294</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:21:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:21:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:39:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:39:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[easy-steps-to-avoid-water-damaged-walls]]></wp:post_name>
@@ -5756,10 +5944,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Most Demanded Construction Jobs</title>
+		<title><![CDATA[The Most Demanded Construction Jobs]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/the-most-demanded-construction-jobs/</link>
 		<pubDate>Thu, 29 Aug 2019 11:22:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=298</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5777,6 +5965,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>298</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:22:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:22:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:39:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:39:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-most-demanded-construction-jobs]]></wp:post_name>
@@ -5865,10 +6055,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Effect of 3D Printing on Global Construction</title>
+		<title><![CDATA[The Effect of 3D Printing on Global Construction]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/the-effect-of-3d-printing-on-global-construction/</link>
 		<pubDate>Thu, 29 Aug 2019 11:23:13 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=300</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5886,6 +6076,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>300</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:23:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:23:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:39:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:39:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-effect-of-3d-printing-on-global-construction]]></wp:post_name>
@@ -5974,10 +6166,10 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Anti-corrosion glass: A clear solution for humid spaces</title>
+		<title><![CDATA[Anti-corrosion glass: A clear solution for humid spaces]]></title>
 		<link>https://zakrademos.com/construction-v2/2019/08/29/anti-corrosion-glass-a-clear-solution-for-humid-spaces-2/</link>
 		<pubDate>Thu, 29 Aug 2019 11:23:39 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://stupid-ratel.w6.wpsandbox.pro/?p=302</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5995,6 +6187,8 @@ et convallis vitae, fringilla et dui. 							 <!-- /.ec-description -->
 		<wp:post_id>302</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-29 11:23:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 11:23:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 05:39:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 05:39:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[anti-corrosion-glass-a-clear-solution-for-humid-spaces-2]]></wp:post_name>

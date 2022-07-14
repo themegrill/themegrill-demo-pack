@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-12-24 13:28" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 15:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Wedding</title>
 	<link>https://zakrademos.com/wedding</link>
 	<description>WordPress Template Site for Wedding Ceremony</description>
-	<pubDate>Thu, 24 Dec 2020 13:28:36 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 15:47:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/wedding</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -60,7 +81,7 @@
 			<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/wedding/wp-content/uploads/sites/4/2020/07/zakra.png</url>
@@ -71,7 +92,7 @@
 </image> 
 
 		<item>
-		<title>people</title>
+		<title><![CDATA[people]]></title>
 		<link>https://zakrademos.com/wedding/people/</link>
 		<pubDate>Tue, 04 Sep 2018 06:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -82,6 +103,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 06:19:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 06:19:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 06:19:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 06:19:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people]]></wp:post_name>
@@ -106,7 +129,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/wedding/logo/</link>
 		<pubDate>Tue, 04 Sep 2018 06:44:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -117,6 +140,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 06:44:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 06:44:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 06:44:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 06:44:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -141,7 +166,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>weddin</title>
+		<title><![CDATA[weddin]]></title>
 		<link>https://zakrademos.com/wedding/weddin/</link>
 		<pubDate>Tue, 04 Sep 2018 09:07:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -152,6 +177,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:07:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:07:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:07:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:07:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[weddin]]></wp:post_name>
@@ -176,7 +203,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>erik-brolin</title>
+		<title><![CDATA[erik-brolin]]></title>
 		<link>https://zakrademos.com/wedding/erik-brolin/</link>
 		<pubDate>Tue, 04 Sep 2018 09:07:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -187,6 +214,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:07:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:07:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:07:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:07:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[erik-brolin]]></wp:post_name>
@@ -211,7 +240,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portrait</title>
+		<title><![CDATA[portrait]]></title>
 		<link>https://zakrademos.com/wedding/portrait/</link>
 		<pubDate>Tue, 04 Sep 2018 09:33:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -222,6 +251,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:33:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:33:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:33:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:33:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portrait]]></wp:post_name>
@@ -246,7 +277,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jeremy-wong-weddings</title>
+		<title><![CDATA[jeremy-wong-weddings]]></title>
 		<link>https://zakrademos.com/wedding/jeremy-wong-weddings/</link>
 		<pubDate>Tue, 04 Sep 2018 09:38:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -257,6 +288,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:38:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:38:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:38:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:38:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jeremy-wong-weddings]]></wp:post_name>
@@ -281,7 +314,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tom-the-photographer</title>
+		<title><![CDATA[tom-the-photographer]]></title>
 		<link>https://zakrademos.com/wedding/tom-the-photographer/</link>
 		<pubDate>Tue, 04 Sep 2018 09:38:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -292,6 +325,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:38:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:38:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:38:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:38:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tom-the-photographer]]></wp:post_name>
@@ -316,7 +351,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>heart</title>
+		<title><![CDATA[heart]]></title>
 		<link>https://zakrademos.com/wedding/heart/</link>
 		<pubDate>Tue, 04 Sep 2018 09:38:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -327,6 +362,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 09:38:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 09:38:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 09:38:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 09:38:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[heart]]></wp:post_name>
@@ -351,7 +388,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quoted</title>
+		<title><![CDATA[quoted]]></title>
 		<link>https://zakrademos.com/wedding/quoted/</link>
 		<pubDate>Tue, 04 Sep 2018 10:49:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -362,6 +399,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 10:49:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 10:49:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 10:49:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 10:49:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quoted]]></wp:post_name>
@@ -386,7 +425,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>03</title>
+		<title><![CDATA[03]]></title>
 		<link>https://zakrademos.com/wedding/03/</link>
 		<pubDate>Tue, 04 Sep 2018 10:58:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -397,6 +436,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 10:58:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 10:58:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 10:58:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 10:58:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[03]]></wp:post_name>
@@ -421,7 +462,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>01</title>
+		<title><![CDATA[01]]></title>
 		<link>https://zakrademos.com/wedding/01/</link>
 		<pubDate>Tue, 04 Sep 2018 10:58:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -432,6 +473,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 10:58:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 10:58:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 10:58:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 10:58:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[01]]></wp:post_name>
@@ -456,7 +499,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>02</title>
+		<title><![CDATA[02]]></title>
 		<link>https://zakrademos.com/wedding/02/</link>
 		<pubDate>Tue, 04 Sep 2018 10:58:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -467,6 +510,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-04 10:58:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-04 10:58:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-04 10:58:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-04 10:58:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[02]]></wp:post_name>
@@ -491,7 +536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-bg</title>
+		<title><![CDATA[footer-bg]]></title>
 		<link>https://zakrademos.com/wedding/footer-bg/</link>
 		<pubDate>Wed, 05 Sep 2018 04:21:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -502,6 +547,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 04:21:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 04:21:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 04:21:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 04:21:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-bg]]></wp:post_name>
@@ -526,7 +573,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-logo</title>
+		<title><![CDATA[footer-logo]]></title>
 		<link>https://zakrademos.com/wedding/footer-logo/</link>
 		<pubDate>Wed, 05 Sep 2018 04:46:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -537,6 +584,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 04:46:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 04:46:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 04:46:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 04:46:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo]]></wp:post_name>
@@ -561,7 +610,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>crew</title>
+		<title><![CDATA[crew]]></title>
 		<link>https://zakrademos.com/wedding/crew/</link>
 		<pubDate>Wed, 05 Sep 2018 08:52:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -572,6 +621,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:52:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:52:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 08:52:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 08:52:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crew]]></wp:post_name>
@@ -600,7 +651,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portrai</title>
+		<title><![CDATA[portrai]]></title>
 		<link>https://zakrademos.com/wedding/portrai/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -611,6 +662,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portrai]]></wp:post_name>
@@ -635,7 +688,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photos-by-lanty</title>
+		<title><![CDATA[photos-by-lanty]]></title>
 		<link>https://zakrademos.com/wedding/photos-by-lanty/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -646,6 +699,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photos-by-lanty]]></wp:post_name>
@@ -670,7 +725,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>allef-vinicius</title>
+		<title><![CDATA[allef-vinicius]]></title>
 		<link>https://zakrademos.com/wedding/allef-vinicius/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -681,6 +736,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[allef-vinicius]]></wp:post_name>
@@ -705,7 +762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>people-enjoying</title>
+		<title><![CDATA[people-enjoying]]></title>
 		<link>https://zakrademos.com/wedding/people-enjoying/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -716,6 +773,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-enjoying]]></wp:post_name>
@@ -740,7 +799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tyler-nix</title>
+		<title><![CDATA[tyler-nix]]></title>
 		<link>https://zakrademos.com/wedding/tyler-nix/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -751,6 +810,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tyler-nix]]></wp:post_name>
@@ -775,7 +836,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>groom-bride</title>
+		<title><![CDATA[groom-bride]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=groom-bride</link>
 		<pubDate>Wed, 05 Sep 2018 08:36:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -817,6 +878,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:36:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:36:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 09:04:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 09:04:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom-bride]]></wp:post_name>
@@ -857,11 +920,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:3;s:5:"align";i:3;s:4:"size";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:3;s:15:"_padding_mobile";i:1;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:2;s:13:"margin_tablet";i:2;s:14:"padding_tablet";i:2;s:7:"padding";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:2;s:22:"css_filters_brightness";i:2;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:3;s:5:"align";i:3;s:4:"size";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:3;s:15:"_padding_mobile";i:1;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:2;s:13:"margin_tablet";i:2;s:14:"padding_tablet";i:2;s:7:"padding";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:2;s:22:"css_filters_brightness";i:2;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ceremony</title>
+		<title><![CDATA[ceremony]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=ceremony</link>
 		<pubDate>Wed, 05 Sep 2018 08:37:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -881,6 +944,8 @@
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:37:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:37:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 09:03:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 09:03:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ceremony]]></wp:post_name>
@@ -913,11 +978,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:6;s:4:"size";i:3;s:11:"header_size";i:3;s:5:"align";i:3;s:4:"link";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:25:"typography_letter_spacing";i:3;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:3;s:22:"typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:6;s:4:"size";i:3;s:11:"header_size";i:3;s:5:"align";i:3;s:4:"link";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:25:"typography_letter_spacing";i:3;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:3;s:22:"typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>story</title>
+		<title><![CDATA[story]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=story</link>
 		<pubDate>Wed, 05 Sep 2018 08:38:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -949,6 +1014,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:38:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:38:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 09:02:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 09:02:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[story]]></wp:post_name>
@@ -981,11 +1048,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:9;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:9;s:5:"align";i:5;s:4:"size";i:4;s:11:"header_size";i:4;s:4:"link";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:9;s:21:"typography_typography";i:9;s:20:"typography_font_size";i:5;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:5;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:9;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:11;}}s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:8;s:12:"border_color";i:8;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:13:"margin_tablet";i:8;s:14:"padding_tablet";i:8;s:6:"margin";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:5:"align";i:9;s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:1:{s:3:"gap";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:5;s:7:"padding";i:4;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:4;s:22:"css_filters_brightness";i:4;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:9;s:5:"align";i:5;s:4:"size";i:4;s:11:"header_size";i:4;s:4:"link";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:9;s:21:"typography_typography";i:9;s:20:"typography_font_size";i:5;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:5;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:9;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:11;}}s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:8;s:12:"border_color";i:8;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:13:"margin_tablet";i:8;s:14:"padding_tablet";i:8;s:6:"margin";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:5:"align";i:9;s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:1:{s:3:"gap";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:5;s:7:"padding";i:4;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:4;s:22:"css_filters_brightness";i:4;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dani-vivanc</title>
+		<title><![CDATA[dani-vivanc]]></title>
 		<link>https://zakrademos.com/wedding/dani-vivanc/</link>
 		<pubDate>Wed, 05 Sep 2018 10:08:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -996,6 +1063,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:08:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:08:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:08:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:08:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dani-vivanc]]></wp:post_name>
@@ -1020,7 +1089,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jahaziel-esqueche</title>
+		<title><![CDATA[jahaziel-esqueche]]></title>
 		<link>https://zakrademos.com/wedding/jahaziel-esqueche/</link>
 		<pubDate>Wed, 05 Sep 2018 10:13:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1031,6 +1100,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:13:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:13:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:13:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:13:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jahaziel-esqueche]]></wp:post_name>
@@ -1055,7 +1126,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cody-black</title>
+		<title><![CDATA[cody-black]]></title>
 		<link>https://zakrademos.com/wedding/cody-black/</link>
 		<pubDate>Wed, 05 Sep 2018 10:14:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1066,6 +1137,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:14:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:14:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:14:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:14:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cody-black]]></wp:post_name>
@@ -1090,7 +1163,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photos-by-lanty</title>
+		<title><![CDATA[photos-by-lanty]]></title>
 		<link>https://zakrademos.com/wedding/photos-by-lanty-2/</link>
 		<pubDate>Wed, 05 Sep 2018 10:14:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1101,6 +1174,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:14:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:14:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 10:14:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 10:14:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photos-by-lanty-2]]></wp:post_name>
@@ -1125,17 +1200,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/wedding/?post_type=everest_form&#038;p=124</link>
 		<pubDate>Wed, 05 Sep 2018 10:26:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-wedding/?post_type=everest_form&#038;p=117</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"124","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"113","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Wedding","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5c5a949a49fed":{"connection_name":"User Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Modular Wedding","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"124","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"180","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Wedding","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:26:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:26:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 14:55:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 14:55:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -1147,7 +1224,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Homepage</title>
+		<title><![CDATA[Homepage]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=homepage</link>
 		<pubDate>Mon, 11 Nov 2019 19:39:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1245,6 +1322,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-11 19:39:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-11 19:39:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-11 19:39:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-11 19:39:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -1277,11 +1356,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:22;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:22;s:5:"align";i:15;s:4:"size";i:9;s:11:"header_size";i:9;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:22;s:21:"typography_typography";i:20;s:20:"typography_font_size";i:16;s:27:"typography_font_size_tablet";i:5;s:27:"typography_font_size_mobile";i:6;s:25:"typography_letter_spacing";i:12;s:22:"typography_font_family";i:10;s:22:"typography_font_weight";i:7;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:21;s:15:"_padding_mobile";i:5;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:12;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:4;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:35;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:30;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:5;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:18;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:3;s:6:"height";i:1;s:3:"gap";i:11;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:11;s:11:"_element_id";i:5;s:13:"margin_mobile";i:3;s:7:"padding";i:5;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:22;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:22;s:5:"align";i:15;s:4:"size";i:9;s:11:"header_size";i:9;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:22;s:21:"typography_typography";i:20;s:20:"typography_font_size";i:16;s:27:"typography_font_size_tablet";i:5;s:27:"typography_font_size_mobile";i:6;s:25:"typography_letter_spacing";i:12;s:22:"typography_font_family";i:10;s:22:"typography_font_weight";i:7;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:21;s:15:"_padding_mobile";i:5;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:12;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:4;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:35;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:30;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:5;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:18;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:3;s:6:"height";i:1;s:3:"gap";i:11;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:11;s:11:"_element_id";i:5;s:13:"margin_mobile";i:3;s:7:"padding";i:5;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Front Page</title>
+		<title><![CDATA[Zakra Wedding - Front Page]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-front-page</link>
 		<pubDate>Wed, 20 Nov 2019 09:20:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1381,6 +1460,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:20:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:20:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:20:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:20:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-front-page]]></wp:post_name>
@@ -1413,11 +1494,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:24;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:24;s:5:"align";i:17;s:4:"size";i:9;s:11:"header_size";i:10;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:24;s:21:"typography_typography";i:22;s:20:"typography_font_size";i:18;s:27:"typography_font_size_tablet";i:5;s:27:"typography_font_size_mobile";i:6;s:25:"typography_letter_spacing";i:12;s:22:"typography_font_family";i:11;s:22:"typography_font_weight";i:8;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:21;s:15:"_padding_mobile";i:5;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:7;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:12;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:4;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:36;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:30;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:5;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:4;s:6:"height";i:1;s:3:"gap";i:11;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:2;s:15:"background_size";i:3;s:21:"background_attachment";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:11;s:11:"_element_id";i:5;s:13:"margin_mobile";i:3;s:7:"padding";i:6;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:24;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:24;s:5:"align";i:17;s:4:"size";i:9;s:11:"header_size";i:10;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:24;s:21:"typography_typography";i:22;s:20:"typography_font_size";i:18;s:27:"typography_font_size_tablet";i:5;s:27:"typography_font_size_mobile";i:6;s:25:"typography_letter_spacing";i:12;s:22:"typography_font_family";i:11;s:22:"typography_font_weight";i:8;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:21;s:15:"_padding_mobile";i:5;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:7;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:12;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:4;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:36;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:30;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:5;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:4;s:6:"height";i:1;s:3:"gap";i:11;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:2;s:15:"background_size";i:3;s:21:"background_attachment";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:11;s:11:"_element_id";i:5;s:13:"margin_mobile";i:3;s:7:"padding";i:6;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Banner Section</title>
+		<title><![CDATA[Zakra Wedding - Banner Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-banner-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:27:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1429,6 +1510,8 @@
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:27:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:27:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:27:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:27:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-banner-section]]></wp:post_name>
@@ -1461,11 +1544,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:15:"_padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:15:"stretch_section";i:1;s:6:"height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:15:"_padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:15:"stretch_section";i:1;s:6:"height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Bride and Groom Section</title>
+		<title><![CDATA[Zakra Wedding - Bride and Groom Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-bride-and-groom-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:29:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1507,6 +1590,8 @@
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:29:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:29:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:29:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:29:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-bride-and-groom-section]]></wp:post_name>
@@ -1539,11 +1624,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:3;s:5:"align";i:3;s:4:"size";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:3;s:15:"_padding_mobile";i:1;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:7:"padding";i:2;s:13:"margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:2;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:2;s:22:"css_filters_brightness";i:2;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:3;s:5:"align";i:3;s:4:"size";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:3;s:15:"_padding_mobile";i:1;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:7:"padding";i:2;s:13:"margin_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:2;s:8:"_padding";i:2;s:14:"_margin_mobile";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:2;s:22:"css_filters_brightness";i:2;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Story Section</title>
+		<title><![CDATA[Zakra Wedding - Story Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-story-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:30:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1575,6 +1660,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:30:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:30:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:30:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:30:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-story-section]]></wp:post_name>
@@ -1607,11 +1694,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:9;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:9;s:5:"align";i:5;s:4:"size";i:4;s:11:"header_size";i:4;s:4:"link";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:9;s:21:"typography_typography";i:9;s:20:"typography_font_size";i:5;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:5;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:9;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:11;}}s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:8;s:12:"border_color";i:8;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:13:"margin_tablet";i:5;s:14:"padding_tablet";i:5;s:6:"margin";i:3;s:13:"margin_mobile";i:4;s:14:"padding_mobile";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:5:"align";i:9;s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:1:{s:3:"gap";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:5;s:7:"padding";i:4;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:4;s:22:"css_filters_brightness";i:4;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:9;s:5:"align";i:5;s:4:"size";i:4;s:11:"header_size";i:4;s:4:"link";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:9;s:21:"typography_typography";i:9;s:20:"typography_font_size";i:5;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:5;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:9;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:11;}}s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:8;s:12:"border_color";i:8;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:13:"margin_tablet";i:5;s:14:"padding_tablet";i:5;s:6:"margin";i:3;s:13:"margin_mobile";i:4;s:14:"padding_mobile";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:5:"align";i:9;s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}s:14:"section_layout";a:1:{s:3:"gap";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:5;s:7:"padding";i:4;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:4;s:22:"css_filters_brightness";i:4;s:20:"css_filters_contrast";i:2;s:20:"css_filters_saturate";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Saying Section</title>
+		<title><![CDATA[Zakra Wedding - Saying Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-saying-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:31:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1623,6 +1710,8 @@
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:31:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:31:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:31:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:31:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-saying-section]]></wp:post_name>
@@ -1655,11 +1744,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:1;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:1;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Date Section</title>
+		<title><![CDATA[Zakra Wedding - Date Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-date-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:32:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1678,6 +1767,8 @@
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:32:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:32:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:32:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:32:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-date-section]]></wp:post_name>
@@ -1710,11 +1801,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:6;s:4:"size";i:3;s:11:"header_size";i:3;s:5:"align";i:3;s:4:"link";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:25:"typography_letter_spacing";i:3;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:3;s:22:"typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:11:"_element_id";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:6;s:4:"size";i:3;s:11:"header_size";i:3;s:5:"align";i:3;s:4:"link";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:25:"typography_letter_spacing";i:3;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:3;s:22:"typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:11:"_element_id";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Gallery Section</title>
+		<title><![CDATA[Zakra Wedding - Gallery Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-gallery-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:33:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1741,6 +1832,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:33:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:33:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:33:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:33:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-gallery-section]]></wp:post_name>
@@ -1777,7 +1870,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Contact Section</title>
+		<title><![CDATA[Zakra Wedding - Contact Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-contact-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:35:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1789,6 +1882,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:35:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:35:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:35:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:35:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-contact-section]]></wp:post_name>
@@ -1821,11 +1916,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:21:"background_background";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:21:"typography_typography";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:1;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:21:"background_background";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:21:"typography_typography";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:1;s:11:"_element_id";i:1;s:13:"margin_mobile";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Wedding - Footer Section</title>
+		<title><![CDATA[Zakra Wedding - Footer Section]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=zakra-wedding-footer-section</link>
 		<pubDate>Wed, 20 Nov 2019 09:35:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1837,6 +1932,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 09:35:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 09:35:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 09:35:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 09:35:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-wedding-footer-section]]></wp:post_name>
@@ -1869,11 +1966,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:5:"align";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:21:"background_attachment";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:5:"align";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:21:"background_attachment";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/wedding/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:24:56 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -1884,6 +1981,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:24:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:24:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:24:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:24:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -1903,11 +2002,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"6a5eb356";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"1326fb32";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"78feb651";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"1c9902cc";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:14:"Dancing Script";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:14:"Dancing Script";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:5:"Heebo";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:5:"Heebo";s:22:"typography_font_weight";s:3:"500";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"6a5eb356";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"1326fb32";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"78feb651";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"1c9902cc";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:14:"Dancing Script";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:14:"Dancing Script";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:5:"Heebo";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:5:"Heebo";s:22:"typography_font_weight";s:3:"500";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/wedding/zakra/</link>
 		<pubDate>Wed, 15 Jul 2020 06:30:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1918,6 +2017,8 @@
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:30:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:30:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:30:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:30:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -1938,7 +2039,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Groom &amp; Bride</title>
+		<title><![CDATA[Groom & Bride]]></title>
 		<link>https://zakrademos.com/wedding/2019/07/09/groom-bride/</link>
 		<pubDate>Tue, 09 Jul 2019 07:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1949,6 +2050,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 07:04:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 07:04:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom-bride]]></wp:post_name>
@@ -1993,7 +2096,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Our Story</title>
+		<title><![CDATA[Our Story]]></title>
 		<link>https://zakrademos.com/wedding/2019/07/09/our-story/</link>
 		<pubDate>Tue, 09 Jul 2019 07:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2004,6 +2107,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 07:04:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 07:04:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-story]]></wp:post_name>
@@ -2048,7 +2153,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ceremony</title>
+		<title><![CDATA[Ceremony]]></title>
 		<link>https://zakrademos.com/wedding/2019/07/09/ceremony/</link>
 		<pubDate>Tue, 09 Jul 2019 07:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2059,6 +2164,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 07:04:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 07:04:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ceremony]]></wp:post_name>
@@ -2103,7 +2210,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://zakrademos.com/wedding/2019/07/09/gallery/</link>
 		<pubDate>Tue, 09 Jul 2019 07:04:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2114,6 +2221,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 07:04:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 07:04:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -2158,7 +2267,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/wedding/2019/07/09/contact/</link>
 		<pubDate>Tue, 09 Jul 2019 07:04:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2169,6 +2278,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-09 07:04:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-09 07:04:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2213,17 +2324,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>event</title>
+		<title><![CDATA[event]]></title>
 		<link>https://zakrademos.com/wedding/?post_type=everest_form&#038;p=125</link>
 		<pubDate>Wed, 05 Sep 2018 10:30:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-wedding/?post_type=everest_form&#038;p=118</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"125","form_field_id":6,"form_fields":{"dpNrO0wZVv-1":{"id":"dpNrO0wZVv-1","type":"first-name","label":"","meta-key":"your_name","description":"","required":"1","placeholder":"Your Name","label_hide":"1","css":""},"zj2O9WQedN-2":{"id":"zj2O9WQedN-2","type":"email","label":"","meta-key":"email_1028","description":"","required":"1","placeholder":"Email Address","label_hide":"1","default_value":"","css":""},"2eiZeKipQo-3":{"id":"2eiZeKipQo-3","type":"select","label":"","meta-key":"dropdown_3134","choices":{"2":{"label":"Wedding","value":""},"3":{"label":"All Events","value":""}},"description":"","placeholder":"I'll attend to","label_hide":"1","css":""},"TV7bfczbca-5":{"id":"TV7bfczbca-5","type":"select","label":"","meta-key":"dropdown_3595","choices":{"1":{"label":"1","value":""},"2":{"label":"2","value":""},"3":{"label":"3","value":""},"4":{"label":"4","value":""},"5":{"label":"5","value":""}},"description":"","placeholder":"Guest","label_hide":"1","css":""}},"settings":{"form_title":"event","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"113","external_url":"","layout_class":"default","form_class":"","submit_button_text":"I am attending","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Wedding","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5c5a9499af25d":{"connection_name":"User Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Modular Wedding","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["dpNrO0wZVv-1","zj2O9WQedN-2","2eiZeKipQo-3","TV7bfczbca-5"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"125","form_enabled":"1","form_field_id":6,"form_fields":{"dpNrO0wZVv-1":{"id":"dpNrO0wZVv-1","type":"first-name","label":"","meta-key":"your_name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Your Name","label_hide":"1","default_value":"","css":""},"zj2O9WQedN-2":{"id":"zj2O9WQedN-2","type":"email","label":"","meta-key":"email_1028","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email Address","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"2eiZeKipQo-3":{"id":"2eiZeKipQo-3","type":"select","label":"","meta-key":"dropdown_3134","multiple_choices":"0","choices":{"2":{"label":"Wedding","value":"","image":""},"3":{"label":"All Events","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"I'll attend to","label_hide":"1","css":""},"TV7bfczbca-5":{"id":"TV7bfczbca-5","type":"select","label":"","meta-key":"dropdown_3595","multiple_choices":"0","choices":{"1":{"label":"1","value":"","image":""},"2":{"label":"2","value":"","image":""},"3":{"label":"3","value":"","image":""},"4":{"label":"4","value":"","image":""},"5":{"label":"5","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"Guest","label_hide":"1","css":""}},"settings":{"form_title":"event","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"180","external_url":"","layout_class":"default","form_class":"","submit_button_text":"I am attending","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Wedding","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["dpNrO0wZVv-1","zj2O9WQedN-2","2eiZeKipQo-3","TV7bfczbca-5"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 10:30:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 10:30:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 14:56:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 14:56:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[event]]></wp:post_name>
@@ -2235,7 +2348,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/wedding/</link>
 		<pubDate>Fri, 07 Aug 2020 10:52:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2336,6 +2449,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-07 10:52:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-07 10:52:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 11:03:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 11:03:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -2407,11 +2522,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:25;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:25;s:5:"align";i:18;s:11:"header_size";i:11;s:4:"size";i:9;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:25;s:21:"typography_typography";i:23;s:20:"typography_font_size";i:19;s:27:"typography_font_size_tablet";i:7;s:27:"typography_font_size_mobile";i:7;s:25:"typography_letter_spacing";i:13;s:22:"typography_font_family";i:11;s:22:"typography_font_weight";i:8;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:22;s:15:"_padding_mobile";i:6;s:8:"_padding";i:2;s:14:"_margin_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:7;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:11;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:3;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:37;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:31;s:16:"content_position";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:4;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:6:"height";i:1;s:6:"layout";i:2;s:3:"gap";i:10;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:2;s:15:"background_size";i:3;s:21:"background_attachment";i:2;}s:14:"section_border";a:4:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:21:"box_shadow_box_shadow";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:12;s:11:"_element_id";i:4;s:13:"margin_mobile";i:6;s:7:"padding";i:5;s:14:"padding_mobile";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:25;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:25;s:5:"align";i:18;s:11:"header_size";i:11;s:4:"size";i:9;s:4:"link";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:25;s:21:"typography_typography";i:23;s:20:"typography_font_size";i:19;s:27:"typography_font_size_tablet";i:7;s:27:"typography_font_size_mobile";i:7;s:25:"typography_letter_spacing";i:13;s:22:"typography_font_family";i:11;s:22:"typography_font_weight";i:8;s:23:"text_shadow_text_shadow";i:1;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:22;s:15:"_padding_mobile";i:6;s:8:"_padding";i:2;s:14:"_margin_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:19;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:19;s:10:"text_color";i:6;s:21:"typography_typography";i:7;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:6;s:27:"typography_font_size_mobile";i:2;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:11;s:14:"_margin_tablet";i:2;s:14:"_margin_mobile";i:3;s:8:"_padding";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:37;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:31;s:16:"content_position";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:14:"padding_mobile";i:4;s:6:"margin";i:4;s:7:"padding";i:5;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:10;s:12:"border_color";i:10;}s:13:"section_style";a:4:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:5;s:17:"background_repeat";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:6:"height";i:1;s:6:"layout";i:2;s:3:"gap";i:10;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:2;s:15:"background_size";i:3;s:21:"background_attachment";i:2;}s:14:"section_border";a:4:{s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:21:"box_shadow_box_shadow";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:12;s:11:"_element_id";i:4;s:13:"margin_mobile";i:6;s:7:"padding";i:5;s:14:"padding_mobile";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:22:"css_filters_css_filter";i:6;s:22:"css_filters_brightness";i:6;s:20:"css_filters_contrast";i:4;s:20:"css_filters_saturate";i:4;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:2;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_padding";i:2;s:12:"icon_spacing";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/wedding/2020/08/10/200/</link>
 		<pubDate>Mon, 10 Aug 2020 07:41:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2422,6 +2537,8 @@
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 07:41:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 07:41:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:20:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:20:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[200]]></wp:post_name>

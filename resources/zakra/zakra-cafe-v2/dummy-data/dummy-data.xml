@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-08 11:57" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 16:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,13 @@
 	<title>Zakra Cafe</title>
 	<link>https://zakrademos.com/cafe-v2</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Fri, 08 Jan 2021 11:57:02 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 16:47:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/cafe-v2</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[teamzakra]]></wp:author_login><wp:author_email><![CDATA[team@zakratheme.com]]></wp:author_email><wp:author_display_name><![CDATA[teamzakra]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -45,14 +44,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -63,7 +83,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[quick-links]]></wp:term_slug><wp:term_name><![CDATA[Quick Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/cropped-logo-150x150.png</url>
@@ -74,10 +94,10 @@
 </image> 
 
 		<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/cafe-v2/logo/</link>
 		<pubDate>Fri, 23 Aug 2019 08:36:03 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -85,6 +105,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:36:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:36:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:47:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:47:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -109,10 +131,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo.png</title>
+		<title><![CDATA[cropped-logo.png]]></title>
 		<link>https://zakrademos.com/cafe-v2/cropped-logo-png/</link>
 		<pubDate>Fri, 23 Aug 2019 08:37:19 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/cropped-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -122,6 +144,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:37:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:37:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-23 08:37:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-23 08:37:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-png]]></wp:post_name>
@@ -154,10 +178,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra cup</title>
+		<title><![CDATA[Zakra cup]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/cup/</link>
 		<pubDate>Fri, 23 Aug 2019 09:28:33 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/cup.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -165,6 +189,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 09:28:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 09:28:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:50:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:50:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cup]]></wp:post_name>
@@ -193,10 +219,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beans</title>
+		<title><![CDATA[beans]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/beans/</link>
 		<pubDate>Fri, 23 Aug 2019 09:46:41 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/beans.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -204,6 +230,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 09:46:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 09:46:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:50:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:50:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beans]]></wp:post_name>
@@ -228,10 +256,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>baristas-icon</title>
+		<title><![CDATA[baristas-icon]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/baristas-icon/</link>
 		<pubDate>Fri, 23 Aug 2019 10:41:44 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/baristas-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -239,6 +267,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 10:41:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 10:41:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 09:57:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 09:57:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[baristas-icon]]></wp:post_name>
@@ -267,10 +297,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>delivery</title>
+		<title><![CDATA[delivery]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/delivery/</link>
 		<pubDate>Fri, 23 Aug 2019 10:41:46 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/delivery.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -278,6 +308,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 10:41:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 10:41:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-29 09:57:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-29 09:57:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[delivery]]></wp:post_name>
@@ -302,10 +334,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fast-delivery</title>
+		<title><![CDATA[fast-delivery]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/fast-delivery/</link>
 		<pubDate>Fri, 23 Aug 2019 10:42:11 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/fast-delivery.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -313,6 +345,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 10:42:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 10:42:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:54:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:54:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fast-delivery]]></wp:post_name>
@@ -337,10 +371,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>professional-baristas</title>
+		<title><![CDATA[professional-baristas]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/professional-baristas/</link>
 		<pubDate>Fri, 23 Aug 2019 10:42:14 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/professional-baristas.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -348,6 +382,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 10:42:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 10:42:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:54:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:54:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[professional-baristas]]></wp:post_name>
@@ -372,10 +408,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img</title>
+		<title><![CDATA[img]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/img/</link>
 		<pubDate>Fri, 23 Aug 2019 11:33:16 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/img.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -383,6 +419,8 @@
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 11:33:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 11:33:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:53:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:53:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img]]></wp:post_name>
@@ -407,10 +445,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cafe</title>
+		<title><![CDATA[cafe]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/cafe/</link>
 		<pubDate>Mon, 26 Aug 2019 06:50:16 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/cafe.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -420,6 +458,8 @@
 		<wp:post_id>242</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 06:50:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 06:50:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 06:50:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 06:50:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cafe]]></wp:post_name>
@@ -448,10 +488,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>coffee-bottle-img</title>
+		<title><![CDATA[coffee-bottle-img]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/coffee-bottle-img/</link>
 		<pubDate>Mon, 26 Aug 2019 06:50:20 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/coffee-bottle-img.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -459,6 +499,8 @@
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 06:50:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 06:50:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:53:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:53:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[coffee-bottle-img]]></wp:post_name>
@@ -483,10 +525,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sign</title>
+		<title><![CDATA[sign]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/sign/</link>
 		<pubDate>Mon, 26 Aug 2019 07:07:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/sign.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -496,6 +538,8 @@
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 07:07:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 07:07:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 07:07:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 07:07:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sign]]></wp:post_name>
@@ -520,10 +564,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonials</title>
+		<title><![CDATA[testimonials]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/testimonials/</link>
 		<pubDate>Mon, 26 Aug 2019 09:09:54 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/testimonials.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -533,6 +577,8 @@
 		<wp:post_id>273</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 09:09:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 09:09:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 09:09:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 09:09:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonials]]></wp:post_name>
@@ -557,10 +603,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial</title>
+		<title><![CDATA[testimonial]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/testimonial/</link>
 		<pubDate>Mon, 26 Aug 2019 10:04:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/testimonial.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -570,6 +616,8 @@
 		<wp:post_id>287</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:04:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:04:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-26 10:04:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-26 10:04:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial]]></wp:post_name>
@@ -594,10 +642,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quotation-mark</title>
+		<title><![CDATA[quotation-mark]]></title>
 		<link>https://zakrademos.com/cafe-v2/home/quotation-mark/</link>
 		<pubDate>Tue, 27 Aug 2019 05:08:14 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/quotation-mark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -605,6 +653,8 @@
 		<wp:post_id>335</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 05:08:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 05:08:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-03 14:40:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-03 14:40:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quotation-mark]]></wp:post_name>
@@ -629,10 +679,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team3</title>
+		<title><![CDATA[team3]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/team3/</link>
 		<pubDate>Tue, 27 Aug 2019 09:50:19 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/team3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -640,6 +690,8 @@
 		<wp:post_id>439</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 09:50:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 09:50:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:59:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:59:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team3]]></wp:post_name>
@@ -668,10 +720,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>chris</title>
+		<title><![CDATA[chris]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/chris/</link>
 		<pubDate>Tue, 27 Aug 2019 09:50:21 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/chris.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -679,6 +731,8 @@
 		<wp:post_id>440</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 09:50:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 09:50:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:58:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:58:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[chris]]></wp:post_name>
@@ -707,10 +761,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-icon1</title>
+		<title><![CDATA[about-icon1]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/about-icon1/</link>
 		<pubDate>Tue, 27 Aug 2019 10:11:27 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/about-icon1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -720,6 +774,8 @@
 		<wp:post_id>452</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 10:11:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 10:11:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 10:11:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 10:11:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-icon1]]></wp:post_name>
@@ -744,10 +800,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-icon2</title>
+		<title><![CDATA[about-icon2]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/about-icon2/</link>
 		<pubDate>Tue, 27 Aug 2019 10:11:29 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/about-icon2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -757,6 +813,8 @@
 		<wp:post_id>453</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 10:11:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 10:11:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 10:11:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 10:11:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-icon2]]></wp:post_name>
@@ -781,10 +839,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team2</title>
+		<title><![CDATA[team2]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/team2-2/</link>
 		<pubDate>Tue, 27 Aug 2019 10:11:36 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/team2-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -792,6 +850,8 @@
 		<wp:post_id>455</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 10:11:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 10:11:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team2-2]]></wp:post_name>
@@ -816,10 +876,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/23/zakra/</link>
 		<pubDate>Fri, 23 Aug 2019 09:48:58 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/2019/08/23/zakra/</guid>
 		<description></description>
 		<content:encoded><![CDATA[.subscribe-wrap{
@@ -833,6 +893,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 09:48:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 09:48:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:29:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:29:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -844,10 +906,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>about-icon</title>
+		<title><![CDATA[about-icon]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/about-icon/</link>
 		<pubDate>Tue, 27 Aug 2019 10:11:41 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/about-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -857,6 +919,8 @@
 		<wp:post_id>457</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 10:11:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 10:11:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 10:11:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 10:11:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-icon]]></wp:post_name>
@@ -885,10 +949,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About-us</title>
+		<title><![CDATA[About-us]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/about-us/</link>
 		<pubDate>Tue, 27 Aug 2019 10:18:35 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/about-us.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -898,6 +962,8 @@
 		<wp:post_id>458</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 10:18:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 10:18:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 10:18:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 10:18:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -926,10 +992,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-us1</title>
+		<title><![CDATA[about-us1]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/about-us1/</link>
 		<pubDate>Tue, 27 Aug 2019 11:04:29 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/about-us1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -939,6 +1005,8 @@
 		<wp:post_id>469</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 11:04:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 11:04:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 11:04:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 11:04:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us1]]></wp:post_name>
@@ -963,10 +1031,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>app-store</title>
+		<title><![CDATA[app-store]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/app-store/</link>
 		<pubDate>Tue, 27 Aug 2019 11:07:53 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/app-store.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -976,6 +1044,8 @@
 		<wp:post_id>472</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 11:07:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 11:07:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 11:07:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 11:07:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[app-store]]></wp:post_name>
@@ -1004,10 +1074,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>google-play</title>
+		<title><![CDATA[google-play]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/google-play/</link>
 		<pubDate>Tue, 27 Aug 2019 11:07:56 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/google-play.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1017,6 +1087,8 @@
 		<wp:post_id>473</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-27 11:07:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-27 11:07:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-27 11:07:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-27 11:07:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-play]]></wp:post_name>
@@ -1045,10 +1117,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>5</title>
+		<title><![CDATA[5]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/5/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:47 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1056,6 +1128,8 @@
 		<wp:post_id>500</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[5]]></wp:post_name>
@@ -1080,10 +1154,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>6</title>
+		<title><![CDATA[6]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/6/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:50 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1091,6 +1165,8 @@
 		<wp:post_id>501</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[6]]></wp:post_name>
@@ -1115,10 +1191,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Breakfast</title>
+		<title><![CDATA[Breakfast]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/7/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:52 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1126,6 +1202,8 @@
 		<wp:post_id>502</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[7]]></wp:post_name>
@@ -1154,10 +1232,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cafe</title>
+		<title><![CDATA[Cafe]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/1/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:55 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1165,6 +1243,8 @@
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1]]></wp:post_name>
@@ -1193,10 +1273,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2</title>
+		<title><![CDATA[2]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/2/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:57 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1204,6 +1284,8 @@
 		<wp:post_id>504</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2]]></wp:post_name>
@@ -1228,10 +1310,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Coffee</title>
+		<title><![CDATA[Coffee]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/3/</link>
 		<pubDate>Wed, 28 Aug 2019 03:55:59 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1239,6 +1321,8 @@
 		<wp:post_id>505</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:55:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:55:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[3]]></wp:post_name>
@@ -1267,10 +1351,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Coffee Bean</title>
+		<title><![CDATA[Coffee Bean]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/attachment/4/</link>
 		<pubDate>Wed, 28 Aug 2019 03:56:02 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe-v2/wp-content/uploads/sites/34/2019/08/4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1278,6 +1362,8 @@
 		<wp:post_id>506</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:56:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:56:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:52:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:52:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[4]]></wp:post_name>
@@ -1306,7 +1392,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo (1)</title>
+		<title><![CDATA[logo (1)]]></title>
 		<link>https://zakrademos.com/cafe-v2/logo-1/</link>
 		<pubDate>Wed, 04 Sep 2019 06:47:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1317,6 +1403,8 @@
 		<wp:post_id>521</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 06:47:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 06:47:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:47:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
@@ -1341,7 +1429,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Front Page</title>
+		<title><![CDATA[Zakra Cafe V2 - Front Page]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-front-page</link>
 		<pubDate>Tue, 03 Dec 2019 08:41:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1488,6 +1576,8 @@
 		<wp:post_id>534</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:41:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:41:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:41:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:41:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-front-page]]></wp:post_name>
@@ -1524,7 +1614,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - About Page</title>
+		<title><![CDATA[Zakra Cafe V2 - About Page]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-about-page</link>
 		<pubDate>Tue, 03 Dec 2019 08:43:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1641,6 +1731,8 @@
 		<wp:post_id>537</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:43:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:43:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:43:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:43:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-about-page]]></wp:post_name>
@@ -1677,7 +1769,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Contact Page</title>
+		<title><![CDATA[Zakra Cafe V2 - Contact Page]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-contact-page</link>
 		<pubDate>Tue, 03 Dec 2019 08:43:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1719,6 +1811,8 @@ help@zakracafe.com.np
 		<wp:post_id>540</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:43:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-contact-page]]></wp:post_name>
@@ -1755,7 +1849,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Banner Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Banner Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-banner-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:44:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1779,6 +1873,8 @@ help@zakracafe.com.np
 		<wp:post_id>543</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:44:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:44:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:44:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:44:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-banner-section]]></wp:post_name>
@@ -1815,7 +1911,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - About Section</title>
+		<title><![CDATA[Zakra Cafe V2 - About Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-about-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:46:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1839,6 +1935,8 @@ help@zakracafe.com.np
 		<wp:post_id>546</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:46:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:46:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:46:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:46:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-about-section]]></wp:post_name>
@@ -1875,7 +1973,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Recent Products Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Recent Products Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-recent-products-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:47:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1941,6 +2039,8 @@ help@zakracafe.com.np
 		<wp:post_id>549</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:47:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:47:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:47:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-recent-products-section]]></wp:post_name>
@@ -1977,7 +2077,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Subscribe</title>
+		<title><![CDATA[Subscribe]]></title>
 		<link>https://zakrademos.com/cafe-v2/mc4wp-form/75/</link>
 		<pubDate>Wed, 04 Sep 2019 07:12:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1991,6 +2091,8 @@ help@zakracafe.com.np
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 07:12:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 07:12:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 07:12:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 07:12:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[75]]></wp:post_name>
@@ -2050,17 +2152,19 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cafe Contact Form</title>
+		<title><![CDATA[Cafe Contact Form]]></title>
 		<link>https://zakrademos.com/cafe-v2/?post_type=everest_form&#038;p=299</link>
 		<pubDate>Mon, 26 Aug 2019 10:26:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?post_type=everest_form&#038;p=299</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"299","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Cafe Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Zakra Cafe","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"299","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Cafe Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"59","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Cafe","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>299</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 10:26:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-26 10:26:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 10:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 10:29:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -2072,7 +2176,7 @@ help@zakracafe.com.np
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/509/</link>
 		<pubDate>Wed, 04 Sep 2019 06:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2085,6 +2189,8 @@ help@zakracafe.com.np
 		<wp:post_id>509</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 06:26:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:26:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[509]]></wp:post_name>
@@ -2129,7 +2235,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/510/</link>
 		<pubDate>Wed, 04 Sep 2019 06:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2142,6 +2248,8 @@ help@zakracafe.com.np
 		<wp:post_id>510</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 06:26:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:26:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[510]]></wp:post_name>
@@ -2186,7 +2294,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/514/</link>
 		<pubDate>Wed, 04 Sep 2019 06:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2199,6 +2307,8 @@ help@zakracafe.com.np
 		<wp:post_id>514</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 06:26:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:26:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[514]]></wp:post_name>
@@ -2243,7 +2353,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/515/</link>
 		<pubDate>Wed, 04 Sep 2019 06:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2256,6 +2366,8 @@ help@zakracafe.com.np
 		<wp:post_id>515</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 06:26:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:26:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:26:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[515]]></wp:post_name>
@@ -2300,7 +2412,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/530/</link>
 		<pubDate>Wed, 04 Sep 2019 08:59:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2311,6 +2423,8 @@ help@zakracafe.com.np
 		<wp:post_id>530</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 08:59:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:59:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[530]]></wp:post_name>
@@ -2355,7 +2469,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/531/</link>
 		<pubDate>Wed, 04 Sep 2019 08:59:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2366,6 +2480,8 @@ help@zakracafe.com.np
 		<wp:post_id>531</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 08:59:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:59:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[531]]></wp:post_name>
@@ -2410,7 +2526,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Testimonial Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Testimonial Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-testimonial-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:48:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2442,6 +2558,8 @@ help@zakracafe.com.np
 		<wp:post_id>552</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:48:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:48:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:48:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:48:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-testimonial-section]]></wp:post_name>
@@ -2478,7 +2596,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Services Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Services Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-services-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:49:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2508,6 +2626,8 @@ help@zakracafe.com.np
 		<wp:post_id>555</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:49:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:49:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:49:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:49:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-services-section]]></wp:post_name>
@@ -2544,7 +2664,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - About Intro Section</title>
+		<title><![CDATA[Zakra Cafe V2 - About Intro Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-about-intro-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:50:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2567,6 +2687,8 @@ help@zakracafe.com.np
 		<wp:post_id>558</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:50:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:50:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:50:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:50:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-about-intro-section]]></wp:post_name>
@@ -2603,7 +2725,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Counter Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Counter Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-counter-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:51:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2637,6 +2759,8 @@ help@zakracafe.com.np
 		<wp:post_id>561</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:51:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:51:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:51:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:51:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-counter-section]]></wp:post_name>
@@ -2673,7 +2797,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - About Image with Content Section</title>
+		<title><![CDATA[Zakra Cafe V2 - About Image with Content Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-about-image-with-content-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:52:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2695,6 +2819,8 @@ help@zakracafe.com.np
 		<wp:post_id>564</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:52:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:52:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:52:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:52:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-about-image-with-content-section]]></wp:post_name>
@@ -2731,7 +2857,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Team Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Team Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-team-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:53:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2791,6 +2917,8 @@ help@zakracafe.com.np
 		<wp:post_id>567</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:53:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:53:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:53:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:53:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-team-section]]></wp:post_name>
@@ -2827,7 +2955,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Cafe V2 - Contact Form Section</title>
+		<title><![CDATA[Zakra Cafe V2 - Contact Form Section]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=zakra-cafe-v2-contact-form-section</link>
 		<pubDate>Tue, 03 Dec 2019 08:53:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2869,6 +2997,8 @@ help@zakracafe.com.np
 		<wp:post_id>570</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 08:53:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 08:53:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 08:53:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 08:53:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-cafe-v2-contact-form-section]]></wp:post_name>
@@ -2905,7 +3035,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 08:13:18 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2916,6 +3046,8 @@ help@zakracafe.com.np
 		<wp:post_id>580</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 08:13:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 08:13:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 08:13:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 08:13:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2935,11 +3067,11 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#212529";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#343A40";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#343A40";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#9F603C";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"6582d650";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"74e00ff2";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"782bf9a4";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"4994b633";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"5d09e445";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"409196db";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"49701256";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:7:"9300a1f";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"700";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"500";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#212529";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#343A40";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#343A40";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#9F603C";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"6582d650";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"74e00ff2";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"782bf9a4";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:8:"4994b633";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"5d09e445";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"409196db";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"49701256";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:7:"9300a1f";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"700";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Montserrat";s:22:"typography_font_weight";s:3:"500";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home</title>
+		<title><![CDATA[home]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=home</link>
 		<pubDate>Tue, 29 Dec 2020 14:30:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3081,6 +3213,8 @@ help@zakracafe.com.np
 		<wp:post_id>582</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:30:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:30:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:30:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:30:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3117,7 +3251,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about</title>
+		<title><![CDATA[about]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=about</link>
 		<pubDate>Tue, 29 Dec 2020 14:32:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3228,6 +3362,8 @@ help@zakracafe.com.np
 		<wp:post_id>585</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:32:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:32:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:32:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:32:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3264,7 +3400,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=contact</link>
 		<pubDate>Tue, 29 Dec 2020 14:34:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3304,6 +3440,8 @@ help@zakracafe.com.np
 		<wp:post_id>588</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:34:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:34:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:34:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:34:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3340,7 +3478,7 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://zakrademos.com/cafe-v2/?elementor_library=contact-2</link>
 		<pubDate>Tue, 29 Dec 2020 14:37:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3380,6 +3518,8 @@ help@zakracafe.com.np
 		<wp:post_id>592</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:37:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:37:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:37:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:37:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
@@ -3416,10 +3556,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/cafe-v2/</link>
 		<pubDate>Fri, 23 Aug 2019 08:40:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?page_id=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to Zakra Cafe 				
@@ -3559,6 +3699,8 @@ help@zakracafe.com.np
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:40:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:40:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-03 14:45:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-03 14:45:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3666,10 +3808,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/cafe-v2/blog/</link>
 		<pubDate>Fri, 23 Aug 2019 08:42:06 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?page_id=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3679,6 +3821,8 @@ help@zakracafe.com.np
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:42:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:42:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-23 08:42:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-23 08:42:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -3778,10 +3922,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/cafe-v2/about/</link>
 		<pubDate>Fri, 23 Aug 2019 08:53:12 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?page_id=59</guid>
 		<description></description>
 		<content:encoded><![CDATA[About us							
@@ -3896,6 +4040,8 @@ help@zakracafe.com.np
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:53:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:53:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-12 09:59:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-12 09:59:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -4003,10 +4149,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Faq</title>
+		<title><![CDATA[Faq]]></title>
 		<link>https://zakrademos.com/cafe-v2/faq/</link>
 		<pubDate>Fri, 23 Aug 2019 08:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?page_id=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -4016,6 +4162,8 @@ help@zakracafe.com.np
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:53:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:53:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-23 08:53:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-23 08:53:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
@@ -4103,10 +4251,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/cafe-v2/contact/</link>
 		<pubDate>Fri, 23 Aug 2019 08:54:03 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?page_id=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>keep in touch</h2>		
@@ -4144,6 +4292,8 @@ help@zakracafe.com.np
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-23 08:54:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-23 08:54:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 11:56:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 11:56:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -4251,10 +4401,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best espresso machines</title>
+		<title><![CDATA[Best espresso machines]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/best-espresso-machines/</link>
 		<pubDate>Wed, 28 Aug 2019 04:23:15 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?p=497</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4264,6 +4414,8 @@ help@zakracafe.com.np
 		<wp:post_id>497</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 04:23:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 04:23:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:58:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:58:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-espresso-machines]]></wp:post_name>
@@ -4352,10 +4504,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to make coffee?</title>
+		<title><![CDATA[How to make coffee?]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-to-make-coffee/</link>
 		<pubDate>Wed, 28 Aug 2019 03:53:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?p=498</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4373,6 +4525,8 @@ help@zakracafe.com.np
 		<wp:post_id>498</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:53:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:53:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:59:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:59:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-make-coffee]]></wp:post_name>
@@ -4461,10 +4615,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Breakfast Interrupted</title>
+		<title><![CDATA[Breakfast Interrupted]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/breakfast-interrupted/</link>
 		<pubDate>Wed, 28 Aug 2019 03:58:19 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?p=507</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4478,6 +4632,8 @@ help@zakracafe.com.np
 		<wp:post_id>511</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 03:58:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 03:58:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:59:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:59:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[breakfast-interrupted]]></wp:post_name>
@@ -4566,10 +4722,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How many cup of coffee you should drink per day?</title>
+		<title><![CDATA[How many cup of coffee you should drink per day?]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/how-many-cup-of-coffee-you-should-drink-per-day/</link>
 		<pubDate>Wed, 28 Aug 2019 04:01:43 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?p=509</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4583,6 +4739,8 @@ help@zakracafe.com.np
 		<wp:post_id>512</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 04:01:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 04:01:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:58:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:58:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-many-cup-of-coffee-you-should-drink-per-day]]></wp:post_name>
@@ -4671,10 +4829,10 @@ help@zakracafe.com.np
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Benefits of drinking coffee</title>
+		<title><![CDATA[Benefits of drinking coffee]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/08/28/benefits-of-drinking-coffee/</link>
 		<pubDate>Wed, 28 Aug 2019 04:05:44 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://graceful-baboon.w6.wpsandbox.pro/?p=511</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4700,6 +4858,8 @@ Proin viverra consectetur felis, a accumsan felis tincidunt ut. Ut cursus lacus 
 		<wp:post_id>513</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 04:05:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 04:05:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 06:58:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 06:58:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[benefits-of-drinking-coffee]]></wp:post_name>
@@ -4788,7 +4948,7 @@ Proin viverra consectetur felis, a accumsan felis tincidunt ut. Ut cursus lacus 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/532/</link>
 		<pubDate>Wed, 04 Sep 2019 08:59:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4799,6 +4959,8 @@ Proin viverra consectetur felis, a accumsan felis tincidunt ut. Ut cursus lacus 
 		<wp:post_id>532</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 08:59:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:59:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[532]]></wp:post_name>
@@ -4843,7 +5005,7 @@ Proin viverra consectetur felis, a accumsan felis tincidunt ut. Ut cursus lacus 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/cafe-v2/2019/09/04/533/</link>
 		<pubDate>Wed, 04 Sep 2019 08:59:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4854,6 +5016,8 @@ Proin viverra consectetur felis, a accumsan felis tincidunt ut. Ut cursus lacus 
 		<wp:post_id>533</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-04 08:59:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-04 08:59:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-04 08:59:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[533]]></wp:post_name>

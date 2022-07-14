@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-18 11:09" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 09:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,11 +28,11 @@
 <channel>
 	<title>Royal Hotel</title>
 	<link>https://zakrademos.com/royal-hotel</link>
-	<description>WordPress Template Site for Best Hotel Services</description>
-	<pubDate>Mon, 18 Jan 2021 11:09:25 +0000</pubDate>
+	<description>WordPress Template Site for Cheap Hotels , Luxury Hotel, Stunning Hotel &#38; Resort</description>
+	<pubDate>Wed, 13 Jul 2022 09:26:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/royal-hotel</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,7 +44,28 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -61,10 +82,10 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[useful-links]]></wp:term_slug><wp:term_name><![CDATA[Useful links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 		<item>
-		<title>logo 1</title>
+		<title><![CDATA[logo 1]]></title>
 		<link>https://zakrademos.com/royal-hotel/logo-1/</link>
 		<pubDate>Wed, 16 Dec 2020 05:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -75,6 +96,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-16 05:56:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-16 05:56:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-16 05:56:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-16 05:56:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
@@ -95,7 +118,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-img</title>
+		<title><![CDATA[about-img]]></title>
 		<link>https://zakrademos.com/royal-hotel/about-img/</link>
 		<pubDate>Wed, 30 Dec 2020 06:06:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -106,6 +129,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 06:06:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 06:06:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 06:06:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 06:06:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-img]]></wp:post_name>
@@ -126,7 +151,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>offer-img</title>
+		<title><![CDATA[offer-img]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/offer-img/</link>
 		<pubDate>Wed, 30 Dec 2020 06:22:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -137,6 +162,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 06:22:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 06:22:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 06:22:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 06:22:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[offer-img]]></wp:post_name>
@@ -157,7 +184,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>video-bg</title>
+		<title><![CDATA[video-bg]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/video-bg/</link>
 		<pubDate>Wed, 30 Dec 2020 06:52:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -168,6 +195,8 @@
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 06:52:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 06:52:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 06:52:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 06:52:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-bg]]></wp:post_name>
@@ -188,7 +217,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>video-section</title>
+		<title><![CDATA[video-section]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/video-section/</link>
 		<pubDate>Wed, 30 Dec 2020 11:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -199,6 +228,8 @@
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:09:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:09:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:09:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-section]]></wp:post_name>
@@ -219,7 +250,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quote</title>
+		<title><![CDATA[quote]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/quote/</link>
 		<pubDate>Wed, 30 Dec 2020 11:17:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -230,6 +261,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:17:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:17:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:17:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:17:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quote]]></wp:post_name>
@@ -250,7 +283,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>services</title>
+		<title><![CDATA[services]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/services-2/</link>
 		<pubDate>Thu, 31 Dec 2020 06:58:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -261,6 +294,8 @@
 		<wp:post_id>343</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 06:58:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 06:58:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 06:58:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 06:58:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-2]]></wp:post_name>
@@ -281,7 +316,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/royal-hotel/logo/</link>
 		<pubDate>Thu, 31 Dec 2020 07:26:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -292,6 +327,8 @@
 		<wp:post_id>379</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 07:26:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 07:26:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 07:26:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 07:26:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -312,7 +349,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-four</title>
+		<title><![CDATA[gallery-four]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/gallery-four/</link>
 		<pubDate>Thu, 31 Dec 2020 10:10:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -323,6 +360,8 @@
 		<wp:post_id>399</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 10:10:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 10:10:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 10:10:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 10:10:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-four]]></wp:post_name>
@@ -343,7 +382,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-one</title>
+		<title><![CDATA[gallery-one]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/gallery-one/</link>
 		<pubDate>Thu, 31 Dec 2020 10:10:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -354,6 +393,8 @@
 		<wp:post_id>400</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 10:10:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 10:10:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 10:10:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 10:10:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-one]]></wp:post_name>
@@ -374,7 +415,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-three</title>
+		<title><![CDATA[gallery-three]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/gallery-three/</link>
 		<pubDate>Thu, 31 Dec 2020 10:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -385,6 +426,8 @@
 		<wp:post_id>401</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 10:10:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 10:10:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 10:10:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 10:10:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-three]]></wp:post_name>
@@ -405,7 +448,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-two</title>
+		<title><![CDATA[gallery-two]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/gallery-two/</link>
 		<pubDate>Thu, 31 Dec 2020 10:10:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -416,6 +459,8 @@
 		<wp:post_id>402</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 10:10:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 10:10:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 10:10:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 10:10:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-two]]></wp:post_name>
@@ -436,7 +481,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>video-play</title>
+		<title><![CDATA[video-play]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/video-play/</link>
 		<pubDate>Thu, 31 Dec 2020 12:21:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -447,6 +492,8 @@
 		<wp:post_id>455</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 12:21:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 12:21:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 12:21:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 12:21:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-play]]></wp:post_name>
@@ -467,7 +514,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img1</title>
+		<title><![CDATA[img1]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/img1/</link>
 		<pubDate>Mon, 04 Jan 2021 06:37:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -478,6 +525,8 @@
 		<wp:post_id>628</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 06:37:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 06:37:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 06:37:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 06:37:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img1]]></wp:post_name>
@@ -498,7 +547,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>inner-ban-one</title>
+		<title><![CDATA[inner-ban-one]]></title>
 		<link>https://zakrademos.com/royal-hotel/inner-ban-one/</link>
 		<pubDate>Mon, 04 Jan 2021 14:54:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -509,6 +558,8 @@
 		<wp:post_id>817</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 14:54:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 14:54:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 14:54:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 14:54:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[inner-ban-one]]></wp:post_name>
@@ -529,7 +580,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>best-solution</title>
+		<title><![CDATA[best-solution]]></title>
 		<link>https://zakrademos.com/royal-hotel/about-us/best-solution/</link>
 		<pubDate>Mon, 04 Jan 2021 15:31:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -540,6 +591,8 @@
 		<wp:post_id>857</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 15:31:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 15:31:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 15:31:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 15:31:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-solution]]></wp:post_name>
@@ -560,7 +613,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>budget-room</title>
+		<title><![CDATA[budget-room]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/budget-room/</link>
 		<pubDate>Tue, 05 Jan 2021 08:51:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -571,6 +624,8 @@
 		<wp:post_id>1017</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 08:51:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 08:51:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 08:51:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 08:51:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[budget-room]]></wp:post_name>
@@ -591,7 +646,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vip-room</title>
+		<title><![CDATA[vip-room]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/vip-room/</link>
 		<pubDate>Tue, 05 Jan 2021 08:51:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -602,6 +657,8 @@
 		<wp:post_id>1018</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 08:51:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 08:51:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 08:51:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 08:51:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vip-room]]></wp:post_name>
@@ -622,7 +679,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>classic-room</title>
+		<title><![CDATA[classic-room]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/classic-room/</link>
 		<pubDate>Tue, 05 Jan 2021 08:52:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -633,6 +690,8 @@
 		<wp:post_id>1019</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 08:52:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 08:52:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 08:52:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 08:52:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic-room]]></wp:post_name>
@@ -653,7 +712,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>executive-room</title>
+		<title><![CDATA[executive-room]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/executive-room/</link>
 		<pubDate>Tue, 05 Jan 2021 08:52:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -664,6 +723,8 @@
 		<wp:post_id>1020</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 08:52:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 08:52:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 08:52:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 08:52:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[executive-room]]></wp:post_name>
@@ -684,7 +745,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/royal-hotel/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Mon, 18 Jan 2021 05:23:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -695,18 +756,32 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:23:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:23:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[contact-form__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657613917]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/royal-hotel/?elementor_library=default-kit</link>
 		<pubDate>Mon, 18 Jan 2021 05:23:17 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -717,6 +792,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:23:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:23:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-20 08:43:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-20 08:43:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -740,7 +817,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#333333";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#000000";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:7:"Poppins";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:7:"Poppins";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:11:"Royal Hotel";s:16:"site_description";s:47:"WordPress Template Site for Best Hotel Services";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"1";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#000000";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#333333";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#000000";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:7:"Poppins";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:7:"Poppins";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:11:"Royal Hotel";s:16:"site_description";s:84:"WordPress Template Site for Cheap Hotels , Luxury Hotel, Stunning Hotel &amp; Resort";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"1";s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -752,17 +829,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/royal-hotel/?post_type=everest_form&#038;p=18</link>
 		<pubDate>Tue, 15 Dec 2020 23:46:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-pro-royal-hotel.sites.qsandbox.com/?post_type=everest_form&#038;p=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"18","form_enabled":"1","form_field_id":7,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"u7XTnVBJpl-2":{"id":"u7XTnVBJpl-2","type":"number","label":"Phone","meta-key":"Phone","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"Phone","label_hide":"1","css":""},"TmNvyKpt60-3":{"id":"TmNvyKpt60-3","type":"date-time","label":"Arrival Date","meta-key":"arrival_time_1956","datetime_format":"date","description":"","required-field-message":"This field is required.","placeholder":"Arriaval","date_format":"Y-m-d","disable_dates":"","date_localization":"en","date_mode":"single","min_date":"","max_date":"","time_interval":"15","time_format":"g:i A","label_hide":"1","css":""},"Ur3phJwsuj-4":{"id":"Ur3phJwsuj-4","type":"date-time","label":"Departure Date","meta-key":"departure","datetime_format":"date","description":"","required-field-message":"This field is required.","placeholder":"Departure Date","date_format":"Y-m-d","disable_dates":"","date_localization":"en","date_mode":"single","min_date":"","max_date":"","time_interval":"15","time_format":"g:i A","label_hide":"1","css":""},"06l7ojA0Yk-5":{"id":"06l7ojA0Yk-5","type":"select","label":"Dropdown","meta-key":"dropdown_8522","multiple_choices":"0","choices":{"1":{"label":"2 Adults","value":"","image":""},"2":{"label":"3 Adults","value":"","image":""},"3":{"label":"4 Adults","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"Adults","label_hide":"1","css":""},"emDXYUSw0D-6":{"id":"emDXYUSw0D-6","type":"select","label":"Children","meta-key":"dropdown_7771","multiple_choices":"0","choices":{"1":{"label":"1 Child","value":"","image":""},"2":{"label":"2 Children","value":"","image":""},"3":{"label":"3 Children","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"Children","label_hide":"1","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"166","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Book Now","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"My qSandbox Test Site","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","u7XTnVBJpl-2","TmNvyKpt60-3","Ur3phJwsuj-4","06l7ojA0Yk-5","emDXYUSw0D-6"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"18","form_enabled":"1","form_field_id":7,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"Name","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"u7XTnVBJpl-2":{"id":"u7XTnVBJpl-2","type":"number","label":"Phone","meta-key":"Phone","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"Phone","label_hide":"1","css":""},"TmNvyKpt60-3":{"id":"TmNvyKpt60-3","type":"date-time","label":"Arrival Date","meta-key":"arrival_time_1956","datetime_format":"date","datetime_style":"picker","description":"","required-field-message":"This field is required.","placeholder":"Arriaval","date_format":"Y-m-d","disable_dates":"","date_localization":"en","date_mode":"single","min_date":"","max_date":"","time_interval":"15","time_format":"g:i A","min_time_hour":"9","min_time_minute":"30","max_time_hour":"18","max_time_minute":"30","label_hide":"1","css":""},"Ur3phJwsuj-4":{"id":"Ur3phJwsuj-4","type":"date-time","label":"Departure Date","meta-key":"departure","datetime_format":"date","datetime_style":"picker","description":"","required-field-message":"This field is required.","placeholder":"Departure Date","date_format":"Y-m-d","disable_dates":"","date_localization":"en","date_mode":"single","min_date":"","max_date":"","time_interval":"15","time_format":"g:i A","min_time_hour":"9","min_time_minute":"30","max_time_hour":"18","max_time_minute":"30","label_hide":"1","css":""},"06l7ojA0Yk-5":{"id":"06l7ojA0Yk-5","type":"select","label":"Dropdown","meta-key":"dropdown_8522","multiple_choices":"0","choices":{"1":{"label":"2 Adults","value":"","image":""},"2":{"label":"3 Adults","value":"","image":""},"3":{"label":"4 Adults","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"Adults","label_hide":"1","css":""},"emDXYUSw0D-6":{"id":"emDXYUSw0D-6","type":"select","label":"Children","meta-key":"dropdown_7771","multiple_choices":"0","choices":{"1":{"label":"1 Child","value":"","image":""},"2":{"label":"2 Children","value":"","image":""},"3":{"label":"3 Children","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"Children","label_hide":"1","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"166","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Book Now","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Royal Hotel","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","u7XTnVBJpl-2","TmNvyKpt60-3","Ur3phJwsuj-4","06l7ojA0Yk-5","emDXYUSw0D-6"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-15 23:46:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-15 23:46:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 08:19:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 08:19:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -774,7 +853,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/royal-hotel/2020/12/30/zakra/</link>
 		<pubDate>Wed, 30 Dec 2020 11:25:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -802,6 +881,8 @@ padding-right: 10px;}
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:25:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:25:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:40:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:40:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -813,7 +894,7 @@ padding-right: 10px;}
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>superior</title>
+		<title><![CDATA[superior]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/superior/</link>
 		<pubDate>Tue, 05 Jan 2021 08:53:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -824,6 +905,8 @@ padding-right: 10px;}
 		<wp:post_id>1021</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 08:53:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 08:53:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 08:53:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 08:53:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[superior]]></wp:post_name>
@@ -844,7 +927,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>room-img</title>
+		<title><![CDATA[room-img]]></title>
 		<link>https://zakrademos.com/royal-hotel/single-service/room-img/</link>
 		<pubDate>Tue, 05 Jan 2021 14:11:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -855,6 +938,8 @@ padding-right: 10px;}
 		<wp:post_id>1202</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 14:11:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 14:11:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 14:11:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 14:11:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[room-img]]></wp:post_name>
@@ -875,7 +960,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hotel</title>
+		<title><![CDATA[hotel]]></title>
 		<link>https://zakrademos.com/royal-hotel/single-service/hotel/</link>
 		<pubDate>Tue, 05 Jan 2021 14:52:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -886,6 +971,8 @@ padding-right: 10px;}
 		<wp:post_id>1215</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 14:52:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 14:52:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 14:52:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 14:52:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hotel]]></wp:post_name>
@@ -906,7 +993,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>breakfast</title>
+		<title><![CDATA[breakfast]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/breakfast/</link>
 		<pubDate>Tue, 05 Jan 2021 15:10:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -917,6 +1004,8 @@ padding-right: 10px;}
 		<wp:post_id>1222</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:10:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:10:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:10:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:10:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[breakfast]]></wp:post_name>
@@ -937,7 +1026,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wake-up-call</title>
+		<title><![CDATA[wake-up-call]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/wake-up-call/</link>
 		<pubDate>Tue, 05 Jan 2021 15:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -948,6 +1037,8 @@ padding-right: 10px;}
 		<wp:post_id>1224</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:16:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:16:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:16:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wake-up-call]]></wp:post_name>
@@ -968,7 +1059,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>car-rental</title>
+		<title><![CDATA[car-rental]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/car-rental/</link>
 		<pubDate>Tue, 05 Jan 2021 15:22:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -979,6 +1070,8 @@ padding-right: 10px;}
 		<wp:post_id>1231</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:22:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:22:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:22:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:22:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[car-rental]]></wp:post_name>
@@ -999,7 +1092,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>spa</title>
+		<title><![CDATA[spa]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/spa/</link>
 		<pubDate>Tue, 05 Jan 2021 15:30:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1010,6 +1103,8 @@ padding-right: 10px;}
 		<wp:post_id>1235</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:30:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:30:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:30:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:30:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[spa]]></wp:post_name>
@@ -1030,7 +1125,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wifi</title>
+		<title><![CDATA[wifi]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/wifi/</link>
 		<pubDate>Tue, 05 Jan 2021 15:32:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1041,6 +1136,8 @@ padding-right: 10px;}
 		<wp:post_id>1239</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:32:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:32:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:32:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:32:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wifi]]></wp:post_name>
@@ -1061,7 +1158,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>laundry</title>
+		<title><![CDATA[laundry]]></title>
 		<link>https://zakrademos.com/royal-hotel/home/laundry/</link>
 		<pubDate>Tue, 05 Jan 2021 15:37:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1072,6 +1169,8 @@ padding-right: 10px;}
 		<wp:post_id>1243</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 15:37:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 15:37:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 15:37:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 15:37:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[laundry]]></wp:post_name>
@@ -1092,7 +1191,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy</title>
+		<title><![CDATA[Privacy]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/privacy/</link>
 		<pubDate>Mon, 18 Jan 2021 05:27:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1103,6 +1202,8 @@ padding-right: 10px;}
 		<wp:post_id>1340</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:27:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:27:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:27:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:27:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy]]></wp:post_name>
@@ -1147,7 +1248,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Terms &#038; Conditions</title>
+		<title><![CDATA[Terms &amp; Conditions]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/terms-conditions/</link>
 		<pubDate>Mon, 18 Jan 2021 05:27:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1158,6 +1259,8 @@ padding-right: 10px;}
 		<wp:post_id>1341</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:27:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:27:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:27:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:27:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[terms-conditions]]></wp:post_name>
@@ -1202,7 +1305,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1344/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1213,6 +1316,8 @@ padding-right: 10px;}
 		<wp:post_id>1344</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1344]]></wp:post_name>
@@ -1257,7 +1362,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1345/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1268,6 +1373,8 @@ padding-right: 10px;}
 		<wp:post_id>1345</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1345]]></wp:post_name>
@@ -1312,7 +1419,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1346/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1323,6 +1430,8 @@ padding-right: 10px;}
 		<wp:post_id>1346</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1346]]></wp:post_name>
@@ -1367,7 +1476,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1347/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1378,6 +1487,8 @@ padding-right: 10px;}
 		<wp:post_id>1347</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1347]]></wp:post_name>
@@ -1422,7 +1533,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1348/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1433,6 +1544,8 @@ padding-right: 10px;}
 		<wp:post_id>1348</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1348]]></wp:post_name>
@@ -1477,7 +1590,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/royal-hotel/blog/</link>
 		<pubDate>Wed, 29 Jul 2015 13:49:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1488,6 +1601,8 @@ padding-right: 10px;}
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:49:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:49:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:49:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1503,7 +1618,7 @@ padding-right: 10px;}
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About Us</title>
+		<title><![CDATA[About Us]]></title>
 		<link>https://zakrademos.com/royal-hotel/about-us/</link>
 		<pubDate>Wed, 30 Dec 2020 10:44:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1538,6 +1653,8 @@ you will ever need</h2>
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:44:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 10:39:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 10:39:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -1657,11 +1774,11 @@ you will ever need</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:5:"align";i:2;s:11:"header_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:5;s:22:"typography_font_family";i:5;s:22:"typography_font_weight";i:5;s:11:"title_color";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:8;s:10:"column_gap";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:4;s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:5:"align";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:9;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:13:"margin_mobile";i:2;s:7:"padding";i:1;}s:15:"section_effects";a:3:{s:9:"animation";i:2;s:18:"animation_duration";i:2;s:15:"animation_delay";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"image_size";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:4;s:14:"padding_mobile";i:4;}s:15:"section_effects";a:2:{s:9:"animation";i:2;s:15:"animation_delay";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_image";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:4:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:7:"src_img";i:1;s:8:"img_size";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:5:"align";i:2;s:11:"header_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:5;s:22:"typography_font_family";i:5;s:22:"typography_font_weight";i:5;s:11:"title_color";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:8;s:10:"column_gap";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:4;s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:5:"align";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:9;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:13:"margin_mobile";i:2;s:7:"padding";i:1;}s:15:"section_effects";a:3:{s:9:"animation";i:2;s:18:"animation_duration";i:2;s:15:"animation_delay";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"image_size";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:4;s:14:"padding_mobile";i:4;}s:15:"section_effects";a:2:{s:9:"animation";i:2;s:15:"animation_delay";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_image";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:4:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:7:"src_img";i:1;s:8:"img_size";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Rooms</title>
+		<title><![CDATA[Rooms]]></title>
 		<link>https://zakrademos.com/royal-hotel/rooms/</link>
 		<pubDate>Wed, 30 Dec 2020 10:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1828,6 +1945,8 @@ you will ever need</h2>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:45:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:45:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 07:52:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 07:52:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rooms]]></wp:post_name>
@@ -1935,7 +2054,7 @@ you will ever need</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/royal-hotel/</link>
 		<pubDate>Wed, 29 Jul 2015 13:44:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2072,6 +2191,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1343</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 11:06:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 11:06:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2191,11 +2312,11 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:17;s:5:"align";i:5;s:11:"header_size";i:9;s:4:"link";i:6;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:8;s:21:"typography_typography";i:9;s:22:"typography_font_family";i:9;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:9;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:8:"_padding";i:1;s:7:"_margin";i:6;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:9;s:5:"align";i:2;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:22:"typography_font_weight";i:6;s:25:"typography_text_transform";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:8:"_padding";i:2;s:7:"_margin";i:8;s:15:"_padding_tablet";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:18;s:10:"column_gap";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:9:{s:17:"button_text_color";i:1;s:16:"background_color";i:2;s:13:"border_radius";i:2;s:12:"text_padding";i:2;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:2;}}s:8:"advanced";a:2:{s:15:"section_effects";a:1:{s:10:"_animation";i:1;}s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:21;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:21;s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:6;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:6:"margin";i:8;s:13:"margin_mobile";i:1;s:14:"padding_mobile";i:8;s:7:"padding";i:5;s:14:"padding_tablet";i:2;}s:15:"section_effects";a:3:{s:9:"animation";i:5;s:18:"animation_duration";i:5;s:15:"animation_delay";i:5;}}s:5:"style";a:2:{s:13:"section_style";a:7:{s:21:"background_background";i:8;s:16:"background_image";i:7;s:17:"background_repeat";i:8;s:15:"background_size";i:7;s:27:"background_hover_background";i:2;s:27:"background_hover_transition";i:2;s:19:"background_position";i:2;}s:26:"section_background_overlay";a:6:{s:29:"background_overlay_background";i:6;s:24:"background_overlay_color";i:6;s:35:"background_overlay_hover_background";i:6;s:32:"background_overlay_hover_opacity";i:6;s:35:"background_overlay_hover_transition";i:1;s:28:"css_filters_hover_css_filter";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:6:"height";i:1;s:13:"custom_height";i:1;s:12:"height_inner";i:2;s:19:"custom_height_inner";i:2;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:9:{s:21:"background_background";i:6;s:21:"background_video_link";i:1;s:16:"background_color";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:15:"background_size";i:1;s:17:"background_repeat";i:1;s:22:"background_size_tablet";i:1;s:26:"background_bg_width_tablet";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:2;s:24:"background_overlay_color";i:2;s:26:"background_overlay_opacity";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:14:"padding_mobile";i:5;s:11:"css_classes";i:1;s:14:"padding_tablet";i:1;}s:15:"section_effects";a:3:{s:9:"animation";i:2;s:15:"animation_delay";i:2;s:18:"animation_duration";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:2;s:10:"image_size";i:2;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:38:"elementor-companion-filterable-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:3:{s:21:"ec_fg_gallery_section";a:1:{s:5:"items";i:1;}s:22:"ec_fg_controls_section";a:2:{s:13:"enable_filter";i:1;s:10:"categories";i:1;}s:22:"ec_fg_settings_section";a:3:{s:6:"layout";i:1;s:15:"lightbox_slider";i:1;s:17:"image_link_target";i:1;}}s:5:"style";a:3:{s:19:"ec_fg_style_section";a:1:{s:13:"hover_effects";i:1;}s:28:"ec_fg_controls_style_section";a:5:{s:16:"controls_padding";i:1;s:43:"active_control_normal_background_background";i:1;s:38:"active_control_normal_background_color";i:1;s:42:"active_control_hover_background_background";i:1;s:37:"active_control_hover_background_color";i:1;}s:23:"ec_fg_btn_style_section";a:3:{s:16:"btn_normal_color";i:1;s:31:"btn_hover_background_background";i:1;s:26:"btn_hover_background_color";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:4:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:7:"src_img";i:1;s:8:"img_size";i:1;}}}}s:11:"star-rating";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_stars_style";a:1:{s:11:"stars_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:17;s:5:"align";i:5;s:11:"header_size";i:9;s:4:"link";i:6;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:8;s:21:"typography_typography";i:9;s:22:"typography_font_family";i:9;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:9;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:8:"_padding";i:1;s:7:"_margin";i:6;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:19;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:9;s:5:"align";i:2;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:22:"typography_font_weight";i:6;s:25:"typography_text_transform";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:8:"_padding";i:2;s:7:"_margin";i:8;s:15:"_padding_tablet";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:2:{s:6:"editor";i:18;s:10:"column_gap";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:9:{s:17:"button_text_color";i:1;s:16:"background_color";i:2;s:13:"border_radius";i:2;s:12:"text_padding";i:2;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:2;}}s:8:"advanced";a:2:{s:15:"section_effects";a:1:{s:10:"_animation";i:1;}s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:21;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:21;s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:6;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:6:"margin";i:8;s:13:"margin_mobile";i:1;s:14:"padding_mobile";i:8;s:7:"padding";i:5;s:14:"padding_tablet";i:2;}s:15:"section_effects";a:3:{s:9:"animation";i:5;s:18:"animation_duration";i:5;s:15:"animation_delay";i:5;}}s:5:"style";a:2:{s:13:"section_style";a:7:{s:21:"background_background";i:8;s:16:"background_image";i:7;s:17:"background_repeat";i:8;s:15:"background_size";i:7;s:27:"background_hover_background";i:2;s:27:"background_hover_transition";i:2;s:19:"background_position";i:2;}s:26:"section_background_overlay";a:6:{s:29:"background_overlay_background";i:6;s:24:"background_overlay_color";i:6;s:35:"background_overlay_hover_background";i:6;s:32:"background_overlay_hover_opacity";i:6;s:35:"background_overlay_hover_transition";i:1;s:28:"css_filters_hover_css_filter";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:6:"height";i:1;s:13:"custom_height";i:1;s:12:"height_inner";i:2;s:19:"custom_height_inner";i:2;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:9:{s:21:"background_background";i:6;s:21:"background_video_link";i:1;s:16:"background_color";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:15:"background_size";i:1;s:17:"background_repeat";i:1;s:22:"background_size_tablet";i:1;s:26:"background_bg_width_tablet";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:2;s:24:"background_overlay_color";i:2;s:26:"background_overlay_opacity";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:14:"padding_mobile";i:5;s:11:"css_classes";i:1;s:14:"padding_tablet";i:1;}s:15:"section_effects";a:3:{s:9:"animation";i:2;s:15:"animation_delay";i:2;s:18:"animation_duration";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:2;s:10:"image_size";i:2;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:38:"elementor-companion-filterable-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:3:{s:21:"ec_fg_gallery_section";a:1:{s:5:"items";i:1;}s:22:"ec_fg_controls_section";a:2:{s:13:"enable_filter";i:1;s:10:"categories";i:1;}s:22:"ec_fg_settings_section";a:3:{s:6:"layout";i:1;s:15:"lightbox_slider";i:1;s:17:"image_link_target";i:1;}}s:5:"style";a:3:{s:19:"ec_fg_style_section";a:1:{s:13:"hover_effects";i:1;}s:28:"ec_fg_controls_style_section";a:5:{s:16:"controls_padding";i:1;s:43:"active_control_normal_background_background";i:1;s:38:"active_control_normal_background_color";i:1;s:42:"active_control_hover_background_background";i:1;s:37:"active_control_hover_background_color";i:1;}s:23:"ec_fg_btn_style_section";a:3:{s:16:"btn_normal_color";i:1;s:31:"btn_hover_background_background";i:1;s:26:"btn_hover_background_color";i:1;}}}}s:25:"elementor-companion-modal";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:2:{s:24:"ec_modal_content_section";a:3:{s:12:"content_type";i:1;s:7:"content";i:1;s:11:"video_embed";i:1;}s:20:"ec_modal_src_section";a:4:{s:13:"src_alignment";i:1;s:8:"src_type";i:1;s:7:"src_img";i:1;s:8:"img_size";i:1;}}}}s:11:"star-rating";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_stars_style";a:1:{s:11:"stars_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1349/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2206,6 +2327,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1349</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1349]]></wp:post_name>
@@ -2250,7 +2373,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1350/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2261,6 +2384,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1350</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1350]]></wp:post_name>
@@ -2305,7 +2430,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1351/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2316,6 +2441,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1351</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1351]]></wp:post_name>
@@ -2360,7 +2487,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1352/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2371,6 +2498,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1352</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1352]]></wp:post_name>
@@ -2415,7 +2544,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1353/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2426,6 +2555,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1353</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1353]]></wp:post_name>
@@ -2470,7 +2601,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1354/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2481,6 +2612,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1354</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:04:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:04:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1354]]></wp:post_name>
@@ -2525,7 +2658,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1355/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2536,6 +2669,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1355</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:04:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:04:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1355]]></wp:post_name>
@@ -2580,7 +2715,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1356/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2591,6 +2726,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1356</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:04:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:04:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1356]]></wp:post_name>
@@ -2635,7 +2772,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1357/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2646,6 +2783,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1357</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1357]]></wp:post_name>
@@ -2690,7 +2829,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1358/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2701,6 +2840,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1358</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1358]]></wp:post_name>
@@ -2745,7 +2886,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1359/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2756,6 +2897,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1359</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1359]]></wp:post_name>
@@ -2800,7 +2943,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1360/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2811,6 +2954,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1360</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1360]]></wp:post_name>
@@ -2855,7 +3000,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1361/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2866,6 +3011,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1361</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1361]]></wp:post_name>
@@ -2910,7 +3057,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1362/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2921,6 +3068,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1362</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 05:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1362]]></wp:post_name>
@@ -2965,7 +3114,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1363/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2976,6 +3125,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1363</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1363]]></wp:post_name>
@@ -3020,7 +3171,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/royal-hotel/2021/01/18/1364/</link>
 		<pubDate>Mon, 18 Jan 2021 05:28:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3031,6 +3182,8 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		<wp:post_id>1364</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-18 05:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-18 05:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-18 06:03:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-18 06:03:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1364]]></wp:post_name>
@@ -3075,62 +3228,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://zakrademos.com/royal-hotel/2021/01/18/hello-world__trashed/</link>
-		<pubDate>Mon, 18 Jan 2021 05:23:01 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/royal-hotel/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://zakrademos.com/">Zakra Demos</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-18 05:23:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-18 05:23:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1610959309]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-01-18 05:23:01]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-01-18 05:23:01]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://zakrademos.com/royal-hotel/gallery/</link>
 		<pubDate>Wed, 30 Dec 2020 10:45:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3198,6 +3296,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:45:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:45:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:45:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -3305,7 +3405,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://zakrademos.com/royal-hotel/services/</link>
 		<pubDate>Wed, 30 Dec 2020 10:46:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3332,9 +3432,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 																							Single Room
 																							$249/per night
 																											<a
-														   href="https://zakrademos.com/royal-hotel/room-detail/"
+															href="https://zakrademos.com/royal-hotel/room-detail/"
 																														>
-														</a>
+																													</a>
 																									 <!-- /.ec-fg-btn -->
 																					 <!-- /.ec-caption-content -->
 									 <!-- /.ec-fg-caption -->
@@ -3346,9 +3446,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 																							Deluxe Room
 																							$249/per night
 																											<a
-														   href="https://zakrademos.com/royal-hotel/room-detail/"
+															href="https://zakrademos.com/royal-hotel/room-detail/"
 																														>
-														</a>
+																													</a>
 																									 <!-- /.ec-fg-btn -->
 																					 <!-- /.ec-caption-content -->
 									 <!-- /.ec-fg-caption -->
@@ -3360,9 +3460,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 																							Suite
 																							$249/per night
 																											<a
-														   href="https://zakrademos.com/royal-hotel/room-detail/"
+															href="https://zakrademos.com/royal-hotel/room-detail/"
 																														>
-														</a>
+																													</a>
 																									 <!-- /.ec-fg-btn -->
 																					 <!-- /.ec-caption-content -->
 									 <!-- /.ec-fg-caption -->
@@ -3374,9 +3474,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 																							Balcony Room
 																							$249/per night
 																											<a
-														   href="https://zakrademos.com/royal-hotel/room-detail/"
+															href="https://zakrademos.com/royal-hotel/room-detail/"
 																														>
-														</a>
+																													</a>
 																									 <!-- /.ec-fg-btn -->
 																					 <!-- /.ec-caption-content -->
 									 <!-- /.ec-fg-caption -->
@@ -3388,9 +3488,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 																							Family Room
 																							$249/per night
 																											<a
-														   href="https://zakrademos.com/royal-hotel/room-detail/"
+															href="https://zakrademos.com/royal-hotel/room-detail/"
 																														>
-														</a>
+																													</a>
 																									 <!-- /.ec-fg-btn -->
 																					 <!-- /.ec-caption-content -->
 									 <!-- /.ec-fg-caption -->
@@ -3402,6 +3502,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:46:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:46:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-01 08:38:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-01 08:38:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -3497,11 +3599,15 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.0.13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7bb6d76","elType":"section","settings":{"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false},"background_background":"classic","padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"512a58e","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"animation":"fadeIn","animation_duration":"slow","animation_delay":200},"elements":[{"id":"bf9e9e0","elType":"section","settings":{"height_inner":"min-height","structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"custom_height_inner":{"unit":"px","size":500,"sizes":[]}},"elements":[{"id":"26bbe77","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/spa.jpg","id":1235},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_transition":{"unit":"px","size":0.7,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"8490903","elType":"widget","settings":{"title":"Spa & Massage","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"d33d10e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"0b9154b","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/breakfast.jpg","id":1222},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"css_filters_hover_css_filter":"custom","padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"c84f082","elType":"widget","settings":{"title":"Free Breakfast","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"a3e312c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"f7bd053","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/wake-up-call.jpg","id":1224},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_hover_background":"classic","background_hover_transition":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"7663e24","elType":"widget","settings":{"title":"Wake-Up Call ","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"745b4de","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"4e33db2","elType":"section","settings":{"height_inner":"min-height","structure":"30","custom_height_inner":{"unit":"px","size":500,"sizes":[]}},"elements":[{"id":"0ca303d","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/laundry.jpg","id":1243},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"6ffea45","elType":"widget","settings":{"title":"Laundry","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"c56f634","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"07d70d5","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/car-rental.jpg","id":1231},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_hover_background":"classic","background_hover_transition":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"f046566","elType":"widget","settings":{"title":"Car Rental","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"87991ee","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"c8e1657","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/wifi.jpg","id":1239},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"10f51cb","elType":"widget","settings":{"title":"Free WI-FI","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"533b531","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"9e41b37","elType":"section","settings":{"background_background":"classic","background_color":"#F9F9F9","padding":{"unit":"px","top":"120","right":"0","bottom":"110","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"90","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"04b38fc","elType":"column","settings":{"_column_size":100,"_inline_size":null,"animation":"fadeIn","animation_duration":"slow","animation_delay":200},"elements":[{"id":"53e5599","elType":"widget","settings":{"editor":"<p>Plenty of room<\/p>","typography_typography":"custom","typography_font_family":"Poppins","typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"e6d7336","elType":"widget","settings":{"title":"Room and Suites\u200b","align":"left","_margin":{"unit":"px","top":"-40","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f7daa48","elType":"widget","settings":{"items":[{"category":"Category A","title":"Single Room","_id":"bae8747","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-one.jpg","id":400},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category B","title":"Deluxe Room","_id":"fbdfacc","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/img1.jpg","id":628},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category A","title":"Suite","_id":"b79759e","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-two.jpg","id":402},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category B","title":"Balcony Room","_id":"b529d3f","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-three.jpg","id":401},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category A","title":"Family Room","_id":"aeb54b5","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-four.jpg","id":399},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}}],"enable_filter":"","first_tab_label":"All","categories":[{"category_name":"Category A","_id":"1bc63c5"},{"category_name":"Category B","_id":"8a38e61"}],"layout":"masonry","hover_effects":"2","controls_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"lightbox_slider":"","image_link_target":"custom_link"},"elements":[],"widgetType":"elementor-companion-filterable-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7bb6d76","elType":"section","settings":{"padding":{"unit":"px","top":"130","right":"0","bottom":"130","left":"0","isLinked":false},"background_background":"classic","padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"512a58e","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"animation":"fadeIn","animation_duration":"slow","animation_delay":200},"elements":[{"id":"bf9e9e0","elType":"section","settings":{"height_inner":"min-height","structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"custom_height_inner":{"unit":"px","size":500,"sizes":[]}},"elements":[{"id":"26bbe77","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/spa.jpg","id":1235,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_transition":{"unit":"px","size":0.7,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"8490903","elType":"widget","settings":{"title":"Spa & Massage","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"d33d10e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"0b9154b","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/breakfast.jpg","id":1222,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"css_filters_hover_css_filter":"custom","padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"c84f082","elType":"widget","settings":{"title":"Free Breakfast","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"a3e312c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"f7bd053","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/wake-up-call.jpg","id":1224,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_hover_background":"classic","background_hover_transition":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"7663e24","elType":"widget","settings":{"title":"Wake-Up Call ","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"745b4de","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"4e33db2","elType":"section","settings":{"height_inner":"min-height","structure":"30","custom_height_inner":{"unit":"px","size":500,"sizes":[]}},"elements":[{"id":"0ca303d","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/laundry.jpg","id":1243,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"6ffea45","elType":"widget","settings":{"title":"Laundry","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"c56f634","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"07d70d5","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/car-rental.jpg","id":1231,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_hover_background":"classic","background_hover_transition":{"unit":"px","size":0.8,"sizes":[]},"background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"f046566","elType":"widget","settings":{"title":"Car Rental","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"87991ee","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"c8e1657","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"bottom","background_background":"classic","background_image":{"url":"https:\/\/zakrademos.com\/royal-hotel\/wp-content\/uploads\/sites\/86\/2021\/01\/wifi.jpg","id":1239,"alt":"","source":"library"},"background_overlay_background":"classic","background_overlay_color":"#000000","margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"background_repeat":"no-repeat","background_size":"cover","background_overlay_hover_background":"classic","background_overlay_hover_opacity":{"unit":"px","size":0.8,"sizes":[]},"padding_mobile":{"unit":"px","top":"200","right":"10","bottom":"10","left":"10","isLinked":false}},"elements":[{"id":"10f51cb","elType":"widget","settings":{"title":"Free WI-FI","header_size":"h3","title_color":"#FFFFFF","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/single-service\/","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"heading"},{"id":"533b531","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur\u00a0 adipisicing elit sed do eiusmod tempor<\/p>","text_color":"#FFFFFF","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"9e41b37","elType":"section","settings":{"background_background":"classic","background_color":"#F9F9F9","padding":{"unit":"px","top":"120","right":"0","bottom":"110","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"90","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"04b38fc","elType":"column","settings":{"_column_size":100,"_inline_size":null,"animation":"fadeIn","animation_duration":"slow","animation_delay":200},"elements":[{"id":"53e5599","elType":"widget","settings":{"editor":"<p>Plenty of room<\/p>","typography_typography":"custom","typography_font_family":"Poppins","typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"e6d7336","elType":"widget","settings":{"title":"Room and Suites\u200b","align":"left","_margin":{"unit":"px","top":"-40","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f7daa48","elType":"widget","settings":{"items":[{"category":"Category A","title":"Single Room","_id":"bae8747","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-one.jpg","id":400},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category B","title":"Deluxe Room","_id":"fbdfacc","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2021\/01\/img1.jpg","id":628},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category A","title":"Suite","_id":"b79759e","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-two.jpg","id":402},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category B","title":"Balcony Room","_id":"b529d3f","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-three.jpg","id":401},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}},{"category":"Category A","title":"Family Room","_id":"aeb54b5","image":{"url":"https:\/\/zakra-pro-royal-hotel.sites.qsandbox.com\/wp-content\/uploads\/2020\/12\/gallery-four.jpg","id":399},"description":"$249\/per night","enable_lightbox_button":"","link":{"url":"https:\/\/zakrademos.com\/royal-hotel\/room-detail\/","is_external":false,"nofollow":false,"custom_attributes":""}}],"enable_filter":"","first_tab_label":"All","categories":[{"category_name":"Category A","_id":"1bc63c5"},{"category_name":"Category B","_id":"8a38e61"}],"layout":"masonry","hover_effects":"2","controls_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"lightbox_slider":"","image_link_target":"custom_link"},"elements":[],"widgetType":"elementor-companion-filterable-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:6:"styles";a:2:{i:0;s:12:"e-animations";i:1;s:12:"e-animations";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -3509,7 +3615,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Book Now</title>
+		<title><![CDATA[Book Now]]></title>
 		<link>https://zakrademos.com/royal-hotel/book-now/</link>
 		<pubDate>Wed, 30 Dec 2020 10:48:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3541,6 +3647,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:48:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:48:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:48:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:48:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book-now]]></wp:post_name>
@@ -3648,7 +3756,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single Service</title>
+		<title><![CDATA[Single Service]]></title>
 		<link>https://zakrademos.com/royal-hotel/single-service/</link>
 		<pubDate>Tue, 05 Jan 2021 10:13:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3678,6 +3786,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>1055</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:13:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:13:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:13:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:13:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-service]]></wp:post_name>
@@ -3781,11 +3891,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:13:"margin_mobile";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;s:11:"hover_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}s:15:"section_effects";a:2:{s:9:"animation";i:1;s:15:"animation_delay";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:13:"margin_mobile";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;s:11:"hover_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}s:15:"section_effects";a:2:{s:9:"animation";i:1;s:15:"animation_delay";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Room Detail</title>
+		<title><![CDATA[Room Detail]]></title>
 		<link>https://zakrademos.com/royal-hotel/room-detail/</link>
 		<pubDate>Tue, 05 Jan 2021 11:51:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3824,6 +3934,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>1107</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:51:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:51:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:51:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:51:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[room-detail]]></wp:post_name>
@@ -3927,11 +4039,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:13:"margin_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:21:"typography_font_style";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:18:"section_text_style";a:1:{s:10:"text_color";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:5:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:1:{s:19:"hover_primary_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}s:15:"section_effects";a:2:{s:9:"animation";i:1;s:15:"animation_delay";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:13:"margin_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:21:"typography_font_style";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:18:"section_text_style";a:1:{s:10:"text_color";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:5:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:1:{s:19:"hover_primary_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}s:15:"section_effects";a:2:{s:9:"animation";i:1;s:15:"animation_delay";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
+		<title><![CDATA[Hello world!]]></title>
 		<link>https://zakrademos.com/royal-hotel/2015/07/29/hello-world-2/</link>
 		<pubDate>Wed, 29 Jul 2015 13:40:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3942,6 +4054,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>1342</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:40:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:40:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>

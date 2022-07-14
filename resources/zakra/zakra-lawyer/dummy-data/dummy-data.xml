@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-12-17 05:17" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 15:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,13 @@
 	<title>Zakra Lawyer</title>
 	<link>https://zakrademos.com/lawyer</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Thu, 17 Dec 2020 05:17:53 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 15:07:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/lawyer</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[teamzakra]]></wp:author_login><wp:author_email><![CDATA[team@zakratheme.com]]></wp:author_email><wp:author_display_name><![CDATA[teamzakra]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -69,14 +68,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -87,7 +107,7 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[quick-links]]></wp:term_slug><wp:term_name><![CDATA[Quick Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/lawyer/wp-content/uploads/sites/22/2020/07/zakra.png</url>
@@ -98,7 +118,7 @@
 </image> 
 
 		<item>
-		<title>cropped-header-logo.png</title>
+		<title><![CDATA[cropped-header-logo.png]]></title>
 		<link>https://zakrademos.com/lawyer/cropped-header-logo-png/</link>
 		<pubDate>Tue, 04 Jun 2019 05:31:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -111,6 +131,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 05:31:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 05:31:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-04 05:31:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-04 05:31:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-header-logo-png]]></wp:post_name>
@@ -143,7 +165,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-top-logo.png</title>
+		<title><![CDATA[cropped-top-logo.png]]></title>
 		<link>https://zakrademos.com/lawyer/cropped-top-logo-png/</link>
 		<pubDate>Tue, 04 Jun 2019 05:38:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -156,6 +178,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 05:38:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 05:38:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-04 05:38:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-04 05:38:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-top-logo-png]]></wp:post_name>
@@ -188,7 +212,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>header-banner</title>
+		<title><![CDATA[header-banner]]></title>
 		<link>https://zakrademos.com/lawyer/home/header-banner/</link>
 		<pubDate>Tue, 04 Jun 2019 06:16:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -199,6 +223,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 06:16:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 06:16:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-04 06:16:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-04 06:16:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-banner]]></wp:post_name>
@@ -223,7 +249,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-us-background</title>
+		<title><![CDATA[about-us-background]]></title>
 		<link>https://zakrademos.com/lawyer/home/about-us-background/</link>
 		<pubDate>Tue, 04 Jun 2019 10:40:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -234,6 +260,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 10:40:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 10:40:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-04 10:40:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-04 10:40:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us-background]]></wp:post_name>
@@ -258,7 +286,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-us</title>
+		<title><![CDATA[about-us]]></title>
 		<link>https://zakrademos.com/lawyer/home/about-us/</link>
 		<pubDate>Tue, 04 Jun 2019 11:44:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -269,6 +297,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 11:44:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 11:44:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-04 11:44:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-04 11:44:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -293,7 +323,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>consultant-banner</title>
+		<title><![CDATA[consultant-banner]]></title>
 		<link>https://zakrademos.com/lawyer/home/consultant-banner/</link>
 		<pubDate>Wed, 05 Jun 2019 05:41:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -304,6 +334,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 05:41:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 05:41:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 05:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 05:41:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[consultant-banner]]></wp:post_name>
@@ -328,7 +360,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-1</title>
+		<title><![CDATA[testimonial-1]]></title>
 		<link>https://zakrademos.com/lawyer/home/testimonial-1/</link>
 		<pubDate>Wed, 05 Jun 2019 08:44:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -339,6 +371,8 @@
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 08:44:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 08:44:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 08:44:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 08:44:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-1]]></wp:post_name>
@@ -363,7 +397,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testimonial-2</title>
+		<title><![CDATA[testimonial-2]]></title>
 		<link>https://zakrademos.com/lawyer/home/testimonial-2/</link>
 		<pubDate>Wed, 05 Jun 2019 09:45:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -374,6 +408,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 09:45:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 09:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 09:45:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 09:45:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonial-2]]></wp:post_name>
@@ -398,7 +434,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why-choose-us</title>
+		<title><![CDATA[why-choose-us]]></title>
 		<link>https://zakrademos.com/lawyer/home/why-choose-us/</link>
 		<pubDate>Wed, 05 Jun 2019 10:07:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -409,6 +445,8 @@
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 10:07:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 10:07:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 10:07:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 10:07:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-choose-us]]></wp:post_name>
@@ -433,7 +471,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsletter-banner</title>
+		<title><![CDATA[newsletter-banner]]></title>
 		<link>https://zakrademos.com/lawyer/home/newsletter-banner/</link>
 		<pubDate>Wed, 05 Jun 2019 10:49:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -444,6 +482,8 @@
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-05 10:49:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-05 10:49:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-05 10:49:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-05 10:49:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsletter-banner]]></wp:post_name>
@@ -468,7 +508,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l5</title>
+		<title><![CDATA[com-l5]]></title>
 		<link>https://zakrademos.com/lawyer/com-l5/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -479,6 +519,8 @@
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l5]]></wp:post_name>
@@ -503,7 +545,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l4</title>
+		<title><![CDATA[com-l4]]></title>
 		<link>https://zakrademos.com/lawyer/com-l4/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -514,6 +556,8 @@
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l4]]></wp:post_name>
@@ -538,7 +582,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l3</title>
+		<title><![CDATA[com-l3]]></title>
 		<link>https://zakrademos.com/lawyer/com-l3/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -549,6 +593,8 @@
 		<wp:post_id>248</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l3]]></wp:post_name>
@@ -573,7 +619,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l2</title>
+		<title><![CDATA[com-l2]]></title>
 		<link>https://zakrademos.com/lawyer/com-l2/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -584,6 +630,8 @@
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l2]]></wp:post_name>
@@ -608,7 +656,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l1</title>
+		<title><![CDATA[com-l1]]></title>
 		<link>https://zakrademos.com/lawyer/com-l1/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -619,6 +667,8 @@
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l1]]></wp:post_name>
@@ -643,7 +693,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>com-l1</title>
+		<title><![CDATA[com-l1]]></title>
 		<link>https://zakrademos.com/lawyer/com-l1-2/</link>
 		<pubDate>Thu, 06 Jun 2019 06:30:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -654,6 +704,8 @@
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 06:30:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 06:30:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 06:30:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 06:30:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[com-l1-2]]></wp:post_name>
@@ -678,7 +730,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pageheader-banner</title>
+		<title><![CDATA[pageheader-banner]]></title>
 		<link>https://zakrademos.com/lawyer/pageheader-banner/</link>
 		<pubDate>Thu, 06 Jun 2019 08:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -689,6 +741,8 @@
 		<wp:post_id>289</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 08:57:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 08:57:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 08:57:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 08:57:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pageheader-banner]]></wp:post_name>
@@ -713,7 +767,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ab-awards</title>
+		<title><![CDATA[ab-awards]]></title>
 		<link>https://zakrademos.com/lawyer/about/ab-awards/</link>
 		<pubDate>Thu, 06 Jun 2019 10:57:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -724,6 +778,8 @@
 		<wp:post_id>327</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 10:57:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 10:57:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 10:57:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 10:57:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ab-awards]]></wp:post_name>
@@ -748,7 +804,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>award-l1</title>
+		<title><![CDATA[award-l1]]></title>
 		<link>https://zakrademos.com/lawyer/about/award-l1/</link>
 		<pubDate>Thu, 06 Jun 2019 11:31:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -759,6 +815,8 @@
 		<wp:post_id>334</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-06 11:31:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-06 11:31:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-06 11:31:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-06 11:31:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[award-l1]]></wp:post_name>
@@ -783,7 +841,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>who-are-we</title>
+		<title><![CDATA[who-are-we]]></title>
 		<link>https://zakrademos.com/lawyer/about/who-are-we/</link>
 		<pubDate>Fri, 07 Jun 2019 06:43:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -794,6 +852,8 @@
 		<wp:post_id>366</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 06:43:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 06:43:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 06:43:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 06:43:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[who-are-we]]></wp:post_name>
@@ -818,7 +878,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/lawyer/2019/06/04/zakra/</link>
 		<pubDate>Tue, 04 Jun 2019 04:21:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -837,6 +897,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-04 04:21:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-04 04:21:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -848,7 +910,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>award-i2</title>
+		<title><![CDATA[award-i2]]></title>
 		<link>https://zakrademos.com/lawyer/about/award-i2/</link>
 		<pubDate>Fri, 07 Jun 2019 08:50:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -859,6 +921,8 @@
 		<wp:post_id>377</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 08:50:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 08:50:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 08:50:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 08:50:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[award-i2]]></wp:post_name>
@@ -883,7 +947,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>award-i3</title>
+		<title><![CDATA[award-i3]]></title>
 		<link>https://zakrademos.com/lawyer/about/award-i3/</link>
 		<pubDate>Fri, 07 Jun 2019 08:56:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -894,6 +958,8 @@
 		<wp:post_id>382</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 08:56:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 08:56:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 08:56:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 08:56:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[award-i3]]></wp:post_name>
@@ -918,7 +984,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>award-i4</title>
+		<title><![CDATA[award-i4]]></title>
 		<link>https://zakrademos.com/lawyer/about/award-i4/</link>
 		<pubDate>Fri, 07 Jun 2019 08:57:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -929,6 +995,8 @@
 		<wp:post_id>384</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 08:57:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 08:57:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 08:57:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 08:57:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[award-i4]]></wp:post_name>
@@ -953,7 +1021,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>award-i4</title>
+		<title><![CDATA[award-i4]]></title>
 		<link>https://zakrademos.com/lawyer/about/award-i4-2/</link>
 		<pubDate>Fri, 07 Jun 2019 09:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -964,6 +1032,8 @@
 		<wp:post_id>385</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[award-i4-2]]></wp:post_name>
@@ -988,7 +1058,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team1</title>
+		<title><![CDATA[team1]]></title>
 		<link>https://zakrademos.com/lawyer/about/team1/</link>
 		<pubDate>Fri, 07 Jun 2019 09:26:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -999,6 +1069,8 @@
 		<wp:post_id>391</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:26:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:26:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:26:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:26:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team1]]></wp:post_name>
@@ -1023,7 +1095,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team2</title>
+		<title><![CDATA[team2]]></title>
 		<link>https://zakrademos.com/lawyer/about/team2/</link>
 		<pubDate>Fri, 07 Jun 2019 09:49:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1034,6 +1106,8 @@
 		<wp:post_id>398</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:49:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:49:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:49:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:49:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team2]]></wp:post_name>
@@ -1058,7 +1132,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team3</title>
+		<title><![CDATA[team3]]></title>
 		<link>https://zakrademos.com/lawyer/about/team3/</link>
 		<pubDate>Fri, 07 Jun 2019 09:50:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1069,6 +1143,8 @@
 		<wp:post_id>400</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:50:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:50:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:50:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:50:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team3]]></wp:post_name>
@@ -1093,7 +1169,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team4</title>
+		<title><![CDATA[team4]]></title>
 		<link>https://zakrademos.com/lawyer/about/team4/</link>
 		<pubDate>Fri, 07 Jun 2019 09:51:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1104,6 +1180,8 @@
 		<wp:post_id>401</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 09:51:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 09:51:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 09:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 09:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team4]]></wp:post_name>
@@ -1128,7 +1206,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>subscribe</title>
+		<title><![CDATA[subscribe]]></title>
 		<link>https://zakrademos.com/lawyer/about/subscribe/</link>
 		<pubDate>Fri, 07 Jun 2019 10:35:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1139,6 +1217,8 @@
 		<wp:post_id>412</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-07 10:35:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-07 10:35:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-07 10:35:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-07 10:35:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[subscribe]]></wp:post_name>
@@ -1163,7 +1243,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-image1</title>
+		<title><![CDATA[blog-image1]]></title>
 		<link>https://zakrademos.com/lawyer/2019/06/10/how-a-criminal-defense-attorney-can-protect-your-rights/blog-image1/</link>
 		<pubDate>Mon, 10 Jun 2019 09:22:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1176,6 +1256,8 @@
 		<wp:post_id>476</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 09:22:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 09:22:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 09:22:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 09:22:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-image1]]></wp:post_name>
@@ -1200,7 +1282,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-image2</title>
+		<title><![CDATA[blog-image2]]></title>
 		<link>https://zakrademos.com/lawyer/blog-image2/</link>
 		<pubDate>Mon, 10 Jun 2019 09:23:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1213,6 +1295,8 @@
 		<wp:post_id>477</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 09:23:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 09:23:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 09:23:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 09:23:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-image2]]></wp:post_name>
@@ -1237,7 +1321,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog-image3</title>
+		<title><![CDATA[blog-image3]]></title>
 		<link>https://zakrademos.com/lawyer/2019/06/10/why-hire-zakra-criminal-defense-lawyers/blog-image3/</link>
 		<pubDate>Mon, 10 Jun 2019 09:24:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1250,6 +1334,8 @@
 		<wp:post_id>478</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 09:24:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 09:24:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 09:24:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 09:24:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-image3]]></wp:post_name>
@@ -1274,7 +1360,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why-chooseus</title>
+		<title><![CDATA[why-chooseus]]></title>
 		<link>https://zakrademos.com/lawyer/home/why-chooseus/</link>
 		<pubDate>Thu, 13 Jun 2019 09:52:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1285,6 +1371,8 @@
 		<wp:post_id>795</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 09:52:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 09:52:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 09:52:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 09:52:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-chooseus]]></wp:post_name>
@@ -1309,7 +1397,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-header-logo-1.png</title>
+		<title><![CDATA[cropped-header-logo-1.png]]></title>
 		<link>https://zakrademos.com/lawyer/cropped-header-logo-1-png/</link>
 		<pubDate>Thu, 13 Jun 2019 11:20:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1320,6 +1408,8 @@
 		<wp:post_id>832</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 11:20:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 11:20:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 11:20:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 11:20:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-header-logo-1-png]]></wp:post_name>
@@ -1352,10 +1442,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/lawyer/logo/</link>
 		<pubDate>Wed, 14 Aug 2019 09:56:51 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/lawyer/wp-content/uploads/sites/22/2019/08/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1363,6 +1453,8 @@
 		<wp:post_id>883</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:56:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:56:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 09:56:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 09:56:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -1387,10 +1479,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-logo</title>
+		<title><![CDATA[footer-logo]]></title>
 		<link>https://zakrademos.com/lawyer/footer-logo-2/</link>
 		<pubDate>Wed, 14 Aug 2019 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[teamzakra]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/lawyer/wp-content/uploads/sites/22/2019/08/footer-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1398,6 +1490,8 @@
 		<wp:post_id>884</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 09:57:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 09:57:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 09:57:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 09:57:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo-2]]></wp:post_name>
@@ -1422,7 +1516,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Front Page</title>
+		<title><![CDATA[Zakra Lawyer - Front Page]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-front-page</link>
 		<pubDate>Mon, 18 Nov 2019 06:30:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1574,6 +1668,8 @@
 		<wp:post_id>885</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:30:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:30:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:30:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:30:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-front-page]]></wp:post_name>
@@ -1610,7 +1706,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Page</title>
+		<title><![CDATA[Zakra Lawyer - About Page]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-page</link>
 		<pubDate>Mon, 18 Nov 2019 06:33:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1668,6 +1764,8 @@
 		<wp:post_id>891</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:33:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:33:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:33:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:33:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-page]]></wp:post_name>
@@ -1704,7 +1802,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/lawyer/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:27:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1715,6 +1813,8 @@
 		<wp:post_id>977</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:27:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:27:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:27:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:27:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -1735,61 +1835,92 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/lawyer/?post_type=everest_form&#038;p=5</link>
-		<pubDate>Thu, 13 Jun 2019 10:50:12 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/lawyer/mc4wp-form/215/</link>
+		<pubDate>Thu, 13 Jun 2019 11:27:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/zakra-lawyer/?post_type=everest_form&#038;p=5</guid>
+		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/mc4wp-form/215/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"5","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Lawyer","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[<input type="email" name="EMAIL" placeholder="Enter your email address" required />
+<input type="submit" value="Submit" />
+
+
+
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-13 10:50:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-13 10:50:12]]></wp:post_date_gmt>
+		<wp:post_id>215</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-13 11:27:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-13 11:27:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-13 11:27:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-13 11:27:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-3]]></wp:post_name>
+		<wp:post_name><![CDATA[215]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
+		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_mc4wp_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:15:"required_fields";s:5:"EMAIL";s:12:"double_optin";s:1:"1";s:15:"update_existing";s:1:"0";s:17:"replace_interests";s:1:"1";s:15:"subscriber_tags";s:0:"";s:18:"hide_after_success";s:1:"0";s:8:"redirect";s:0:"";s:18:"grecaptcha_enabled";s:1:"0";s:3:"css";s:1:"0";s:5:"lists";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thank you, your sign-up request was successful! Please check your email inbox to confirm.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_invalid_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please provide a valid email address.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_required_field_missing]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please fill in the required fields.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_already_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Given email address is already subscribed, thank you!]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_error]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Oops. Something went wrong. Please try again later.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_unsubscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[You were successfully unsubscribed.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_not_subscribed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Given email address is not subscribed.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_no_lists_selected]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Please select at least one list.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thank you, your records have been updated!]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019-06-05]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Contact Form</title>
-		<link>https://zakrademos.com/lawyer/?post_type=everest_form&#038;p=433</link>
-		<pubDate>Mon, 10 Jun 2019 05:14:20 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?post_type=everest_form&#038;p=433</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":"433","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>433</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-10 05:14:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-10 05:14:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/lawyer/?post_type=everest_form&#038;p=434</link>
 		<pubDate>Mon, 10 Jun 2019 05:21:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?post_type=everest_form&#038;p=434</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"434","form_field_id":6,"form_fields":{"hVWYy3pE26-1":{"id":"hVWYy3pE26-1","type":"first-name","label":"","meta-key":"first_name_8386","description":"","placeholder":"First Name","css":""},"pJCvejnMWp-2":{"id":"pJCvejnMWp-2","type":"last-name","label":"","meta-key":"last_name_7604","description":"","placeholder":"Last Name","css":""},"aaKCEjCGOA-3":{"id":"aaKCEjCGOA-3","type":"email","label":"","meta-key":"email_4120","description":"","placeholder":"Email","default_value":"","css":""},"7Rc0qePmED-4":{"id":"7Rc0qePmED-4","type":"text","label":"","meta-key":"single_line_text_6897","description":"","placeholder":"Subject","default_value":"","css":"","input_mask":""},"Qz6mbZo1O1-5":{"id":"Qz6mbZo1O1-5","type":"textarea","label":"","meta-key":"paragraph_text_2316","description":"","placeholder":"Message","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"7","external_url":"","layout_class":"layout-two","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["hVWYy3pE26-1","pJCvejnMWp-2","aaKCEjCGOA-3","7Rc0qePmED-4","Qz6mbZo1O1-5"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"434","form_enabled":"1","form_field_id":6,"form_fields":{"hVWYy3pE26-1":{"id":"hVWYy3pE26-1","type":"first-name","label":"","meta-key":"first_name_8386","description":"","required-field-message":"This field is required.","placeholder":"First Name","default_value":"","css":""},"pJCvejnMWp-2":{"id":"pJCvejnMWp-2","type":"last-name","label":"","meta-key":"last_name_7604","description":"","required-field-message":"This field is required.","placeholder":"Last Name","default_value":"","css":""},"aaKCEjCGOA-3":{"id":"aaKCEjCGOA-3","type":"email","label":"","meta-key":"email_4120","description":"","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","default_value":"","css":""},"7Rc0qePmED-4":{"id":"7Rc0qePmED-4","type":"text","label":"","meta-key":"single_line_text_6897","description":"","required-field-message":"This field is required.","placeholder":"Subject","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"Qz6mbZo1O1-5":{"id":"Qz6mbZo1O1-5","type":"textarea","label":"","meta-key":"paragraph_text_2316","description":"","required-field-message":"This field is required.","placeholder":"Message","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"7","external_url":"","layout_class":"layout-two","form_class":"","submit_button_text":"SUBMIT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["hVWYy3pE26-1","pJCvejnMWp-2","aaKCEjCGOA-3","7Rc0qePmED-4","Qz6mbZo1O1-5"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>434</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 05:21:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 05:21:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 11:12:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 11:12:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -1801,7 +1932,66 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Zakra Lawyer - Practise Area Page</title>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/lawyer/2019/07/12/833/</link>
+		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/lawyer/2019/07/12/</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				 		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>833</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[833]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Zakra Lawyer - Practise Area Page]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-practise-area-page</link>
 		<pubDate>Mon, 18 Nov 2019 06:35:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1898,6 +2088,8 @@
 		<wp:post_id>894</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:35:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:35:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:35:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:35:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-practise-area-page]]></wp:post_name>
@@ -1934,7 +2126,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - FAQ Page</title>
+		<title><![CDATA[Zakra Lawyer - FAQ Page]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-faq-page</link>
 		<pubDate>Mon, 18 Nov 2019 06:36:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1977,6 +2169,8 @@
 		<wp:post_id>897</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:36:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:36:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:36:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:36:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-faq-page]]></wp:post_name>
@@ -2013,7 +2207,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Contact Page</title>
+		<title><![CDATA[Zakra Lawyer - Contact Page]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-contact-page</link>
 		<pubDate>Mon, 18 Nov 2019 06:37:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2044,6 +2238,8 @@ help@attornal.com.np</p>
 		<wp:post_id>900</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:37:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:37:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:37:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:37:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-contact-page]]></wp:post_name>
@@ -2080,7 +2276,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Banner Section</title>
+		<title><![CDATA[Zakra Lawyer - Banner Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-banner-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:38:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2096,6 +2292,8 @@ help@attornal.com.np</p>
 		<wp:post_id>903</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:38:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:38:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:38:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:38:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-banner-section]]></wp:post_name>
@@ -2132,7 +2330,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Icon Section</title>
+		<title><![CDATA[Zakra Lawyer - Icon Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-icon-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:39:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2158,6 +2356,8 @@ help@attornal.com.np</p>
 		<wp:post_id>906</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:39:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:39:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:39:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:39:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-icon-section]]></wp:post_name>
@@ -2194,7 +2394,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Section</title>
+		<title><![CDATA[Zakra Lawyer - About Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:42:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2218,6 +2418,8 @@ help@attornal.com.np</p>
 		<wp:post_id>909</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:42:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:42:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:42:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:42:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-section]]></wp:post_name>
@@ -2254,7 +2456,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Practise Area Section</title>
+		<title><![CDATA[Zakra Lawyer - Practise Area Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-practise-area-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:43:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2307,6 +2509,8 @@ help@attornal.com.np</p>
 		<wp:post_id>912</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:43:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:43:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:43:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:43:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-practise-area-section]]></wp:post_name>
@@ -2343,7 +2547,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Counter Section</title>
+		<title><![CDATA[Zakra Lawyer - Counter Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-counter-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:44:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2367,6 +2571,8 @@ help@attornal.com.np</p>
 		<wp:post_id>915</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:44:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:44:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:44:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:44:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-counter-section]]></wp:post_name>
@@ -2403,7 +2609,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Testimonials Section</title>
+		<title><![CDATA[Zakra Lawyer - Testimonials Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-testimonials-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:45:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2435,6 +2641,8 @@ help@attornal.com.np</p>
 		<wp:post_id>918</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:45:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:45:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:45:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:45:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-testimonials-section]]></wp:post_name>
@@ -2471,7 +2679,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Services Section</title>
+		<title><![CDATA[Zakra Lawyer - Services Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-services-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:46:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2491,6 +2699,8 @@ help@attornal.com.np</p>
 		<wp:post_id>921</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:46:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:46:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:46:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:46:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-services-section]]></wp:post_name>
@@ -2527,7 +2737,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - NewsLetter Section</title>
+		<title><![CDATA[Zakra Lawyer - NewsLetter Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-newsletter-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:47:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2541,6 +2751,8 @@ help@attornal.com.np</p>
 		<wp:post_id>924</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:47:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:47:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:47:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:47:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-newsletter-section]]></wp:post_name>
@@ -2577,7 +2789,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - Logo Section</title>
+		<title><![CDATA[Zakra Lawyer - Logo Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-logo-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:48:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2588,6 +2800,8 @@ help@attornal.com.np</p>
 		<wp:post_id>927</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:48:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:48:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:48:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:48:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-logo-section]]></wp:post_name>
@@ -2624,7 +2838,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Intro Section</title>
+		<title><![CDATA[Zakra Lawyer - About Intro Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-intro-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:50:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2640,6 +2854,8 @@ help@attornal.com.np</p>
 		<wp:post_id>930</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:50:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:50:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:50:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:50:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-intro-section]]></wp:post_name>
@@ -2676,7 +2892,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Achievements Section</title>
+		<title><![CDATA[Zakra Lawyer - About Achievements Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-achievements-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:52:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2698,6 +2914,8 @@ help@attornal.com.np</p>
 		<wp:post_id>933</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:52:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:52:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:52:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:52:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-achievements-section]]></wp:post_name>
@@ -2734,7 +2952,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Team Section</title>
+		<title><![CDATA[Zakra Lawyer - About Team Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-team-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:53:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2756,6 +2974,8 @@ help@attornal.com.np</p>
 		<wp:post_id>936</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:53:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:53:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:53:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:53:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-team-section]]></wp:post_name>
@@ -2792,7 +3012,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Lawyer - About Contact Section</title>
+		<title><![CDATA[Zakra Lawyer - About Contact Section]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=zakra-lawyer-about-contact-section</link>
 		<pubDate>Mon, 18 Nov 2019 06:54:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2807,6 +3027,8 @@ help@attornal.com.np</p>
 		<wp:post_id>939</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-18 06:54:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-18 06:54:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-18 06:54:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-18 06:54:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-lawyer-about-contact-section]]></wp:post_name>
@@ -2843,7 +3065,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/lawyer/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:20:54 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2854,6 +3076,8 @@ help@attornal.com.np</p>
 		<wp:post_id>975</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:20:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:20:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:20:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:20:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2873,11 +3097,11 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#B89B5E";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#868E96";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#B89B5E";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"79f14f07";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"7dc8c7f7";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"74f81bd7";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:7:"ddaad36";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"29b71860";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"2390acf8";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"646a20e0";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"2e4674f2";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"700";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1170";}s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#B89B5E";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#FFFFFF";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#868E96";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#B89B5E";}}s:13:"custom_colors";a:8:{i:0;a:3:{s:3:"_id";s:8:"79f14f07";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"7dc8c7f7";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:8:"74f81bd7";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:7:"ddaad36";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:8:"29b71860";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"2390acf8";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"646a20e0";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:7;a:3:{s:3:"_id";s:8:"2e4674f2";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:16:"Playfair Display";s:22:"typography_font_weight";s:3:"700";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:4:"Lato";s:22:"typography_font_weight";s:3:"400";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/lawyer/about/</link>
 		<pubDate>Mon, 03 Jun 2019 09:00:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2931,6 +3155,8 @@ help@attornal.com.np</p>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 09:00:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 09:00:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 09:05:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 09:05:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2986,7 +3212,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Practise Areas</title>
+		<title><![CDATA[Practise Areas]]></title>
 		<link>https://zakrademos.com/lawyer/practise-areas/</link>
 		<pubDate>Mon, 03 Jun 2019 09:03:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3084,6 +3310,8 @@ help@attornal.com.np</p>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 09:03:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 09:03:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 09:14:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 09:14:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[practise-areas]]></wp:post_name>
@@ -3139,7 +3367,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/lawyer/blog/</link>
 		<pubDate>Mon, 03 Jun 2019 09:03:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3151,6 +3379,8 @@ help@attornal.com.np</p>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 09:03:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 09:03:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-17 03:43:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-17 03:43:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -3190,7 +3420,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ&#039;s</title>
+		<title><![CDATA[FAQ's]]></title>
 		<link>https://zakrademos.com/lawyer/faqs/</link>
 		<pubDate>Mon, 03 Jun 2019 09:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3234,6 +3464,8 @@ help@attornal.com.np</p>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 09:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 09:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 09:18:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 09:18:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faqs]]></wp:post_name>
@@ -3289,7 +3521,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/lawyer/contact/</link>
 		<pubDate>Mon, 03 Jun 2019 09:04:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3321,6 +3553,8 @@ help@attornal.com.np</p>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 09:04:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 09:04:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 08:35:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 08:35:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3376,78 +3610,120 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://zakrademos.com/lawyer/mc4wp-form/215/</link>
-		<pubDate>Thu, 13 Jun 2019 11:27:38 +0000</pubDate>
+		<title><![CDATA[Why hire Zakra Criminal Defense Lawyers?]]></title>
+		<link>https://zakrademos.com/lawyer/2019/06/10/why-hire-zakra-criminal-defense-lawyers/</link>
+		<pubDate>Mon, 10 Jun 2019 08:59:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/mc4wp-form/215/</guid>
+		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?p=469</guid>
 		<description></description>
-		<content:encoded><![CDATA[<input type="email" name="EMAIL" placeholder="Enter your email address" required />
-<input type="submit" value="Submit" />
-
-
-
-]]></content:encoded>
+		<content:encoded><![CDATA[				<!-- wp:paragraph -->
+<p>Per ornare senectus lacus himenaeos nec aptent volutpat venenatis velit scelerisque, porttitor etiam curabitur pellentesque feugiat laoreet tellus integer primis mauris torquent, nibh massa dictumst eu mattis augue cras dictum pulvinar. Aenean varius sodales a tempus natoque interdum nunc nam vestibulum tristique volutpat, nostra eros maecenas tempor arcu vitae morbi viverra scelerisque.&nbsp;</p>
+<!-- /wp:paragraph -->		]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-13 11:27:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-13 11:27:38]]></wp:post_date_gmt>
+		<wp:post_id>469</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-10 08:59:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-10 08:59:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 08:59:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 08:59:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[215]]></wp:post_name>
+		<wp:post_name><![CDATA[why-hire-zakra-criminal-defense-lawyers]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mc4wp_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:15:"required_fields";s:5:"EMAIL";s:12:"double_optin";s:1:"1";s:15:"update_existing";s:1:"0";s:17:"replace_interests";s:1:"1";s:15:"subscriber_tags";s:0:"";s:18:"hide_after_success";s:1:"0";s:8:"redirect";s:0:"";s:18:"grecaptcha_enabled";s:1:"0";s:3:"css";s:1:"0";s:5:"lists";a:0:{}}]]></wp:meta_value>
+										<category domain="category" nicename="appeals"><![CDATA[Appeals]]></category>
+		<category domain="category" nicename="bail"><![CDATA[Bail]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thank you, your sign-up request was successful! Please check your email inbox to confirm.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_invalid_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please provide a valid email address.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_required_field_missing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please fill in the required fields.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_already_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Given email address is already subscribed, thank you!]]></wp:meta_value>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_error]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Oops. Something went wrong. Please try again later.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_unsubscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[You were successfully unsubscribed.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_not_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Given email address is not subscribed.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_no_lists_selected]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please select at least one list.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_updated]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thank you, your records have been updated!]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-06-05]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[478]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[How a Criminal Defense Attorney can protect your rights?]]></title>
+		<link>https://zakrademos.com/lawyer/2019/06/10/how-a-criminal-defense-attorney-can-protect-your-rights/</link>
+		<pubDate>Mon, 10 Jun 2019 08:58:38 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?p=470</guid>
+		<description></description>
+		<content:encoded><![CDATA[				<!-- wp:paragraph -->
+<p>Per ornare senectus lacus himenaeos nec aptent volutpat venenatis velit scelerisque, porttitor etiam curabitur pellentesque feugiat laoreet tellus integer primis mauris torquent, nibh massa dictumst eu mattis augue cras dictum pulvinar. Aenean varius sodales a tempus natoque interdum nunc nam vestibulum tristique volutpat, nostra eros maecenas tempor arcu vitae morbi viverra scelerisque.&nbsp;</p>
+<!-- /wp:paragraph -->		]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>470</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-10 08:58:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-10 08:58:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 08:58:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 08:58:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-a-criminal-defense-attorney-can-protect-your-rights]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="internet-crime"><![CDATA[Internet Crime]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[476]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/lawyer/</link>
 		<pubDate>Mon, 03 Jun 2019 08:56:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3599,6 +3875,8 @@ help@attornal.com.np</p>
 		<wp:post_id>797</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-03 08:56:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-03 08:56:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-02-13 08:56:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-02-13 08:56:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3654,64 +3932,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://zakrademos.com/lawyer/2019/07/12/833/</link>
-		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/lawyer/2019/07/12/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				 		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>833</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[833]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/834/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3724,6 +3945,8 @@ help@attornal.com.np</p>
 		<wp:post_id>834</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[834]]></wp:post_name>
@@ -3768,7 +3991,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/835/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3781,6 +4004,8 @@ help@attornal.com.np</p>
 		<wp:post_id>835</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[835]]></wp:post_name>
@@ -3825,7 +4050,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/836/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3838,6 +4063,8 @@ help@attornal.com.np</p>
 		<wp:post_id>836</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[836]]></wp:post_name>
@@ -3882,7 +4109,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/837/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3895,6 +4122,8 @@ help@attornal.com.np</p>
 		<wp:post_id>837</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[837]]></wp:post_name>
@@ -3939,7 +4168,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/838/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3952,6 +4181,8 @@ help@attornal.com.np</p>
 		<wp:post_id>838</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[838]]></wp:post_name>
@@ -3996,7 +4227,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/839/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4009,6 +4240,8 @@ help@attornal.com.np</p>
 		<wp:post_id>839</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[839]]></wp:post_name>
@@ -4053,7 +4286,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/840/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4066,6 +4299,8 @@ help@attornal.com.np</p>
 		<wp:post_id>840</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[840]]></wp:post_name>
@@ -4110,7 +4345,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/841/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4123,6 +4358,8 @@ help@attornal.com.np</p>
 		<wp:post_id>841</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[841]]></wp:post_name>
@@ -4167,7 +4404,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/842/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4180,6 +4417,8 @@ help@attornal.com.np</p>
 		<wp:post_id>842</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[842]]></wp:post_name>
@@ -4224,7 +4463,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/843/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4237,6 +4476,8 @@ help@attornal.com.np</p>
 		<wp:post_id>843</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[843]]></wp:post_name>
@@ -4281,7 +4522,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/lawyer/2019/07/12/844/</link>
 		<pubDate>Fri, 12 Jul 2019 05:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4294,6 +4535,8 @@ help@attornal.com.np</p>
 		<wp:post_id>844</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-12 05:20:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[844]]></wp:post_name>
@@ -4338,7 +4581,7 @@ help@attornal.com.np</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://zakrademos.com/lawyer/sample-page/</link>
 		<pubDate>Thu, 13 Jun 2019 10:46:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4357,6 +4600,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		<wp:post_id>845</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-13 10:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-13 10:46:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-12 05:29:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-12 05:29:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -4376,116 +4621,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why hire Zakra Criminal Defense Lawyers?</title>
-		<link>https://zakrademos.com/lawyer/2019/06/10/why-hire-zakra-criminal-defense-lawyers/</link>
-		<pubDate>Mon, 10 Jun 2019 08:59:24 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?p=469</guid>
-		<description></description>
-		<content:encoded><![CDATA[				<!-- wp:paragraph -->
-<p>Per ornare senectus lacus himenaeos nec aptent volutpat venenatis velit scelerisque, porttitor etiam curabitur pellentesque feugiat laoreet tellus integer primis mauris torquent, nibh massa dictumst eu mattis augue cras dictum pulvinar. Aenean varius sodales a tempus natoque interdum nunc nam vestibulum tristique volutpat, nostra eros maecenas tempor arcu vitae morbi viverra scelerisque.&nbsp;</p>
-<!-- /wp:paragraph -->		]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>469</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-10 08:59:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-10 08:59:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[why-hire-zakra-criminal-defense-lawyers]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="appeals"><![CDATA[Appeals]]></category>
-		<category domain="category" nicename="bail"><![CDATA[Bail]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[478]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>How a Criminal Defense Attorney can protect your rights?</title>
-		<link>https://zakrademos.com/lawyer/2019/06/10/how-a-criminal-defense-attorney-can-protect-your-rights/</link>
-		<pubDate>Mon, 10 Jun 2019 08:58:38 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">http://sincere-weevil.w6.wpsandbox.pro/?p=470</guid>
-		<description></description>
-		<content:encoded><![CDATA[				<!-- wp:paragraph -->
-<p>Per ornare senectus lacus himenaeos nec aptent volutpat venenatis velit scelerisque, porttitor etiam curabitur pellentesque feugiat laoreet tellus integer primis mauris torquent, nibh massa dictumst eu mattis augue cras dictum pulvinar. Aenean varius sodales a tempus natoque interdum nunc nam vestibulum tristique volutpat, nostra eros maecenas tempor arcu vitae morbi viverra scelerisque.&nbsp;</p>
-<!-- /wp:paragraph -->		]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>470</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-10 08:58:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-10 08:58:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-a-criminal-defense-attorney-can-protect-your-rights]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="internet-crime"><![CDATA[Internet Crime]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[476]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_remove_content_margin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_transparent_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_page_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Your rights in a Criminal Investigation.</title>
+		<title><![CDATA[Your rights in a Criminal Investigation.]]></title>
 		<link>https://zakrademos.com/lawyer/2019/06/10/your-rights-in-a-criminal-investigation/</link>
 		<pubDate>Mon, 10 Jun 2019 09:33:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4498,6 +4634,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/z
 		<wp:post_id>480</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-10 09:33:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-10 09:33:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-10 09:33:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-10 09:33:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[your-rights-in-a-criminal-investigation]]></wp:post_name>

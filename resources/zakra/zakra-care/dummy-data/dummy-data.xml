@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-09 12:38" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 14:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Care</title>
 	<link>https://zakrademos.com/care</link>
 	<description>WordPress Template Site for spreading the love and care to the people in need</description>
-	<pubDate>Sat, 09 Jan 2021 12:38:17 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 14:21:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/care</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,7 +44,28 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -53,7 +74,7 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/care/wp-content/uploads/sites/62/2020/07/cropped-zakra-32x32.png</url>
@@ -64,7 +85,7 @@
 </image> 
 
 		<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/care/logo/</link>
 		<pubDate>Sat, 06 Jun 2020 09:22:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -75,6 +96,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:22:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:22:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-06 09:22:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-06 09:22:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -99,7 +122,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>since-img</title>
+		<title><![CDATA[since-img]]></title>
 		<link>https://zakrademos.com/care/homepage/since-img/</link>
 		<pubDate>Sat, 06 Jun 2020 15:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -110,6 +133,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 15:24:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 15:24:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-06 15:24:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-06 15:24:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[since-img]]></wp:post_name>
@@ -134,7 +159,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
+		<title><![CDATA[banner]]></title>
 		<link>https://zakrademos.com/care/homepage/banner/</link>
 		<pubDate>Mon, 08 Jun 2020 06:27:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -145,6 +170,8 @@
 		<wp:post_id>413</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:27:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:27:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:27:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:27:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner]]></wp:post_name>
@@ -169,7 +196,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>causes-images-1</title>
+		<title><![CDATA[causes-images-1]]></title>
 		<link>https://zakrademos.com/care/homepage/causes-images-1/</link>
 		<pubDate>Mon, 08 Jun 2020 06:27:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -180,6 +207,8 @@
 		<wp:post_id>414</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:27:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:27:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:27:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:27:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes-images-1]]></wp:post_name>
@@ -204,7 +233,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>causes-img-2-</title>
+		<title><![CDATA[causes-img-2-]]></title>
 		<link>https://zakrademos.com/care/homepage/causes-img-2/</link>
 		<pubDate>Mon, 08 Jun 2020 06:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -215,6 +244,8 @@
 		<wp:post_id>415</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:28:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:28:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:28:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:28:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes-img-2]]></wp:post_name>
@@ -239,7 +270,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>causes-img-3</title>
+		<title><![CDATA[causes-img-3]]></title>
 		<link>https://zakrademos.com/care/homepage/causes-img-3/</link>
 		<pubDate>Mon, 08 Jun 2020 06:28:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -250,6 +281,8 @@
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:28:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:28:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:28:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:28:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes-img-3]]></wp:post_name>
@@ -274,7 +307,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>donate-bg</title>
+		<title><![CDATA[donate-bg]]></title>
 		<link>https://zakrademos.com/care/homepage/donate-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -285,6 +318,8 @@
 		<wp:post_id>417</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:28:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:28:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:28:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donate-bg]]></wp:post_name>
@@ -309,7 +344,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>donate</title>
+		<title><![CDATA[donate]]></title>
 		<link>https://zakrademos.com/care/homepage/donate/</link>
 		<pubDate>Mon, 08 Jun 2020 06:28:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -320,6 +355,8 @@
 		<wp:post_id>418</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:28:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:28:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:28:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:28:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donate]]></wp:post_name>
@@ -344,7 +381,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>success</title>
+		<title><![CDATA[success]]></title>
 		<link>https://zakrademos.com/care/homepage/success/</link>
 		<pubDate>Mon, 08 Jun 2020 06:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -355,6 +392,8 @@
 		<wp:post_id>419</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:29:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:29:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:29:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:29:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[success]]></wp:post_name>
@@ -379,7 +418,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-bg</title>
+		<title><![CDATA[volunteer-bg]]></title>
 		<link>https://zakrademos.com/care/homepage/volunteer-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:29:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -390,6 +429,8 @@
 		<wp:post_id>420</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:29:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:29:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:29:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:29:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-bg]]></wp:post_name>
@@ -414,7 +455,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer-bg</title>
+		<title><![CDATA[footer-bg]]></title>
 		<link>https://zakrademos.com/care/footer-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:30:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -425,6 +466,8 @@
 		<wp:post_id>422</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:30:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:30:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:30:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:30:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-bg]]></wp:post_name>
@@ -449,7 +492,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>inner-bg</title>
+		<title><![CDATA[inner-bg]]></title>
 		<link>https://zakrademos.com/care/inner-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:32:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -460,6 +503,8 @@
 		<wp:post_id>424</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:32:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:32:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:32:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:32:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[inner-bg]]></wp:post_name>
@@ -484,7 +529,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>stats-bg</title>
+		<title><![CDATA[stats-bg]]></title>
 		<link>https://zakrademos.com/care/about/stats-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:33:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -495,6 +540,8 @@
 		<wp:post_id>426</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:33:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:33:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stats-bg]]></wp:post_name>
@@ -519,7 +566,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-volunteer-bg</title>
+		<title><![CDATA[about-volunteer-bg]]></title>
 		<link>https://zakrademos.com/care/about/about-volunteer-bg/</link>
 		<pubDate>Mon, 08 Jun 2020 06:34:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -530,6 +577,8 @@
 		<wp:post_id>427</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:34:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:34:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:34:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:34:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-volunteer-bg]]></wp:post_name>
@@ -554,7 +603,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-1</title>
+		<title><![CDATA[volunteer-img-1]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-1/</link>
 		<pubDate>Mon, 08 Jun 2020 06:34:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -565,6 +614,8 @@
 		<wp:post_id>428</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:34:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:34:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:34:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:34:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-1]]></wp:post_name>
@@ -589,7 +640,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-2</title>
+		<title><![CDATA[volunteer-img-2]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-2/</link>
 		<pubDate>Mon, 08 Jun 2020 06:35:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -600,6 +651,8 @@
 		<wp:post_id>429</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:35:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:35:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:35:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:35:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-2]]></wp:post_name>
@@ -624,7 +677,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-3</title>
+		<title><![CDATA[volunteer-img-3]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-3/</link>
 		<pubDate>Mon, 08 Jun 2020 06:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -635,6 +688,8 @@
 		<wp:post_id>430</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:35:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:35:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:35:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:35:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-3]]></wp:post_name>
@@ -659,7 +714,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-4</title>
+		<title><![CDATA[volunteer-img-4]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-4/</link>
 		<pubDate>Mon, 08 Jun 2020 06:35:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -670,6 +725,8 @@
 		<wp:post_id>431</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:35:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:35:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:35:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:35:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-4]]></wp:post_name>
@@ -694,7 +751,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-5</title>
+		<title><![CDATA[volunteer-img-5]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-5/</link>
 		<pubDate>Mon, 08 Jun 2020 06:36:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -705,6 +762,8 @@
 		<wp:post_id>432</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:36:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:36:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:36:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:36:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-5]]></wp:post_name>
@@ -729,7 +788,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-6</title>
+		<title><![CDATA[volunteer-img-6]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-6/</link>
 		<pubDate>Mon, 08 Jun 2020 06:36:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -740,6 +799,8 @@
 		<wp:post_id>433</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:36:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:36:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:36:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:36:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-6]]></wp:post_name>
@@ -764,7 +825,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/care/?elementor_library=default-kit</link>
 		<pubDate>Sat, 06 Jun 2020 10:04:54 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -775,6 +836,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 10:04:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 10:04:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-06 10:04:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-06 10:04:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -798,7 +861,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/zakra/</link>
 		<pubDate>Sun, 07 Jun 2020 05:17:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -863,6 +926,10 @@ footer.tg-site-footer .tg-site-footer-widgets .footer-widget-mid a{
 .footer-widget-mid a:hover{
 	background: #fff;
 }
+/**/
+ul.footer-social-icon li{
+	margin-right:8px
+}
 
 @media only screen and (max-width: 1027px){
 #primary {
@@ -884,6 +951,8 @@ footer.tg-site-footer .tg-site-footer-widgets .footer-widget-mid a{
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 05:17:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 05:17:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 13:11:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 13:11:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -895,7 +964,7 @@ footer.tg-site-footer .tg-site-footer-widgets .footer-widget-mid a{
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>homepage</title>
+		<title><![CDATA[homepage]]></title>
 		<link>https://zakrademos.com/care/?elementor_library=homepage</link>
 		<pubDate>Sun, 07 Jun 2020 06:06:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -986,6 +1055,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 06:06:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 06:06:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 06:06:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 06:06:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -1018,21 +1089,23 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:20;s:11:"header_size";i:17;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:4;s:21:"typography_typography";i:13;s:20:"typography_font_size";i:12;s:22:"typography_font_family";i:3;s:21:"typography_font_style";i:3;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:10;s:8:"_padding";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:20;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:4;s:21:"typography_typography";i:14;s:20:"typography_font_size";i:7;s:5:"align";i:3;s:22:"typography_font_weight";i:4;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:16;s:8:"_padding";i:7;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:9;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:9;s:4:"size";i:9;s:5:"align";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:21:"typography_typography";i:9;s:25:"typography_text_transform";i:9;s:16:"background_color";i:7;s:11:"hover_color";i:9;s:29:"button_background_hover_color";i:9;s:25:"button_hover_border_color";i:6;s:13:"border_border";i:7;s:12:"border_width";i:7;s:12:"border_color";i:7;s:13:"border_radius";i:9;s:12:"text_padding";i:9;s:17:"button_text_color";i:8;s:20:"typography_font_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:7;}}}}s:6:"column";a:3:{s:5:"count";i:37;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:37;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:13;s:6:"margin";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:6;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_border";i:3;s:12:"border_width";i:3;s:12:"border_color";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:3:"gap";i:1;s:6:"height";i:1;s:13:"custom_height";i:1;s:16:"content_position";i:1;s:6:"layout";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:12;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:2;s:21:"background_attachment";i:2;s:17:"background_repeat";i:3;s:15:"background_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:8;s:7:"padding";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:4:"html";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:8:"_padding";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:1:{s:4:"size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:20;s:11:"header_size";i:17;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:4;s:21:"typography_typography";i:13;s:20:"typography_font_size";i:12;s:22:"typography_font_family";i:3;s:21:"typography_font_style";i:3;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:10;s:8:"_padding";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:20;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:20;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:4;s:21:"typography_typography";i:14;s:20:"typography_font_size";i:7;s:5:"align";i:3;s:22:"typography_font_weight";i:4;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:16;s:8:"_padding";i:7;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:9;s:4:"size";i:9;s:5:"align";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:21:"typography_typography";i:9;s:25:"typography_text_transform";i:9;s:16:"background_color";i:7;s:11:"hover_color";i:9;s:29:"button_background_hover_color";i:9;s:25:"button_hover_border_color";i:6;s:13:"border_border";i:7;s:12:"border_width";i:7;s:12:"border_color";i:7;s:13:"border_radius";i:9;s:12:"text_padding";i:9;s:17:"button_text_color";i:8;s:20:"typography_font_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:7;}}}}s:6:"column";a:3:{s:5:"count";i:37;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:37;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:13;s:6:"margin";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:6;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_border";i:3;s:12:"border_width";i:3;s:12:"border_color";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:3:"gap";i:1;s:6:"height";i:1;s:13:"custom_height";i:1;s:16:"content_position";i:1;s:6:"layout";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:12;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:2;s:21:"background_attachment";i:2;s:17:"background_repeat";i:3;s:15:"background_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:8;s:7:"padding";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:4:"html";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:8:"_padding";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:1:{s:4:"size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Care Contact form</title>
+		<title><![CDATA[Care Contact form]]></title>
 		<link>https://zakrademos.com/care/?post_type=everest_form&#038;p=341</link>
 		<pubDate>Sun, 07 Jun 2020 14:27:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakra-charity-v2.sites.qsandbox.com/?post_type=everest_form&#038;p=341</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"341","form_enabled":"1","form_field_id":9,"form_fields":{"IqYBhDwwH2-5":{"id":"IqYBhDwwH2-5","type":"first-name","label":"First Name","meta-key":"first_name_6027","description":"","required-field-message":"This field is required.","placeholder":"First Name","label_hide":"1","css":""},"kjnThOsmRv-5":{"id":"kjnThOsmRv-5","type":"last-name","label":"Last Name","meta-key":"last_name_7279","description":"","required-field-message":"This field is required.","placeholder":"Last Name","label_hide":"1","css":""},"eHlYbjKCim-6":{"id":"eHlYbjKCim-6","type":"email","label":"Email","meta-key":"email_4969","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"qZizDEZkGa-7":{"id":"qZizDEZkGa-7","type":"text","label":"Single Line Text","meta-key":"single_line_text_3454","description":"","required-field-message":"This field is required.","placeholder":"Subject","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"zF2oXPLZRv-8":{"id":"zF2oXPLZRv-8","type":"textarea","label":"Paragraph Text","meta-key":"paragraph_text_3545","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Care Contact form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"32","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"enable_email_notification":"1","connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Zakra Care","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Simple Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["IqYBhDwwH2-5"],"grid_2":["kjnThOsmRv-5"]},"row_2":{"grid_1":["eHlYbjKCim-6"],"grid_2":["qZizDEZkGa-7"]},"row_3":{"grid_1":["zF2oXPLZRv-8"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"341","form_enabled":"1","form_field_id":9,"form_fields":{"IqYBhDwwH2-5":{"id":"IqYBhDwwH2-5","type":"first-name","label":"First Name","meta-key":"first_name_6027","description":"","required-field-message":"This field is required.","placeholder":"First Name","label_hide":"1","default_value":"","css":""},"kjnThOsmRv-5":{"id":"kjnThOsmRv-5","type":"last-name","label":"Last Name","meta-key":"last_name_7279","description":"","required-field-message":"This field is required.","placeholder":"Last Name","label_hide":"1","default_value":"","css":""},"eHlYbjKCim-6":{"id":"eHlYbjKCim-6","type":"email","label":"Email","meta-key":"email_4969","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"Email","confirmation_placeholder":"","label_hide":"1","default_value":"","css":""},"qZizDEZkGa-7":{"id":"qZizDEZkGa-7","type":"text","label":"Single Line Text","meta-key":"single_line_text_3454","description":"","required-field-message":"This field is required.","placeholder":"Subject","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"zF2oXPLZRv-8":{"id":"zF2oXPLZRv-8","type":"textarea","label":"Paragraph Text","meta-key":"paragraph_text_3545","description":"","required-field-message":"This field is required.","placeholder":"Message","label_hide":"1","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Care Contact form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"32","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Care","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["IqYBhDwwH2-5"],"grid_2":["kjnThOsmRv-5"]},"row_2":{"grid_1":["eHlYbjKCim-6"],"grid_2":["qZizDEZkGa-7"]},"row_3":{"grid_1":["zF2oXPLZRv-8"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>341</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 14:27:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 14:27:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 10:01:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 10:01:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2-2]]></wp:post_name>
@@ -1044,7 +1117,7 @@ et, consectetur  elit.</h5>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/434/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1055,6 +1128,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>434</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[434]]></wp:post_name>
@@ -1099,7 +1174,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>volunteer-img-7</title>
+		<title><![CDATA[volunteer-img-7]]></title>
 		<link>https://zakrademos.com/care/about/volunteer-img-7/</link>
 		<pubDate>Mon, 08 Jun 2020 06:36:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1110,6 +1185,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>435</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:36:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:36:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:36:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:36:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-img-7]]></wp:post_name>
@@ -1134,7 +1211,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>voluntears-img-8</title>
+		<title><![CDATA[voluntears-img-8]]></title>
 		<link>https://zakrademos.com/care/about/voluntears-img-8/</link>
 		<pubDate>Mon, 08 Jun 2020 06:37:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1145,6 +1222,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>436</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:37:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:37:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:37:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:37:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[voluntears-img-8]]></wp:post_name>
@@ -1169,7 +1248,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>charity-blog-5</title>
+		<title><![CDATA[charity-blog-5]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/provide-drinking-water-to-people-of-africa/charity-blog-5/</link>
 		<pubDate>Mon, 08 Jun 2020 06:37:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1180,6 +1259,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>437</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:37:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:37:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:37:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:37:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-blog-5]]></wp:post_name>
@@ -1204,7 +1285,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>charity-blog-4</title>
+		<title><![CDATA[charity-blog-4]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/poverty-level-dropped-by-3-around-the-global/charity-blog-4/</link>
 		<pubDate>Mon, 08 Jun 2020 06:38:38 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1215,6 +1296,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>438</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:38:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:38:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:38:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:38:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-blog-4]]></wp:post_name>
@@ -1239,7 +1322,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>charity-blog-3</title>
+		<title><![CDATA[charity-blog-3]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/charity-is-making-big-changes-across-the-africa/charity-blog-3/</link>
 		<pubDate>Mon, 08 Jun 2020 06:39:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1250,6 +1333,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>439</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:39:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:39:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:39:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:39:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-blog-3]]></wp:post_name>
@@ -1274,7 +1359,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>charity-blog-2</title>
+		<title><![CDATA[charity-blog-2]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/shelter-for-homeless/charity-blog-2/</link>
 		<pubDate>Mon, 08 Jun 2020 06:39:35 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1285,6 +1370,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>440</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:39:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:39:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:39:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:39:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-blog-2]]></wp:post_name>
@@ -1309,7 +1396,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>charity-blog-1</title>
+		<title><![CDATA[charity-blog-1]]></title>
 		<link>https://zakrademos.com/care/2015/07/29/hello-world-2/charity-blog-1/</link>
 		<pubDate>Mon, 08 Jun 2020 06:40:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1320,6 +1407,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>441</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:40:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:40:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:40:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:40:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-blog-1]]></wp:post_name>
@@ -1344,7 +1433,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/care/logo-2/</link>
 		<pubDate>Mon, 08 Jun 2020 06:45:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1355,6 +1444,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>444</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-08 06:45:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-08 06:45:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-08 06:45:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-08 06:45:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
@@ -1379,7 +1470,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/446/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1390,6 +1481,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>446</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[446]]></wp:post_name>
@@ -1434,7 +1527,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/447/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1445,6 +1538,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>447</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[447]]></wp:post_name>
@@ -1489,7 +1584,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/448/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1500,6 +1595,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>448</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[448]]></wp:post_name>
@@ -1544,7 +1641,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/449/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1555,6 +1652,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>449</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[449]]></wp:post_name>
@@ -1599,7 +1698,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/care/?elementor_library=default-kit-2</link>
 		<pubDate>Tue, 16 Jun 2020 18:04:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1610,6 +1709,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>453</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:04:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:04:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:10:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:10:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit-2]]></wp:post_name>
@@ -1633,7 +1734,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"space_between_widgets";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#222222";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#F8C240";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#222222";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#F8C240";}}s:13:"custom_colors";a:7:{i:0;a:3:{s:3:"_id";s:8:"37ad76ac";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"57a7bd04";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:7:"548b8ae";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:7:"a3503dc";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:7:"2cdc0f2";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"751e88e4";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"3967ba3d";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:9:"Open Sans";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}}s:17:"custom_typography";a:0:{}s:9:"site_name";s:10:"Zakra Care";s:16:"site_description";s:77:"WordPress Template Site for spreading the love and care to the people in need";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"1";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:14:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"space_between_widgets";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:0:"";s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#222222";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#F8C240";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#222222";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#F8C240";}}s:13:"custom_colors";a:7:{i:0;a:3:{s:3:"_id";s:8:"37ad76ac";s:5:"title";s:14:"Saved Color #1";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:8:"57a7bd04";s:5:"title";s:14:"Saved Color #2";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:7:"548b8ae";s:5:"title";s:14:"Saved Color #3";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:7:"a3503dc";s:5:"title";s:14:"Saved Color #4";s:5:"color";s:7:"#61CE70";}i:4;a:3:{s:3:"_id";s:7:"2cdc0f2";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:5;a:3:{s:3:"_id";s:8:"751e88e4";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:6;a:3:{s:3:"_id";s:8:"3967ba3d";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:16:"Primary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:18:"Secondary Headline";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:9:"Body Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:9:"Open Sans";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:11:"Accent Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:10:"Changa One";s:22:"typography_font_weight";s:3:"400";}}s:17:"custom_typography";a:0:{}s:9:"site_name";s:10:"Zakra Care";s:16:"site_description";s:77:"WordPress Template Site for spreading the love and care to the people in need";s:19:"page_title_selector";s:14:"h1.entry-title";s:15:"activeItemIndex";s:1:"1";s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1645,7 +1746,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/care/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 05:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1656,6 +1757,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>503</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:07:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:07:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:07:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:07:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -1680,7 +1783,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-zakra.png</title>
+		<title><![CDATA[cropped-zakra.png]]></title>
 		<link>https://zakrademos.com/care/cropped-zakra-png/</link>
 		<pubDate>Wed, 15 Jul 2020 05:07:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1691,6 +1794,8 @@ et, consectetur  elit.</h5>
 		<wp:post_id>504</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 05:07:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 05:07:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 05:07:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 05:07:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-zakra-png]]></wp:post_name>
@@ -1723,7 +1828,7 @@ et, consectetur  elit.</h5>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/care/</link>
 		<pubDate>Sat, 06 Jun 2020 09:01:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1819,6 +1924,8 @@ make someone’s dream come true</h4>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:01:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:01:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:20:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:20:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -1922,11 +2029,11 @@ make someone’s dream come true</h4>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:17;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:17;s:21:"typography_typography";i:17;s:27:"typography_font_size_tablet";i:1;s:22:"typography_font_family";i:13;s:20:"typography_font_size";i:14;s:22:"typography_font_weight";i:10;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:6:{s:7:"_margin";i:10;s:8:"_padding";i:4;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:2;s:15:"_padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:17;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:17;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:10:"text_color";i:17;s:21:"typography_typography";i:17;s:20:"typography_font_size";i:12;s:27:"typography_font_size_tablet";i:1;s:22:"typography_font_family";i:13;s:5:"align";i:3;s:22:"typography_font_weight";i:10;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:2:{s:14:"_section_style";a:4:{s:7:"_margin";i:13;s:8:"_padding";i:7;s:15:"_padding_tablet";i:1;s:14:"_margin_tablet";i:1;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:6;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:6;s:4:"size";i:6;s:5:"align";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:15:{s:21:"typography_typography";i:6;s:25:"typography_text_transform";i:6;s:16:"background_color";i:6;s:11:"hover_color";i:6;s:29:"button_background_hover_color";i:6;s:25:"button_hover_border_color";i:3;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:6;s:12:"text_padding";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:17:"button_text_color";i:5;s:22:"typography_font_weight";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:35;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:35;s:19:"_inline_size_tablet";i:9;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:5;s:14:"padding_mobile";i:3;s:7:"padding";i:11;s:6:"margin";i:5;s:13:"margin_mobile";i:8;s:13:"margin_tablet";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:4;s:16:"background_color";i:3;}s:14:"section_border";a:2:{s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:11;}s:14:"section_layout";a:3:{s:6:"height";i:1;s:13:"custom_height";i:1;s:6:"layout";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:3;s:16:"background_color";i:1;s:16:"background_image";i:3;s:19:"background_position";i:2;s:21:"background_attachment";i:2;s:17:"background_repeat";i:3;s:15:"background_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:6;s:6:"margin";i:8;s:13:"margin_tablet";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:6;s:10:"image_size";i:3;s:12:"align_tablet";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:14:"_margin_mobile";i:2;s:7:"_margin";i:1;}}}}s:4:"html";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:8:"_padding";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:3;s:13:"primary_color";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:1:{s:22:"classic_posts_per_page";i:1;}s:23:"classic_section_excerpt";a:1:{s:22:"classic_excerpt_length";i:1;}}s:5:"style";a:4:{s:25:"classic_section_style_box";a:3:{s:19:"classic_box_padding";i:1;s:25:"classic_box_border_border";i:1;s:24:"classic_box_border_width";i:1;}s:27:"classic_section_style_title";a:5:{s:19:"classic_title_color";i:1;s:25:"classic_title_hover_color";i:1;s:35:"classic_title_typography_typography";i:1;s:34:"classic_title_typography_font_size";i:1;s:36:"classic_title_typography_font_family";i:1;}s:29:"classic_section_style_excerpt";a:5:{s:21:"classic_excerpt_color";i:1;s:37:"classic_excerpt_typography_typography";i:1;s:36:"classic_excerpt_typography_font_size";i:1;s:23:"classic_excerpt_spacing";i:1;s:38:"classic_excerpt_typography_font_family";i:1;}s:26:"classic_section_style_meta";a:7:{s:18:"classic_meta_color";i:1;s:28:"classic_meta_separator_color";i:1;s:34:"classic_meta_typography_typography";i:1;s:35:"classic_meta_typography_font_family";i:1;s:33:"classic_meta_typography_font_size";i:1;s:35:"classic_meta_typography_font_weight";i:1;s:20:"classic_meta_spacing";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:17;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:17;s:21:"typography_typography";i:17;s:27:"typography_font_size_tablet";i:1;s:22:"typography_font_family";i:13;s:20:"typography_font_size";i:14;s:22:"typography_font_weight";i:10;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:6:{s:7:"_margin";i:10;s:8:"_padding";i:4;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:2;s:15:"_padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:17;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:17;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:10:"text_color";i:17;s:21:"typography_typography";i:17;s:20:"typography_font_size";i:12;s:27:"typography_font_size_tablet";i:1;s:22:"typography_font_family";i:13;s:5:"align";i:3;s:22:"typography_font_weight";i:10;s:21:"typography_font_style";i:3;}}s:8:"advanced";a:2:{s:14:"_section_style";a:4:{s:7:"_margin";i:13;s:8:"_padding";i:7;s:15:"_padding_tablet";i:1;s:14:"_margin_tablet";i:1;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:6;s:4:"size";i:6;s:5:"align";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:15:{s:21:"typography_typography";i:6;s:25:"typography_text_transform";i:6;s:16:"background_color";i:6;s:11:"hover_color";i:6;s:29:"button_background_hover_color";i:6;s:25:"button_hover_border_color";i:3;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:6;s:12:"text_padding";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:17:"button_text_color";i:5;s:22:"typography_font_weight";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:35;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:35;s:19:"_inline_size_tablet";i:9;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:5;s:14:"padding_mobile";i:3;s:7:"padding";i:11;s:6:"margin";i:5;s:13:"margin_mobile";i:8;s:13:"margin_tablet";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:4;s:16:"background_color";i:3;}s:14:"section_border";a:2:{s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:11;}s:14:"section_layout";a:3:{s:6:"height";i:1;s:13:"custom_height";i:1;s:6:"layout";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:3;s:16:"background_color";i:1;s:16:"background_image";i:3;s:19:"background_position";i:2;s:21:"background_attachment";i:2;s:17:"background_repeat";i:3;s:15:"background_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:6;s:6:"margin";i:8;s:13:"margin_tablet";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:6;s:10:"image_size";i:3;s:12:"align_tablet";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:14:"_margin_mobile";i:2;s:7:"_margin";i:1;}}}}s:4:"html";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:8:"_padding";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:4:"size";i:3;s:13:"primary_color";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:25:"elementor-companion-posts";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:15:"section_general";a:1:{s:22:"classic_posts_per_page";i:1;}s:23:"classic_section_excerpt";a:1:{s:22:"classic_excerpt_length";i:1;}}s:5:"style";a:4:{s:25:"classic_section_style_box";a:3:{s:19:"classic_box_padding";i:1;s:25:"classic_box_border_border";i:1;s:24:"classic_box_border_width";i:1;}s:27:"classic_section_style_title";a:5:{s:19:"classic_title_color";i:1;s:25:"classic_title_hover_color";i:1;s:35:"classic_title_typography_typography";i:1;s:34:"classic_title_typography_font_size";i:1;s:36:"classic_title_typography_font_family";i:1;}s:29:"classic_section_style_excerpt";a:5:{s:21:"classic_excerpt_color";i:1;s:37:"classic_excerpt_typography_typography";i:1;s:36:"classic_excerpt_typography_font_size";i:1;s:23:"classic_excerpt_spacing";i:1;s:38:"classic_excerpt_typography_font_family";i:1;}s:26:"classic_section_style_meta";a:7:{s:18:"classic_meta_color";i:1;s:28:"classic_meta_separator_color";i:1;s:34:"classic_meta_typography_typography";i:1;s:35:"classic_meta_typography_font_family";i:1;s:33:"classic_meta_typography_font_size";i:1;s:35:"classic_meta_typography_font_weight";i:1;s:20:"classic_meta_spacing";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/care/about/</link>
 		<pubDate>Sat, 06 Jun 2020 09:08:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2113,6 +2220,8 @@ Spare some change.Don’t delay give today!</h4>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:08:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:08:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:29:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:29:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2240,11 +2349,11 @@ Spare some change.Don’t delay give today!</h4>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:6:"column";a:3:{s:5:"count";i:39;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:39;s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:21;s:6:"margin";i:10;s:13:"margin_mobile";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:10;s:16:"background_color";i:4;}s:14:"section_border";a:3:{s:13:"border_border";i:6;s:12:"border_width";i:6;s:12:"border_color";i:6;}}}}s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:5:"align";i:9;s:11:"header_size";i:8;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_font_family";i:5;s:22:"typography_font_weight";i:5;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:13;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:13;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:9;s:10:"text_color";i:12;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:6;s:21:"typography_font_style";i:1;s:20:"typography_font_size";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:12;}}}}s:7:"section";a:3:{s:5:"count";i:16;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:11;}s:14:"section_layout";a:1:{s:6:"layout";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:11;s:7:"padding";i:6;s:13:"margin_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_attachment";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:4:{s:4:"icon";i:3;s:7:"caption";i:3;s:5:"title";i:3;s:11:"description";i:3;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:3:{s:19:"service_box_padding";i:3;s:25:"service_box_bg_background";i:3;s:20:"service_box_bg_color";i:3;}s:33:"ec_service_box_icon_style_section";a:3:{s:14:"icon_font_size";i:3;s:11:"icon_margin";i:3;s:17:"icon_normal_color";i:3;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:3;s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:12:"title_margin";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:2:{s:27:"_box_shadow_box_shadow_type";i:3;s:22:"_box_shadow_box_shadow";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:3;s:5:"align";i:3;s:4:"size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:21:"typography_typography";i:3;s:25:"typography_text_transform";i:3;s:17:"button_text_color";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;s:16:"background_color";i:3;s:13:"border_border";i:2;s:12:"border_width";i:2;s:25:"button_hover_border_color";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:2:{s:31:"ec_counter_number_style_section";a:5:{s:12:"number_color";i:4;s:28:"number_typography_typography";i:4;s:29:"number_typography_font_family";i:4;s:27:"number_typography_font_size";i:4;s:13:"number_margin";i:4;}s:30:"ec_counter_title_style_section";a:4:{s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;s:31:"title_typography_text_transform";i:4;}}}}s:24:"elementor-companion-team";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:5:{s:5:"image";i:8;s:4:"name";i:8;s:11:"designation";i:8;s:11:"description";i:8;s:7:"socials";i:8;}}s:5:"style";a:3:{s:19:"section_style_image";a:1:{s:10:"image_size";i:8;}s:18:"section_style_name";a:3:{s:26:"name_typography_typography";i:8;s:25:"name_typography_font_size";i:8;s:11:"name_margin";i:8;}s:25:"section_style_designation";a:5:{s:17:"designation_color";i:8;s:33:"designation_typography_typography";i:8;s:32:"designation_typography_font_size";i:8;s:37:"designation_typography_text_transform";i:8;s:18:"designation_margin";i:8;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:6:"column";a:3:{s:5:"count";i:39;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:39;s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:21;s:6:"margin";i:10;s:13:"margin_mobile";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:10;s:16:"background_color";i:4;}s:14:"section_border";a:3:{s:13:"border_border";i:6;s:12:"border_width";i:6;s:12:"border_color";i:6;}}}}s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:5:"align";i:9;s:11:"header_size";i:8;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_font_family";i:5;s:22:"typography_font_weight";i:5;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:13;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:13;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:5:"align";i:9;s:10:"text_color";i:12;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:4;s:22:"typography_font_weight";i:6;s:21:"typography_font_style";i:1;s:20:"typography_font_size";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:12;}}}}s:7:"section";a:3:{s:5:"count";i:16;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:11;}s:14:"section_layout";a:1:{s:6:"layout";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:11;s:7:"padding";i:6;s:13:"margin_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_attachment";i:1;}}}}s:31:"elementor-companion-service-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"ec_service_box_section";a:4:{s:4:"icon";i:3;s:7:"caption";i:3;s:5:"title";i:3;s:11:"description";i:3;}}s:5:"style";a:3:{s:28:"ec_service_box_style_section";a:3:{s:19:"service_box_padding";i:3;s:25:"service_box_bg_background";i:3;s:20:"service_box_bg_color";i:3;}s:33:"ec_service_box_icon_style_section";a:3:{s:14:"icon_font_size";i:3;s:11:"icon_margin";i:3;s:17:"icon_normal_color";i:3;}s:34:"ec_service_box_style_title_section";a:4:{s:9:"title_tag";i:3;s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:12:"title_margin";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:2:{s:27:"_box_shadow_box_shadow_type";i:3;s:22:"_box_shadow_box_shadow";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:3;s:5:"align";i:3;s:4:"size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:21:"typography_typography";i:3;s:25:"typography_text_transform";i:3;s:17:"button_text_color";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;s:16:"background_color";i:3;s:13:"border_border";i:2;s:12:"border_width";i:2;s:25:"button_hover_border_color";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:27:"elementor-companion-counter";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:18:"ec_counter_section";a:3:{s:4:"icon";i:4;s:13:"ending_number";i:4;s:5:"title";i:4;}}s:5:"style";a:2:{s:31:"ec_counter_number_style_section";a:5:{s:12:"number_color";i:4;s:28:"number_typography_typography";i:4;s:29:"number_typography_font_family";i:4;s:27:"number_typography_font_size";i:4;s:13:"number_margin";i:4;}s:30:"ec_counter_title_style_section";a:4:{s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;s:31:"title_typography_text_transform";i:4;}}}}s:24:"elementor-companion-team";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_general";a:5:{s:5:"image";i:8;s:4:"name";i:8;s:11:"designation";i:8;s:11:"description";i:8;s:7:"socials";i:8;}}s:5:"style";a:3:{s:19:"section_style_image";a:1:{s:10:"image_size";i:8;}s:18:"section_style_name";a:3:{s:26:"name_typography_typography";i:8;s:25:"name_typography_font_size";i:8;s:11:"name_margin";i:8;}s:25:"section_style_designation";a:5:{s:17:"designation_color";i:8;s:33:"designation_typography_typography";i:8;s:32:"designation_typography_font_size";i:8;s:37:"designation_typography_text_transform";i:8;s:18:"designation_margin";i:8;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Causes</title>
+		<title><![CDATA[Causes]]></title>
 		<link>https://zakrademos.com/care/causes/</link>
 		<pubDate>Sat, 06 Jun 2020 09:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2304,6 +2413,8 @@ Spare some change.Don’t delay give today!</h4>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:32:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:32:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes]]></wp:post_name>
@@ -2411,11 +2522,11 @@ Spare some change.Don’t delay give today!</h4>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:19;s:19:"_inline_size_tablet";i:12;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:12;s:16:"background_color";i:12;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:15;s:7:"padding";i:15;s:13:"margin_tablet";i:15;s:14:"padding_tablet";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:13;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:13;s:5:"align";i:1;s:11:"header_size";i:12;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:13;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:13;s:22:"typography_font_weight";i:13;s:20:"typography_font_size";i:13;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:12;s:8:"_padding";i:12;}}}}s:11:"text-editor";a:3:{s:5:"count";i:13;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:13;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:13;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:10;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:13;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:13;s:8:"_padding";i:12;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:1:{s:6:"layout";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:4;s:7:"padding";i:1;s:14:"padding_tablet";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:12;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:12;s:10:"image_size";i:12;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:12;}}}}s:4:"html";a:3:{s:5:"count";i:12;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:12;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:12;s:8:"_padding";i:12;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:19;s:19:"_inline_size_tablet";i:12;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:12;s:16:"background_color";i:12;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:15;s:7:"padding";i:15;s:13:"margin_tablet";i:15;s:14:"padding_tablet";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:13;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:13;s:5:"align";i:1;s:11:"header_size";i:12;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:13;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:13;s:22:"typography_font_weight";i:13;s:20:"typography_font_size";i:13;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:12;s:8:"_padding";i:12;}}}}s:11:"text-editor";a:3:{s:5:"count";i:13;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:13;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:13;s:21:"typography_typography";i:13;s:22:"typography_font_family";i:10;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:13;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:13;s:8:"_padding";i:12;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:1:{s:6:"layout";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:4;s:7:"padding";i:1;s:14:"padding_tablet";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:12;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:12;s:10:"image_size";i:12;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:12;}}}}s:4:"html";a:3:{s:5:"count";i:12;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:12;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:12;s:8:"_padding";i:12;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Faq</title>
+		<title><![CDATA[Faq]]></title>
 		<link>https://zakrademos.com/care/faq/</link>
 		<pubDate>Sat, 06 Jun 2020 09:09:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2439,6 +2550,8 @@ Spare some change.Don’t delay give today!</h4>
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:09:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:09:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:33:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:33:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
@@ -2546,11 +2659,11 @@ Spare some change.Don’t delay give today!</h4>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:9:"accordion";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"tabs";i:1;}}s:5:"style";a:3:{s:26:"section_toggle_style_title";a:6:{s:16:"tab_active_color";i:1;s:27:"title_typography_typography";i:1;s:26:"title_typography_font_size";i:1;s:11:"title_color";i:1;s:28:"title_typography_font_family";i:1;s:28:"title_typography_font_weight";i:1;}s:25:"section_toggle_style_icon";a:3:{s:10:"icon_align";i:1;s:10:"icon_color";i:1;s:17:"icon_active_color";i:1;}s:28:"section_toggle_style_content";a:4:{s:29:"content_typography_typography";i:1;s:28:"content_typography_font_size";i:1;s:13:"content_color";i:1;s:30:"content_typography_font_family";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:9:"accordion";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"tabs";i:1;}}s:5:"style";a:3:{s:26:"section_toggle_style_title";a:6:{s:16:"tab_active_color";i:1;s:27:"title_typography_typography";i:1;s:26:"title_typography_font_size";i:1;s:11:"title_color";i:1;s:28:"title_typography_font_family";i:1;s:28:"title_typography_font_weight";i:1;}s:25:"section_toggle_style_icon";a:3:{s:10:"icon_align";i:1;s:10:"icon_color";i:1;s:17:"icon_active_color";i:1;}s:28:"section_toggle_style_content";a:4:{s:29:"content_typography_typography";i:1;s:28:"content_typography_font_size";i:1;s:13:"content_color";i:1;s:30:"content_typography_font_family";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://zakrademos.com/care/blog/</link>
 		<pubDate>Sat, 06 Jun 2020 09:09:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2561,6 +2674,8 @@ Spare some change.Don’t delay give today!</h4>
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:09:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:09:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-06 09:09:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-06 09:09:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2652,7 +2767,7 @@ Spare some change.Don’t delay give today!</h4>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/care/contact/</link>
 		<pubDate>Sat, 06 Jun 2020 09:10:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2675,6 +2790,8 @@ Spare some change.Don’t delay give today!</h4>
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-06 09:10:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-06 09:10:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-09 12:37:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-09 12:37:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2782,11 +2899,11 @@ Spare some change.Don’t delay give today!</h4>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:9;s:19:"_inline_size_tablet";i:3;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:6:"layout";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;s:8:"position";i:3;s:10:"title_size";i:3;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:3;s:15:"secondary_color";i:3;s:9:"icon_size";i:3;}s:21:"section_style_content";a:10:{s:10:"text_align";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:33:"description_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:28:"title_typography_font_weight";i:3;s:17:"description_color";i:3;s:34:"description_typography_font_family";i:3;s:34:"description_typography_font_weight";i:3;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:1:{s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:4:{s:17:"evf_label_spacing";i:1;s:24:"evf_label_spacing_tablet";i:1;s:24:"evf_label_spacing_mobile";i:1;s:32:"evf_label_typography_font_family";i:1;}s:15:"evf_field_style";a:7:{s:14:"evf_field_text";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:32:"evf_field_typography_font_weight";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:22:"evf_field_border_color";i:1;}s:7:"evf_btn";a:9:{s:15:"evf_btn_padding";i:1;s:29:"evf_btn_typography_typography";i:1;s:30:"evf_btn_typography_font_family";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:21:"evf_btn_border_border";i:1;s:20:"evf_btn_border_width";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:1:{s:6:"height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:9;s:19:"_inline_size_tablet";i:3;}}s:5:"style";a:1:{s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:5:"align";i:1;s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:6:"layout";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:8;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;s:8:"position";i:3;s:10:"title_size";i:3;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:3;s:15:"secondary_color";i:3;s:9:"icon_size";i:3;}s:21:"section_style_content";a:10:{s:10:"text_align";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:33:"description_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:28:"title_typography_font_weight";i:3;s:17:"description_color";i:3;s:34:"description_typography_font_family";i:3;s:34:"description_typography_font_weight";i:3;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:3:{s:14:"_border_border";i:3;s:13:"_border_width";i:3;s:13:"_border_color";i:3;}}}}s:33:"elementor-companion-everest-forms";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:3:"evf";a:1:{s:8:"evf_list";i:1;}}s:5:"style";a:4:{s:11:"evf_general";a:1:{s:11:"evf_row_gap";i:1;}s:9:"evf_label";a:4:{s:17:"evf_label_spacing";i:1;s:24:"evf_label_spacing_tablet";i:1;s:24:"evf_label_spacing_mobile";i:1;s:32:"evf_label_typography_font_family";i:1;}s:15:"evf_field_style";a:7:{s:14:"evf_field_text";i:1;s:31:"evf_field_typography_typography";i:1;s:32:"evf_field_typography_font_family";i:1;s:32:"evf_field_typography_font_weight";i:1;s:23:"evf_field_border_border";i:1;s:22:"evf_field_border_width";i:1;s:22:"evf_field_border_color";i:1;}s:7:"evf_btn";a:9:{s:15:"evf_btn_padding";i:1;s:29:"evf_btn_typography_typography";i:1;s:30:"evf_btn_typography_font_family";i:1;s:30:"evf_btn_typography_font_weight";i:1;s:21:"evf_btn_border_radius";i:1;s:13:"evf_btn_color";i:1;s:10:"evf_btn_bg";i:1;s:21:"evf_btn_border_border";i:1;s:20:"evf_btn_border_width";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:1:{s:6:"height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shelter for homeless</title>
+		<title><![CDATA[Shelter for homeless]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/shelter-for-homeless/</link>
 		<pubDate>Sun, 07 Jun 2020 14:56:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2803,6 +2920,8 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		<wp:post_id>387</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 14:56:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 14:56:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 14:56:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 14:56:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shelter-for-homeless]]></wp:post_name>
@@ -2895,7 +3014,7 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Charity is making big changes across the Africa</title>
+		<title><![CDATA[Charity is making big changes across the Africa]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/charity-is-making-big-changes-across-the-africa/</link>
 		<pubDate>Sun, 07 Jun 2020 14:58:18 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2912,6 +3031,8 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		<wp:post_id>390</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 14:58:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 14:58:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 14:58:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 14:58:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-is-making-big-changes-across-the-africa]]></wp:post_name>
@@ -3004,7 +3125,7 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Poverty level dropped by 3% around the Global</title>
+		<title><![CDATA[Poverty level dropped by 3% around the Global]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/poverty-level-dropped-by-3-around-the-global/</link>
 		<pubDate>Sun, 07 Jun 2020 14:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3021,6 +3142,8 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		<wp:post_id>393</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 14:59:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 14:59:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 14:59:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 14:59:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[poverty-level-dropped-by-3-around-the-global]]></wp:post_name>
@@ -3113,7 +3236,7 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Provide drinking water to people of Africa</title>
+		<title><![CDATA[Provide drinking water to people of Africa]]></title>
 		<link>https://zakrademos.com/care/2020/06/07/provide-drinking-water-to-people-of-africa/</link>
 		<pubDate>Sun, 07 Jun 2020 15:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3130,6 +3253,8 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		<wp:post_id>397</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-07 15:02:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-07 15:02:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-07 15:02:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-07 15:02:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[provide-drinking-water-to-people-of-africa]]></wp:post_name>
@@ -3222,7 +3347,7 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ending poverty in Africa</title>
+		<title><![CDATA[Ending poverty in Africa]]></title>
 		<link>https://zakrademos.com/care/2015/07/29/hello-world-2/</link>
 		<pubDate>Wed, 29 Jul 2015 13:40:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3239,6 +3364,8 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 		<wp:post_id>445</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:40:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-07-29 13:40:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-07-29 13:40:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
@@ -3340,13 +3467,13 @@ Integer a facilisis dui. Donec imperdiet pharetra bibendum. Ut venenatis sapien 
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/care/2020/06/16/450/</link>
 		<pubDate>Tue, 16 Jun 2020 18:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3357,6 +3484,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 		<wp:post_id>450</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 18:00:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 18:00:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 18:00:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[450]]></wp:post_name>

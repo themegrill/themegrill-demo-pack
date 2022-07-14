@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2020-11-23 10:19" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 15:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Charity</title>
 	<link>https://zakrademos.com/charity</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Mon, 23 Nov 2020 10:19:17 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 15:14:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/charity</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[rabinstha.me@gmail.com]]></wp:author_login><wp:author_email><![CDATA[rabinstha.me@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Rabinsthame]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -51,14 +51,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -73,7 +94,7 @@
 	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/charity/wp-content/uploads/sites/8/2018/08/Group-53.png</url>
@@ -84,7 +105,7 @@
 </image> 
 
 		<item>
-		<title>slider</title>
+		<title><![CDATA[slider]]></title>
 		<link>https://zakrademos.com/charity/slider/</link>
 		<pubDate>Thu, 16 Aug 2018 06:42:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -95,6 +116,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 06:42:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 06:42:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 06:42:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 06:42:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[slider]]></wp:post_name>
@@ -119,7 +142,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 70</title>
+		<title><![CDATA[Group 70]]></title>
 		<link>https://zakrademos.com/charity/group-70/</link>
 		<pubDate>Thu, 16 Aug 2018 09:08:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -130,6 +153,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 09:08:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 09:08:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 09:08:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 09:08:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-70]]></wp:post_name>
@@ -154,7 +179,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/charity/logo/</link>
 		<pubDate>Thu, 16 Aug 2018 09:47:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -165,6 +190,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 09:47:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 09:47:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 09:47:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 09:47:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -189,7 +216,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo.png</title>
+		<title><![CDATA[cropped-logo.png]]></title>
 		<link>https://zakrademos.com/charity/cropped-logo-png/</link>
 		<pubDate>Thu, 16 Aug 2018 09:47:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -200,6 +227,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 09:47:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 09:47:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 09:47:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 09:47:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-logo-png]]></wp:post_name>
@@ -236,7 +265,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 53</title>
+		<title><![CDATA[Group 53]]></title>
 		<link>https://zakrademos.com/charity/group-53/</link>
 		<pubDate>Thu, 16 Aug 2018 09:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -247,6 +276,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 09:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 09:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 09:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 09:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-53]]></wp:post_name>
@@ -271,7 +302,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jeffrey-eisen</title>
+		<title><![CDATA[jeffrey-eisen]]></title>
 		<link>https://zakrademos.com/charity/jeffrey-eisen/</link>
 		<pubDate>Thu, 16 Aug 2018 10:41:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -282,6 +313,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 10:41:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 10:41:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 10:41:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 10:41:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jeffrey-eisen]]></wp:post_name>
@@ -306,7 +339,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>loren-joseph</title>
+		<title><![CDATA[loren-joseph]]></title>
 		<link>https://zakrademos.com/charity/loren-joseph/</link>
 		<pubDate>Thu, 16 Aug 2018 10:41:43 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -317,6 +350,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 10:41:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 10:41:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 10:41:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 10:41:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[loren-joseph]]></wp:post_name>
@@ -341,7 +376,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tadeusz-lakota</title>
+		<title><![CDATA[tadeusz-lakota]]></title>
 		<link>https://zakrademos.com/charity/tadeusz-lakota/</link>
 		<pubDate>Thu, 16 Aug 2018 10:41:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -352,6 +387,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 10:41:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 10:41:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 10:41:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 10:41:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tadeusz-lakota]]></wp:post_name>
@@ -376,7 +413,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wilco-van-meppelen</title>
+		<title><![CDATA[wilco-van-meppelen]]></title>
 		<link>https://zakrademos.com/charity/wilco-van-meppelen/</link>
 		<pubDate>Thu, 16 Aug 2018 10:42:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -387,6 +424,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 10:42:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 10:42:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 10:42:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 10:42:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wilco-van-meppelen]]></wp:post_name>
@@ -411,7 +450,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rawpixel</title>
+		<title><![CDATA[rawpixel]]></title>
 		<link>https://zakrademos.com/charity/rawpixel-2/</link>
 		<pubDate>Thu, 16 Aug 2018 10:42:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -422,6 +461,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 10:42:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 10:42:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-16 10:42:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-16 10:42:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rawpixel-2]]></wp:post_name>
@@ -446,7 +487,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tim-marshall-114623-unsplash</title>
+		<title><![CDATA[tim-marshall-114623-unsplash]]></title>
 		<link>https://zakrademos.com/charity/tim-marshall-114623-unsplash/</link>
 		<pubDate>Fri, 17 Aug 2018 06:54:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -457,6 +498,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 06:54:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 06:54:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 06:54:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 06:54:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tim-marshall-114623-unsplash]]></wp:post_name>
@@ -481,7 +524,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rawpix</title>
+		<title><![CDATA[rawpix]]></title>
 		<link>https://zakrademos.com/charity/rawpix/</link>
 		<pubDate>Fri, 17 Aug 2018 07:10:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -492,6 +535,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 07:10:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 07:10:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 07:10:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 07:10:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rawpix]]></wp:post_name>
@@ -516,7 +561,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tanga-102575_1920</title>
+		<title><![CDATA[tanga-102575_1920]]></title>
 		<link>https://zakrademos.com/charity/tanga-102575_1920/</link>
 		<pubDate>Fri, 17 Aug 2018 10:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -527,6 +572,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 10:03:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 10:03:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 10:03:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 10:03:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tanga-102575_1920]]></wp:post_name>
@@ -551,7 +598,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gia-s-students-in-love-in-action-1102562</title>
+		<title><![CDATA[gia-s-students-in-love-in-action-1102562]]></title>
 		<link>https://zakrademos.com/charity/gia-s-students-in-love-in-action-1102562/</link>
 		<pubDate>Fri, 17 Aug 2018 10:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -562,6 +609,8 @@
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 10:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 10:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 10:03:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 10:03:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gia-s-students-in-love-in-action-1102562]]></wp:post_name>
@@ -586,7 +635,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bill-wegener</title>
+		<title><![CDATA[bill-wegener]]></title>
 		<link>https://zakrademos.com/charity/bill-wegener/</link>
 		<pubDate>Mon, 20 Aug 2018 09:19:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -597,6 +646,8 @@
 		<wp:post_id>231</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 09:19:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 09:19:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 09:19:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 09:19:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bill-wegener]]></wp:post_name>
@@ -621,7 +672,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>child-child</title>
+		<title><![CDATA[child-child]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/poverty-level-dropped-by-3-around-the-global/child-child/</link>
 		<pubDate>Mon, 20 Aug 2018 09:57:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -632,6 +683,8 @@
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 09:57:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 09:57:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 09:57:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 09:57:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[child-child]]></wp:post_name>
@@ -656,7 +709,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>africa</title>
+		<title><![CDATA[africa]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/poverty-level-dropped-by-3-around-the-global/africa/</link>
 		<pubDate>Mon, 20 Aug 2018 09:57:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -667,6 +720,8 @@
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 09:57:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 09:57:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 09:57:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 09:57:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[africa]]></wp:post_name>
@@ -691,7 +746,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>doug-linstedt</title>
+		<title><![CDATA[doug-linstedt]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/poverty-level-dropped-by-3-around-the-global/doug-linstedt/</link>
 		<pubDate>Mon, 20 Aug 2018 09:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -702,6 +757,8 @@
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 09:59:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 09:59:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 09:59:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 09:59:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[doug-linstedt]]></wp:post_name>
@@ -726,7 +783,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zeyn-afuang</title>
+		<title><![CDATA[zeyn-afuang]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/poverty-level-dropped-by-3-around-the-global/zeyn-afuang/</link>
 		<pubDate>Mon, 20 Aug 2018 10:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -737,6 +794,8 @@
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:07:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:07:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:07:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:07:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zeyn-afuang]]></wp:post_name>
@@ -761,7 +820,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>children</title>
+		<title><![CDATA[children]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/shelter-for-homeless/children/</link>
 		<pubDate>Mon, 20 Aug 2018 10:08:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -772,6 +831,8 @@
 		<wp:post_id>252</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:08:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:08:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:08:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:08:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[children]]></wp:post_name>
@@ -796,7 +857,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/charity/2018/08/16/zakra/</link>
 		<pubDate>Thu, 16 Aug 2018 09:53:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -807,6 +868,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 09:53:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 09:53:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 05:18:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 05:18:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -818,7 +881,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>volunter page</title>
+		<title><![CDATA[volunter page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=volunter-page</link>
 		<pubDate>Fri, 17 Aug 2018 09:43:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -833,6 +896,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 09:43:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 09:43:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 05:02:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 05:02:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunter-page]]></wp:post_name>
@@ -869,7 +934,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VOLUNTER</title>
+		<title><![CDATA[VOLUNTER]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=volunter</link>
 		<pubDate>Fri, 17 Aug 2018 09:55:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -885,6 +950,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 09:55:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 09:55:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 05:01:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 05:01:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunter]]></wp:post_name>
@@ -921,7 +988,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what-we-do</title>
+		<title><![CDATA[what-we-do]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=what-we-do</link>
 		<pubDate>Mon, 20 Aug 2018 04:04:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -947,6 +1014,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 04:04:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 04:04:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 05:00:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 05:00:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
@@ -983,7 +1052,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>donation</title>
+		<title><![CDATA[donation]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=donation</link>
 		<pubDate>Mon, 20 Aug 2018 04:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -998,6 +1067,8 @@
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 04:07:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 04:07:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:59:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:59:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donation]]></wp:post_name>
@@ -1034,7 +1105,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>causes</title>
+		<title><![CDATA[causes]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=causes</link>
 		<pubDate>Mon, 20 Aug 2018 05:05:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1063,6 +1134,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 05:05:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 05:05:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:58:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:58:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes]]></wp:post_name>
@@ -1099,7 +1172,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>street</title>
+		<title><![CDATA[street]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/ending-poverty-in-africa/street/</link>
 		<pubDate>Mon, 20 Aug 2018 10:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1110,6 +1183,8 @@
 		<wp:post_id>254</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:10:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:10:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:10:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:10:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[street]]></wp:post_name>
@@ -1134,7 +1209,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 52</title>
+		<title><![CDATA[Group 52]]></title>
 		<link>https://zakrademos.com/charity/group-52/</link>
 		<pubDate>Mon, 20 Aug 2018 10:40:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1145,6 +1220,8 @@
 		<wp:post_id>267</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:40:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:40:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:40:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:40:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-52]]></wp:post_name>
@@ -1169,7 +1246,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gymshank</title>
+		<title><![CDATA[Gymshank]]></title>
 		<link>https://zakrademos.com/charity/gymshank/</link>
 		<pubDate>Mon, 20 Aug 2018 10:40:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1180,6 +1257,8 @@
 		<wp:post_id>268</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:40:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:40:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:40:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:40:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gymshank]]></wp:post_name>
@@ -1204,7 +1283,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LECHANK</title>
+		<title><![CDATA[LECHANK]]></title>
 		<link>https://zakrademos.com/charity/lechank/</link>
 		<pubDate>Mon, 20 Aug 2018 10:40:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1215,6 +1294,8 @@
 		<wp:post_id>269</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:40:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:40:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:40:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:40:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lechank]]></wp:post_name>
@@ -1239,7 +1320,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shivono</title>
+		<title><![CDATA[Shivono]]></title>
 		<link>https://zakrademos.com/charity/shivono/</link>
 		<pubDate>Mon, 20 Aug 2018 10:40:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1250,6 +1331,8 @@
 		<wp:post_id>270</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:40:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:40:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:40:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:40:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shivono]]></wp:post_name>
@@ -1274,7 +1357,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GoGlibiyo</title>
+		<title><![CDATA[GoGlibiyo]]></title>
 		<link>https://zakrademos.com/charity/goglibiyo/</link>
 		<pubDate>Mon, 20 Aug 2018 10:40:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1285,6 +1368,8 @@
 		<wp:post_id>271</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:40:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:40:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:40:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:40:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[goglibiyo]]></wp:post_name>
@@ -1309,7 +1394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dark-logo</title>
+		<title><![CDATA[dark-logo]]></title>
 		<link>https://zakrademos.com/charity/dark-logo/</link>
 		<pubDate>Thu, 27 Sep 2018 08:56:20 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1320,6 +1405,8 @@
 		<wp:post_id>300</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 08:56:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 08:56:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 08:56:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 08:56:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dark-logo]]></wp:post_name>
@@ -1344,7 +1431,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Front Page</title>
+		<title><![CDATA[Zakra Charity - Front Page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-front-page</link>
 		<pubDate>Fri, 22 Nov 2019 04:43:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1417,6 +1504,8 @@ Childrens</h2>
 		<wp:post_id>363</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:43:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:43:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:43:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:43:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-front-page]]></wp:post_name>
@@ -1453,7 +1542,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Causes Page</title>
+		<title><![CDATA[Zakra Charity - Causes Page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-causes-page</link>
 		<pubDate>Fri, 22 Nov 2019 04:45:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1484,6 +1573,8 @@ Childrens</h2>
 		<wp:post_id>366</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:45:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:45:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:45:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:45:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-causes-page]]></wp:post_name>
@@ -1520,7 +1611,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Who We Are page</title>
+		<title><![CDATA[Zakra Charity - Who We Are page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-who-we-are-page</link>
 		<pubDate>Fri, 22 Nov 2019 04:46:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1550,6 +1641,8 @@ Childrens</h2>
 		<wp:post_id>369</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:46:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:46:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:46:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:46:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-who-we-are-page]]></wp:post_name>
@@ -1586,7 +1679,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Volunteer Page</title>
+		<title><![CDATA[Zakra Charity - Volunteer Page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-volunteer-page</link>
 		<pubDate>Fri, 22 Nov 2019 04:47:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1601,6 +1694,8 @@ Childrens</h2>
 		<wp:post_id>372</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:47:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:47:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:47:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:47:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-volunteer-page]]></wp:post_name>
@@ -1637,7 +1732,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Contact Page</title>
+		<title><![CDATA[Zakra Charity - Contact Page]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-contact-page</link>
 		<pubDate>Fri, 22 Nov 2019 04:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1653,6 +1748,8 @@ Childrens</h2>
 		<wp:post_id>375</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:48:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:48:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:48:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:48:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-contact-page]]></wp:post_name>
@@ -1689,7 +1786,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Banner Section</title>
+		<title><![CDATA[Zakra Charity - Banner Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-banner-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:52:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1707,6 +1804,8 @@ Childrens</h2>
 		<wp:post_id>378</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:52:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:52:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-banner-section]]></wp:post_name>
@@ -1743,7 +1842,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - About Section</title>
+		<title><![CDATA[Zakra Charity - About Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-about-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1759,6 +1858,8 @@ Childrens</h2>
 		<wp:post_id>381</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:54:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:54:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:54:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-about-section]]></wp:post_name>
@@ -1795,7 +1896,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/donations/help-the-childrens/</link>
 		<pubDate>Fri, 17 Aug 2018 05:06:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1806,6 +1907,8 @@ Childrens</h2>
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 05:06:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 05:06:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 05:06:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 05:06:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[help-the-childrens]]></wp:post_name>
@@ -1817,7 +1920,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>1</title>
+		<title><![CDATA[1]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=80</link>
 		<pubDate>Fri, 17 Aug 2018 05:16:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1828,6 +1931,8 @@ Childrens</h2>
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 05:16:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 05:16:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-1]]></wp:post_name>
@@ -1839,17 +1944,19 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>volunteer-form</title>
+		<title><![CDATA[volunteer-form]]></title>
 		<link>https://zakrademos.com/charity/?post_type=everest_form&#038;p=86</link>
 		<pubDate>Fri, 17 Aug 2018 06:18:44 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-charity/?post_type=everest_form&#038;p=86</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"86","form_field_id":7,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"DjdbxFO78d-2":{"id":"DjdbxFO78d-2","type":"number","label":"Phone Number","meta-key":"number_6363","description":"","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"VXaIKrUuV1-3":{"id":"VXaIKrUuV1-3","type":"select","label":"City","meta-key":"City","choices":{"1":{"label":"Option 1","value":""},"2":{"label":"Option 2","value":""}},"description":"","placeholder":"","css":""},"9jYPPsAvZ6-4":{"id":"9jYPPsAvZ6-4","type":"text","label":"Zip\/Postal Code","meta-key":"zip","description":"","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Address","meta-key":"address","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"vfKUe0971e-6":{"id":"vfKUe0971e-6","type":"select","label":"State\/Region","meta-key":"state_4082","choices":{"1":{"label":"Option 1","value":""},"2":{"label":"Option 2","value":""}},"description":"","placeholder":"","css":""},"7NQSXjAPX6-5":{"id":"7NQSXjAPX6-5","type":"text","label":"Country","meta-key":"single_line_text_7321","description":"","placeholder":"","default_value":"","css":"","input_mask":""}},"settings":{"form_title":"volunteer-form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"122","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Charity","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5c5aa429c258a":{"connection_name":"User Notification","evf_to_email":"wordpress@demo.themegrill.com","evf_from_name":"Modular Charity","evf_from_email":"wordpress@demo.themegrill.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","DjdbxFO78d-2","VXaIKrUuV1-3","9jYPPsAvZ6-4"],"grid_2":["email","subject","vfKUe0971e-6","7NQSXjAPX6-5"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"86","form_enabled":"1","form_field_id":7,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"DjdbxFO78d-2":{"id":"DjdbxFO78d-2","type":"number","label":"Phone Number","meta-key":"number_6363","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"VXaIKrUuV1-3":{"id":"VXaIKrUuV1-3","type":"select","label":"City","meta-key":"City","multiple_choices":"0","choices":{"1":{"label":"Option 1","value":"","image":""},"2":{"label":"Option 2","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"","css":""},"9jYPPsAvZ6-4":{"id":"9jYPPsAvZ6-4","type":"text","label":"Zip\/Postal Code","meta-key":"zip","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Address","meta-key":"address","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"vfKUe0971e-6":{"id":"vfKUe0971e-6","type":"select","label":"State\/Region","meta-key":"state_4082","multiple_choices":"0","choices":{"1":{"label":"Option 1","value":"","image":""},"2":{"label":"Option 2","value":"","image":""}},"description":"","required-field-message":"This field is required.","placeholder":"","css":""},"7NQSXjAPX6-5":{"id":"7NQSXjAPX6-5","type":"text","label":"Country","meta-key":"single_line_text_7321","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""}},"settings":{"form_title":"volunteer-form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"122","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Charity","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","DjdbxFO78d-2","VXaIKrUuV1-3","9jYPPsAvZ6-4"],"grid_2":["email","subject","vfKUe0971e-6","7NQSXjAPX6-5"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 06:18:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 06:18:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 11:19:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 11:19:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer-form]]></wp:post_name>
@@ -1861,7 +1968,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Educated children from sum of India</title>
+		<title><![CDATA[Educated children from sum of India]]></title>
 		<link>https://zakrademos.com/charity/donations/educated-children-from-sum-of-india/</link>
 		<pubDate>Mon, 20 Aug 2018 08:27:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1872,6 +1979,8 @@ Childrens</h2>
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 08:27:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 08:27:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 08:27:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 08:27:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[educated-children-from-sum-of-india]]></wp:post_name>
@@ -1883,7 +1992,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Provide shelter to Syrian war victims</title>
+		<title><![CDATA[Provide shelter to Syrian war victims]]></title>
 		<link>https://zakrademos.com/charity/donations/provide-shelter-to-syrian-war-victims/</link>
 		<pubDate>Mon, 20 Aug 2018 08:34:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1894,6 +2003,8 @@ Childrens</h2>
 		<wp:post_id>203</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 08:34:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 08:34:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 08:34:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 08:34:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[provide-shelter-to-syrian-war-victims]]></wp:post_name>
@@ -1905,7 +2016,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Provide drinking water to people of Africa</title>
+		<title><![CDATA[Provide drinking water to people of Africa]]></title>
 		<link>https://zakrademos.com/charity/donations/provide-drinking-water-to-people-of-africa/</link>
 		<pubDate>Mon, 20 Aug 2018 08:34:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1916,6 +2027,8 @@ Childrens</h2>
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 08:34:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 08:34:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 08:34:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 08:34:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[provide-drinking-water-to-people-of-africa]]></wp:post_name>
@@ -1927,7 +2040,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Orphanage maintenance</title>
+		<title><![CDATA[Orphanage maintenance]]></title>
 		<link>https://zakrademos.com/charity/donations/orphanage-maintenance/</link>
 		<pubDate>Mon, 20 Aug 2018 09:06:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1938,6 +2051,8 @@ Childrens</h2>
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 09:06:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 09:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 09:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 09:06:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[orphanage-maintenance]]></wp:post_name>
@@ -1949,17 +2064,19 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/charity/?post_type=everest_form&#038;p=253</link>
 		<pubDate>Thu, 16 Aug 2018 05:55:49 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-charity/?post_type=everest_form&#038;p=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"253","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"122","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Charity","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d256ff043672":{"connection_name":"User Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Charity","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"253","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"122","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Charity","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-16 05:55:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-16 05:55:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 11:18:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 11:18:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -1971,7 +2088,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>2</title>
+		<title><![CDATA[2]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=314</link>
 		<pubDate>Tue, 06 Nov 2018 11:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1982,6 +2099,8 @@ Childrens</h2>
 		<wp:post_id>314</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-06 11:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-06 11:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-2]]></wp:post_name>
@@ -2005,14 +2124,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1541505462]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[aea24a12dd7810027dbd71b482357883]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2023,7 +2134,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>3</title>
+		<title><![CDATA[3]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=315</link>
 		<pubDate>Thu, 08 Nov 2018 15:06:26 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2034,6 +2145,8 @@ Childrens</h2>
 		<wp:post_id>315</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-08 15:06:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-08 15:06:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-3]]></wp:post_name>
@@ -2057,14 +2170,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1541689592]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a1d16db6b617ee821de02d075c8961c7]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2075,7 +2180,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Zakra Charity - Donate Section</title>
+		<title><![CDATA[Zakra Charity - Donate Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-donate-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:55:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2088,6 +2193,8 @@ Childrens</h2>
 		<wp:post_id>384</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:55:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:55:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:55:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-donate-section]]></wp:post_name>
@@ -2124,7 +2231,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - What Do We Do Section</title>
+		<title><![CDATA[Zakra Charity - What Do We Do Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-what-do-we-do-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:57:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2150,6 +2257,8 @@ Childrens</h2>
 		<wp:post_id>387</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:57:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:57:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:57:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:57:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-what-do-we-do-section]]></wp:post_name>
@@ -2186,7 +2295,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Helping Hand Section</title>
+		<title><![CDATA[Zakra Charity - Helping Hand Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-helping-hand-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:58:24 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2201,6 +2310,8 @@ Childrens</h2>
 		<wp:post_id>390</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:58:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:58:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:58:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:58:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-helping-hand-section]]></wp:post_name>
@@ -2237,7 +2348,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Causes Section</title>
+		<title><![CDATA[Zakra Charity - Causes Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-causes-section</link>
 		<pubDate>Fri, 22 Nov 2019 04:59:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2266,6 +2377,8 @@ Childrens</h2>
 		<wp:post_id>393</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 04:59:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 04:59:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 04:59:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 04:59:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-causes-section]]></wp:post_name>
@@ -2302,7 +2415,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Volunteer Section</title>
+		<title><![CDATA[Zakra Charity - Volunteer Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-volunteer-section</link>
 		<pubDate>Fri, 22 Nov 2019 05:00:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2318,6 +2431,8 @@ Childrens</h2>
 		<wp:post_id>396</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 05:00:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 05:00:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 05:00:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 05:00:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-volunteer-section]]></wp:post_name>
@@ -2354,7 +2469,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Who We Are Section</title>
+		<title><![CDATA[Zakra Charity - Who We Are Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-who-we-are-section</link>
 		<pubDate>Fri, 22 Nov 2019 05:03:27 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2371,6 +2486,8 @@ Childrens</h2>
 		<wp:post_id>399</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 05:03:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 05:03:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 05:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 05:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-who-we-are-section]]></wp:post_name>
@@ -2407,7 +2524,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Counter Section</title>
+		<title><![CDATA[Zakra Charity - Counter Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-counter-section</link>
 		<pubDate>Fri, 22 Nov 2019 05:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2425,6 +2542,8 @@ Childrens</h2>
 		<wp:post_id>402</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 05:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 05:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 05:04:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 05:04:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-counter-section]]></wp:post_name>
@@ -2461,7 +2580,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Volunteer Intro Section</title>
+		<title><![CDATA[Zakra Charity - Volunteer Intro Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-volunteer-intro-section</link>
 		<pubDate>Fri, 22 Nov 2019 05:05:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2474,6 +2593,8 @@ Childrens</h2>
 		<wp:post_id>405</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 05:05:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 05:05:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 05:05:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 05:05:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-volunteer-intro-section]]></wp:post_name>
@@ -2510,7 +2631,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Charity - Volunteer Form Section</title>
+		<title><![CDATA[Zakra Charity - Volunteer Form Section]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=zakra-charity-volunteer-form-section</link>
 		<pubDate>Fri, 22 Nov 2019 05:05:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2522,6 +2643,8 @@ Childrens</h2>
 		<wp:post_id>408</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 05:05:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-22 05:05:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-22 05:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-22 05:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-charity-volunteer-form-section]]></wp:post_name>
@@ -2558,7 +2681,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/charity/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 06:51:13 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2569,6 +2692,8 @@ Childrens</h2>
 		<wp:post_id>418</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 06:51:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 06:51:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 06:51:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 06:51:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2592,7 +2717,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>4</title>
+		<title><![CDATA[4]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=316</link>
 		<pubDate>Mon, 12 Nov 2018 10:30:01 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2603,6 +2728,8 @@ Childrens</h2>
 		<wp:post_id>316</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-12 10:30:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-12 10:30:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-4]]></wp:post_name>
@@ -2626,14 +2753,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1542018607]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1d9157ff1573f4ecb623fab9b399ead8]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2644,7 +2763,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>5</title>
+		<title><![CDATA[5]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=317</link>
 		<pubDate>Sun, 18 Nov 2018 21:26:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2655,6 +2774,8 @@ Childrens</h2>
 		<wp:post_id>317</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-18 21:26:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-18 21:26:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-5]]></wp:post_name>
@@ -2678,14 +2799,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1542576373]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[af48c4632bb4a58cda33179a413e6cd2]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2696,7 +2809,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>6</title>
+		<title><![CDATA[6]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=318</link>
 		<pubDate>Sat, 24 Nov 2018 16:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2707,6 +2820,8 @@ Childrens</h2>
 		<wp:post_id>318</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:23:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:23:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-6]]></wp:post_name>
@@ -2730,14 +2845,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1543076613]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3fc597e56fe9dd86f1321d034bfa24c8]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2748,7 +2855,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>7</title>
+		<title><![CDATA[7]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=319</link>
 		<pubDate>Wed, 05 Dec 2018 13:20:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2759,6 +2866,8 @@ Childrens</h2>
 		<wp:post_id>319</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-05 13:20:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-05 13:20:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-7]]></wp:post_name>
@@ -2782,14 +2891,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1544016032]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[ba9dabc3db1fd95d188f5f3405e99755]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2800,7 +2901,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>8</title>
+		<title><![CDATA[8]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=320</link>
 		<pubDate>Thu, 13 Dec 2018 11:07:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2811,6 +2912,8 @@ Childrens</h2>
 		<wp:post_id>320</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-13 11:07:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-13 11:07:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-8]]></wp:post_name>
@@ -2834,14 +2937,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1544699269]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[79a5ffd75d0af0d0097cf795753acef1]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2852,7 +2947,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>9</title>
+		<title><![CDATA[9]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=321</link>
 		<pubDate>Tue, 18 Dec 2018 07:57:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2863,6 +2958,8 @@ Childrens</h2>
 		<wp:post_id>321</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-18 07:57:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-18 07:57:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-9]]></wp:post_name>
@@ -2886,14 +2983,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545119836]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[fc8f1378940adddf809682534e38dc0a]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2904,7 +2993,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>10</title>
+		<title><![CDATA[10]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=322</link>
 		<pubDate>Thu, 20 Dec 2018 23:24:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2915,6 +3004,8 @@ Childrens</h2>
 		<wp:post_id>322</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-20 23:24:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-20 23:24:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-10]]></wp:post_name>
@@ -2938,14 +3029,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545348253]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[89497fae899638f21df8a5f075fca991]]></wp:meta_value>
 			</wp:commentmeta>
@@ -2956,7 +3039,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>11</title>
+		<title><![CDATA[11]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=323</link>
 		<pubDate>Mon, 24 Dec 2018 14:29:51 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2967,6 +3050,8 @@ Childrens</h2>
 		<wp:post_id>323</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-24 14:29:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-24 14:29:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-11]]></wp:post_name>
@@ -2990,14 +3075,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545661793]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[9f63db9986015c6f2c8952cd0fbdce2c]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3008,7 +3085,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>12</title>
+		<title><![CDATA[12]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=324</link>
 		<pubDate>Mon, 24 Dec 2018 15:25:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3019,6 +3096,8 @@ Childrens</h2>
 		<wp:post_id>324</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-24 15:25:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-24 15:25:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-12]]></wp:post_name>
@@ -3042,14 +3121,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545665106]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[48cf4db525c4111a29507b831b3128d4]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3060,7 +3131,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>13</title>
+		<title><![CDATA[13]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=325</link>
 		<pubDate>Tue, 25 Dec 2018 11:15:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3071,6 +3142,8 @@ Childrens</h2>
 		<wp:post_id>325</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-25 11:15:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-25 11:15:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-13]]></wp:post_name>
@@ -3094,14 +3167,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545736515]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[f923cf50f8b53865271c75f1f603eb3d]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3112,7 +3177,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>14</title>
+		<title><![CDATA[14]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=326</link>
 		<pubDate>Thu, 27 Dec 2018 16:01:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3123,6 +3188,8 @@ Childrens</h2>
 		<wp:post_id>326</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-27 16:01:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-27 16:01:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-14]]></wp:post_name>
@@ -3146,14 +3213,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1545926512]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[4eb149fa314f06c372de0578cd7e9133]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3164,7 +3223,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>15</title>
+		<title><![CDATA[15]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=327</link>
 		<pubDate>Mon, 14 Jan 2019 04:09:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3175,6 +3234,8 @@ Childrens</h2>
 		<wp:post_id>327</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-14 04:09:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-14 04:09:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-15]]></wp:post_name>
@@ -3198,14 +3259,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1547438996]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[4bb33233c9ea572778183c5cef7fe716]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3216,7 +3269,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>16</title>
+		<title><![CDATA[16]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=328</link>
 		<pubDate>Tue, 15 Jan 2019 08:32:36 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3227,6 +3280,8 @@ Childrens</h2>
 		<wp:post_id>328</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:32:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:32:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-16]]></wp:post_name>
@@ -3250,14 +3305,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1547541158]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[960d20c2e782e02ae05150a400b1b937]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3268,7 +3315,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>17</title>
+		<title><![CDATA[17]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=329</link>
 		<pubDate>Sat, 19 Jan 2019 16:35:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3279,6 +3326,8 @@ Childrens</h2>
 		<wp:post_id>329</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-19 16:35:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-19 16:35:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-17]]></wp:post_name>
@@ -3302,14 +3351,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1547915759]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8e24ec41aea503bc8afcba8eff831da5]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3320,7 +3361,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>18</title>
+		<title><![CDATA[18]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=330</link>
 		<pubDate>Mon, 21 Jan 2019 23:09:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3331,6 +3372,8 @@ Childrens</h2>
 		<wp:post_id>330</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-21 23:09:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-21 23:09:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-18]]></wp:post_name>
@@ -3354,14 +3397,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548112143]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[40d4c6645bcb4fec9572f8b5fabc35b6]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3372,7 +3407,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>19</title>
+		<title><![CDATA[19]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=331</link>
 		<pubDate>Tue, 22 Jan 2019 22:20:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3383,6 +3418,8 @@ Childrens</h2>
 		<wp:post_id>331</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-22 22:20:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-22 22:20:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-19]]></wp:post_name>
@@ -3406,14 +3443,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548195633]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[fee3029b2a359ffc1f03870b5d144060]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3424,7 +3453,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>20</title>
+		<title><![CDATA[20]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=332</link>
 		<pubDate>Fri, 25 Jan 2019 09:08:06 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3435,6 +3464,8 @@ Childrens</h2>
 		<wp:post_id>332</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-25 09:08:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-25 09:08:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-20]]></wp:post_name>
@@ -3458,14 +3489,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548407289]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[07520fbb69286aa1b854ebc32b416665]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3476,7 +3499,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>21</title>
+		<title><![CDATA[21]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=335</link>
 		<pubDate>Mon, 28 Jan 2019 19:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3487,6 +3510,8 @@ Childrens</h2>
 		<wp:post_id>335</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 19:53:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-28 19:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-21]]></wp:post_name>
@@ -3510,14 +3535,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548705231]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[ce588aa78cc996b5a096a2b7779a96ca]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3528,7 +3545,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>22</title>
+		<title><![CDATA[22]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=336</link>
 		<pubDate>Mon, 28 Jan 2019 19:58:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3539,6 +3556,8 @@ Childrens</h2>
 		<wp:post_id>336</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 19:58:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-28 19:58:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-22]]></wp:post_name>
@@ -3562,14 +3581,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548705502]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a0bb798132b3ae0870c9976f34b53563]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3580,7 +3591,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>23</title>
+		<title><![CDATA[23]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=337</link>
 		<pubDate>Thu, 31 Jan 2019 18:58:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3591,6 +3602,8 @@ Childrens</h2>
 		<wp:post_id>337</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-31 18:58:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-31 18:58:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-23]]></wp:post_name>
@@ -3614,14 +3627,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1548961143]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[fd83d14b5274be8cf95a6a503d76a728]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3632,7 +3637,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>ABOUT</title>
+		<title><![CDATA[ABOUT]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/about/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3643,6 +3648,8 @@ Childrens</h2>
 		<wp:post_id>333</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3687,7 +3694,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>DONATE</title>
+		<title><![CDATA[DONATE]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/donate/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3698,6 +3705,8 @@ Childrens</h2>
 		<wp:post_id>334</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donate]]></wp:post_name>
@@ -3742,7 +3751,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>24</title>
+		<title><![CDATA[24]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=338</link>
 		<pubDate>Fri, 01 Feb 2019 08:43:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3753,6 +3762,8 @@ Childrens</h2>
 		<wp:post_id>338</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-01 08:43:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-01 08:43:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-24]]></wp:post_name>
@@ -3776,14 +3787,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1549010602]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[fb11c55ea8152777e15a6fb4b0c9ff62]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3794,7 +3797,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>25</title>
+		<title><![CDATA[25]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=339</link>
 		<pubDate>Fri, 01 Feb 2019 09:34:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3805,6 +3808,8 @@ Childrens</h2>
 		<wp:post_id>339</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-01 09:34:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-01 09:34:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-25]]></wp:post_name>
@@ -3828,14 +3833,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1549013688]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[ea68a20ab59d6d1aa3fc03007438e134]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3846,7 +3843,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>26</title>
+		<title><![CDATA[26]]></title>
 		<link>https://zakrademos.com/charity/?post_type=give_payment&#038;p=340</link>
 		<pubDate>Sun, 03 Feb 2019 14:09:42 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3857,6 +3854,8 @@ Childrens</h2>
 		<wp:post_id>340</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-03 14:09:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-03 14:09:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[give-donation-26]]></wp:post_name>
@@ -3880,14 +3879,6 @@ Childrens</h2>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1549202984]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
 	<wp:meta_key><![CDATA[ct_hash]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3a3043a13d7158cf60b154f4d404845e]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3898,7 +3889,7 @@ Childrens</h2>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/privacy-policy/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3909,6 +3900,8 @@ Childrens</h2>
 		<wp:post_id>344</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -3953,7 +3946,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Terms and Conditions</title>
+		<title><![CDATA[Terms and Conditions]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/terms-and-conditions/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3964,6 +3957,8 @@ Childrens</h2>
 		<wp:post_id>345</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[terms-and-conditions]]></wp:post_name>
@@ -4008,7 +4003,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/346/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4019,6 +4014,8 @@ Childrens</h2>
 		<wp:post_id>346</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[346]]></wp:post_name>
@@ -4063,7 +4060,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/347/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4074,6 +4071,8 @@ Childrens</h2>
 		<wp:post_id>347</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[347]]></wp:post_name>
@@ -4118,7 +4117,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/348/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4129,6 +4128,8 @@ Childrens</h2>
 		<wp:post_id>348</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[348]]></wp:post_name>
@@ -4173,7 +4174,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/349/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4184,6 +4185,8 @@ Childrens</h2>
 		<wp:post_id>349</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[349]]></wp:post_name>
@@ -4228,7 +4231,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2019/07/10/351/</link>
 		<pubDate>Wed, 10 Jul 2019 04:50:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4239,6 +4242,8 @@ Childrens</h2>
 		<wp:post_id>351</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:50:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:50:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[351]]></wp:post_name>
@@ -4283,7 +4288,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/06/26/424/</link>
 		<pubDate>Fri, 26 Jun 2020 04:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4294,6 +4299,8 @@ Childrens</h2>
 		<wp:post_id>424</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 04:17:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 04:17:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[424]]></wp:post_name>
@@ -4338,7 +4345,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/06/26/425/</link>
 		<pubDate>Fri, 26 Jun 2020 04:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4349,6 +4356,8 @@ Childrens</h2>
 		<wp:post_id>425</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 04:17:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 04:17:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[425]]></wp:post_name>
@@ -4393,7 +4402,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/06/26/426/</link>
 		<pubDate>Fri, 26 Jun 2020 04:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4404,6 +4413,8 @@ Childrens</h2>
 		<wp:post_id>426</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-26 04:17:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-26 04:17:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[426]]></wp:post_name>
@@ -4448,7 +4459,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/486/</link>
 		<pubDate>Mon, 10 Aug 2020 09:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4459,6 +4470,8 @@ Childrens</h2>
 		<wp:post_id>486</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:01:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:01:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[486]]></wp:post_name>
@@ -4503,7 +4516,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/?p=487</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4514,6 +4527,8 @@ Childrens</h2>
 		<wp:post_id>487</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:01:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:01:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -4561,7 +4576,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/488/</link>
 		<pubDate>Mon, 10 Aug 2020 09:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4572,6 +4587,8 @@ Childrens</h2>
 		<wp:post_id>488</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:01:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:01:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[488]]></wp:post_name>
@@ -4616,7 +4633,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/489/</link>
 		<pubDate>Mon, 10 Aug 2020 09:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4627,6 +4644,8 @@ Childrens</h2>
 		<wp:post_id>489</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:01:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:01:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[489]]></wp:post_name>
@@ -4671,7 +4690,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/490/</link>
 		<pubDate>Mon, 10 Aug 2020 09:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4682,6 +4701,8 @@ Childrens</h2>
 		<wp:post_id>490</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:01:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:01:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[490]]></wp:post_name>
@@ -4726,7 +4747,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donation Confirmation</title>
+		<title><![CDATA[Donation Confirmation]]></title>
 		<link>https://zakrademos.com/charity/donation-confirmation/</link>
 		<pubDate>Wed, 10 Jul 2019 04:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
@@ -4737,6 +4758,8 @@ Childrens</h2>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:49:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:49:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donation-confirmation]]></wp:post_name>
@@ -4748,7 +4771,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Donation Failed</title>
+		<title><![CDATA[Donation Failed]]></title>
 		<link>https://zakrademos.com/charity/donation-failed/</link>
 		<pubDate>Wed, 10 Jul 2019 04:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
@@ -4759,6 +4782,8 @@ Childrens</h2>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:49:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:49:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donation-failed]]></wp:post_name>
@@ -4770,7 +4795,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Donation History</title>
+		<title><![CDATA[Donation History]]></title>
 		<link>https://zakrademos.com/charity/donation-history/</link>
 		<pubDate>Wed, 10 Jul 2019 04:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
@@ -4781,6 +4806,8 @@ Childrens</h2>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 04:49:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 04:49:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 04:49:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donation-history]]></wp:post_name>
@@ -4792,7 +4819,7 @@ Childrens</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>BLOG</title>
+		<title><![CDATA[BLOG]]></title>
 		<link>https://zakrademos.com/charity/blog/</link>
 		<pubDate>Fri, 17 Aug 2018 10:00:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4803,6 +4830,8 @@ Childrens</h2>
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-17 10:00:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-17 10:00:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-17 10:00:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-17 10:00:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -4822,7 +4851,7 @@ Childrens</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Poverty level dropped by 3% around the Global</title>
+		<title><![CDATA[Poverty level dropped by 3% around the Global]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/poverty-level-dropped-by-3-around-the-global/</link>
 		<pubDate>Mon, 20 Aug 2018 10:13:04 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4849,6 +4878,8 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:13:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:13:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:13:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:13:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[poverty-level-dropped-by-3-around-the-global]]></wp:post_name>
@@ -4873,7 +4904,7 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Charity is making big changes across the Africa</title>
+		<title><![CDATA[Charity is making big changes across the Africa]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/charity-is-making-big-changes-across-the-africa/</link>
 		<pubDate>Mon, 20 Aug 2018 10:13:07 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4900,6 +4931,8 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:13:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:13:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:13:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:13:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[charity-is-making-big-changes-across-the-africa]]></wp:post_name>
@@ -4924,7 +4957,7 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shelter for homeless</title>
+		<title><![CDATA[Shelter for homeless]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/shelter-for-homeless/</link>
 		<pubDate>Mon, 20 Aug 2018 10:13:09 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -4951,6 +4984,8 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:13:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:13:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:13:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:13:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shelter-for-homeless]]></wp:post_name>
@@ -4975,7 +5010,7 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ending poverty in Africa</title>
+		<title><![CDATA[Ending poverty in Africa]]></title>
 		<link>https://zakrademos.com/charity/2018/08/20/ending-poverty-in-africa/</link>
 		<pubDate>Mon, 20 Aug 2018 10:13:11 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5002,6 +5037,8 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		<wp:post_id>350</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-20 10:13:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-20 10:13:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-20 10:13:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-20 10:13:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ending-poverty-in-africa]]></wp:post_name>
@@ -5026,7 +5063,7 @@ Morbi tristique senectus et netus et malesuada fames ac turpis. Id venenatis a c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>HOME</title>
+		<title><![CDATA[HOME]]></title>
 		<link>https://zakrademos.com/charity/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5110,6 +5147,8 @@ VOLUNTEER
 		<wp:post_id>431</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:02:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:02:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -5181,7 +5220,7 @@ VOLUNTEER
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>CAUSES</title>
+		<title><![CDATA[CAUSES]]></title>
 		<link>https://zakrademos.com/charity/causes/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5212,6 +5251,8 @@ DONATE
 		<wp:post_id>443</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:58:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:58:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[causes]]></wp:post_name>
@@ -5271,7 +5312,7 @@ DONATE
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>CONTACT</title>
+		<title><![CDATA[CONTACT]]></title>
 		<link>https://zakrademos.com/charity/contact/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5295,6 +5336,8 @@ New York, NY 10011, USA
 		<wp:post_id>448</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:00:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:00:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5354,7 +5397,7 @@ New York, NY 10011, USA
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>WHO WE ARE</title>
+		<title><![CDATA[WHO WE ARE]]></title>
 		<link>https://zakrademos.com/charity/who-we-are/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5391,6 +5434,8 @@ VOLUNTEER
 		<wp:post_id>453</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:59:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:59:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[who-we-are]]></wp:post_name>
@@ -5450,7 +5495,7 @@ VOLUNTEER
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>WHAT WE DO</title>
+		<title><![CDATA[WHAT WE DO]]></title>
 		<link>https://zakrademos.com/charity/what-we-do/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5487,6 +5532,8 @@ VOLUNTEER
 		<wp:post_id>458</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:59:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:59:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
@@ -5546,7 +5593,7 @@ VOLUNTEER
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VOLUNTEER</title>
+		<title><![CDATA[VOLUNTEER]]></title>
 		<link>https://zakrademos.com/charity/volunteer/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5564,6 +5611,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>461</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:59:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:59:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteer]]></wp:post_name>
@@ -5623,7 +5672,7 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>OUR PARTNERS</title>
+		<title><![CDATA[OUR PARTNERS]]></title>
 		<link>https://zakrademos.com/charity/our-partners/</link>
 		<pubDate>Mon, 10 Aug 2020 08:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5638,6 +5687,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>470</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 08:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 08:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 08:59:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 08:59:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-partners]]></wp:post_name>
@@ -5697,7 +5748,7 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/491/</link>
 		<pubDate>Mon, 10 Aug 2020 09:03:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5708,6 +5759,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>491</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:03:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[491]]></wp:post_name>
@@ -5752,7 +5805,7 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/492/</link>
 		<pubDate>Mon, 10 Aug 2020 09:04:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5763,6 +5816,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>492</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:04:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:04:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[492]]></wp:post_name>
@@ -5807,7 +5862,7 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/493/</link>
 		<pubDate>Mon, 10 Aug 2020 09:04:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5818,6 +5873,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>493</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:04:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:04:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[493]]></wp:post_name>
@@ -5862,7 +5919,7 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/charity/2020/08/10/494/</link>
 		<pubDate>Mon, 10 Aug 2020 09:04:10 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -5873,6 +5930,8 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:post_id>494</wp:post_id>
 		<wp:post_date><![CDATA[2020-08-10 09:04:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-10 09:04:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-10 09:04:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[494]]></wp:post_name>
@@ -5916,6 +5975,30 @@ Vestibulum aliquam massa eget erat porta, non ultricies felis accumsan. Maecenas
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Donor Dashboard]]></title>
+		<link>https://zakrademos.com/charity/donor-dashboard/</link>
+		<pubDate>Thu, 29 Apr 2021 05:41:16 +0000</pubDate>
+		<dc:creator><![CDATA[rabinstha.me@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/charity/donor-dashboard/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:give/donor-dashboard {"align":"wide"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>495</wp:post_id>
+		<wp:post_date><![CDATA[2021-04-29 05:41:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-29 05:41:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-29 05:41:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-29 05:41:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[close]]></wp:comment_status>
+		<wp:ping_status><![CDATA[close]]></wp:ping_status>
+		<wp:post_name><![CDATA[donor-dashboard]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 				</channel>
 </rss>
 	

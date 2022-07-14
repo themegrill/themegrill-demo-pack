@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.4" created="2021-01-11 12:13" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-13 14:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Zakra Dentist</title>
 	<link>https://zakrademos.com/dentist</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Mon, 11 Jan 2021 12:13:56 +0000</pubDate>
+	<pubDate>Wed, 13 Jul 2022 14:59:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://zakrademos.com/</wp:base_site_url>
+	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://zakrademos.com/dentist</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[teamthemegrill]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[teamthemegrill]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -50,14 +50,35 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -74,7 +95,7 @@
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.4</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://zakrademos.com/dentist/wp-content/uploads/sites/12/2020/07/zakra.png</url>
@@ -85,7 +106,7 @@
 </image> 
 
 		<item>
-		<title>smiling-girl</title>
+		<title><![CDATA[smiling-girl]]></title>
 		<link>https://zakrademos.com/dentist/home/smiling-girl/</link>
 		<pubDate>Tue, 11 Sep 2018 06:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -96,6 +117,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 06:22:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 06:22:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 06:22:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 06:22:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[smiling-girl]]></wp:post_name>
@@ -120,7 +143,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>filling</title>
+		<title><![CDATA[filling]]></title>
 		<link>https://zakrademos.com/dentist/home/filling/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -131,6 +154,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[filling]]></wp:post_name>
@@ -155,7 +180,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>braces</title>
+		<title><![CDATA[braces]]></title>
 		<link>https://zakrademos.com/dentist/home/braces/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -166,6 +191,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[braces]]></wp:post_name>
@@ -190,7 +217,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>checkup</title>
+		<title><![CDATA[checkup]]></title>
 		<link>https://zakrademos.com/dentist/home/checkup/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -201,6 +228,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[checkup]]></wp:post_name>
@@ -225,7 +254,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>crown</title>
+		<title><![CDATA[crown]]></title>
 		<link>https://zakrademos.com/dentist/home/crown/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -236,6 +265,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crown]]></wp:post_name>
@@ -260,7 +291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>receding</title>
+		<title><![CDATA[receding]]></title>
 		<link>https://zakrademos.com/dentist/home/receding/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:15 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -271,6 +302,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[receding]]></wp:post_name>
@@ -295,7 +328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>whitening</title>
+		<title><![CDATA[whitening]]></title>
 		<link>https://zakrademos.com/dentist/home/whitening/</link>
 		<pubDate>Tue, 11 Sep 2018 08:55:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -306,6 +339,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 08:55:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 08:55:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 08:55:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 08:55:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[whitening]]></wp:post_name>
@@ -330,7 +365,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>doctor</title>
+		<title><![CDATA[doctor]]></title>
 		<link>https://zakrademos.com/dentist/home/doctor/</link>
 		<pubDate>Tue, 11 Sep 2018 10:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -341,6 +376,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 10:33:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 10:33:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 10:33:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 10:33:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[doctor]]></wp:post_name>
@@ -365,7 +402,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dentist-doctor</title>
+		<title><![CDATA[dentist-doctor]]></title>
 		<link>https://zakrademos.com/dentist/home/dentist-doctor/</link>
 		<pubDate>Tue, 11 Sep 2018 10:33:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -376,6 +413,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 10:33:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 10:33:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 10:33:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 10:33:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dentist-doctor]]></wp:post_name>
@@ -400,7 +439,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-blur-business</title>
+		<title><![CDATA[adult-blur-business]]></title>
 		<link>https://zakrademos.com/dentist/home/adult-blur-business/</link>
 		<pubDate>Tue, 11 Sep 2018 10:33:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -411,6 +450,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 10:33:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 10:33:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 10:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 10:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-blur-business]]></wp:post_name>
@@ -435,7 +476,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quotes</title>
+		<title><![CDATA[quotes]]></title>
 		<link>https://zakrademos.com/dentist/home/quotes/</link>
 		<pubDate>Tue, 11 Sep 2018 10:44:34 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -446,6 +487,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 10:44:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 10:44:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 10:44:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 10:44:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quotes]]></wp:post_name>
@@ -470,7 +513,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>michael-dam-258165-unsplash</title>
+		<title><![CDATA[michael-dam-258165-unsplash]]></title>
 		<link>https://zakrademos.com/dentist/home/michael-dam-258165-unsplash/</link>
 		<pubDate>Tue, 11 Sep 2018 10:45:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -481,6 +524,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 10:45:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 10:45:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 10:45:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 10:45:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[michael-dam-258165-unsplash]]></wp:post_name>
@@ -505,7 +550,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://zakrademos.com/dentist/logo/</link>
 		<pubDate>Tue, 11 Sep 2018 11:10:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -516,6 +561,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 11:10:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 11:10:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-11 11:10:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-11 11:10:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -540,7 +587,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nurse</title>
+		<title><![CDATA[nurse]]></title>
 		<link>https://zakrademos.com/dentist/about/nurse/</link>
 		<pubDate>Wed, 12 Sep 2018 09:32:19 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -551,6 +598,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 09:32:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 09:32:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-12 09:32:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-12 09:32:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nurse]]></wp:post_name>
@@ -575,7 +624,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Untitled-1</title>
+		<title><![CDATA[Untitled-1]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/untitled-1/</link>
 		<pubDate>Thu, 13 Sep 2018 04:51:45 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -586,6 +635,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:51:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:51:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:51:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:51:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[untitled-1]]></wp:post_name>
@@ -610,7 +661,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>daniel-frank</title>
+		<title><![CDATA[daniel-frank]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/daniel-frank/</link>
 		<pubDate>Thu, 13 Sep 2018 04:51:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -621,6 +672,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:51:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:51:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:51:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:51:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[daniel-frank]]></wp:post_name>
@@ -645,7 +698,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>matthew-poetke</title>
+		<title><![CDATA[matthew-poetke]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/matthew-poetke/</link>
 		<pubDate>Thu, 13 Sep 2018 04:51:47 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -656,6 +709,8 @@
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:51:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:51:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:51:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:51:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[matthew-poetke]]></wp:post_name>
@@ -680,7 +735,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icons8-team</title>
+		<title><![CDATA[icons8-team]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/icons8-team/</link>
 		<pubDate>Thu, 13 Sep 2018 04:51:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -691,6 +746,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:51:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:51:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:51:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icons8-team]]></wp:post_name>
@@ -715,7 +772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>africa</title>
+		<title><![CDATA[africa]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/africa/</link>
 		<pubDate>Thu, 13 Sep 2018 04:54:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -726,6 +783,8 @@
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:54:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:54:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:54:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:54:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[africa]]></wp:post_name>
@@ -750,7 +809,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LECHANK</title>
+		<title><![CDATA[LECHANK]]></title>
 		<link>https://zakrademos.com/dentist/about/lechank/</link>
 		<pubDate>Thu, 13 Sep 2018 08:33:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -761,6 +820,8 @@
 		<wp:post_id>157</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 08:33:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 08:33:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 08:33:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 08:33:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lechank]]></wp:post_name>
@@ -785,7 +846,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/11/zakra/</link>
 		<pubDate>Tue, 11 Sep 2018 06:28:21 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -796,6 +857,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 06:28:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 06:28:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra]]></wp:post_name>
@@ -807,7 +870,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Shivono</title>
+		<title><![CDATA[Shivono]]></title>
 		<link>https://zakrademos.com/dentist/about/shivono/</link>
 		<pubDate>Thu, 13 Sep 2018 08:33:29 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -818,6 +881,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 08:33:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 08:33:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 08:33:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 08:33:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shivono]]></wp:post_name>
@@ -842,7 +907,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GoGlibiyo</title>
+		<title><![CDATA[GoGlibiyo]]></title>
 		<link>https://zakrademos.com/dentist/about/goglibiyo/</link>
 		<pubDate>Thu, 13 Sep 2018 08:33:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -853,6 +918,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 08:33:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 08:33:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 08:33:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 08:33:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[goglibiyo]]></wp:post_name>
@@ -877,7 +944,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 52</title>
+		<title><![CDATA[Group 52]]></title>
 		<link>https://zakrademos.com/dentist/about/group-52/</link>
 		<pubDate>Thu, 13 Sep 2018 08:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -888,6 +955,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 08:33:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 08:33:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 08:33:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 08:33:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-52]]></wp:post_name>
@@ -912,7 +981,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gymshank</title>
+		<title><![CDATA[Gymshank]]></title>
 		<link>https://zakrademos.com/dentist/about/gymshank/</link>
 		<pubDate>Thu, 13 Sep 2018 08:33:32 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -923,6 +992,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 08:33:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 08:33:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 08:33:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 08:33:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gymshank]]></wp:post_name>
@@ -947,7 +1018,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Front Page</title>
+		<title><![CDATA[Zakra Dentist - Front Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-front-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:54:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1012,6 +1083,8 @@ YOUR SMILE</h1>
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:54:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:54:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:54:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:54:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-front-page]]></wp:post_name>
@@ -1044,7 +1117,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Services Page</title>
+		<title><![CDATA[Zakra Dentist - Services Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-services-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:55:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1072,6 +1145,8 @@ YOUR SMILE</h1>
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:55:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:55:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:55:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:55:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-services-page]]></wp:post_name>
@@ -1104,7 +1179,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Appointment Page</title>
+		<title><![CDATA[Zakra Dentist - Appointment Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-appointment-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:56:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1124,6 +1199,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>202</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:56:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:56:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:56:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:56:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-appointment-page]]></wp:post_name>
@@ -1156,7 +1233,7 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Dentists Page</title>
+		<title><![CDATA[Zakra Dentist - Dentists Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-dentists-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:58:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1175,6 +1252,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:58:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:58:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:58:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:58:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-dentists-page]]></wp:post_name>
@@ -1207,7 +1286,7 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - About Page</title>
+		<title><![CDATA[Zakra Dentist - About Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-about-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:59:16 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1252,6 +1331,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:59:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:59:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:59:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:59:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-about-page]]></wp:post_name>
@@ -1284,7 +1365,7 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Contact Page</title>
+		<title><![CDATA[Zakra Dentist - Contact Page]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-contact-page</link>
 		<pubDate>Wed, 20 Nov 2019 06:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1304,6 +1385,8 @@ doc@example.com
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 06:59:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 06:59:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 06:59:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 06:59:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-contact-page]]></wp:post_name>
@@ -1336,7 +1419,7 @@ doc@example.com
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Banner Section</title>
+		<title><![CDATA[Zakra Dentist - Banner Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-banner-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1352,6 +1435,8 @@ YOUR SMILE</h1>
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:05:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:05:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:05:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:05:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-banner-section]]></wp:post_name>
@@ -1384,7 +1469,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Call to Action Section</title>
+		<title><![CDATA[Zakra Dentist - Call to Action Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-call-to-action-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:06:13 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1398,6 +1483,8 @@ YOUR SMILE</h1>
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:06:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:06:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:06:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:06:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-call-to-action-section]]></wp:post_name>
@@ -1430,7 +1517,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Services Section</title>
+		<title><![CDATA[Zakra Dentist - Services Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-services-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:07:08 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1449,6 +1536,8 @@ YOUR SMILE</h1>
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:07:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:07:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:07:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:07:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-services-section]]></wp:post_name>
@@ -1481,7 +1570,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Working Hours Section</title>
+		<title><![CDATA[Zakra Dentist - Working Hours Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-working-hours-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:08:03 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1498,6 +1587,8 @@ YOUR SMILE</h1>
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:08:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-working-hours-section]]></wp:post_name>
@@ -1530,7 +1621,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Doctors Section</title>
+		<title><![CDATA[Zakra Dentist - Doctors Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-doctors-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1550,6 +1641,8 @@ YOUR SMILE</h1>
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:08:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:08:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:08:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:08:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-doctors-section]]></wp:post_name>
@@ -1582,7 +1675,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Testimonial Section</title>
+		<title><![CDATA[Zakra Dentist - Testimonial Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-testimonial-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:09:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1596,6 +1689,8 @@ YOUR SMILE</h1>
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:09:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:09:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:09:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:09:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-testimonial-section]]></wp:post_name>
@@ -1628,7 +1723,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - Contact Section</title>
+		<title><![CDATA[Zakra Dentist - Contact Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-contact-section</link>
 		<pubDate>Wed, 20 Nov 2019 07:10:25 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1644,6 +1739,8 @@ YOUR SMILE</h1>
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 07:10:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 07:10:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 07:10:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 07:10:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-contact-section]]></wp:post_name>
@@ -1676,7 +1773,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zakra Dentist - About Intro Section</title>
+		<title><![CDATA[Zakra Dentist - About Intro Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-about-intro-section</link>
 		<pubDate>Wed, 20 Nov 2019 08:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1711,6 +1808,8 @@ YOUR SMILE</h1>
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 08:40:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 08:40:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 08:40:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 08:40:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-about-intro-section]]></wp:post_name>
@@ -1743,7 +1842,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>zakra</title>
+		<title><![CDATA[zakra]]></title>
 		<link>https://zakrademos.com/dentist/zakra-2/</link>
 		<pubDate>Wed, 15 Jul 2020 06:30:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1754,6 +1853,8 @@ YOUR SMILE</h1>
 		<wp:post_id>261</wp:post_id>
 		<wp:post_date><![CDATA[2020-07-15 06:30:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-07-15 06:30:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-07-15 06:30:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-07-15 06:30:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-2]]></wp:post_name>
@@ -1774,17 +1875,19 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/dentist/?post_type=everest_form&#038;p=82</link>
 		<pubDate>Wed, 12 Sep 2018 06:00:40 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-dentist/?post_type=everest_form&#038;p=82</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"82","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"0syxaKagM5-1":{"id":"0syxaKagM5-1","type":"number","label":"Contact number","meta-key":"number_8520","description":"","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d25aaed271ae":{"connection_name":"User Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","0syxaKagM5-1"],"grid_2":["subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"82","form_enabled":"1","form_field_id":2,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"0syxaKagM5-1":{"id":"0syxaKagM5-1","type":"number","label":"Contact number","meta-key":"number_8520","description":"","required-field-message":"Please enter a valid number.","step":"1","min_value":"","max_value":"","default_value":"","placeholder":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Destist","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","0syxaKagM5-1"],"grid_2":["subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 06:00:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 06:00:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 14:43:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 14:43:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -1796,29 +1899,43 @@ YOUR SMILE</h1>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>appointment</title>
+		<title><![CDATA[appointment]]></title>
 		<link>https://zakrademos.com/dentist/?post_type=everest_form&#038;p=118</link>
 		<pubDate>Wed, 12 Sep 2018 10:19:53 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-dentist/?post_type=everest_form&#038;p=118</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"118","form_field_id":7,"form_fields":{"bwtbxnbcos-1":{"id":"bwtbxnbcos-1","type":"first-name","label":"Name","meta-key":"name_7150","description":"","required":"1","placeholder":"","css":""},"WegOWEQDbY-2":{"id":"WegOWEQDbY-2","type":"email","label":"Email","meta-key":"email_9747","description":"","placeholder":"","default_value":"","css":""},"IBVlRP2Tmn-3":{"id":"IBVlRP2Tmn-3","type":"select","label":"Select your doctor","meta-key":"dropdown_5207","choices":{"1":{"label":"Dr. Patrick Hilson","value":""},"2":{"label":"Dr. Maria Gutzbzk","value":""},"3":{"label":"Dr. Hugo Chang","value":""}},"description":"","required":"1","placeholder":"","css":""},"4tGaVkDcjR-4":{"id":"4tGaVkDcjR-4","type":"date","label":"Select appointment date","meta-key":"date_8317","datetime_format":"date","description":"","placeholder":"","date_format":"Y-m-d","time_interval":"15","time_format":"g:i A","css":""},"Qmk9LJb9dT-6":{"id":"Qmk9LJb9dT-6","type":"textarea","label":"Additional Message","meta-key":"additional_message","description":"","placeholder":"","css":""}},"settings":{"form_title":"appointment","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"BOOK APPOINTMENT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d25aaec94d59":{"connection_name":"User Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - appointment","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["bwtbxnbcos-1","WegOWEQDbY-2","IBVlRP2Tmn-3","4tGaVkDcjR-4","Qmk9LJb9dT-6"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"118","form_field_id":8,"form_fields":{"bwtbxnbcos-1":{"id":"bwtbxnbcos-1","type":"first-name","label":"Name","meta-key":"name_7150","description":"","required":"1","placeholder":"","css":""},"WegOWEQDbY-2":{"id":"WegOWEQDbY-2","type":"email","label":"Email","meta-key":"email_9747","description":"","placeholder":"","default_value":"","css":""},"IBVlRP2Tmn-3":{"id":"IBVlRP2Tmn-3","type":"select","label":"Select your doctor","meta-key":"dropdown_5207","choices":{"1":{"label":"Dr. Patrick Hilson","value":""},"2":{"label":"Dr. Maria Gutzbzk","value":""},"3":{"label":"Dr. Hugo Chang","value":""}},"description":"","required":"1","placeholder":"","css":""},"4tGaVkDcjR-4":{"id":"4tGaVkDcjR-4","type":"date","label":"Select appointment date","meta-key":"date_8317","datetime_format":"date","description":"","placeholder":"","date_format":"Y-m-d","time_interval":"15","time_format":"g:i A","css":""},"Qmk9LJb9dT-6":{"id":"Qmk9LJb9dT-6","type":"textarea","label":"Additional Message","meta-key":"additional_message","description":"","placeholder":"","css":""}},"settings":{"form_title":"appointment","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"BOOK APPOINTMENT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d25aaec94d59":{"connection_name":"User Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - appointment","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["bwtbxnbcos-1","WegOWEQDbY-2","IBVlRP2Tmn-3","4tGaVkDcjR-4","Qmk9LJb9dT-6"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 10:19:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 10:19:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 12:28:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 12:28:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[appointment]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[appointment__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657628915]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[appointment]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/privacy-policy/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1829,6 +1946,8 @@ YOUR SMILE</h1>
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -1873,7 +1992,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Terms and Conditions</title>
+		<title><![CDATA[Terms and Conditions]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/terms-and-conditions/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1884,6 +2003,8 @@ YOUR SMILE</h1>
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[terms-and-conditions]]></wp:post_name>
@@ -1928,7 +2049,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/facebook/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1939,6 +2060,8 @@ YOUR SMILE</h1>
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:57:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:57:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -1983,7 +2106,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LinkedIn</title>
+		<title><![CDATA[LinkedIn]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/linkedin/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -1994,6 +2117,8 @@ YOUR SMILE</h1>
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:57:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:57:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -2038,7 +2163,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/twitter/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2049,6 +2174,8 @@ YOUR SMILE</h1>
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-18 14:57:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-18 14:57:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -2093,7 +2220,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/181/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2104,6 +2231,8 @@ YOUR SMILE</h1>
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[181]]></wp:post_name>
@@ -2148,7 +2277,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/182/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2159,6 +2288,8 @@ YOUR SMILE</h1>
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[182]]></wp:post_name>
@@ -2203,7 +2334,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/183/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2214,6 +2345,8 @@ YOUR SMILE</h1>
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[183]]></wp:post_name>
@@ -2258,7 +2391,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/184/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2269,6 +2402,8 @@ YOUR SMILE</h1>
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[184]]></wp:post_name>
@@ -2313,7 +2448,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/185/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2324,6 +2459,8 @@ YOUR SMILE</h1>
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[185]]></wp:post_name>
@@ -2368,7 +2505,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/186/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2379,6 +2516,8 @@ YOUR SMILE</h1>
 		<wp:post_id>186</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[186]]></wp:post_name>
@@ -2423,7 +2562,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/187/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2434,6 +2573,8 @@ YOUR SMILE</h1>
 		<wp:post_id>187</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[187]]></wp:post_name>
@@ -2478,7 +2619,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/188/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2489,6 +2630,8 @@ YOUR SMILE</h1>
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[188]]></wp:post_name>
@@ -2533,7 +2676,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/189/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2544,6 +2687,8 @@ YOUR SMILE</h1>
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[189]]></wp:post_name>
@@ -2588,117 +2733,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://zakrademos.com/dentist/2019/07/10/190/</link>
-		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/dentist/2019/07/10/190/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[190]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://zakrademos.com/dentist/2019/07/10/191/</link>
-		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/dentist/2019/07/10/191/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[191]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[97]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Zakra Dentist - Partners Section</title>
+		<title><![CDATA[Zakra Dentist - Partners Section]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=zakra-dentist-partners-section</link>
 		<pubDate>Wed, 20 Nov 2019 08:42:14 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2714,6 +2749,8 @@ YOUR SMILE</h1>
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-20 08:42:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-20 08:42:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 08:42:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 08:42:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zakra-dentist-partners-section]]></wp:post_name>
@@ -2746,7 +2783,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://zakrademos.com/dentist/?elementor_library=default-kit</link>
 		<pubDate>Tue, 16 Jun 2020 07:02:56 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2757,6 +2794,8 @@ YOUR SMILE</h1>
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-16 07:02:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-16 07:02:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-06-16 07:02:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-16 07:02:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2780,7 +2819,67 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[appointment (ID #279)]]></title>
+		<link>https://zakrademos.com/dentist/?post_type=everest_form&#038;p=279</link>
+		<pubDate>Tue, 12 Jul 2022 12:25:50 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/dentist/?post_type=everest_form&#038;p=279</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"id":279,"form_field_id":8,"form_fields":{"bwtbxnbcos-1":{"id":"bwtbxnbcos-1","type":"first-name","label":"Name","meta-key":"name_7150","description":"","required":"1","placeholder":"","css":""},"WegOWEQDbY-2":{"id":"WegOWEQDbY-2","type":"email","label":"Email","meta-key":"email_9747","description":"","placeholder":"","default_value":"","css":""},"IBVlRP2Tmn-3":{"id":"IBVlRP2Tmn-3","type":"select","label":"Select your doctor","meta-key":"dropdown_5207","choices":{"1":{"label":"Dr. Patrick Hilson","value":""},"2":{"label":"Dr. Maria Gutzbzk","value":""},"3":{"label":"Dr. Hugo Chang","value":""}},"description":"","required":"1","placeholder":"","css":""},"4tGaVkDcjR-4":{"id":"4tGaVkDcjR-4","type":"date","label":"Select appointment date","meta-key":"date_8317","datetime_format":"date","description":"","placeholder":"","date_format":"Y-m-d","time_interval":"15","time_format":"g:i A","css":""},"Qmk9LJb9dT-6":{"id":"Qmk9LJb9dT-6","type":"textarea","label":"Additional Message","meta-key":"additional_message","description":"","placeholder":"","css":""}},"settings":{"form_title":"appointment (ID #279)","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"0","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"BOOK APPOINTMENT","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d25aaec94d59":{"connection_name":"User Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Destist","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - appointment","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["bwtbxnbcos-1","WegOWEQDbY-2","IBVlRP2Tmn-3","4tGaVkDcjR-4","Qmk9LJb9dT-6"]}}}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>279</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-12 12:25:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-12 12:25:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 12:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 12:26:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[appointment-2__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1657628790]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[appointment-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Appointment]]></title>
+		<link>https://zakrademos.com/dentist/?post_type=everest_form&#038;p=280</link>
+		<pubDate>Tue, 12 Jul 2022 12:26:51 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/dentist/?post_type=everest_form&#038;p=280</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"id":"280","form_enabled":"1","form_field_id":6,"form_fields":{"ys0GeZISRs-1":{"id":"ys0GeZISRs-1","type":"first-name","label":"Name","meta-key":"first_name_4789","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","default_value":"","css":""},"LbH5NxasXM-2":{"id":"LbH5NxasXM-2","type":"email","label":"Email","meta-key":"email_1036","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"9aEltEbOcI-5":{"id":"9aEltEbOcI-5","type":"select","label":"Select you doctor","meta-key":"dropdown_1918","multiple_choices":"0","choices":{"1":{"label":"Dr. John Doe","value":"","image":""},"2":{"label":"Dr. Marry Jane","value":"","image":""},"3":{"label":"Dr. Patrick Hons","value":"","image":""}},"description":"","required":"1","required-field-message":"This field is required.","placeholder":"","css":""},"yhGx3FOwr2-4":{"id":"yhGx3FOwr2-4","type":"textarea","label":"Additional Message","meta-key":"paragraph_text_1823","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Appointment","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"79","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Everest Forms","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["ys0GeZISRs-1","LbH5NxasXM-2","9aEltEbOcI-5","yhGx3FOwr2-4"]}}}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>280</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-12 12:26:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-12 12:26:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 12:28:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 12:28:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[appointment-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Home]]></title>
 		<link>https://zakrademos.com/dentist/</link>
 		<pubDate>Tue, 11 Sep 2018 06:20:48 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2845,6 +2944,8 @@ YOUR SMILE</h1>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 06:20:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 06:20:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-08-07 03:08:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-08-07 03:08:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2896,7 +2997,7 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://zakrademos.com/dentist/about/</link>
 		<pubDate>Wed, 12 Sep 2018 06:52:30 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -2941,6 +3042,8 @@ YOUR SMILE</h1>
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 06:52:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 06:52:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:18:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:18:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2988,13 +3091,13 @@ YOUR SMILE</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Appointment</title>
+		<title><![CDATA[Appointment]]></title>
 		<link>https://zakrademos.com/dentist/appointment/</link>
 		<pubDate>Wed, 12 Sep 2018 10:13:05 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-dentist/?page_id=97</guid>
 		<description></description>
-		<content:encoded><![CDATA[[everest_form id="118"]		
+		<content:encoded><![CDATA[[everest_form id="280"]		
 			<h4>Visit Us</h4>		
 		<p>224, Mx bridge Road,<br />LA, United States</p>		
 			<h4>Emergency Contact</h4>		
@@ -3008,6 +3111,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 10:13:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 10:13:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 12:29:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 12:29:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[appointment]]></wp:post_name>
@@ -3043,19 +3148,27 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"92fdad5","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"120","right":0,"bottom":"120","left":0,"isLinked":true}},"elements":[{"id":"3f2edd1","elType":"column","settings":{"_column_size":50,"_inline_size":68.947,"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a6e43e8","elType":"widget","settings":{"shortcode":"[everest_form id=\"118\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"1565e09","elType":"column","settings":{"_column_size":50,"_inline_size":31.053,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"ea7a689","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"07b4a44","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"51ce6fa","elType":"widget","settings":{"icon":"fa fa-home","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"e413f72","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"93eb0a1","elType":"widget","settings":{"title":"Visit Us","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"8705d43","elType":"widget","settings":{"editor":"<p>224, Mx bridge Road,<br \/>LA, United States<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"6982b56","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"d3deb23","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"4aa11f2","elType":"widget","settings":{"icon":"fa fa-support","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"88d69f4","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"e6c2147","elType":"widget","settings":{"title":"Emergency Contact","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"e27c1e4","elType":"widget","settings":{"editor":"<p>012-34567890<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"58ee9ea","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"605c22c","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"2c3b7d4","elType":"widget","settings":{"icon":"fa fa-home","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"473194f","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"5ef3a68","elType":"widget","settings":{"title":"Home Service","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"84f6fac","elType":"widget","settings":{"editor":"<p>098-76543210<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"82d3d47","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"acc44f8","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"266df40","elType":"widget","settings":{"icon":"fa fa-envelope","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"97fadc4","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"824cffa","elType":"widget","settings":{"title":"Mail Us","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"fc982fd","elType":"widget","settings":{"editor":"info@example.com\ndoc@example.com"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"92fdad5","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"120","right":0,"bottom":"120","left":0,"isLinked":true}},"elements":[{"id":"3f2edd1","elType":"column","settings":{"_column_size":50,"_inline_size":68.947,"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a6e43e8","elType":"widget","settings":{"shortcode":"[everest_form id=\"280\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"1565e09","elType":"column","settings":{"_column_size":50,"_inline_size":31.053,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"ea7a689","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"07b4a44","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"51ce6fa","elType":"widget","settings":{"icon":"fa fa-home","align_mobile":"left","selected_icon":{"value":"fas fa-map-marker-alt","library":"fa-solid"},"__fa4_migrated":{"selected_icon":true}},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"e413f72","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"93eb0a1","elType":"widget","settings":{"title":"Visit Us","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"8705d43","elType":"widget","settings":{"editor":"<p>224, Mx bridge Road,<br \/>LA, United States<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"6982b56","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"d3deb23","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"4aa11f2","elType":"widget","settings":{"icon":"fa fa-support","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"88d69f4","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"e6c2147","elType":"widget","settings":{"title":"Emergency Contact","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"e27c1e4","elType":"widget","settings":{"editor":"<p>012-34567890<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"58ee9ea","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"605c22c","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"2c3b7d4","elType":"widget","settings":{"icon":"fa fa-home","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"473194f","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"5ef3a68","elType":"widget","settings":{"title":"Home Service","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"84f6fac","elType":"widget","settings":{"editor":"<p>098-76543210<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"82d3d47","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"acc44f8","elType":"column","settings":{"_column_size":50,"_inline_size":22.381},"elements":[{"id":"266df40","elType":"widget","settings":{"icon":"fa fa-envelope","align_mobile":"left"},"elements":[],"widgetType":"icon"}],"isInner":true},{"id":"97fadc4","elType":"column","settings":{"_column_size":50,"_inline_size":77.611},"elements":[{"id":"824cffa","elType":"widget","settings":{"title":"Mail Us","header_size":"h4","title_color":"#16181a","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"fc982fd","elType":"widget","settings":{"editor":"info@example.com\ndoc@example.com"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.6.6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:10;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:13:"margin_mobile";i:2;}}}}s:4:"icon";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:12:"align_mobile";i:4;s:13:"selected_icon";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:4;s:11:"header_size";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:11:"title_color";i:4;s:21:"typography_typography";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:5;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://zakrademos.com/dentist/services/</link>
 		<pubDate>Wed, 12 Sep 2018 10:13:31 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3083,6 +3196,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 10:13:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 10:13:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:24:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:24:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -3130,7 +3245,7 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Dentists</title>
+		<title><![CDATA[Dentists]]></title>
 		<link>https://zakrademos.com/dentist/dentists/</link>
 		<pubDate>Wed, 12 Sep 2018 10:17:12 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3149,6 +3264,8 @@ doc@example.com]]></content:encoded>
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-12 10:17:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-12 10:17:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:22:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:22:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dentists]]></wp:post_name>
@@ -3196,7 +3313,7 @@ doc@example.com]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why you should choose dental implants?</title>
+		<title><![CDATA[Why you should choose dental implants?]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/why-you-should-choose-dental-implants/</link>
 		<pubDate>Thu, 13 Sep 2018 04:57:57 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3227,6 +3344,8 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:57:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:57:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:57:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:57:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-you-should-choose-dental-implants]]></wp:post_name>
@@ -3263,7 +3382,7 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>When to Visit the Dentist for Dental Exam?</title>
+		<title><![CDATA[When to Visit the Dentist for Dental Exam?]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/when-to-visit-the-dentist-for-dental-exam/</link>
 		<pubDate>Thu, 13 Sep 2018 04:57:55 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3294,6 +3413,8 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:57:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:57:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:57:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:57:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[when-to-visit-the-dentist-for-dental-exam]]></wp:post_name>
@@ -3330,7 +3451,7 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Create your brightest smile</title>
+		<title><![CDATA[Create your brightest smile]]></title>
 		<link>https://zakrademos.com/dentist/2018/09/13/create-your-brightest-smile/</link>
 		<pubDate>Thu, 13 Sep 2018 04:57:52 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3361,6 +3482,8 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 04:57:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 04:57:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 04:57:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 04:57:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[create-your-brightest-smile]]></wp:post_name>
@@ -3397,7 +3520,7 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>News</title>
+		<title><![CDATA[News]]></title>
 		<link>https://zakrademos.com/dentist/news/</link>
 		<pubDate>Thu, 13 Sep 2018 05:26:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3408,6 +3531,8 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-13 05:26:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-13 05:26:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-13 05:26:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-13 05:26:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news]]></wp:post_name>
@@ -3439,7 +3564,7 @@ In hac habitasse platea dictumst. Aenean in efficitur urna, a iaculis elit. Null
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://zakrademos.com/dentist/contact/</link>
 		<pubDate>Tue, 11 Sep 2018 04:24:23 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3459,6 +3584,8 @@ doc@example.com
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-11 04:24:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-11 04:24:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:21:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:21:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3506,7 +3633,7 @@ doc@example.com
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Orthodental</title>
+		<title><![CDATA[Orthodental]]></title>
 		<link>https://zakrademos.com/dentist/orthodental/</link>
 		<pubDate>Mon, 29 Oct 2018 05:07:33 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3525,6 +3652,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 05:07:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 05:07:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 05:07:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 05:07:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[orthodental]]></wp:post_name>
@@ -3576,7 +3705,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cosmetic Surgery</title>
+		<title><![CDATA[Cosmetic Surgery]]></title>
 		<link>https://zakrademos.com/dentist/cosmetic-surgery/</link>
 		<pubDate>Mon, 29 Oct 2018 05:08:46 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3595,6 +3724,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 05:08:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 05:08:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 05:08:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 05:08:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cosmetic-surgery]]></wp:post_name>
@@ -3646,7 +3777,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>General</title>
+		<title><![CDATA[General]]></title>
 		<link>https://zakrademos.com/dentist/general/</link>
 		<pubDate>Mon, 29 Oct 2018 05:09:02 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3665,6 +3796,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 05:09:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 05:09:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 05:09:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 05:09:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[general]]></wp:post_name>
@@ -3716,7 +3849,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Schedule Checkup</title>
+		<title><![CDATA[Schedule Checkup]]></title>
 		<link>https://zakrademos.com/dentist/schedule-checkup/</link>
 		<pubDate>Mon, 29 Oct 2018 05:09:22 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3735,6 +3868,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-29 05:09:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-29 05:09:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-29 05:09:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-29 05:09:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[schedule-checkup]]></wp:post_name>
@@ -3786,7 +3921,121 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/dentist/2019/07/10/190/</link>
+		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/dentist/2019/07/10/190/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[190]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[99]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://zakrademos.com/dentist/2019/07/10/191/</link>
+		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
+		<guid isPermaLink="false">https://zakrademos.com/dentist/2019/07/10/191/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[191]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[97]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/192/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3797,6 +4046,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[192]]></wp:post_name>
@@ -3841,7 +4092,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/193/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3852,6 +4103,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[193]]></wp:post_name>
@@ -3896,7 +4149,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/194/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3907,6 +4160,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[194]]></wp:post_name>
@@ -3951,7 +4206,7 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://zakrademos.com/dentist/2019/07/10/195/</link>
 		<pubDate>Wed, 10 Jul 2019 09:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
@@ -3962,6 +4217,8 @@ Though we assume the latter, the first cauline pheasant is, in its own way, a co
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 09:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-10 09:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-10 09:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[195]]></wp:post_name>
