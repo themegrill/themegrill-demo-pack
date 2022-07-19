@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-07-19 09:54" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-19 10:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zakra Cafe</title>
 	<link>https://zakrademos.com/cafe</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Tue, 19 Jul 2022 09:54:28 +0000</pubDate>
+	<pubDate>Tue, 19 Jul 2022 10:37:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
@@ -1765,29 +1765,62 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact Form]]></title>
-		<link>https://zakrademos.com/cafe/?post_type=everest_form&#038;p=6</link>
-		<pubDate>Mon, 13 Aug 2018 05:52:53 +0000</pubDate>
+		<title><![CDATA[HOME]]></title>
+		<link>https://zakrademos.com/cafe/2019/07/09/home/</link>
+		<pubDate>Tue, 09 Jul 2019 09:08:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/zakra-cafe/?post_type=everest_form&#038;p=6</guid>
+		<guid isPermaLink="false">https://zakrademos.com/cafe/2019/07/09/home/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"6","form_enabled":"1","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"same","custom_page":"144","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Cafe","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-13 05:52:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-13 05:52:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-12 13:54:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-12 13:54:12]]></wp:post_modified_gmt>
+		<wp:post_id>244</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-09 09:08:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-09 09:08:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-09 09:08:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-09 09:08:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[243]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Zakra Cafe - About Page]]></title>
 		<link>https://zakrademos.com/cafe/?elementor_library=zakra-cafe-about-page</link>
@@ -2872,19 +2905,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact]]></title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://zakrademos.com/cafe/?post_type=everest_form&#038;p=352</link>
 		<pubDate>Tue, 19 Jul 2022 09:50:28 +0000</pubDate>
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://zakrademos.com/cafe/?post_type=everest_form&#038;p=352</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"352","form_enabled":"1","form_field_id":5,"form_fields":{"ys0GeZISRs-1":{"id":"ys0GeZISRs-1","type":"first-name","label":"Name","meta-key":"first_name_4789","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","default_value":"","css":""},"LbH5NxasXM-2":{"id":"LbH5NxasXM-2","type":"email","label":"Email","meta-key":"email_1036","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"66FR384cge-3":{"id":"66FR384cge-3","type":"text","label":"Subject","meta-key":"single_line_text_1212","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"yhGx3FOwr2-4":{"id":"yhGx3FOwr2-4","type":"textarea","label":"Message","meta-key":"paragraph_text_1823","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"144","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Everest Forms","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["ys0GeZISRs-1","LbH5NxasXM-2","66FR384cge-3","yhGx3FOwr2-4"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"352","form_enabled":"1","form_field_id":5,"form_fields":{"ys0GeZISRs-1":{"id":"ys0GeZISRs-1","type":"first-name","label":"Name","meta-key":"first_name_4789","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","default_value":"","css":""},"LbH5NxasXM-2":{"id":"LbH5NxasXM-2","type":"email","label":"Email","meta-key":"email_1036","description":"","required":"1","required-field-message":"Please enter a valid email address.","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"66FR384cge-3":{"id":"66FR384cge-3","type":"text","label":"Subject","meta-key":"single_line_text_1212","description":"","required":"1","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":"","input_mask":""},"yhGx3FOwr2-4":{"id":"yhGx3FOwr2-4","type":"textarea","label":"Message","meta-key":"paragraph_text_1823","description":"","required-field-message":"This field is required.","placeholder":"","limit_count":"1","limit_mode":"characters","min_length_count":"1","min_length_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Form","form_description":"","form_disable_message":"This form is disabled.","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly","submission_message_scroll":"1","redirect_to":"same","custom_page":"144","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","ajax_form_submission":"0","disabled_entries":"0","email":{"connection_1":{"enable_email_notification":"1","connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"Everest Forms","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry - Simple Contact Form","evf_email_message":"{all_fields}"}},"choose_pdf_fields":[]},"structure":{"row_1":{"grid_1":["ys0GeZISRs-1","LbH5NxasXM-2","66FR384cge-3","yhGx3FOwr2-4"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>352</wp:post_id>
 		<wp:post_date><![CDATA[2022-07-19 09:50:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-07-19 09:50:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-19 09:51:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-19 09:51:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-19 10:36:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-19 10:36:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3753,63 +3786,6 @@ Etiam sed commodo libero, vel eleifend augue. Praesent arcu tellus, commodo non 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:8:{s:11:"text-editor";a:3:{s:5:"count";i:17;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:17;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:10:"text_color";i:15;s:21:"typography_typography";i:17;s:22:"typography_font_family";i:11;s:20:"typography_font_size";i:12;s:27:"typography_font_size_mobile";i:4;s:5:"align";i:16;s:22:"typography_font_weight";i:6;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:13;}}}}s:7:"heading";a:3:{s:5:"count";i:15;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:15;s:5:"align";i:14;s:11:"header_size";i:12;s:4:"size";i:12;s:4:"link";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:15;s:21:"typography_typography";i:15;s:20:"typography_font_size";i:12;s:27:"typography_font_size_mobile";i:4;s:28:"text_shadow_text_shadow_type";i:11;s:23:"text_shadow_text_shadow";i:11;s:22:"typography_line_height";i:4;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:3;s:4:"size";i:3;s:5:"align";i:2;s:12:"align_mobile";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:9:{s:21:"typography_typography";i:3;s:17:"button_text_color";i:3;s:16:"background_color";i:3;s:11:"hover_color";i:3;s:13:"border_border";i:3;s:12:"border_width";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;s:19:"text_padding_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:33;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:21:"space_between_widgets";i:2;s:12:"_inline_size";i:31;s:16:"content_position";i:2;s:19:"_inline_size_mobile";i:1;s:19:"_inline_size_tablet";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:8;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:7;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:9;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:6;s:6:"margin";i:5;}}s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:3:"gap";i:4;s:6:"layout";i:6;s:16:"content_position";i:3;}s:17:"section_structure";a:1:{s:9:"structure";i:8;}}}}s:5:"image";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:10;s:5:"align";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:15:"_padding_mobile";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_video";a:2:{s:11:"youtube_url";i:1;s:15:"dailymotion_url";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[HOME]]></title>
-		<link>https://zakrademos.com/cafe/2019/07/09/home/</link>
-		<pubDate>Tue, 09 Jul 2019 09:08:28 +0000</pubDate>
-		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
-		<guid isPermaLink="false">https://zakrademos.com/cafe/2019/07/09/home/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>244</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-09 09:08:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-09 09:08:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-09 09:08:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-09 09:08:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[243]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
