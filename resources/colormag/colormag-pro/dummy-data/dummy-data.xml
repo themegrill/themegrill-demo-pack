@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-07-14 13:04" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-28 04:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>ColorMag Pro</title>
 	<link>https://themegrilldemos.com/colormag-pro</link>
 	<description>ThemeGrill Demo Site for Flash News Delivery</description>
-	<pubDate>Thu, 14 Jul 2022 13:04:55 +0000</pubDate>
+	<pubDate>Thu, 28 Jul 2022 04:01:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -399,6 +399,13 @@
 		<wp:term_name><![CDATA[cars]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>61</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[categories-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Categories Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>69</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[colormag-pro]]></wp:term_slug>
@@ -595,13 +602,6 @@
 		<wp:term_name><![CDATA[Nutrition]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>61</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[other-themes]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Other Themes]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outfit]]></wp:term_slug>
@@ -783,9 +783,9 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[World]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>60</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
+			<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[categories-menu]]></wp:term_slug><wp:term_name><![CDATA[Categories Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>61</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[other-themes]]></wp:term_slug><wp:term_name><![CDATA[Other Themes]]></wp:term_name>
+	<wp:term><wp:term_id>60</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>62</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
@@ -885,7 +885,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -893,7 +893,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1873,7 +1873,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1881,7 +1881,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1922,7 +1922,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1930,7 +1930,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1971,7 +1971,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1979,7 +1979,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2118,7 +2118,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2126,7 +2126,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2216,7 +2216,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2224,7 +2224,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2559,7 +2559,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2567,7 +2567,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2698,7 +2698,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
+		<wp:meta_value><![CDATA[225]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2706,7 +2706,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
+		<wp:meta_value><![CDATA[225]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2760,213 +2760,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:28.722924969675965;s:5:"bytes";i:24864;s:11:"size_before";i:86565;s:10:"size_after";i:61701;s:4:"time";d:0.22;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:8:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:34.79;s:5:"bytes";i:0;s:11:"size_before";i:8175;s:10:"size_after";i:5331;s:4:"time";d:0.01;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:33.71;s:5:"bytes";i:0;s:11:"size_before";i:4091;s:10:"size_after";i:2712;s:4:"time";d:0.02;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:34.79;s:5:"bytes";i:0;s:11:"size_before";i:29172;s:10:"size_after";i:19024;s:4:"time";d:0.01;}s:25:"colormag-highlighted-post";O:8:"stdClass":5:{s:7:"percent";d:32.54;s:5:"bytes";i:0;s:11:"size_before";i:13391;s:10:"size_after";i:9033;s:4:"time";d:0.04;}s:29:"colormag-featured-post-medium";O:8:"stdClass":5:{s:7:"percent";d:33.33;s:5:"bytes";i:0;s:11:"size_before";i:11197;s:10:"size_after";i:7465;s:4:"time";d:0.04;}s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";d:32.21;s:5:"bytes";i:0;s:11:"size_before";i:3179;s:10:"size_after";i:2155;s:4:"time";d:0.03;}s:23:"colormag-featured-image";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:13269;s:10:"size_after";i:13269;s:4:"time";d:0.03;}s:21:"colormag-default-news";O:8:"stdClass":5:{s:7:"percent";d:33.71;s:5:"bytes";i:0;s:11:"size_before";i:4091;s:10:"size_after";i:2712;s:4:"time";d:0.04;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Form]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/?post_type=everest_form&#038;p=3</link>
-		<pubDate>Tue, 22 Dec 2020 09:45:28 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?post_type=everest_form&#038;p=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"id":3,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"ColorMag V2","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry ","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:45:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:45:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-11 07:16:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-11 07:16:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[everest_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1657523814]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/home/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/home/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>425</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:27:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:27:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[425]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://themegrilldemos.com/colormag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Theme Instructions]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/theme-instructions/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/theme-instructions/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>426</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:27:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:27:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[theme-instructions]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[426]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/colormag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Support]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/support/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/support/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>427</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:27:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:27:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[427]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/support-forum/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3264,7 +3057,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -3272,7 +3065,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -3623,6 +3416,234 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ThemeGrill]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/themegrill/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/themegrill/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>653</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[themegrill]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[653]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://themegrill.com/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Support]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/support-3/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/support-3/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>655</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[support-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[655]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://themegrill.com/support-forum/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[FAQ]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/faq/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/faq/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>657</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[faq]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[657]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://themegrill.com/frequently-asked-questions/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/659/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>659</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[659]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4002,1079 +4023,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020-12-22]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Accelerate]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/accelerate/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/accelerate/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>642</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[accelerate]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[642]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/accelerate/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Colornews]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/colornews/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/colornews/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>644</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[colornews]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[644]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/colornews/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Ample]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/ample-2/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/ample-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>645</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ample-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[645]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/ample/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Himalayas]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/himalayas/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/himalayas/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>648</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[himalayas]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[648]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/himalayas/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Radiate]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/radiate/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/radiate/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>650</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[radiate]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/radiate/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Spacious]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/spacious/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/spacious/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>651</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[spacious]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[651]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/spacious/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ThemeGrill]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/themegrill/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/themegrill/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>653</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[themegrill]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[653]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Support]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/support-3/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:15 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/support-3/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>655</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[655]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/support-forum/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[FAQ]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/faq/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/faq/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>657</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[faq]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[657]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/frequently-asked-questions/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/659/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>659</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[659]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Documentation]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/documentation/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/documentation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>664</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[documentation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[664]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/colormag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[FoodHunt]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/foodhunt/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/foodhunt/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>665</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[foodhunt]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[665]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/foodhunt/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[FitClub]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/fitclub/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/fitclub/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>667</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fitclub]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[667]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/fitclub/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Envince]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/envince/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/envince/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>670</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:28:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:28:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[envince]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="other-themes"><![CDATA[Other Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[670]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/envince/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/687/</link>
-		<pubDate>Tue, 22 Dec 2020 09:49:17 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/687/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>687</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-22 09:49:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-22 11:27:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-22 11:27:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[687]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Us]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/contact-us/</link>
-		<pubDate>Tue, 23 Jun 2015 11:10:40 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=100</guid>
-		<description></description>
-		<content:encoded><![CDATA[This contact form is created using <a href="https://wordpress.org/plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>.
-
-[everest_form id="531"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>100</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-23 11:10:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-23 11:10:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-12 07:38:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-12 07:38:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-templates/contact.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-templates/contact.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Left Sidebar]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/left-sidebar/</link>
-		<pubDate>Wed, 24 Jun 2015 11:00:46 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=220</guid>
-		<description></description>
-		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>Left Sidebar</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
-Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
-
-Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
-
-Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-24 11:00:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2015-06-24 11:00:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[left-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[left_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[left_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Right Sidebar]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/right-sidebar/</link>
-		<pubDate>Wed, 24 Jun 2015 11:00:38 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=223</guid>
-		<description></description>
-		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>Right Sidebar</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
-Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
-
-Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
-
-Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-24 11:00:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2015-06-24 11:00:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[right-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No Sidebar Full Width]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/no-sidebar-full-width/</link>
-		<pubDate>Wed, 24 Jun 2015 11:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=225</guid>
-		<description></description>
-		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>No Sidebar Full Width</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
-Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
-
-Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
-
-Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-24 11:00:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2015-06-24 11:00:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-sidebar-full-width]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no_sidebar_full_width]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no_sidebar_full_width]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No Sidebar Content Centered]]></title>
-		<link>https://themegrilldemos.com/colormag-pro/no-sidebar-content-centered/</link>
-		<pubDate>Wed, 24 Jun 2015 11:00:40 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=227</guid>
-		<description></description>
-		<content:encoded><![CDATA[<blockquote>This page layout is set to <strong>No Sidebar Content Centered</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from <a href="http://demo.themegrill.com/colormag-pro/category/post-format/">layout</a> option box.</blockquote>
-Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
-
-Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
-
-Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>227</wp:post_id>
-		<wp:post_date><![CDATA[2015-06-24 11:00:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2015-06-24 11:00:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-sidebar-content-centered]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no_sidebar_content_centered]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no_sidebar_content_centered]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5688,6 +4636,63 @@ Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Documentation]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2020/12/22/documentation/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/documentation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>664</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-22 09:49:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-22 11:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-22 11:30:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[documentation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[664]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/colormag-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>https://themegrilldemos.com/colormag-pro/2022/07/14/contact/</link>
 		<pubDate>Tue, 22 Dec 2020 09:49:16 +0000</pubDate>
@@ -5932,6 +4937,285 @@ Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/contact-us/</link>
+		<pubDate>Tue, 23 Jun 2015 11:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=100</guid>
+		<description></description>
+		<content:encoded><![CDATA[This contact form is created using <a href="https://wordpress.org/plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>.
+
+[everest_form id="531"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-23 11:10:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-23 11:10:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-12 07:38:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-12 07:38:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/contact.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/contact.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Left Sidebar]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/left-sidebar/</link>
+		<pubDate>Wed, 24 Jun 2015 11:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=220</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>Left Sidebar</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
+Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
+
+Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
+
+Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-24 11:00:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-24 11:00:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[left-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Right Sidebar]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/right-sidebar/</link>
+		<pubDate>Wed, 24 Jun 2015 11:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=223</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>Right Sidebar</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
+Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
+
+Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
+
+Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-24 11:00:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-24 11:00:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[right-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[No Sidebar Full Width]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/no-sidebar-full-width/</link>
+		<pubDate>Wed, 24 Jun 2015 11:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=225</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>This page has its layout set to <strong>No Sidebar Full Width</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from layout option box.</blockquote>
+Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
+
+Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
+
+Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-24 11:00:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-24 11:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[no-sidebar-full-width]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no_sidebar_full_width]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no_sidebar_full_width]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[No Sidebar Content Centered]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/no-sidebar-content-centered/</link>
+		<pubDate>Wed, 24 Jun 2015 11:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag-pro/?page_id=227</guid>
+		<description></description>
+		<content:encoded><![CDATA[<blockquote>This page layout is set to <strong>No Sidebar Content Centered</strong>. To choose specific layout for specific page/post, just go to same page/post in the dashboard and select the layout you want from <a href="http://demo.themegrill.com/colormag-pro/category/post-format/">layout</a> option box.</blockquote>
+Donut caramels lemon drops soufflé pastry. Bonbon toffee pie applicake sesame snaps. Danish pie danish topping oat cake halvah wafer. Toffee gummi bears dessert cupcake. Candy jelly beans caramels chocolate bar tart liquorice sugar plum. Topping cake sesame snaps.
+
+Candy wafer dragée brownie pudding toffee gingerbread chocolate bar. Unerdwear.com jelly-o apple pie gummi bears macaroon pastry apple pie. Jelly-o icing pie. Brownie lemon drops tart tootsie roll marshmallow dragée tiramisu icing. Tiramisu gummies chupa chups lollipop pudding. Candy sugar plum liquorice. Pudding soufflé jelly. Marshmallow dessert jelly-o pie marzipan bonbon. Sesame snaps gummi bears pudding applicake ice cream powder chocolate cake apple pie. Unerdwear.com bear claw lollipop.
+
+Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake lollipop gummies dragée jelly biscuit applicake caramels. Brownie muffin unerdwear.com jelly powder chupa chups tart donut cheesecake. Soufflé dessert caramels chupa chups cookie carrot cake. Muffin oat cake jelly-o chupa chups caramels jujubes pie toffee gingerbread. Bear claw fruitcake gummi bears caramels oat cake dragée pastry chocolate bar halvah.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>227</wp:post_id>
+		<wp:post_date><![CDATA[2015-06-24 11:00:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-24 11:00:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-24 11:00:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-24 11:00:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[no-sidebar-content-centered]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no_sidebar_content_centered]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no_sidebar_content_centered]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/687/</link>
+		<pubDate>Tue, 22 Dec 2020 09:49:17 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/2020/12/22/687/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>687</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:43:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-22 09:49:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[687]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-12-22]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/colormag-pro/2022/07/14/696/</link>
 		<pubDate>Tue, 22 Dec 2020 09:49:18 +0000</pubDate>
@@ -5993,6 +5277,747 @@ Cotton candy apple pie candy lollipop cookie sweet pudding. Chupa chups cupcake 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/768/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=768</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>768</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[768]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/769/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=769</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>769</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[769]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/770/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=770</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>770</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[770]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/771/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=771</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>771</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[771]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/772/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=772</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>772</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[772]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/773/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=773</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>773</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[773]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/774/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=774</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>774</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[774]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/775/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=775</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>775</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[775]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/776/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=776</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>776</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[776]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/777/</link>
+		<pubDate>Wed, 27 Jul 2022 16:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=777</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>777</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:41:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:41:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:41:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[777]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Terms of Use]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/terms-of-use/</link>
+		<pubDate>Wed, 27 Jul 2022 16:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=778</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>778</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:43:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[778]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/privacy-policy/</link>
+		<pubDate>Wed, 27 Jul 2022 16:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=779</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>779</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:43:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[779]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Accessibility Help]]></title>
+		<link>https://themegrilldemos.com/colormag-pro/2022/07/27/accessibility-help/</link>
+		<pubDate>Wed, 27 Jul 2022 16:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro/?p=780</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>780</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 16:43:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 16:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 16:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[accessibility-help]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[780]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sairah Tundukar- first to complete ICY Marathon]]></title>
 		<link>https://themegrilldemos.com/colormag-pro/2015/06/23/sairah-tundukar-first-to-complete-icy-marathon/</link>
 		<pubDate>Tue, 23 Jun 2015 06:55:11 +0000</pubDate>
@@ -6033,7 +6058,7 @@ Nam ultricies gravida congue. Praesent euismod commodo lacus vel consequat. Etia
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4681]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4706]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6053,7 +6078,7 @@ Nam ultricies gravida congue. Praesent euismod commodo lacus vel consequat. Etia
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4681]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4706]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6117,11 +6142,11 @@ Nullam eleifend venenatis sem ut auctor. Fusce congue, dolor quis sagittis digni
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4796]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4820]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4796]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4820]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6173,7 +6198,7 @@ Etiam sit amet justo tincidunt, semper libero fringilla, pretium eros. Suspendis
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5010]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5036]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6217,7 +6242,7 @@ Vestibulum lobortis nunc sed ligula egestas eleifend. Donec a tellus sodales, fi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6037]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6066]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6296,7 +6321,7 @@ Cras eget mollis nibh. Donec vel erat condimentum, tristique elit sed, efficitur
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5484]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5511]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6304,7 +6329,7 @@ Cras eget mollis nibh. Donec vel erat condimentum, tristique elit sed, efficitur
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5484]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5511]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6343,7 +6368,7 @@ Donec sed mauris lorem. Quisque leo risus, rutrum ac venenatis in, pharetra ut f
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5579]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5594]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6380,7 +6405,7 @@ Quisque vehicula vulputate est, nec hendrerit purus euismod in. Proin sed diam e
 		<category domain="category" nicename="post-format"><![CDATA[Post Format]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5080]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5097]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6421,7 +6446,7 @@ Pellentesque pellentesque id dui ut posuere. Nulla suscipit risus leo, eget sagi
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4849]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4872]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6429,7 +6454,7 @@ Pellentesque pellentesque id dui ut posuere. Nulla suscipit risus leo, eget sagi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4849]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4872]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6490,7 +6515,7 @@ Donec commodo pellentesque urna eu sollicitudin. Proin dapibus nisi diam, et rut
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4755]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4773]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -6502,7 +6527,7 @@ Donec commodo pellentesque urna eu sollicitudin. Proin dapibus nisi diam, et rut
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4755]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4773]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6550,7 +6575,7 @@ Phasellus pellentesque sapien rutrum dui scelerisque blandit. Suspendisse id fri
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5077]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5095]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6570,7 +6595,7 @@ Phasellus pellentesque sapien rutrum dui scelerisque blandit. Suspendisse id fri
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5077]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5095]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6630,7 +6655,7 @@ Nullam ante lectus, sagittis a nunc quis, imperdiet viverra nibh. Duis ornare vu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6132]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6148]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6638,11 +6663,11 @@ Nullam ante lectus, sagittis a nunc quis, imperdiet viverra nibh. Duis ornare vu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6132]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6148]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6132]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6148]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -6650,7 +6675,7 @@ Nullam ante lectus, sagittis a nunc quis, imperdiet viverra nibh. Duis ornare vu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6132]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6148]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -6696,7 +6721,7 @@ Mauris ac justo vitae risus rhoncus feugiat. Donec pulvinar sollicitudin cursus.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4375]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4386]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6834,7 +6859,7 @@ Mauris ac justo vitae risus rhoncus feugiat. Donec pulvinar sollicitudin cursus.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5259]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5285]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6894,7 +6919,7 @@ Fusce a leo eu diam malesuada placerat quis id ipsum. Donec a turpis velit. Prae
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6385]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6412]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6943,7 +6968,7 @@ Cras efficitur erat nec justo sollicitudin, non hendrerit augue ultrices. Mauris
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4745]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4760]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6995,7 +7020,7 @@ Mauris eget massa nec enim pellentesque tincidunt in vitae felis. Cras tellus le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6509]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6540]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7043,7 +7068,7 @@ Praesent dictum accumsan velit, ut dapibus dolor consequat id. Nullam tempor con
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5477]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5501]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7103,7 +7128,7 @@ Pellentesque elementum ipsum eget leo pellentesque accumsan. Praesent arcu velit
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8417]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8450]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -7127,7 +7152,7 @@ Pellentesque elementum ipsum eget leo pellentesque accumsan. Praesent arcu velit
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8417]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8450]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -7177,7 +7202,7 @@ Maecenas tempus lectus ac risus feugiat, vel sagittis ipsum interdum. Curabitur 
 		<category domain="category" nicename="research"><![CDATA[Research]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10832]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10866]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7235,7 +7260,7 @@ Nullam congue euismod euismod. Mauris lacinia pellentesque vehicula. Curabitur t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9253]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9286]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -7255,7 +7280,7 @@ Nullam congue euismod euismod. Mauris lacinia pellentesque vehicula. Curabitur t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9253]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9286]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -7305,11 +7330,11 @@ Phasellus scelerisque lorem eu turpis ullamcorper, vitae dictum mi porttitor. Ma
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5587]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5615]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5587]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5615]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7361,7 +7386,7 @@ Donec semper nibh et turpis dictum ultrices. Nunc ullamcorper turpis at ultricie
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7596]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7629]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7407,7 +7432,7 @@ Donec eget pharetra eros. Vestibulum eget aliquet ligula. Donec nibh justo, lobo
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12239]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12275]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -7415,7 +7440,7 @@ Donec eget pharetra eros. Vestibulum eget aliquet ligula. Donec nibh justo, lobo
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12239]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12275]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -7462,7 +7487,7 @@ Vestibulum et malesuada sapien, fermentum interdum quam. Sed tristique gravida m
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12898]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12932]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7482,7 +7507,7 @@ Vestibulum et malesuada sapien, fermentum interdum quam. Sed tristique gravida m
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12898]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12932]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7537,7 +7562,7 @@ Donec pharetra condimentum semper. Suspendisse scelerisque posuere lobortis. Pel
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4537]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4560]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -7549,7 +7574,7 @@ Donec pharetra condimentum semper. Suspendisse scelerisque posuere lobortis. Pel
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4537]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4560]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7605,7 +7630,7 @@ Proin vel vestibulum tortor, maximus ultrices elit. Praesent fermentum velit sag
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6138]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6169]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7617,7 +7642,7 @@ Proin vel vestibulum tortor, maximus ultrices elit. Praesent fermentum velit sag
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6138]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6169]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7666,11 +7691,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu odio purus.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5198]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5222]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5198]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5222]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7718,7 +7743,7 @@ Morbi sed malesuada nunc. Praesent placerat leo sit amet augue pulvinar, ut plac
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6395]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6426]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7762,7 +7787,7 @@ Duis velit orci, congue id lacinia vitae, rutrum quis purus. Ut scelerisque sit 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4539]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4561]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7824,7 +7849,7 @@ Suspendisse nec blandit sapien, non vestibulum neque. Sed eros leo, iaculis sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3414]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3423]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -7836,7 +7861,7 @@ Suspendisse nec blandit sapien, non vestibulum neque. Sed eros leo, iaculis sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3414]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3423]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7876,7 +7901,7 @@ Ut molestie, elit non consequat mattis, justo felis feugiat quam, sit amet viver
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4614]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4635]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7892,7 +7917,7 @@ Ut molestie, elit non consequat mattis, justo felis feugiat quam, sit amet viver
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4614]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4635]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7959,7 +7984,7 @@ Donec maximus auctor diam, et auctor est blandit at. Sed volutpat metus elit, ne
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5941]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5971]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -7967,7 +7992,7 @@ Donec maximus auctor diam, et auctor est blandit at. Sed volutpat metus elit, ne
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5941]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5971]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8015,7 +8040,7 @@ Donec aliquet iaculis mi. Nulla sed est ultrices, varius ligula vitae, consequat
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7915]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7948]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8055,7 +8080,7 @@ Maecenas aliquam odio nibh, at luctus lectus tempor vel. Mauris scelerisque leo 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6560]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6584]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -8067,7 +8092,7 @@ Maecenas aliquam odio nibh, at luctus lectus tempor vel. Mauris scelerisque leo 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6560]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6584]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8123,7 +8148,7 @@ Maecenas augue libero, vehicula id dui eget, ultrices ullamcorper ante. Fusce ex
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13646]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13678]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -8139,7 +8164,7 @@ Maecenas augue libero, vehicula id dui eget, ultrices ullamcorper ante. Fusce ex
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13646]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13678]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -8196,7 +8221,7 @@ Sed viverra dapibus hendrerit. Nullam nec gravida quam, sed facilisis ipsum. Nun
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5339]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5367]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -8212,7 +8237,7 @@ Sed viverra dapibus hendrerit. Nullam nec gravida quam, sed facilisis ipsum. Nun
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5339]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5367]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8247,7 +8272,7 @@ Morbi vel tincidunt ante. Quisque pellentesque sem id malesuada vehicula. Nulla 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4829]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4854]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -8304,7 +8329,7 @@ Morbi vel tincidunt ante. Quisque pellentesque sem id malesuada vehicula. Nulla 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7370]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7401]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8343,7 +8368,7 @@ Proin sit amet est erat. Vestibulum ante ipsum primis in faucibus orci luctus et
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7588]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7613]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -8359,7 +8384,7 @@ Proin sit amet est erat. Vestibulum ante ipsum primis in faucibus orci luctus et
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7588]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7613]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -8411,7 +8436,7 @@ Nunc et laoreet nisi, ut maximus elit. Ut malesuada orci quis dui condimentum pe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6658]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6687]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8460,7 +8485,7 @@ Pellentesque in justo in arcu euismod consequat ut at nibh. In ac orci ex. Sed m
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7878]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7908]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8503,7 +8528,7 @@ Cras finibus nisi sed sapien feugiat dapibus. Quisque hendrerit massa ut eros sc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7270]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7296]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -8519,7 +8544,7 @@ Cras finibus nisi sed sapien feugiat dapibus. Quisque hendrerit massa ut eros sc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7270]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7296]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8563,7 +8588,7 @@ Cras finibus nisi sed sapien feugiat dapibus. Quisque hendrerit massa ut eros sc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[759]]></wp:meta_value>
+		<wp:meta_value><![CDATA[786]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8615,7 +8640,7 @@ Cras finibus nisi sed sapien feugiat dapibus. Quisque hendrerit massa ut eros sc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1198]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1231]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
