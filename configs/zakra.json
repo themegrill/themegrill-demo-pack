@@ -1650,6 +1650,44 @@
         }
       }
     },
+    "zakra-digital-marketing-02": {
+      "title": "Digital Marketing 02",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/digital-marketing-02/",
+      "description": "Gutenberg based demo for Digital Marketing.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Digital Marketing 02",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-minimal-portfolio-02": {
       "title": "Minimal Portfolio 02",
       "preview": "https://zakrademos.com/minimal-portfolio-02/",
@@ -1680,44 +1718,6 @@
       },
       "core_options": {
         "blogname": "Minimal Portfolio 02",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-digital-marketing-02": {
-      "title": "Digital Marketing 02",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/digital-marketing-02/",
-      "description": "Gutenberg based demo for Digital Marketing.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "blog",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Digital Marketing 02",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
