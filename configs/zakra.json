@@ -59,6 +59,49 @@
         }
       }
     },
+    "zakra-flora": {
+      "title": "Flora",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/flora/",
+      "description": "Gutenberg Based WooCommerce Template Site for Nursery, Garden, Pots, Plant, Seeds and all kind of Flower Store",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Flora",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-eduskill": {
       "title": "EduSkill",
       "preview": "https://zakrademos.com/eduskill/",
