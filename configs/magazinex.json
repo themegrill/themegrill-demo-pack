@@ -1,0 +1,45 @@
+{
+  "name": "MagazineX",
+  "slug": "magazinex",
+  "version": "1.0.0",
+  "homepage": "https://themedemos.net/magazinex/",
+  "categories": {
+    "all"        : "All",
+    "blog"       : "Blog"
+  },
+  "pagebuilders": {
+    "all": "All"
+  },
+  "demos": {
+    "magazinex-default": {
+      "title": "MagazineX",
+      "preview": "https://themedemos.net/magazinex/",
+      "description": "A Gutenberg Based WordPress Theme For News Agencies, Business Magazines and Travel & Tour Agencies",
+      "template": [
+        "magazinex"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "MagazineX",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    }
+  }
+}
