@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-10-12 05:21" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-12 06:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cenote</title>
 	<link>https://themegrilldemos.com/cenote</link>
 	<description>Just another themegrilldemos.com Sites site</description>
-	<pubDate>Wed, 12 Oct 2022 05:21:54 +0000</pubDate>
+	<pubDate>Wed, 12 Oct 2022 06:27:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -190,15 +190,15 @@
 		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[LIFESTYLE]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[LIFESTYLE]]></wp:term_name>
@@ -281,15 +281,15 @@
 		<wp:term_name><![CDATA[QUOTE]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[TRAVEL]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[TRAVEL]]></wp:term_name>
@@ -4161,8 +4161,8 @@ Extending this logic, the skaldic rub comes from a leery building. A foot can ha
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="bulding"><![CDATA[BULDING]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[LIFESTYLE]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[LIFESTYLE]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[LIFESTYLE]]></category>
 		<category domain="category" nicename="travel"><![CDATA[TRAVEL]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -4247,8 +4247,8 @@ Extending this logic, the skaldic rub comes from a leery building. A foot can ha
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="food"><![CDATA[FOOD]]></category>
-		<category domain="category" nicename="food"><![CDATA[FOOD]]></category>
+										<category domain="category" nicename="food"><![CDATA[FOOD]]></category>
+		<category domain="post_tag" nicename="food"><![CDATA[FOOD]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[LIFESTYLE]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4626,7 +4626,7 @@ Extending this logic, the skaldic rub comes from a leery building. A foot can ha
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/cenote/?page_id=209</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>This contact form is created using <a href="https://wpeverest.com/wordpress-plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>.</p>
+		<content:encoded><![CDATA[<p>This contact form is created using <a href="https://wordpress.org/plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>.</p>
 
 <!-- wp:everest-forms/form-selector {"formId":"211"} /-->
 
@@ -4635,8 +4635,8 @@ Extending this logic, the skaldic rub comes from a leery building. A foot can ha
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-26 10:37:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-26 10:37:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-12 05:19:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-12 05:19:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 06:26:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 06:26:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
