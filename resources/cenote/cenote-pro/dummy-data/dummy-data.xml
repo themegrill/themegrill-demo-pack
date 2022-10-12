@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-28 06:09" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-12 06:41" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Cenote Pro</title>
 	<link>https://themegrilldemos.com/cenote-pro</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Thu, 28 Jan 2021 06:09:04 +0000</pubDate>
+	<pubDate>Wed, 12 Oct 2022 06:41:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themegrilldemos.com/</wp:base_site_url>
+	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://themegrilldemos.com/cenote-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[demoteam]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[ThemeGrill Team]]></wp:author_display_name><wp:author_first_name><![CDATA[ThemeGrill]]></wp:author_first_name><wp:author_last_name><![CDATA[Team]]></wp:author_last_name></wp:author>
@@ -96,11 +96,32 @@
 		<wp:tag_name><![CDATA[Health]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[cenote-pro]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[cenote-pro]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[diet]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Diet]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>2</wp:term_id>
@@ -129,6 +150,13 @@
 		<wp:term_slug><![CDATA[health]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Health]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>5</wp:term_id>
@@ -226,7 +254,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[top-menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>https://themegrilldemos.com/cenote-pro/wp-content/uploads/sites/30/2020/12/tg-logo.jpg</url>
@@ -237,7 +265,7 @@
 </image> 
 
 		<item>
-		<title>bulding</title>
+		<title><![CDATA[bulding]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/bulding/</link>
 		<pubDate>Fri, 20 Jul 2018 05:12:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -248,6 +276,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 05:12:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 05:12:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 05:12:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 05:12:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bulding]]></wp:post_name>
@@ -272,7 +302,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture</title>
+		<title><![CDATA[architecture]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/architecture/</link>
 		<pubDate>Fri, 20 Jul 2018 06:00:38 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -283,6 +313,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:00:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:00:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:00:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:00:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture]]></wp:post_name>
@@ -307,7 +339,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bulding</title>
+		<title><![CDATA[bulding]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/bulding-2/</link>
 		<pubDate>Fri, 20 Jul 2018 06:12:57 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -318,6 +350,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:12:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:12:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:12:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:12:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bulding-2]]></wp:post_name>
@@ -342,7 +376,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bridge-architecture</title>
+		<title><![CDATA[bridge-architecture]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/bridge-architecture/</link>
 		<pubDate>Fri, 20 Jul 2018 06:23:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -353,6 +387,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:23:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:23:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:23:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:23:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bridge-architecture]]></wp:post_name>
@@ -377,7 +413,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pete-bellis-396528-unsplash</title>
+		<title><![CDATA[pete-bellis-396528-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type/pete-bellis-396528-unsplash/</link>
 		<pubDate>Fri, 20 Jul 2018 06:38:12 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -388,6 +424,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:38:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:38:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:38:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:38:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pete-bellis-396528-unsplash]]></wp:post_name>
@@ -416,7 +454,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>chair-3054780_1920</title>
+		<title><![CDATA[chair-3054780_1920]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type/chair-3054780_1920/</link>
 		<pubDate>Fri, 20 Jul 2018 06:38:48 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -427,6 +465,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:38:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:38:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:38:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:38:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[chair-3054780_1920]]></wp:post_name>
@@ -455,7 +495,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>attractive-beautiful-beauty</title>
+		<title><![CDATA[attractive-beautiful-beauty]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/video-post-type/attractive-beautiful-beauty/</link>
 		<pubDate>Fri, 20 Jul 2018 06:39:23 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -466,6 +506,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:39:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:39:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:39:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:39:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[attractive-beautiful-beauty]]></wp:post_name>
@@ -490,7 +532,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store</title>
+		<title><![CDATA[store]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/video-post-type/store/</link>
 		<pubDate>Fri, 20 Jul 2018 06:40:46 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -501,6 +543,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:40:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:40:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:40:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:40:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store]]></wp:post_name>
@@ -525,7 +569,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vase</title>
+		<title><![CDATA[vase]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/video-post-type/vase/</link>
 		<pubDate>Fri, 20 Jul 2018 06:49:57 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -536,6 +580,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:49:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:49:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:49:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:49:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vase]]></wp:post_name>
@@ -560,7 +606,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pete-bell</title>
+		<title><![CDATA[pete-bell]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/minimal-and-clean-design/pete-bell/</link>
 		<pubDate>Fri, 20 Jul 2018 06:53:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -571,6 +617,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:53:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:53:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:53:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:53:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pete-bell]]></wp:post_name>
@@ -595,7 +643,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cosmetic</title>
+		<title><![CDATA[cosmetic]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/minimal-and-clean-design/cosmetic/</link>
 		<pubDate>Fri, 20 Jul 2018 06:55:18 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -606,6 +654,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:55:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:55:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:55:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:55:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cosmetic]]></wp:post_name>
@@ -634,7 +684,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>books-clean</title>
+		<title><![CDATA[books-clean]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/minimal-and-clean-design/books-clean/</link>
 		<pubDate>Fri, 20 Jul 2018 06:55:22 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -645,6 +695,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:55:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:55:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:55:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:55:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[books-clean]]></wp:post_name>
@@ -669,7 +721,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>holiday</title>
+		<title><![CDATA[holiday]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type-width-inner-play-option/holiday/</link>
 		<pubDate>Fri, 20 Jul 2018 07:36:18 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -680,6 +732,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 07:36:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 07:36:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:36:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:36:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[holiday]]></wp:post_name>
@@ -708,7 +762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photography</title>
+		<title><![CDATA[photography]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/tips-for-great-picture/photography/</link>
 		<pubDate>Fri, 20 Jul 2018 07:42:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -719,6 +773,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 07:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 07:42:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:42:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:42:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photography]]></wp:post_name>
@@ -743,7 +799,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>stil-336189-unsplash</title>
+		<title><![CDATA[stil-336189-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/bakery-launched-new-sweet-donuts/stil-336189-unsplash/</link>
 		<pubDate>Fri, 20 Jul 2018 09:33:17 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -754,6 +810,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 09:33:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 09:33:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 09:33:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 09:33:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stil-336189-unsplash]]></wp:post_name>
@@ -778,7 +836,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>diet</title>
+		<title><![CDATA[diet]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/bakery-launched-new-sweet-donuts/diet/</link>
 		<pubDate>Fri, 20 Jul 2018 09:36:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -789,6 +847,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 09:36:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 09:36:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 09:36:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 09:36:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[diet]]></wp:post_name>
@@ -813,7 +873,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/logo/</link>
 		<pubDate>Fri, 20 Jul 2018 10:40:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -824,6 +884,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 10:40:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 10:40:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 10:40:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 10:40:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -848,7 +910,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>day-coffee</title>
+		<title><![CDATA[day-coffee]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/best-fruit-for-weight-loss/day-coffee/</link>
 		<pubDate>Fri, 20 Jul 2018 10:48:33 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -859,6 +921,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 10:48:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 10:48:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 10:48:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 10:48:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[day-coffee]]></wp:post_name>
@@ -883,7 +947,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>heather-schwart</title>
+		<title><![CDATA[heather-schwart]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/how-the-hyperlink-changed-everything/heather-schwart/</link>
 		<pubDate>Tue, 24 Jul 2018 05:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -894,6 +958,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 05:22:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 05:22:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 05:22:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 05:22:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[heather-schwart]]></wp:post_name>
@@ -918,7 +984,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Mt. Airy</title>
+		<title><![CDATA[Mt. Airy]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type/mt-airy/</link>
 		<pubDate>Tue, 24 Jul 2018 05:39:48 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -929,6 +995,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 05:39:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 05:39:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 05:39:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 05:39:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mt-airy]]></wp:post_name>
@@ -952,7 +1020,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Fri, 18 Dec 2020 08:03:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -963,6 +1031,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:03:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:03:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:03:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:03:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -974,7 +1044,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/?post_type=everest_form&#038;p=79</link>
 		<pubDate>Fri, 20 Jul 2018 08:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -985,6 +1055,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 08:58:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 08:58:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 08:58:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 08:58:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-2]]></wp:post_name>
@@ -996,7 +1068,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/129/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1007,6 +1079,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[129]]></wp:post_name>
@@ -1051,7 +1125,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/130/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1062,6 +1136,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[130]]></wp:post_name>
@@ -1106,7 +1182,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/131/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1117,6 +1193,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[131]]></wp:post_name>
@@ -1161,7 +1239,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/132/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1172,6 +1250,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[132]]></wp:post_name>
@@ -1216,7 +1296,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/133/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1227,6 +1307,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[133]]></wp:post_name>
@@ -1271,7 +1353,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Buy Now</title>
+		<title><![CDATA[Buy Now]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/buy-now/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1282,6 +1364,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
@@ -1326,7 +1410,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/home/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1337,6 +1421,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1381,7 +1467,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Support</title>
+		<title><![CDATA[Support]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/support/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1392,6 +1478,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[support]]></wp:post_name>
@@ -1436,7 +1524,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Documentation</title>
+		<title><![CDATA[Documentation]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/documentation/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1447,6 +1535,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[documentation]]></wp:post_name>
@@ -1491,7 +1581,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/blog/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1502,6 +1592,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1546,7 +1638,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/139/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1557,6 +1649,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[139]]></wp:post_name>
@@ -1601,7 +1695,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/140/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1612,6 +1706,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[140]]></wp:post_name>
@@ -1656,7 +1752,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/141/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1667,6 +1763,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[141]]></wp:post_name>
@@ -1711,7 +1809,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/142/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1722,6 +1820,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[142]]></wp:post_name>
@@ -1766,7 +1866,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/143/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1777,6 +1877,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[143]]></wp:post_name>
@@ -1821,7 +1923,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/144/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1832,6 +1934,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[144]]></wp:post_name>
@@ -1876,7 +1980,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-attractive-beautiful-beauty.jpg</title>
+		<title><![CDATA[cropped-attractive-beautiful-beauty.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/cropped-attractive-beautiful-beauty-jpg/</link>
 		<pubDate>Wed, 29 Aug 2018 06:49:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1887,6 +1991,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-29 06:49:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-29 06:49:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-29 06:49:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-29 06:49:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-attractive-beautiful-beauty-jpg]]></wp:post_name>
@@ -1915,7 +2021,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tg-logo</title>
+		<title><![CDATA[tg-logo]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/tg-logo/</link>
 		<pubDate>Fri, 18 Dec 2020 08:18:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1926,6 +2032,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:18:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:18:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:18:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:18:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tg-logo]]></wp:post_name>
@@ -1950,7 +2058,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/sample-page/</link>
 		<pubDate>Fri, 18 Dec 2020 08:03:52 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1979,6 +2087,8 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:03:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:03:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1994,7 +2104,7 @@ Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0: http://
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Video post type</title>
+		<title><![CDATA[Video post type]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/video-post-type/</link>
 		<pubDate>Fri, 20 Jul 2018 06:39:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2028,6 +2138,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:39:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:39:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:39:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:39:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-post-type]]></wp:post_name>
@@ -2066,7 +2178,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Audio post type</title>
+		<title><![CDATA[Audio post type]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type/</link>
 		<pubDate>Fri, 20 Jul 2018 06:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2096,6 +2208,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 06:52:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 06:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 06:52:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 06:52:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[audio-post-type]]></wp:post_name>
@@ -2117,78 +2231,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Audio post type width inner play option</title>
-		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type-width-inner-play-option/</link>
-		<pubDate>Fri, 20 Jul 2018 07:36:31 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro/?p=45</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://soundcloud.com/freemusicforvlogs/simon-more-summer-vibes-free-music-for-vlogs?in=freemusicforvlogs/sets/inspirational-motivational
-
-&nbsp;
-
-Sed vestibulum accumsan accumsan. Pellentesque lobortis est odio, eu eleifend diam finibus eu. Mauris sed magna quis justo sodales tempus. Quisque aliquam fringilla nulla, vitae suscipit arcu euismod non. Vivamus sed congue tellus. Praesent condimentum sem imperdiet orci finibus, sed venenatis leo hendrerit. Duis tortor sapien, semper a arcu sit amet, efficitur hendrerit enim.
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-33" src="https://themegrilldemos.com/cenote-pro/wp-content/uploads/sites/30/2018/07/store.jpg" alt="" width="1100" height="653" />
-
-&nbsp;
-
-Quisque placerat enim risus, nec facilisis neque vestibulum ut. Quisque vestibulum varius nunc sed convallis. Nam bibendum turpis eu diam mattis, eu viverra purus laoreet. Fusce gravida diam mauris. Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod quam placerat. Nulla facilisis bibendum purus, nec consequat velit interdum et. Integer diam magna, tempor non varius quis, iaculis a velit. Etiam magna quam, pharetra non gravida eget, interdum ac felis. Nunc nec tristique nulla. Nulla consequat dictum tellus, ac ornare orci dapibus vel.
-
-&nbsp;
-<blockquote>Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.
-<cite>Mohnish Pabrai</cite></blockquote>
-&nbsp;
-<h3><strong>Aenean pretium ligula a nibh accumsan<img class="alignright wp-image-35 size-full" src="https://themegrilldemos.com/cenote-pro/wp-content/uploads/sites/30/2018/07/vase.jpg" alt="" width="200" height="300" /></strong></h3>
-Vel condimentum quam tincidunt. Etiam eget nunc a erat feugiat dictum nec vitae nulla. Vivamus laoreet mi vel velit volutpat tempor. Morbi semper ornare nisl, in fermentum risus eleifend quis. Maecenas placerat erat non libero vestibulum, at venenatis libero accumsan.
-
-Aliquam elementum ligula eget neque gravida, a consequat ante commodo. Duis finibus vestibulum nibh ut sagittis.Quisque placerat enim risus, nec facilisis neque vestibulum ut. Quisque vestibulum varius nunc sed convallis. Nam bibendum turpis eu diam mattis, eu viverra purus laoreet. Fusce gravida diam mauris.
-
-Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod quam placerat. Nulla facilisis bibendum purus, nec consequat velit interdum et. Integer diam magna, tempor non varius quis, iaculis a velit. Etiam magna quam, pharetra non gravida eget, interdum ac felis. Nunc nec tristique nulla. Nulla consequat dictum tellus, ac ornare orci dapibus vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-20 07:36:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-20 07:36:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[audio-post-type-width-inner-play-option]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="post-format"><![CDATA[Post Format]]></category>
-		<category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_e1bd61233b4fd0805771c1283d2bf899]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F448429032&show_artwork=true&maxwidth=640&maxheight=960&dnt=1&in=freemusicforvlogs%2Fsets%2Finspirational-motivational"></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_e1bd61233b4fd0805771c1283d2bf899]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1532408480]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[family-summer-holiday-trip]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_98ffd70851e016829e59e5c7e7f91ac0]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe width="770" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F448429032&show_artwork=true&maxwidth=770&maxheight=1000&dnt=1&in=freemusicforvlogs%2Fsets%2Finspirational-motivational"></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_98ffd70851e016829e59e5c7e7f91ac0]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1545035691]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>How the hyperlink changed everything</title>
+		<title><![CDATA[How the hyperlink changed everything]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/how-the-hyperlink-changed-everything/</link>
 		<pubDate>Fri, 20 Jul 2018 07:08:09 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2222,6 +2265,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 07:08:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 07:08:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:08:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:08:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-the-hyperlink-changed-everything]]></wp:post_name>
@@ -2279,22 +2324,21 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Us</title>
+		<title><![CDATA[Contact Us]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/contact-us/</link>
 		<pubDate>Fri, 20 Jul 2018 09:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro/?page_id=81</guid>
 		<description></description>
-		<content:encoded><![CDATA[This contact form is created using <a href="https://wpeverest.com/wordpress-plugins/everest-forms/" target="_blank" rel="noopener">Everest Forms</a>. To download this contact form plugin click <a href="https://downloads.wordpress.org/plugin/everest-forms.zip" rel="nofollow">here</a>.
-
-This contact form is just for demo purpose. If you have any theme related support questions, please put your query in our <a href="http://themegrill.com/support-forum/" target="_blank" rel="noopener">support forum</a>.
-And if you have any theme related sales questions or if you just want to say hello, please send your message via our <a href="http://themegrill.com/contact/." target="_blank" rel="noopener">contact page.</a>
+		<content:encoded><![CDATA[This contact form is created using&nbsp;<a href="https://wordpress.org/plugins/everest-forms/" target="_blank" rel="noopener nofollow noreferrer">Everest Forms</a>.
 
 [everest_form id="79"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 09:05:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 09:05:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 06:40:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 06:40:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -2304,9 +2348,13 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/145/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2317,6 +2365,8 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[145]]></wp:post_name>
@@ -2361,7 +2411,7 @@ And if you have any theme related sales questions or if you just want to say hel
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Post type link</title>
+		<title><![CDATA[Post type link]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/post-type-link/</link>
 		<pubDate>Fri, 20 Jul 2018 04:30:50 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2372,6 +2422,8 @@ And if you have any theme related sales questions or if you just want to say hel
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 04:30:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 04:30:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 04:30:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 04:30:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[post-type-link]]></wp:post_name>
@@ -2401,7 +2453,7 @@ And if you have any theme related sales questions or if you just want to say hel
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/sample-page-2/</link>
 		<pubDate>Thu, 19 Jul 2018 04:30:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2420,6 +2472,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-19 04:30:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-19 04:30:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-19 04:30:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-19 04:30:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
@@ -2435,7 +2489,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Audio – Soundcloud</title>
+		<title><![CDATA[Audio – Soundcloud]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/audio-soundcloud/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2446,6 +2500,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[audio-soundcloud]]></wp:post_name>
@@ -2490,7 +2546,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Audio – Self hosted</title>
+		<title><![CDATA[Audio – Self hosted]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/audio-self-hosted/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2501,6 +2557,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[audio-self-hosted]]></wp:post_name>
@@ -2545,7 +2603,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Video – TED</title>
+		<title><![CDATA[Video – TED]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/video-ted/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2556,6 +2614,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-ted]]></wp:post_name>
@@ -2600,7 +2660,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Video – Vimeo</title>
+		<title><![CDATA[Video – Vimeo]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/video-vimeo/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2611,6 +2671,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-vimeo]]></wp:post_name>
@@ -2655,7 +2717,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Post Layouts</title>
+		<title><![CDATA[Post Layouts]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/post-layouts/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2666,6 +2728,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[post-layouts]]></wp:post_name>
@@ -2710,7 +2774,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cover</title>
+		<title><![CDATA[Cover]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/cover/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2721,6 +2785,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cover]]></wp:post_name>
@@ -2765,7 +2831,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>404</title>
+		<title><![CDATA[404]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/404/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2776,6 +2842,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[404]]></wp:post_name>
@@ -2820,7 +2888,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Templates</title>
+		<title><![CDATA[Templates]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/templates/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2831,6 +2899,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[templates]]></wp:post_name>
@@ -2875,7 +2945,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Categories</title>
+		<title><![CDATA[Categories]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/categories/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2886,6 +2956,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[categories]]></wp:post_name>
@@ -2930,7 +3002,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/221/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2941,6 +3013,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[221]]></wp:post_name>
@@ -2985,7 +3059,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Video – Youtube</title>
+		<title><![CDATA[Video – Youtube]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2020/12/18/video-youtube/</link>
 		<pubDate>Fri, 18 Dec 2020 08:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2996,6 +3070,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 08:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 08:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 08:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-youtube]]></wp:post_name>
@@ -3040,7 +3116,31 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Minimal and clean design</title>
+		<title><![CDATA[ThemeGrill Demo Showcase]]></title>
+		<link>https://themegrilldemos.com/cenote-pro/themegrill-demo-showcase/</link>
+		<pubDate>Wed, 06 Jul 2022 09:05:43 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/cenote-pro/themegrill-demo-showcase/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-06 09:05:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-06 09:05:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 09:05:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 09:05:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[themegrill-demo-showcase]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Minimal and clean design]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/minimal-and-clean-design/</link>
 		<pubDate>Tue, 24 Jul 2018 06:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3070,6 +3170,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 06:40:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 06:40:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 06:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 06:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimal-and-clean-design]]></wp:post_name>
@@ -3094,7 +3196,80 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best beauty products for summer</title>
+		<title><![CDATA[Audio post type width inner play option]]></title>
+		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/audio-post-type-width-inner-play-option/</link>
+		<pubDate>Fri, 20 Jul 2018 07:36:31 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/cenote-pro/?p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://soundcloud.com/freemusicforvlogs/simon-more-summer-vibes-free-music-for-vlogs?in=freemusicforvlogs/sets/inspirational-motivational
+
+&nbsp;
+
+Sed vestibulum accumsan accumsan. Pellentesque lobortis est odio, eu eleifend diam finibus eu. Mauris sed magna quis justo sodales tempus. Quisque aliquam fringilla nulla, vitae suscipit arcu euismod non. Vivamus sed congue tellus. Praesent condimentum sem imperdiet orci finibus, sed venenatis leo hendrerit. Duis tortor sapien, semper a arcu sit amet, efficitur hendrerit enim.
+
+&nbsp;
+
+<img class="alignnone size-full wp-image-33" src="https://themegrilldemos.com/cenote-pro/wp-content/uploads/sites/30/2018/07/store.jpg" alt="" width="1100" height="653" />
+
+&nbsp;
+
+Quisque placerat enim risus, nec facilisis neque vestibulum ut. Quisque vestibulum varius nunc sed convallis. Nam bibendum turpis eu diam mattis, eu viverra purus laoreet. Fusce gravida diam mauris. Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod quam placerat. Nulla facilisis bibendum purus, nec consequat velit interdum et. Integer diam magna, tempor non varius quis, iaculis a velit. Etiam magna quam, pharetra non gravida eget, interdum ac felis. Nunc nec tristique nulla. Nulla consequat dictum tellus, ac ornare orci dapibus vel.
+
+&nbsp;
+<blockquote>Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.
+<cite>Mohnish Pabrai</cite></blockquote>
+&nbsp;
+<h3><strong>Aenean pretium ligula a nibh accumsan<img class="alignright wp-image-35 size-full" src="https://themegrilldemos.com/cenote-pro/wp-content/uploads/sites/30/2018/07/vase.jpg" alt="" width="200" height="300" /></strong></h3>
+Vel condimentum quam tincidunt. Etiam eget nunc a erat feugiat dictum nec vitae nulla. Vivamus laoreet mi vel velit volutpat tempor. Morbi semper ornare nisl, in fermentum risus eleifend quis. Maecenas placerat erat non libero vestibulum, at venenatis libero accumsan.
+
+Aliquam elementum ligula eget neque gravida, a consequat ante commodo. Duis finibus vestibulum nibh ut sagittis.Quisque placerat enim risus, nec facilisis neque vestibulum ut. Quisque vestibulum varius nunc sed convallis. Nam bibendum turpis eu diam mattis, eu viverra purus laoreet. Fusce gravida diam mauris.
+
+Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod quam placerat. Nulla facilisis bibendum purus, nec consequat velit interdum et. Integer diam magna, tempor non varius quis, iaculis a velit. Etiam magna quam, pharetra non gravida eget, interdum ac felis. Nunc nec tristique nulla. Nulla consequat dictum tellus, ac ornare orci dapibus vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-20 07:36:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-20 07:36:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:36:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:36:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[audio-post-type-width-inner-play-option]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="post-format"><![CDATA[Post Format]]></category>
+		<category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e1bd61233b4fd0805771c1283d2bf899]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F448429032&show_artwork=true&maxwidth=640&maxheight=960&dnt=1&in=freemusicforvlogs%2Fsets%2Finspirational-motivational"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_e1bd61233b4fd0805771c1283d2bf899]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1532408480]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[family-summer-holiday-trip]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_98ffd70851e016829e59e5c7e7f91ac0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe width="770" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F448429032&show_artwork=true&maxwidth=770&maxheight=1000&dnt=1&in=freemusicforvlogs%2Fsets%2Finspirational-motivational"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_98ffd70851e016829e59e5c7e7f91ac0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1545035691]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Best beauty products for summer]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/best-beauty-products-for-summer/</link>
 		<pubDate>Fri, 20 Jul 2018 07:44:19 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3124,6 +3299,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 07:44:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 07:44:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:44:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:44:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-beauty-products-for-summer]]></wp:post_name>
@@ -3144,7 +3321,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Tips for great picture</title>
+		<title><![CDATA[Tips for great picture]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/tips-for-great-picture/</link>
 		<pubDate>Fri, 20 Jul 2018 07:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3174,6 +3351,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 07:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 07:54:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 07:54:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 07:54:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tips-for-great-picture]]></wp:post_name>
@@ -3194,7 +3373,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Quote post with title and content</title>
+		<title><![CDATA[Quote post with title and content]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/quote-post-with-title-and-content/</link>
 		<pubDate>Tue, 24 Jul 2018 06:12:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3208,6 +3387,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 06:12:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 06:12:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 06:12:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 06:12:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quote-post-with-title-and-content]]></wp:post_name>
@@ -3229,7 +3410,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Bakery launched new sweet donuts</title>
+		<title><![CDATA[Bakery launched new sweet donuts]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/bakery-launched-new-sweet-donuts/</link>
 		<pubDate>Fri, 20 Jul 2018 09:04:31 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3259,6 +3440,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 09:04:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 09:04:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 09:04:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 09:04:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bakery-launched-new-sweet-donuts]]></wp:post_name>
@@ -3290,7 +3473,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best fruit for weight loss</title>
+		<title><![CDATA[Best fruit for weight loss]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/20/best-fruit-for-weight-loss/</link>
 		<pubDate>Fri, 20 Jul 2018 09:23:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3320,6 +3503,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-20 09:23:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-20 09:23:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-20 09:23:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-20 09:23:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-fruit-for-weight-loss]]></wp:post_name>
@@ -3353,7 +3538,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Perfect outfits for the next summer</title>
+		<title><![CDATA[Perfect outfits for the next summer]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/perfect-outfits-for-the-next-summer/</link>
 		<pubDate>Tue, 24 Jul 2018 06:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3383,6 +3568,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 06:50:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 06:50:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 06:50:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 06:50:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[perfect-outfits-for-the-next-summer]]></wp:post_name>
@@ -3416,7 +3603,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beauty gadgets for summer</title>
+		<title><![CDATA[Beauty gadgets for summer]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/beauty-gadgets-for-summer/</link>
 		<pubDate>Tue, 24 Jul 2018 05:33:22 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3446,6 +3633,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 05:33:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 05:33:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 05:33:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 05:33:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beauty-gadgets-for-summer]]></wp:post_name>
@@ -3475,7 +3664,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Family summer holiday trip</title>
+		<title><![CDATA[Family summer holiday trip]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/family-summer-holiday-trip/</link>
 		<pubDate>Tue, 24 Jul 2018 05:33:41 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3505,6 +3694,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 05:33:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 05:33:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 05:33:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 05:33:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[family-summer-holiday-trip]]></wp:post_name>
@@ -3527,7 +3718,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Coffee and health benefits</title>
+		<title><![CDATA[Coffee and health benefits]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/coffee-and-health-benefits-2/</link>
 		<pubDate>Tue, 24 Jul 2018 06:04:28 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3557,6 +3748,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 06:04:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 06:04:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 06:04:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 06:04:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[coffee-and-health-benefits-2]]></wp:post_name>
@@ -3582,7 +3775,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Video post type with inner play option</title>
+		<title><![CDATA[Video post type with inner play option]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/21/video-post-type-with-inner-play-option/</link>
 		<pubDate>Sat, 21 Jul 2018 07:10:32 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3616,6 +3809,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-21 07:10:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-21 07:10:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-21 07:10:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-21 07:10:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[video-post-type-with-inner-play-option]]></wp:post_name>
@@ -3657,7 +3852,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery post type with inner slider style</title>
+		<title><![CDATA[Gallery post type with inner slider style]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/gallery-post-type-with-inner-slider-style/</link>
 		<pubDate>Tue, 24 Jul 2018 07:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3689,6 +3884,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 07:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 07:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 07:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 07:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-post-type-with-inner-slider-style]]></wp:post_name>
@@ -3706,7 +3903,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fashion tips for women</title>
+		<title><![CDATA[Fashion tips for women]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/fashion-tips-for-women/</link>
 		<pubDate>Tue, 24 Jul 2018 06:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3736,6 +3933,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 06:09:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 06:09:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 06:09:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 06:09:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-tips-for-women]]></wp:post_name>
@@ -3757,7 +3956,7 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Best Beauty looks for summer</title>
+		<title><![CDATA[Best Beauty looks for summer]]></title>
 		<link>https://themegrilldemos.com/cenote-pro/2018/07/24/best-beauty-looks-for-summer/</link>
 		<pubDate>Tue, 24 Jul 2018 04:37:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3787,6 +3986,8 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-24 04:37:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-24 04:37:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-24 04:37:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-24 04:37:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-beauty-looks-for-summer]]></wp:post_name>
@@ -3806,6 +4007,31 @@ Aenean pulvinar felis tortor. Duis ultrices erat sed libero viverra, ut euismod 
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://themegrilldemos.com/cenote-pro/2022/10/12/wp-global-styles-cenote-pro/</link>
+		<pubDate>Wed, 12 Oct 2022 06:38:45 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/cenote-pro/2022/10/12/wp-global-styles-cenote-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>226</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-12 06:38:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-12 06:38:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 06:38:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 06:38:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-cenote-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="cenote-pro"><![CDATA[cenote-pro]]></category>
+						</item>
 				</channel>
 </rss>
 	
