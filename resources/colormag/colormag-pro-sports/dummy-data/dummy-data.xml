@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0" created="2022-07-12 08:30" -->
+	<!-- generator="WordPress/6.0.1" created="2022-07-28 04:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>ColorMag Pro Sports</title>
 	<link>https://themegrilldemos.com/colormag-pro-sports</link>
 	<description>WordPress Template Site for Sports News, Breaking news &#38; live sports, Olympic News, World Cup News</description>
-	<pubDate>Tue, 12 Jul 2022 08:30:46 +0000</pubDate>
+	<pubDate>Thu, 28 Jul 2022 04:59:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -210,6 +210,13 @@
 		<wp:term_name><![CDATA[Boxing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>29</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[categories-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Categories Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>33</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[colormag-pro]]></wp:term_slug>
@@ -287,18 +294,18 @@
 		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>27</wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[links-menu]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Links Menu]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[marathon]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Marathon]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>27</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[others-themes]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Others Themes]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>15</wp:term_id>
@@ -371,27 +378,20 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>29</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[useful-links]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Useful Links]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[women]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Women]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[others-themes]]></wp:term_slug><wp:term_name><![CDATA[Others Themes]]></wp:term_name>
+			<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[categories-menu]]></wp:term_slug><wp:term_name><![CDATA[Categories Menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[links-menu]]></wp:term_slug><wp:term_name><![CDATA[Links Menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>28</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>29</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[useful-links]]></wp:term_slug><wp:term_name><![CDATA[Useful Links]]></wp:term_name>
-</wp:term>
 
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
 	<url>https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/07/tg-logo.jpg</url>
@@ -631,7 +631,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -639,7 +639,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1121,7 +1121,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		<wp:meta_value><![CDATA[119]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1129,7 +1129,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		<wp:meta_value><![CDATA[119]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1317,7 +1317,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1325,7 +1325,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2150,7 +2150,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2158,7 +2158,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -2395,405 +2395,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[contact-form]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Accelerate]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/accelerate/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/accelerate/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[accelerate]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[225]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/accelerate/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Ample]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/ample/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/ample/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>226</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ample]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[226]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/ample/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Colornews]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/colornews/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/colornews/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>227</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[colornews]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[227]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/colornews/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Himalayas]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/himalayas/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/himalayas/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>228</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[himalayas]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[228]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/himalayas/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Radiate]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/radiate/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/radiate/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>229</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[radiate]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[229]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/radiate/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Spacious]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/spacious/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/spacious/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>230</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[spacious]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="others-themes"><![CDATA[Others Themes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[230]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/themes/spacious/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ThemeGrill]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/themegrill/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/themegrill/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>231</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:36:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:36:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[themegrill]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[231]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3207,244 +2808,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[color-mag-pro-ad-small-1]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-pro-ad-small-1/</link>
-		<pubDate>Wed, 23 Dec 2020 06:46:39 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-pro-ad-small-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>328</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:46:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:46:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:46:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:46:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[color-mag-pro-ad-small-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-pro-ad-small-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/12/color-mag-pro-ad-small-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:36:"2020/12/color-mag-pro-ad-small-1.jpg";s:5:"sizes";a:1:{s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:35:"color-mag-pro-ad-small-1-125x90.jpg";s:5:"width";i:125;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3292;s:10:"size_after";i:3292;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3292;s:10:"size_after";i:3292;s:4:"time";d:0.01;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[color-mag-logo-sports]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-logo-sports/</link>
-		<pubDate>Wed, 23 Dec 2020 06:48:01 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sports.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>330</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:48:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:48:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:48:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:48:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[color-mag-logo-sports]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sports.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/12/color-mag-logo-sports.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:273;s:6:"height";i:90;s:4:"file";s:33:"2020/12/color-mag-logo-sports.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"color-mag-logo-sports-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:32:"color-mag-logo-sports-130x90.png";s:5:"width";i:130;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:21:"colormag-default-news";a:4:{s:4:"file";s:32:"color-mag-logo-sports-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.314890858007347;s:5:"bytes";i:431;s:11:"size_before";i:4627;s:10:"size_after";i:4196;s:4:"time";d:0.09;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:15.15;s:5:"bytes";i:262;s:11:"size_before";i:1729;s:10:"size_after";i:1467;s:4:"time";d:0.02;}s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";d:11.81;s:5:"bytes";i:169;s:11:"size_before";i:1431;s:10:"size_after";i:1262;s:4:"time";d:0.02;}s:21:"colormag-default-news";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:1467;s:10:"size_after";i:1467;s:4:"time";d:0.05;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[color-mag-logo-sport-footer-1]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-logo-sport-footer-1/</link>
-		<pubDate>Wed, 23 Dec 2020 06:50:55 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sport-footer-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>332</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:50:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:50:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:50:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:50:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[color-mag-logo-sport-footer-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sport-footer-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/12/color-mag-logo-sport-footer-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:273;s:6:"height";i:90;s:4:"file";s:41:"2020/12/color-mag-logo-sport-footer-1.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-130x90.png";s:5:"width";i:130;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:21:"colormag-default-news";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.6460940871817;s:5:"bytes";i:447;s:11:"size_before";i:4634;s:10:"size_after";i:4187;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:15.58;s:5:"bytes";i:270;s:11:"size_before";i:1733;s:10:"size_after";i:1463;s:4:"time";d:0.02;}s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";d:12.31;s:5:"bytes";i:177;s:11:"size_before";i:1438;s:10:"size_after";i:1261;s:4:"time";d:0.04;}s:21:"colormag-default-news";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:1463;s:10:"size_after";i:1463;s:4:"time";d:0.1;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Documentation]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/documentation/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/documentation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>232</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:36:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:36:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[documentation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[232]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/theme-instruction/colormag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Support]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/support/</link>
-		<pubDate>Wed, 23 Dec 2020 06:31:57 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/support/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>233</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:31:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:31:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:36:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:36:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[233]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/support-forum/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3847,6 +3211,129 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[color-mag-pro-ad-small-1]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-pro-ad-small-1/</link>
+		<pubDate>Wed, 23 Dec 2020 06:46:39 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-pro-ad-small-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>328</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:46:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:46:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:46:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:46:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[color-mag-pro-ad-small-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-pro-ad-small-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/12/color-mag-pro-ad-small-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:125;s:6:"height";i:125;s:4:"file";s:36:"2020/12/color-mag-pro-ad-small-1.jpg";s:5:"sizes";a:1:{s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:35:"color-mag-pro-ad-small-1-125x90.jpg";s:5:"width";i:125;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3292;s:10:"size_after";i:3292;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3292;s:10:"size_after";i:3292;s:4:"time";d:0.01;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[color-mag-logo-sports]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-logo-sports/</link>
+		<pubDate>Wed, 23 Dec 2020 06:48:01 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sports.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>330</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:48:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:48:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:48:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:48:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[color-mag-logo-sports]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sports.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/12/color-mag-logo-sports.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:273;s:6:"height";i:90;s:4:"file";s:33:"2020/12/color-mag-logo-sports.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"color-mag-logo-sports-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:32:"color-mag-logo-sports-130x90.png";s:5:"width";i:130;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:21:"colormag-default-news";a:4:{s:4:"file";s:32:"color-mag-logo-sports-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.314890858007347;s:5:"bytes";i:431;s:11:"size_before";i:4627;s:10:"size_after";i:4196;s:4:"time";d:0.09;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:15.15;s:5:"bytes";i:262;s:11:"size_before";i:1729;s:10:"size_after";i:1467;s:4:"time";d:0.02;}s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";d:11.81;s:5:"bytes";i:169;s:11:"size_before";i:1431;s:10:"size_after";i:1262;s:4:"time";d:0.02;}s:21:"colormag-default-news";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:1467;s:10:"size_after";i:1467;s:4:"time";d:0.05;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[color-mag-logo-sport-footer-1]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/color-mag-logo-sport-footer-1/</link>
+		<pubDate>Wed, 23 Dec 2020 06:50:55 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sport-footer-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>332</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:50:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:50:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:50:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:50:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[color-mag-logo-sport-footer-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://themegrilldemos.com/colormag-pro-sports/wp-content/uploads/sites/70/2020/12/color-mag-logo-sport-footer-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/12/color-mag-logo-sport-footer-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:273;s:6:"height";i:90;s:4:"file";s:41:"2020/12/color-mag-logo-sport-footer-1.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:28:"colormag-featured-post-small";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-130x90.png";s:5:"width";i:130;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:21:"colormag-default-news";a:4:{s:4:"file";s:40:"color-mag-logo-sport-footer-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.6460940871817;s:5:"bytes";i:447;s:11:"size_before";i:4634;s:10:"size_after";i:4187;s:4:"time";d:0.16;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:15.58;s:5:"bytes";i:270;s:11:"size_before";i:1733;s:10:"size_after";i:1463;s:4:"time";d:0.02;}s:28:"colormag-featured-post-small";O:8:"stdClass":5:{s:7:"percent";d:12.31;s:5:"bytes";i:177;s:11:"size_before";i:1438;s:10:"size_after";i:1261;s:4:"time";d:0.04;}s:21:"colormag-default-news";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:1463;s:10:"size_after";i:1463;s:4:"time";d:0.1;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/279/</link>
 		<pubDate>Wed, 23 Dec 2020 06:32:12 +0000</pubDate>
@@ -4072,63 +3559,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[FAQ]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/faq-2/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:12 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/faq-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>283</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:36:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:36:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[faq-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[283]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/frequently-asked-questions/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4360,63 +3790,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/308/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:13 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>308</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:36:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:36:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[308]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="useful-links"><![CDATA[Useful Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[260]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/contact/</link>
 		<pubDate>Wed, 23 Dec 2020 06:32:13 +0000</pubDate>
@@ -4455,6 +3828,633 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/315/</link>
+		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/315/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>315</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[315]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[307]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/316/</link>
+		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/316/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>316</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[316]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[306]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/318/</link>
+		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/318/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>318</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[318]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[305]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/320/</link>
+		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/320/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>320</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[320]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[304]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/341/</link>
+		<pubDate>Wed, 27 Jul 2022 17:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=341</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>341</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:55:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[341]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="links-menu"><![CDATA[Links Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[260]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/privacy-policy/</link>
+		<pubDate>Wed, 27 Jul 2022 17:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=342</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>342</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:55:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="links-menu"><![CDATA[Links Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About Us]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/about-us/</link>
+		<pubDate>Wed, 27 Jul 2022 17:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=343</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>343</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:55:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="links-menu"><![CDATA[Links Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[343]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Terms of Use]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/terms-of-use/</link>
+		<pubDate>Wed, 27 Jul 2022 17:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=344</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>344</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:55:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:55:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="links-menu"><![CDATA[Links Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[344]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/345/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=345</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>345</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[345]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/346/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=346</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>346</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[346]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/347/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:00 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=347</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>347</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[347]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -4602,7 +4602,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1959]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1976]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4618,7 +4618,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1959]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1976]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4702,7 +4702,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1814]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1830]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4718,7 +4718,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1814]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1830]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4803,7 +4803,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2045]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4819,7 +4819,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2045]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4904,7 +4904,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2630]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2655]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4920,7 +4920,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2630]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2655]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5004,7 +5004,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1596]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5020,7 +5020,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1596]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5107,7 +5107,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2374]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2399]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5123,7 +5123,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2374]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2399]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5207,7 +5207,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2302]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2326]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5223,7 +5223,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2302]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2326]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5308,7 +5308,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1621]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1631]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5324,7 +5324,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1621]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1631]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5580,234 +5580,6 @@ Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/315/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/315/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>315</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[315]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[307]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/316/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/316/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>316</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[316]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[306]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/318/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/318/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>318</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[318]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[305]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://themegrilldemos.com/colormag-pro-sports/2020/12/23/320/</link>
-		<pubDate>Wed, 23 Dec 2020 06:32:14 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/2020/12/23/320/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>320</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-23 06:32:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-23 06:32:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 06:35:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 06:35:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[320]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[304]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[ThemeGrill Demo Showcase]]></title>
 		<link>https://themegrilldemos.com/colormag-pro-sports/themegrill-demo-showcase/</link>
 		<pubDate>Wed, 06 Jul 2022 08:21:31 +0000</pubDate>
@@ -5831,6 +5603,234 @@ Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/348/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=348</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>348</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[348]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/349/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=349</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>349</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[349]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/350/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=350</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>350</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[350]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://themegrilldemos.com/colormag-pro-sports/2022/07/27/351/</link>
+		<pubDate>Wed, 27 Jul 2022 17:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/colormag-pro-sports/?p=351</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>351</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 17:56:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 17:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 17:56:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[351]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="categories-menu"><![CDATA[Categories Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[USA scores against Colombia]]></title>
 		<link>https://themegrilldemos.com/colormag-pro-sports/2016/07/28/usa-scores-against-colombia/</link>
@@ -5913,7 +5913,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2472]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2493]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5929,7 +5929,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2472]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2493]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6005,7 +6005,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1640]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1651]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -6021,7 +6021,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1640]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1651]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -6114,7 +6114,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1587]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1599]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6130,7 +6130,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1587]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1599]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6216,7 +6216,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2710]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2737]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6232,7 +6232,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2710]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2737]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6317,7 +6317,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1531]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1542]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6333,7 +6333,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1531]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1542]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6414,11 +6414,11 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2743]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2772]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2743]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2772]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -6519,7 +6519,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2068]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2092]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6607,7 +6607,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2113]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2130]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -6619,7 +6619,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2113]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2130]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6703,7 +6703,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1930]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1949]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6799,11 +6799,11 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1429]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1439]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1429]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1439]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6888,7 +6888,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1956]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1970]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6973,7 +6973,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1887]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1905]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[video_url]]></wp:meta_key>
@@ -6985,7 +6985,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1887]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1905]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7071,7 +7071,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2040]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7087,7 +7087,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2040]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7189,11 +7189,11 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2471]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2494]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2471]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2494]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7278,7 +7278,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1933]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1952]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7363,7 +7363,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1927]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1945]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7450,7 +7450,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2932]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2954]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7466,7 +7466,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2932]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2954]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7547,7 +7547,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7563,7 +7563,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7664,11 +7664,11 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2220]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2245]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2220]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2245]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7753,7 +7753,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1933]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1952]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7825,7 +7825,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 										<category domain="category" nicename="pommel-horse"><![CDATA[Pommel Horse]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2483]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2513]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -7841,7 +7841,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2483]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2513]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -7937,7 +7937,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2499]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2519]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8021,7 +8021,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2112]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2134]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8110,7 +8110,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2718]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2746]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[colormag_page_layout]]></wp:meta_key>
@@ -8122,7 +8122,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2718]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2746]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8203,7 +8203,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2402]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2429]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -8291,7 +8291,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2684]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2709]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -8307,7 +8307,7 @@ Middletons boisterous our way understood law. Among state cease how and sight si
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_number_of_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2684]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2709]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
