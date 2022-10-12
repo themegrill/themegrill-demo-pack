@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-28 05:21" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-12 07:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Cenote Fashion</title>
 	<link>https://themegrilldemos.com/cenote-fashion</link>
 	<description>Just another ThemeGrill Demo site</description>
-	<pubDate>Thu, 28 Jan 2021 05:21:24 +0000</pubDate>
+	<pubDate>Wed, 12 Oct 2022 07:48:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://themegrilldemos.com/</wp:base_site_url>
+	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
 	<wp:base_blog_url>https://themegrilldemos.com/cenote-fashion</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[demoteam]]></wp:author_login><wp:author_email><![CDATA[team@themegrill.com]]></wp:author_email><wp:author_display_name><![CDATA[ThemeGrill Team]]></wp:author_display_name><wp:author_first_name><![CDATA[ThemeGrill]]></wp:author_first_name><wp:author_last_name><![CDATA[Team]]></wp:author_last_name></wp:author>
@@ -113,6 +113,13 @@
 		<wp:tag_name><![CDATA[WINTER]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[accessory]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[ACCESSORY]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[accessory]]></wp:term_slug>
@@ -120,11 +127,11 @@
 		<wp:term_name><![CDATA[ACCESSORY]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[accessory]]></wp:term_slug>
+		<wp:term_slug><![CDATA[beach]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[ACCESSORY]]></wp:term_name>
+		<wp:term_name><![CDATA[BEACH]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>3</wp:term_id>
@@ -134,11 +141,18 @@
 		<wp:term_name><![CDATA[BEACH]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[beach]]></wp:term_slug>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[BEACH]]></wp:term_name>
+		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Expert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>8</wp:term_id>
@@ -155,15 +169,22 @@
 		<wp:term_name><![CDATA[header top]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outfit]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[OUTFIT]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outfit]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[OUTFIT]]></wp:term_name>
@@ -229,7 +250,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[primary]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>https://themegrilldemos.com/cenote-fashion/wp-content/uploads/sites/28/2018/04/cropped-fav-icon-2-32x32.png</url>
@@ -240,7 +261,7 @@
 </image> 
 
 		<item>
-		<title>lauren-roberts-470000-unsplash</title>
+		<title><![CDATA[lauren-roberts-470000-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/the-perfect-sunglasses/lauren-roberts-470000-unsplash/</link>
 		<pubDate>Mon, 23 Apr 2018 09:45:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -251,6 +272,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 09:45:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 09:45:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 09:45:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 09:45:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lauren-roberts-470000-unsplash]]></wp:post_name>
@@ -275,7 +298,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>alexndra-gorn</title>
+		<title><![CDATA[alexndra-gorn]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/the-perfect-sunglasses/alexndra-gorn/</link>
 		<pubDate>Mon, 23 Apr 2018 10:00:27 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -286,6 +309,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:00:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:00:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:00:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:00:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[alexndra-gorn]]></wp:post_name>
@@ -310,7 +335,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>clarisse-meyer-1</title>
+		<title><![CDATA[clarisse-meyer-1]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/latest-black-outfit-idea/clarisse-meyer-1/</link>
 		<pubDate>Mon, 23 Apr 2018 10:07:35 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -321,6 +346,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:07:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:07:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:07:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:07:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clarisse-meyer-1]]></wp:post_name>
@@ -345,7 +372,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>eli-defaria</title>
+		<title><![CDATA[eli-defaria]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/springs-most-stylish-outfit/eli-defaria/</link>
 		<pubDate>Mon, 23 Apr 2018 10:11:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -356,6 +383,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:11:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:11:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:11:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[eli-defaria]]></wp:post_name>
@@ -380,7 +409,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>antonis-nonis</title>
+		<title><![CDATA[antonis-nonis]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/meghan-doleny-street-style/antonis-nonis/</link>
 		<pubDate>Mon, 23 Apr 2018 10:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -391,6 +420,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:18:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:18:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:18:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:18:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[antonis-nonis]]></wp:post_name>
@@ -415,7 +446,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>erik-lucatero</title>
+		<title><![CDATA[erik-lucatero]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/zara-spring-collection-2018/erik-lucatero/</link>
 		<pubDate>Mon, 23 Apr 2018 10:20:43 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -426,6 +457,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:20:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:20:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:20:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:20:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[erik-lucatero]]></wp:post_name>
@@ -450,7 +483,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>force-majeure</title>
+		<title><![CDATA[force-majeure]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/matching-outfit-idea-for-couples/force-majeure/</link>
 		<pubDate>Mon, 23 Apr 2018 10:22:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -461,6 +494,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:22:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:22:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:22:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:22:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[force-majeure]]></wp:post_name>
@@ -485,7 +520,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cagle</title>
+		<title><![CDATA[cagle]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/cut-out-knee-ripped-jeans-2/cagle/</link>
 		<pubDate>Mon, 23 Apr 2018 10:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -496,6 +531,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:27:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:27:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:27:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:27:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cagle]]></wp:post_name>
@@ -520,7 +557,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hipster-mum-236831-unsplash</title>
+		<title><![CDATA[hipster-mum-236831-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/winter-fashion-trends/hipster-mum-236831-unsplash/</link>
 		<pubDate>Mon, 23 Apr 2018 10:32:18 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -531,6 +568,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:32:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:32:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:32:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:32:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hipster-mum-236831-unsplash]]></wp:post_name>
@@ -555,7 +594,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>katy-belcher-387797-unsplash</title>
+		<title><![CDATA[katy-belcher-387797-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/outfit-idea-for-next-beach-trip/katy-belcher-387797-unsplash/</link>
 		<pubDate>Mon, 23 Apr 2018 10:54:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -566,6 +605,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:54:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:54:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:54:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:54:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[katy-belcher-387797-unsplash]]></wp:post_name>
@@ -590,7 +631,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>majeur</title>
+		<title><![CDATA[majeur]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-style-a-poncho/majeur/</link>
 		<pubDate>Mon, 23 Apr 2018 10:57:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -601,6 +642,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:57:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:57:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:57:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:57:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[majeur]]></wp:post_name>
@@ -625,7 +668,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>heather-schwartz-528936-unsplash</title>
+		<title><![CDATA[heather-schwartz-528936-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/st-delta-outfit-accessory/heather-schwartz-528936-unsplash/</link>
 		<pubDate>Mon, 23 Apr 2018 10:58:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -636,6 +679,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:58:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:58:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:58:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:58:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[heather-schwartz-528936-unsplash]]></wp:post_name>
@@ -660,7 +705,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>majeur</title>
+		<title><![CDATA[majeur]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/springs-most-stylish-outfit/majeur-2/</link>
 		<pubDate>Mon, 23 Apr 2018 11:00:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -671,6 +716,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:00:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:00:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:00:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:00:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[majeur-2]]></wp:post_name>
@@ -695,7 +742,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pete-bellis</title>
+		<title><![CDATA[pete-bellis]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-style-a-poncho/pete-bellis/</link>
 		<pubDate>Mon, 23 Apr 2018 11:01:52 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -706,6 +753,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:01:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:01:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:01:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:01:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pete-bellis]]></wp:post_name>
@@ -730,7 +779,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pete-bellisa</title>
+		<title><![CDATA[pete-bellisa]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-wear-red-this-fall/pete-bellisa/</link>
 		<pubDate>Mon, 23 Apr 2018 11:10:33 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -741,6 +790,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:10:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:10:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:10:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:10:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pete-bellisa]]></wp:post_name>
@@ -765,7 +816,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Group 1</title>
+		<title><![CDATA[Group 1]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/the-perfect-spring-outfit-for-women/group-1/</link>
 		<pubDate>Mon, 23 Apr 2018 11:19:05 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -776,6 +827,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:19:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:19:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:19:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:19:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group-1]]></wp:post_name>
@@ -800,7 +853,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>julian-paul-378487-unsplash</title>
+		<title><![CDATA[julian-paul-378487-unsplash]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/julian-paul-378487-unsplash-2/</link>
 		<pubDate>Mon, 23 Apr 2018 11:22:12 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -811,6 +864,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:22:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:22:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:22:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:22:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[julian-paul-378487-unsplash-2]]></wp:post_name>
@@ -835,7 +890,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1.jpg</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-jpg/</link>
 		<pubDate>Mon, 23 Apr 2018 11:22:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -846,6 +901,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:22:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:22:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:22:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:22:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-jpg]]></wp:post_name>
@@ -878,7 +935,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-1.jpg</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-1.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-1-jpg/</link>
 		<pubDate>Mon, 23 Apr 2018 11:23:15 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -889,6 +946,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:23:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:23:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:23:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:23:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-1-jpg]]></wp:post_name>
@@ -921,7 +980,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pete-bellis-301148-unsplash.jpg</title>
+		<title><![CDATA[cropped-pete-bellis-301148-unsplash.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-pete-bellis-301148-unsplash-jpg/</link>
 		<pubDate>Mon, 23 Apr 2018 11:24:12 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -932,6 +991,8 @@
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:24:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:24:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:24:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:24:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pete-bellis-301148-unsplash-jpg]]></wp:post_name>
@@ -964,7 +1025,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Form</title>
+		<title><![CDATA[Contact Form]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/?post_type=everest_form&#038;p=3</link>
 		<pubDate>Fri, 18 Dec 2020 04:02:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -975,6 +1036,8 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:02:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:02:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:02:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:02:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
@@ -986,7 +1049,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-2.jpg</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-2.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-2-jpg/</link>
 		<pubDate>Mon, 23 Apr 2018 11:25:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -997,6 +1060,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:25:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:25:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:25:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:25:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-2-jpg]]></wp:post_name>
@@ -1029,7 +1094,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>HOME</title>
+		<title><![CDATA[HOME]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/home-2/</link>
 		<pubDate>Fri, 18 Dec 2020 04:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1040,6 +1105,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:03:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:03:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -1084,7 +1151,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/logo-2/</link>
 		<pubDate>Tue, 24 Apr 2018 06:24:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1095,6 +1162,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 06:24:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 06:24:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 06:24:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 06:24:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
@@ -1119,7 +1188,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/logo-2-2/</link>
 		<pubDate>Tue, 24 Apr 2018 06:24:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1130,6 +1199,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 06:24:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 06:24:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 06:24:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 06:24:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-2-2]]></wp:post_name>
@@ -1154,7 +1225,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-transperent</title>
+		<title><![CDATA[logo-transperent]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/logo-transperent/</link>
 		<pubDate>Tue, 24 Apr 2018 06:26:04 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1165,6 +1236,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 06:26:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 06:26:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 06:26:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 06:26:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-transperent]]></wp:post_name>
@@ -1189,7 +1262,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-transperent</title>
+		<title><![CDATA[logo-transperent]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/logo-transperent-2/</link>
 		<pubDate>Tue, 24 Apr 2018 06:26:04 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1200,6 +1273,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 06:26:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 06:26:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 06:26:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 06:26:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-transperent-2]]></wp:post_name>
@@ -1224,7 +1299,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-fav-icon.png</title>
+		<title><![CDATA[cropped-fav-icon.png]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-fav-icon-png/</link>
 		<pubDate>Tue, 24 Apr 2018 08:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1235,6 +1310,8 @@
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:25:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:25:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:25:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:25:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-fav-icon-png]]></wp:post_name>
@@ -1265,9 +1342,13 @@
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:15650;s:10:"size_after";i:15650;s:4:"time";d:0.6799999999999999;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:3779;s:10:"size_after";i:3779;s:4:"time";d:0.15;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:1792;s:10:"size_after";i:1792;s:4:"time";d:0.02;}s:14:"post-thumbnail";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:5093;s:10:"size_after";i:5093;s:4:"time";d:0.17;}s:11:"cenote-post";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:4986;s:10:"size_after";i:4986;s:4:"time";d:0.34;}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_fca5acb55e5f3f2343b6682a2726e40f]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-fav-icon.png</title>
+		<title><![CDATA[cropped-fav-icon.png]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-fav-icon-png-2/</link>
 		<pubDate>Tue, 24 Apr 2018 08:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1278,6 +1359,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:25:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:25:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:25:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:25:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-fav-icon-png-2]]></wp:post_name>
@@ -1310,7 +1393,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fav-icon</title>
+		<title><![CDATA[fav-icon]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/fav-icon/</link>
 		<pubDate>Tue, 24 Apr 2018 08:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1321,6 +1404,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:26:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:26:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:26:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:26:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fav-icon]]></wp:post_name>
@@ -1345,7 +1430,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fav-icon</title>
+		<title><![CDATA[fav-icon]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/fav-icon-2/</link>
 		<pubDate>Tue, 24 Apr 2018 08:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1356,6 +1441,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:26:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:26:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:26:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:26:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fav-icon-2]]></wp:post_name>
@@ -1380,7 +1467,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-fav-icon-1.png</title>
+		<title><![CDATA[cropped-fav-icon-1.png]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-fav-icon-1-png/</link>
 		<pubDate>Tue, 24 Apr 2018 08:26:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1391,6 +1478,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:26:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:26:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:26:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:26:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-fav-icon-1-png]]></wp:post_name>
@@ -1423,7 +1512,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-fav-icon-1.png</title>
+		<title><![CDATA[cropped-fav-icon-1.png]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-fav-icon-1-png-2/</link>
 		<pubDate>Tue, 24 Apr 2018 08:26:10 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1434,6 +1523,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-24 08:26:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-24 08:26:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-24 08:26:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-24 08:26:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-fav-icon-1-png-2]]></wp:post_name>
@@ -1466,7 +1557,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-3.jpg</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-3.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-3-jpg/</link>
 		<pubDate>Wed, 25 Apr 2018 10:14:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1477,6 +1568,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 10:14:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 10:14:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 10:14:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 10:14:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-3-jpg]]></wp:post_name>
@@ -1513,7 +1606,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-3.jpg</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-3.jpg]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-3-jpg-2/</link>
 		<pubDate>Wed, 25 Apr 2018 10:14:55 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1524,6 +1617,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 10:14:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 10:14:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 10:14:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 10:14:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-3-jpg-2]]></wp:post_name>
@@ -1560,7 +1655,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>anna-demianenko</title>
+		<title><![CDATA[anna-demianenko]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/anna-demianenko/</link>
 		<pubDate>Thu, 26 Apr 2018 10:01:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1571,6 +1666,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-26 10:01:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-26 10:01:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-26 10:01:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-26 10:01:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[anna-demianenko]]></wp:post_name>
@@ -1595,7 +1692,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>anna-demianenko</title>
+		<title><![CDATA[anna-demianenko]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/anna-demianenko-2/</link>
 		<pubDate>Thu, 26 Apr 2018 10:01:47 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1606,6 +1703,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-26 10:01:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-26 10:01:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-26 10:01:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-26 10:01:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[anna-demianenko-2]]></wp:post_name>
@@ -1630,7 +1729,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-3</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-3]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-3/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1641,6 +1740,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:04:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:04:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-3]]></wp:post_name>
@@ -1669,7 +1770,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-julian-paul-378487-unsplash-1-3-1</title>
+		<title><![CDATA[cropped-julian-paul-378487-unsplash-1-3-1]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-julian-paul-378487-unsplash-1-3-1/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1680,6 +1781,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:04:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:04:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-julian-paul-378487-unsplash-1-3-1]]></wp:post_name>
@@ -1708,7 +1811,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-fav-icon-2.png</title>
+		<title><![CDATA[cropped-fav-icon-2.png]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/cropped-fav-icon-2-png/</link>
 		<pubDate>Fri, 18 Dec 2020 04:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1719,6 +1822,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:11:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:11:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:11:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:11:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-fav-icon-2-png]]></wp:post_name>
@@ -1747,7 +1852,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/sample-page/</link>
 		<pubDate>Fri, 18 Dec 2020 04:00:51 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1776,6 +1881,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:00:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:00:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:00:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:00:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1791,7 +1898,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Latest black outfit idea</title>
+		<title><![CDATA[Latest black outfit idea]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/latest-black-outfit-idea/</link>
 		<pubDate>Mon, 23 Apr 2018 10:15:11 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1825,6 +1932,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:15:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:15:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:15:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:15:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[latest-black-outfit-idea]]></wp:post_name>
@@ -1877,7 +1986,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Spring&#039;s most stylish outfit</title>
+		<title><![CDATA[Spring's most stylish outfit]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/springs-most-stylish-outfit/</link>
 		<pubDate>Mon, 23 Apr 2018 10:14:21 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1909,6 +2018,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:14:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:14:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:14:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:14:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[springs-most-stylish-outfit]]></wp:post_name>
@@ -1953,7 +2064,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Zara spring collection 2018</title>
+		<title><![CDATA[Zara spring collection 2018]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/zara-spring-collection-2018/</link>
 		<pubDate>Mon, 23 Apr 2018 10:23:58 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -1987,6 +2098,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:23:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:23:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:23:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:23:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zara-spring-collection-2018]]></wp:post_name>
@@ -2023,7 +2136,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Meghan doleny street style</title>
+		<title><![CDATA[Meghan doleny street style]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/meghan-doleny-street-style/</link>
 		<pubDate>Mon, 23 Apr 2018 10:26:16 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2057,6 +2170,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:26:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:26:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:26:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:26:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[meghan-doleny-street-style]]></wp:post_name>
@@ -2093,7 +2208,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Matching outfit idea for couples</title>
+		<title><![CDATA[Matching outfit idea for couples]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/matching-outfit-idea-for-couples/</link>
 		<pubDate>Mon, 23 Apr 2018 10:23:14 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2127,6 +2242,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:23:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:23:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:23:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:23:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[matching-outfit-idea-for-couples]]></wp:post_name>
@@ -2163,7 +2280,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cut out Knee ripped jeans</title>
+		<title><![CDATA[Cut out Knee ripped jeans]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/cut-out-knee-ripped-jeans-2/</link>
 		<pubDate>Mon, 23 Apr 2018 10:38:43 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2197,6 +2314,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:38:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:38:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:38:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:38:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cut-out-knee-ripped-jeans-2]]></wp:post_name>
@@ -2241,7 +2360,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Winter fashion trends</title>
+		<title><![CDATA[Winter fashion trends]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/winter-fashion-trends/</link>
 		<pubDate>Mon, 23 Apr 2018 10:38:45 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2275,6 +2394,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:38:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:38:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:38:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:38:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[winter-fashion-trends]]></wp:post_name>
@@ -2321,7 +2442,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Outfit idea for next beach trip</title>
+		<title><![CDATA[Outfit idea for next beach trip]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/outfit-idea-for-next-beach-trip/</link>
 		<pubDate>Mon, 23 Apr 2018 10:56:17 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2355,6 +2476,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 10:56:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 10:56:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 10:56:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 10:56:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[outfit-idea-for-next-beach-trip]]></wp:post_name>
@@ -2392,77 +2515,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to style a poncho?</title>
-		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-style-a-poncho/</link>
-		<pubDate>Mon, 23 Apr 2018 11:07:58 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://demo.themegrill.com/cenote-fashion/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[Proin ut quam eros. Donec sed lobortis diam. Nulla nec odio lacus. Quisque porttitor egestas dolor in placerat unc vehicula dapibus ipsum. Duis venenatis risus non nunc fermentum dapibus. Morbi lorem ante, malesuada in mollis nec, auctor nec massa. Aenean tempus dui eget felis blandit at fringilla urna ultrices. Suspendisse feugiat, ante et viverra lacinia, lectus sem lobortis dui, ultricies consectetur leo mauris at tortor
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-7" src="https://themegrilldemos.com/cenote-fashion/wp-content/uploads/sites/28/2018/04/anna-demianenko.jpg" alt="" width="1366" height="910" />
-
-&nbsp;
-
-Etiam aliquam sem ac velit feugiat elementum. Nunc eu elit velit, nec vestibulum nibh. Curabitur ultrices, diam non ullamcorper blandit, nunc lacus ornare nisi, egestas rutrum magna est id nunc. Pellentesque imperdiet malesuada quam, el arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam.
-<h4><strong>Donec malesuada vehicula</strong></h4>
-Aisus at mi ultricies sagittis quis nec ligula. Suspendisse dignissim dignissim luctus. Duis ac dictum nibh. Etiam id massa magna. Morbi molestie posuere posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac magna non augue porttitor scelerisque ac id diam.
-
-<img class="alignnone size-full wp-image-8 alignright" src="https://themegrilldemos.com/cenote-fashion/wp-content/uploads/sites/28/2018/04/alexndra-gorn.jpg" alt="" width="400" height="600" />
-<ul>
- 	<li>et rhoncus eros auctor eu.</li>
- 	<li>Nullam vehicula metus ac</li>
- 	<li>lacus rutrum nec fermentum</li>
- 	<li>urna congue vestibulum et</li>
-</ul>
-Mauris elit velit, lobortis sed interdum at, vestibulum vitae libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque iaculis ligula ut ipsum mattis viverra. Nulla a libero metus.
-
-Integer gravida tempor metus eget condimentum. Integer eget iaculis tortor.Nunc sed ligula sed augue rutrum ultrices eget nec odio. Morbi rhoncus, sem laoreet tempus pulvinar, leo diam varius nisi, sed accumsan ligula urna sed felis.
-
-Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismod lectus ac sapien fringilla ut eleifend lacus venenatis.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-23 11:07:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-23 11:07:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-style-a-poncho]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="winter"><![CDATA[WINTER]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[cenote_post_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[cenote_post_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[layout--right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The perfect sunglasses</title>
+		<title><![CDATA[The perfect sunglasses]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/the-perfect-sunglasses/</link>
 		<pubDate>Mon, 23 Apr 2018 05:32:34 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2496,6 +2549,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 05:32:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 05:32:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 05:32:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 05:32:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-perfect-sunglasses]]></wp:post_name>
@@ -2557,7 +2612,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 							</wp:comment>
 					</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/sample-page-2/</link>
 		<pubDate>Mon, 23 Apr 2018 05:32:34 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2576,6 +2631,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 05:32:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 05:32:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 05:32:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 05:32:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
@@ -2595,7 +2652,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/81/</link>
 		<pubDate>Fri, 18 Dec 2020 04:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2606,6 +2663,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:03:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:03:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[81]]></wp:post_name>
@@ -2650,7 +2709,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/82/</link>
 		<pubDate>Fri, 18 Dec 2020 04:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2661,6 +2720,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:03:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:03:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[82]]></wp:post_name>
@@ -2705,7 +2766,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/83/</link>
 		<pubDate>Fri, 18 Dec 2020 04:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2716,6 +2777,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:03:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:03:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -2760,7 +2823,7 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/84/</link>
 		<pubDate>Fri, 18 Dec 2020 04:03:59 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2771,6 +2834,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:03:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:03:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[84]]></wp:post_name>
@@ -2815,8 +2880,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Support</title>
-		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/support/</link>
+		<title><![CDATA[Support]]></title>
+		<link>https://themegrilldemos.com/cenote-fashion/2022/10/12/support/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">https://themegrilldemos.com/cenote-fashion/2020/12/18/support/</guid>
@@ -2824,8 +2889,10 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>95</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-18 04:04:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-10-12 07:11:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 07:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 07:11:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[support]]></wp:post_name>
@@ -2866,12 +2933,16 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://themegrill.com/support/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-12-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Documentation</title>
-		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/documentation/</link>
+		<title><![CDATA[Documentation]]></title>
+		<link>https://themegrilldemos.com/cenote-fashion/2022/10/12/documentation/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">https://themegrilldemos.com/cenote-fashion/2020/12/18/documentation/</guid>
@@ -2879,8 +2950,10 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>96</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-18 04:04:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-10-12 07:11:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 07:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 07:11:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[documentation]]></wp:post_name>
@@ -2921,12 +2994,16 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://docs.themegrill.com/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-12-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
-		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/blog/</link>
+		<title><![CDATA[Blog]]></title>
+		<link>https://themegrilldemos.com/cenote-fashion/2022/10/12/blog/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
 		<guid isPermaLink="false">https://themegrilldemos.com/cenote-fashion/2020/12/18/blog/</guid>
@@ -2934,8 +3011,10 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>97</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-18 04:04:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-10-12 07:11:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-12 07:11:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-12 07:11:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2976,11 +3055,15 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themegrill.com/blog]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-12-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>DOWNLOAD</title>
+		<title><![CDATA[DOWNLOAD]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2020/12/18/download-2/</link>
 		<pubDate>Fri, 18 Dec 2020 04:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -2991,6 +3074,8 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-18 04:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-18 04:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-18 04:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-18 04:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[download-2]]></wp:post_name>
@@ -3035,7 +3120,103 @@ As a new WordPress user, you should go to <a href="https://demo.themegrill.com/c
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>St delta outfit &amp; accessory</title>
+		<title><![CDATA[ThemeGrill Demo Showcase]]></title>
+		<link>https://themegrilldemos.com/cenote-fashion/themegrill-demo-showcase/</link>
+		<pubDate>Wed, 06 Jul 2022 08:43:47 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/cenote-fashion/themegrill-demo-showcase/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>115</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-06 08:43:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-06 08:43:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 08:43:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 08:43:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[themegrill-demo-showcase]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[How to style a poncho?]]></title>
+		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-style-a-poncho/</link>
+		<pubDate>Mon, 23 Apr 2018 11:07:58 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://demo.themegrill.com/cenote-fashion/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[Proin ut quam eros. Donec sed lobortis diam. Nulla nec odio lacus. Quisque porttitor egestas dolor in placerat unc vehicula dapibus ipsum. Duis venenatis risus non nunc fermentum dapibus. Morbi lorem ante, malesuada in mollis nec, auctor nec massa. Aenean tempus dui eget felis blandit at fringilla urna ultrices. Suspendisse feugiat, ante et viverra lacinia, lectus sem lobortis dui, ultricies consectetur leo mauris at tortor
+
+&nbsp;
+
+<img class="alignnone size-full wp-image-7" src="https://themegrilldemos.com/cenote-fashion/wp-content/uploads/sites/28/2018/04/anna-demianenko.jpg" alt="" width="1366" height="910" />
+
+&nbsp;
+
+Etiam aliquam sem ac velit feugiat elementum. Nunc eu elit velit, nec vestibulum nibh. Curabitur ultrices, diam non ullamcorper blandit, nunc lacus ornare nisi, egestas rutrum magna est id nunc. Pellentesque imperdiet malesuada quam, el arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam.
+<h4><strong>Donec malesuada vehicula</strong></h4>
+Aisus at mi ultricies sagittis quis nec ligula. Suspendisse dignissim dignissim luctus. Duis ac dictum nibh. Etiam id massa magna. Morbi molestie posuere posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac magna non augue porttitor scelerisque ac id diam.
+
+<img class="alignnone size-full wp-image-8 alignright" src="https://themegrilldemos.com/cenote-fashion/wp-content/uploads/sites/28/2018/04/alexndra-gorn.jpg" alt="" width="400" height="600" />
+<ul>
+ 	<li>et rhoncus eros auctor eu.</li>
+ 	<li>Nullam vehicula metus ac</li>
+ 	<li>lacus rutrum nec fermentum</li>
+ 	<li>urna congue vestibulum et</li>
+</ul>
+Mauris elit velit, lobortis sed interdum at, vestibulum vitae libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque iaculis ligula ut ipsum mattis viverra. Nulla a libero metus.
+
+Integer gravida tempor metus eget condimentum. Integer eget iaculis tortor.Nunc sed ligula sed augue rutrum ultrices eget nec odio. Morbi rhoncus, sem laoreet tempus pulvinar, leo diam varius nisi, sed accumsan ligula urna sed felis.
+
+Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismod lectus ac sapien fringilla ut eleifend lacus venenatis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-23 11:07:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-23 11:07:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:07:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:07:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-style-a-poncho]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="winter"><![CDATA[WINTER]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cenote_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cenote_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[layout--right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[St delta outfit & accessory]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/st-delta-outfit-accessory/</link>
 		<pubDate>Mon, 23 Apr 2018 11:08:04 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3069,6 +3250,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:08:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:08:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:08:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:08:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[st-delta-outfit-accessory]]></wp:post_name>
@@ -3107,7 +3290,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Men fashion tips and style guide</title>
+		<title><![CDATA[Men fashion tips and style guide]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/men-fashion-tips-and-style-guide/</link>
 		<pubDate>Mon, 23 Apr 2018 11:09:42 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3141,6 +3324,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:09:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:09:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:09:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:09:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-fashion-tips-and-style-guide]]></wp:post_name>
@@ -3177,7 +3362,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to wear red this fall</title>
+		<title><![CDATA[How to wear red this fall]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/how-to-wear-red-this-fall/</link>
 		<pubDate>Mon, 23 Apr 2018 11:16:36 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3211,6 +3396,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:16:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:16:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:16:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:16:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-wear-red-this-fall]]></wp:post_name>
@@ -3250,7 +3437,7 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The perfect spring outfit for women</title>
+		<title><![CDATA[The perfect spring outfit for women]]></title>
 		<link>https://themegrilldemos.com/cenote-fashion/2018/04/23/the-perfect-spring-outfit-for-women/</link>
 		<pubDate>Mon, 23 Apr 2018 11:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[demoteam]]></dc:creator>
@@ -3284,6 +3471,8 @@ Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit. In euismo
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-23 11:18:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-23 11:18:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-23 11:18:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-23 11:18:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-perfect-spring-outfit-for-women]]></wp:post_name>
