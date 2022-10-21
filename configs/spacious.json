@@ -212,7 +212,7 @@
       "isPro": true,
       "title": "Spacious Pro Freelancer 02",
       "preview": "https://themegrilldemos.com/spacious-pro-freelancer-02/",
-      "description": "Best WordPress Template Site for freelancer.",
+      "description": "Best WordPress Template Site for a freelancer.",
       "template": [
         "spacious-pro"
       ],
@@ -234,11 +234,11 @@
           "name": "Everest Forms",
           "slug": "everest-forms/everest-forms.php"
         },
-        "blockart": {
+        "blockart-blocks": {
           "name": "Blockart",
-          "slug": "blockart/blockart.php"
+          "slug": "blockart-blocks/blockart.php"
         }
-      },
+      },           
       "core_options": {
         "blogname": "Spacious Pro Freelancer 02",
         "page_on_front": "Home"
@@ -271,7 +271,8 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Main"
+          "primary": "Main", 
+          "footer":"Main"
         }
       }
     },
@@ -522,7 +523,8 @@
       },
       "core_options": {
         "blogname": "Spacious Pro Health Information",
-        "page_on_front": "Home"
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
@@ -594,7 +596,8 @@
       },
       "core_options": {
         "blogname": "Spacious Pro Agency",
-        "page_on_front": "Home"
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -639,7 +642,8 @@
       },
       "core_options": {
         "blogname": "Spacious Pro Product",
-        "page_on_front": "Home"
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
@@ -924,7 +928,8 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "primary": "Main Menu"
+          "primary": "Main Menu",
+          "footer": "Main Menu"
         }
       }
     },
@@ -1578,7 +1583,8 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "header": "Header Top",
-          "primary": "Primary"
+          "primary": "Primary",
+          "footer": "Primary"
         }
       }
     },
@@ -1625,7 +1631,7 @@
       "core_options": {
         "blogname": "Spacious Pro Furniture",
         "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
+        "page_for_posts": "NEWS"
       },
       "elementor_schemes": {
         "typography": {
@@ -2266,7 +2272,7 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "header": "Header Top",
+          "header": "Header",
           "primary": "Primary"
         }
       }
