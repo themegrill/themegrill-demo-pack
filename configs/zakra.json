@@ -59,6 +59,35 @@
         }
       }
     },
+
+    "zakra-nutricoach": {
+      "title": "nutriCoach",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/nutricoach/",
+      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "blog",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "core_options": {
+        "blogname": "nutriCoach",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
      "zakra-petcare": {
       "title": "PetCare",
       "isPremium": true,
