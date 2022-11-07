@@ -1,0 +1,42 @@
+{
+    "name": "Gizmo",
+    "slug": "gizmo",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "gizmo-default": {
+        "title": "Gizmo",
+        "preview": "https://themegrilldemos.com/gizmo/",
+        "description": "A complete WooCommerce theme ideal for Gadget stores, the world of innovative technology.",
+        "template": [
+          "gizmo"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          }
+        },
+        "core_options": {
+          "blogname": "gizmo"         
+        }
+        
+      }
+    }
+  }
+  
