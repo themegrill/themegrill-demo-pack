@@ -60,6 +60,39 @@
         }
       }
     },
+    "zakra-antique-store": {
+      "title": "Antique",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/antique-store/",
+      "description": "A beautiful Gutenberg-based WordPress template site for antique, ancient, painting, pottery stores",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Antique",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-nutricoach": {
       "title": "nutriCoach",
       "isPremium": true,
