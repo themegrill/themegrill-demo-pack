@@ -60,6 +60,38 @@
         }
       }
     },
+    "zakra-dentico": {
+      "title": "Dentico",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/dentico/",
+      "description": "Gutenberg-Based Template Site for Medical Health & Dental Care Clinic.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Dentico",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-antique-store": {
       "title": "Antique",
       "isPremium": true,
