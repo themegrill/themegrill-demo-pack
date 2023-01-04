@@ -173,6 +173,38 @@
         }
       }
     },
+    "colormag-pro-dailynews": {
+      "isPro": true,
+      "title": "DailyNews",
+      "preview": "https://themegrilldemos.com/colormag-pro-dailynews/",
+      "description": "Gutenberg-based ThemeGrill Demo Site for all kinds of flash news, news publishing, and news magazine",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro DailyNews",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "colormag-pro-city": {
       "isPro": true,
       "title": "City",
