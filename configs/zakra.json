@@ -12,7 +12,8 @@
     "magazine": "Magazine",
     "non-profit": "Non Profit",
     "one-page": "One Page",
-    "portfolio": "Portfolio"
+    "portfolio": "Portfolio",
+    "rtl": "Rtl"
   },
   "pagebuilders": {
     "all": "All",
@@ -2247,6 +2248,32 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main Menu"
+        }
+      }
+    },
+    "zakra-gutenberg-rtl": {
+      "title": "Gutenblog Rtl",
+      "preview": "https://zakrademos.com/gutenberg-rtl/",
+      "description": "Want to show your skills on content creation? Help yourself with this Zakra demo.",
+      "template": ["zakra"],
+      "category": ["all", "blog", "rtl"],
+      "pagebuilder": ["all", "gutenberg"],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "gutenberg": {
+          "name": "Gutenberg",
+          "slug": "gutenberg/gutenberg.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Gutenberg Rtl"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
         }
       }
     },
