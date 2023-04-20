@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-01 05:20" -->
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Flora</title>
 	<link>https://zakrademos.com/flora</link>
 	<description>Gutenberg Based WooCommerce Template Site for Nursery, Garden, Pots, Plant, Seeds and all kind of Flower Store</description>
-	<pubDate>Thu, 01 Sep 2022 05:20:59 +0000</pubDate>
+	<pubDate>Thu, 20 Apr 2023 12:14:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
@@ -45,13 +45,6 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cactus-plant]]></wp:term_slug>
@@ -91,13 +84,6 @@
 		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Expert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>8</wp:term_id>
@@ -173,13 +159,6 @@
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>3</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -338,7 +317,7 @@
 	<wp:term><wp:term_id>28</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[services]]></wp:term_slug><wp:term_name><![CDATA[Services]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	
 
 <image>
 	<url>https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/cropped-flora_logo-32x32.png</url>
@@ -2515,7 +2494,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Cart]]></title>
 		<link>https://zakrademos.com/flora/cart/</link>
@@ -2628,6 +2611,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2743,6 +2730,10 @@
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[My account]]></title>
@@ -2767,7 +2758,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>https://zakrademos.com/flora/?page_id=11</link>
@@ -2970,8 +2965,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"d392574b","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-d392574b"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"9ce7c11f","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/grow_plants.jpg"}} -->
-<div class="blockart-image blockart-image-9ce7c11f"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/grow_plants.jpg" alt="" /></div>
+<div class="blockart-column blockart-column-d392574b"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"9ce7c11f","link":{},"image":{"width":761,"height":831,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/grow_plants.jpg","id":425,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-9ce7c11f"><img class="wp-image-425" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/grow_plants.jpg" alt="" height="831" width="761"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3010,23 +3005,23 @@
 <div class="blockart-section blockart-section-673dfccc"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"74a7daa2","colWidth":{"desktop":100,"tablet":100,"mobile":100}} -->
 <div class="blockart-column blockart-column-74a7daa2"><div class="blockart-column-inner"><!-- wp:gallery {"linkTo":"none","sizeSlug":"full"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":667,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/diaum-713x1024.jpg" alt="" class="wp-image-667" /></figure>
+<figure class="wp-block-image size-large"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/diaum-713x1024.jpg" alt="" class="wp-image-667"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":436,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Gallery-3.png" alt="" class="wp-image-436" /></figure>
+<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Gallery-3.png" alt="" class="wp-image-436"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":671,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/odio-713x1024.jpg" alt="" class="wp-image-671" /></figure>
+<figure class="wp-block-image size-large"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/odio-713x1024.jpg" alt="" class="wp-image-671"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":438,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Gallery-4.png" alt="" class="wp-image-438" /></figure>
+<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Gallery-4.png" alt="" class="wp-image-438"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":657,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg" alt="" class="wp-image-657" /></figure>
+<figure class="wp-block-image size-full"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg" alt="" class="wp-image-657"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery --></div></div>
 <!-- /wp:blockart/column --></div></div></div>
@@ -3054,8 +3049,8 @@
 
 <!-- wp:blockart/section {"clientId":"18c04048","columns":4,"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":56,"lock":false,"bottom":136}}} -->
 <div class="blockart-section blockart-section-18c04048"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"84340afe","colWidth":{"desktop":25,"tablet":25,"mobile":50}} -->
-<div class="blockart-column blockart-column-84340afe"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"cb6c6e76","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png"},"alignment":{"desktop":"center"},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}}} -->
-<div class="blockart-image blockart-image-cb6c6e76"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png" alt="" /></div>
+<div class="blockart-column blockart-column-84340afe"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"cb6c6e76","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png","id":144,"alt":""},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-cb6c6e76"><img class="wp-image-144" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"4efd5599","markup":"h3","text":"Choose Plants","alignment":{"desktop":"center"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3064,8 +3059,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"16dd374a","colWidth":{"desktop":25,"tablet":25,"mobile":50},"blockPadding":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":0,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-16dd374a"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"83dc6cf9","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png"},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
-<div class="blockart-image blockart-image-83dc6cf9"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png" alt="" /></div>
+<div class="blockart-column blockart-column-16dd374a"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"83dc6cf9","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png","id":143,"alt":""},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-83dc6cf9"><img class="wp-image-143" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"7f047d51","markup":"h3","text":"Place an Order","alignment":{"desktop":"center"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3074,8 +3069,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"d19474b2","colWidth":{"desktop":25,"tablet":25,"mobile":50},"background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"borderHover":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-d19474b2"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"91efc935","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png"},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
-<div class="blockart-image blockart-image-91efc935"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png" alt="" /></div>
+<div class="blockart-column blockart-column-d19474b2"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"91efc935","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png","id":142,"alt":""},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-91efc935"><img class="wp-image-142" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"bcdb660f","markup":"h3","text":"Get Plants Delivered","alignment":{"desktop":"center"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3084,8 +3079,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"befa4fb2","colWidth":{"desktop":25,"tablet":25,"mobile":50},"background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"borderHover":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-befa4fb2"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c3f3db58","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png"},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
-<div class="blockart-image blockart-image-c3f3db58"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png" alt="" /></div>
+<div class="blockart-column blockart-column-befa4fb2"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c3f3db58","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png","id":141,"alt":""},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"%","value":30},"mobile":{"unit":"%"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-c3f3db58"><img class="wp-image-141" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"3eda9d36","markup":"h3","text":"Decorate Your Room","alignment":{"desktop":"center"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3097,8 +3092,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-18 10:31:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-18 10:31:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-18 10:31:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-18 10:31:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-20 09:17:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-20 09:17:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3118,7 +3113,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
@@ -3213,12 +3208,24 @@
 		<wp:meta_value><![CDATA[cover]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"3ab619ee6843804a9ebab5237c32696e";s:6:"images";a:1:{i:0;i:425;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-section-c58f0248>.blockart-container{max-width:1170px}.blockart-section-170ccdef>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-170ccdef>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-18c04048>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-18c04048>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-673dfccc>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-673dfccc>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-c58f0248{padding:136px 15px 0}@media (max-width:48em){.blockart-section-c58f0248{padding:136px 0 0}}.blockart-column-8045c623{width:25%}@media (max-width:62em){.blockart-column-8045c623{width:25%}}@media (max-width:48em){.blockart-column-8045c623{width:100%}}.blockart-column-0cca3c6a{width:50%}.blockart-column-0cca3c6a>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-0cca3c6a{width:50%}}@media (max-width:48em){.blockart-column-0cca3c6a{width:100%}}.blockart-heading.blockart-heading-4a6a01d9{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-05f2dbe1{text-align:center;margin:0}.blockart-paragraph-05f2dbe1{padding:10px 0 0}.blockart-column-07c54802{width:24.998999999999995%}@media (max-width:62em){.blockart-column-07c54802{width:25%}}@media (max-width:48em){.blockart-column-07c54802{width:100%}}.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner{align-items:center}.blockart-section-cde1dbb2>.blockart-container{max-width:1170px}.blockart-section-170ccdef>.blockart-container-fluid>.blockart-section-inner,.blockart-section-170ccdef>.blockart-container>.blockart-section-inner,.blockart-section-18c04048>.blockart-container-fluid>.blockart-section-inner,.blockart-section-18c04048>.blockart-container>.blockart-section-inner,.blockart-section-673dfccc>.blockart-container-fluid>.blockart-section-inner,.blockart-section-673dfccc>.blockart-container>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-cde1dbb2{padding:56px 15px 0}.blockart-column-bcd8b8c2{width:33.33%}@media (max-width:62em){.blockart-column-bcd8b8c2{width:33.33%}}@media (max-width:48em){.blockart-column-bcd8b8c2{width:100%}}.blockart-heading.blockart-heading-a976a41e{font-weight:500;font-size:20px}.blockart-paragraph-d5408fe8{padding:10px 0 0}@media (max-width:62em){.blockart-paragraph.blockart-paragraph-d5408fe8{margin:0}}.blockart-column-d392574b{width:33.33%}@media (max-width:62em){.blockart-column-d392574b{width:33.33%}}@media (max-width:48em){.blockart-column-d392574b{width:100%;margin:30px 0 0}}.blockart-image-9ce7c11f img{opacity:1;object-fit:fill}.blockart-column-000285b3{width:33.33%}@media (max-width:62em){.blockart-column-000285b3{width:33.33%}}@media (max-width:48em){.blockart-column-000285b3{width:100%;margin:30px 0 0}}.blockart-heading.blockart-heading-4df695c7{font-weight:500;font-size:20px}.blockart-paragraph-df904a89{padding:10px 0 0}@media (max-width:62em){.blockart-paragraph.blockart-paragraph-df904a89{margin:0}}.blockart-section-8d69865c>.blockart-container{max-width:1170px}.blockart-section-8d69865c{padding:136px 15px 0}@media (max-width:48em){.blockart-section-8d69865c{padding:136px 0 0}}.blockart-column-6c8db799{width:25%}@media (max-width:62em){.blockart-column-6c8db799{width:25%}}@media (max-width:48em){.blockart-column-6c8db799{width:100%}}.blockart-column-58339a1f{width:50%}.blockart-column-58339a1f>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-58339a1f{width:50%}}@media (max-width:48em){.blockart-column-58339a1f{width:100%}}.blockart-heading.blockart-heading-27df3201{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-51098955{text-align:center;margin:0}.blockart-paragraph-51098955{padding:10px 0 0}.blockart-column-01790b85{width:24.998999999999995%}@media (max-width:62em){.blockart-column-01790b85{width:25%}}@media (max-width:48em){.blockart-column-01790b85{width:100%}}.blockart-section-170ccdef>.blockart-container,.blockart-section-673dfccc>.blockart-container{max-width:1170px}.blockart-section-673dfccc{padding:56px 15px 0}.blockart-column-74a7daa2{width:100%}@media (max-width:62em){.blockart-column-74a7daa2{width:100%}}@media (max-width:48em){.blockart-column-74a7daa2{width:100%}}.blockart-section-170ccdef{padding:136px 15px 0}@media (max-width:48em){.blockart-section-170ccdef{padding:136px 0 0}}.blockart-column-575d4864{width:25%}@media (max-width:62em){.blockart-column-575d4864{width:25%}}@media (max-width:48em){.blockart-column-575d4864{width:100%}}.blockart-column-f05a5bab{width:50%}.blockart-column-f05a5bab>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-f05a5bab{width:50%}}@media (max-width:48em){.blockart-column-f05a5bab{width:100%}}.blockart-heading.blockart-heading-d04ae653{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-f35896f9{text-align:center;margin:0}.blockart-paragraph-f35896f9{padding:10px 0 0}.blockart-column-ce4800c9{width:24.998999999999995%}@media (max-width:62em){.blockart-column-ce4800c9{width:25%}}@media (max-width:48em){.blockart-column-ce4800c9{width:100%}}.blockart-section-18c04048>.blockart-container{max-width:1170px}.blockart-section-18c04048{padding:56px 15px 136px}.blockart-column-84340afe{width:25%}@media (max-width:62em){.blockart-column-84340afe{width:25%}}@media (max-width:48em){.blockart-column-84340afe{width:50%}}.blockart-heading.blockart-heading-4efd5599,.blockart-image-cb6c6e76{text-align:center}.blockart-heading.blockart-heading-4efd5599{font-weight:500;font-size:20px}.blockart-heading-4efd5599{padding:20px 0 0}.blockart-column-16dd374a{width:25%}@media (max-width:62em){.blockart-column-16dd374a{width:25%}}@media (max-width:48em){.blockart-column-16dd374a{width:50%}.blockart-column-16dd374a>.blockart-column-inner{padding:0}}.blockart-image-83dc6cf9 img,.blockart-image-cb6c6e76 img{opacity:1;object-fit:fill;width:30%}.blockart-heading.blockart-heading-7f047d51,.blockart-image-83dc6cf9{text-align:center}.blockart-heading.blockart-heading-7f047d51{font-weight:500;font-size:20px}.blockart-heading-7f047d51{padding:20px 0 0}.blockart-column-d19474b2{width:25%}@media (max-width:62em){.blockart-column-d19474b2{width:25%}}@media (max-width:48em){.blockart-column-d19474b2{width:50%}.blockart-column-d19474b2>.blockart-column-inner{padding:30px 0 0}}.blockart-heading.blockart-heading-bcdb660f,.blockart-image-91efc935{text-align:center}.blockart-heading.blockart-heading-bcdb660f{font-weight:500;font-size:20px}.blockart-heading-bcdb660f{padding:20px 0 0}.blockart-column-befa4fb2{width:25%}@media (max-width:62em){.blockart-column-befa4fb2{width:25%}}@media (max-width:48em){.blockart-column-befa4fb2{width:50%}.blockart-column-befa4fb2>.blockart-column-inner{padding:30px 0 0}}.blockart-image-91efc935 img,.blockart-image-c3f3db58 img{opacity:1;object-fit:fill;width:30%}.blockart-heading.blockart-heading-3eda9d36,.blockart-image-c3f3db58{text-align:center}.blockart-heading.blockart-heading-3eda9d36{font-weight:500;font-size:20px}.blockart-heading-3eda9d36{padding:20px 0 0}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:26:"ba-style-45-1681982248.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:6112:".blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner{align-items:center}.blockart-image-9ce7c11f img{object-fit:fill;opacity:1}.blockart-column-000285b3,.blockart-column-d392574b,.blockart-column-bcd8b8c2{width:33.33%}.blockart-heading.blockart-heading-4df695c7,.blockart-heading.blockart-heading-a976a41e{font-weight:500;font-size:20px}.blockart-section-673dfccc,.blockart-section-cde1dbb2{padding:56px 15px 0 15px}.blockart-column-74a7daa2{width:100%}.blockart-section-170ccdef,.blockart-section-8d69865c,.blockart-section-c58f0248{padding:136px 15px 0 15px}.blockart-column-f05a5bab,.blockart-column-58339a1f,.blockart-column-0cca3c6a{width:50%}.blockart-column-f05a5bab>.blockart-column-inner,.blockart-column-58339a1f>.blockart-column-inner,.blockart-column-0cca3c6a>.blockart-column-inner{padding:0}.blockart-heading.blockart-heading-d04ae653,.blockart-heading.blockart-heading-27df3201,.blockart-heading.blockart-heading-4a6a01d9{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-f35896f9,.blockart-paragraph.blockart-paragraph-51098955,.blockart-paragraph.blockart-paragraph-05f2dbe1{text-align:center;margin:0}.blockart-paragraph-f35896f9,.blockart-paragraph-51098955,.blockart-paragraph-df904a89,.blockart-paragraph-d5408fe8,.blockart-paragraph-05f2dbe1{padding:10px 0 0 0}.blockart-column-ce4800c9,.blockart-column-01790b85,.blockart-column-07c54802{width:24.999%}.blockart-section-18c04048>.blockart-container,.blockart-section-170ccdef>.blockart-container,.blockart-section-673dfccc>.blockart-container,.blockart-section-8d69865c>.blockart-container,.blockart-section-cde1dbb2>.blockart-container,.blockart-section-c58f0248>.blockart-container{max-width:1170px}.blockart-section-18c04048>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-18c04048>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-170ccdef>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-170ccdef>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-673dfccc>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-673dfccc>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-18c04048>.blockart-container-fluid>.blockart-section-inner,.blockart-section-18c04048>.blockart-container>.blockart-section-inner,.blockart-section-170ccdef>.blockart-container-fluid>.blockart-section-inner,.blockart-section-170ccdef>.blockart-container>.blockart-section-inner,.blockart-section-673dfccc>.blockart-container-fluid>.blockart-section-inner,.blockart-section-673dfccc>.blockart-container>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container-fluid>.blockart-section-inner,.blockart-section-cde1dbb2>.blockart-container>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-18c04048{padding:56px 15px 136px 15px}.blockart-column-befa4fb2,.blockart-column-d19474b2,.blockart-column-16dd374a,.blockart-column-84340afe,.blockart-column-575d4864,.blockart-column-6c8db799,.blockart-column-8045c623{width:25%}.blockart-image-c3f3db58,.blockart-image-91efc935,.blockart-image-83dc6cf9,.blockart-image-cb6c6e76{text-align:center}.blockart-image-c3f3db58 img,.blockart-image-91efc935 img,.blockart-image-83dc6cf9 img,.blockart-image-cb6c6e76 img{object-fit:fill;width:30%;opacity:1}.blockart-heading.blockart-heading-3eda9d36,.blockart-heading.blockart-heading-bcdb660f,.blockart-heading.blockart-heading-7f047d51,.blockart-heading.blockart-heading-4efd5599{text-align:center;font-weight:500;font-size:20px}.blockart-heading-3eda9d36,.blockart-heading-bcdb660f,.blockart-heading-7f047d51,.blockart-heading-4efd5599{padding:20px 0 0 0}@media (max-width:62em){.blockart-column-000285b3,.blockart-column-d392574b,.blockart-column-bcd8b8c2{width:33.33%}.blockart-paragraph.blockart-paragraph-df904a89,.blockart-paragraph.blockart-paragraph-d5408fe8{margin:0}.blockart-column-74a7daa2{width:100%}.blockart-column-f05a5bab,.blockart-column-58339a1f,.blockart-column-0cca3c6a{width:50%}.blockart-column-befa4fb2,.blockart-column-d19474b2,.blockart-column-16dd374a,.blockart-column-84340afe,.blockart-column-ce4800c9,.blockart-column-575d4864,.blockart-column-01790b85,.blockart-column-6c8db799,.blockart-column-07c54802,.blockart-column-8045c623{width:25%}}@media (max-width:48em){.blockart-column-000285b3,.blockart-column-d392574b{width:100%;margin:30px 0 0 0}.blockart-section-170ccdef,.blockart-section-8d69865c,.blockart-section-c58f0248{padding:136px 0 0 0}.blockart-column-ce4800c9,.blockart-column-f05a5bab,.blockart-column-575d4864,.blockart-column-74a7daa2,.blockart-column-01790b85,.blockart-column-58339a1f,.blockart-column-6c8db799,.blockart-column-bcd8b8c2,.blockart-column-07c54802,.blockart-column-0cca3c6a,.blockart-column-8045c623{width:100%}.blockart-column-16dd374a>.blockart-column-inner{padding:0}.blockart-column-befa4fb2,.blockart-column-d19474b2,.blockart-column-16dd374a,.blockart-column-84340afe{width:50%}.blockart-column-befa4fb2>.blockart-column-inner,.blockart-column-d19474b2>.blockart-column-inner{padding:30px 0 0 0}}";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3229,7 +3236,7 @@
 		<guid isPermaLink="false">https://sichu-blockart-flora.sites.qsandbox.com/?page_id=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:blockart/section {"clientId":"03904dcd","columns":4,"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":136,"lock":false}}} -->
-<div class="blockart-section blockart-section-03904dcd"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"0727a53d","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
+<div class="blockart-section blockart-section-03904dcd"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"0727a53d","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
 <div class="blockart-column blockart-column-0727a53d"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"eb8b3c0f","markup":"h3","text":"Contact Us","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-eb8b3c0f">Contact Us</h3>
 <!-- /wp:blockart/heading -->
@@ -3239,7 +3246,7 @@
 <!-- /wp:blockart/paragraph --></div></div>
 <!-- /wp:blockart/column -->
 
-<!-- wp:blockart/column {"clientId":"0e081e29","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
+<!-- wp:blockart/column {"clientId":"0e081e29","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
 <div class="blockart-column blockart-column-0e081e29"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"e1c87d8d","markup":"h3","text":"Email Address","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-e1c87d8d">Email Address</h3>
 <!-- /wp:blockart/heading -->
@@ -3249,7 +3256,7 @@
 <!-- /wp:blockart/paragraph --></div></div>
 <!-- /wp:blockart/column -->
 
-<!-- wp:blockart/column {"clientId":"4c82218a","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
+<!-- wp:blockart/column {"clientId":"4c82218a","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
 <div class="blockart-column blockart-column-4c82218a"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"3a5fecf1","markup":"h3","text":"Location","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-3a5fecf1">Location</h3>
 <!-- /wp:blockart/heading -->
@@ -3259,7 +3266,7 @@
 <!-- /wp:blockart/paragraph --></div></div>
 <!-- /wp:blockart/column -->
 
-<!-- wp:blockart/column {"clientId":"b1c814de","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
+<!-- wp:blockart/column {"clientId":"b1c814de","colWidth":{"desktop":25,"tablet":25,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":true,"top":20,"right":20,"bottom":20,"left":20,"unit":"px"}}} -->
 <div class="blockart-column blockart-column-b1c814de"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"cd109fa0","markup":"h3","text":"Active Hour","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-cd109fa0">Active Hour</h3>
 <!-- /wp:blockart/heading -->
@@ -3296,8 +3303,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"d7499e26","colWidth":{"desktop":50,"tablet":50,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-d7499e26"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"4a5ac6f7","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flowering-Cactus.jpg"}} -->
-<div class="blockart-image blockart-image-4a5ac6f7"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flowering-Cactus.jpg" alt=""/></div>
+<div class="blockart-column blockart-column-d7499e26"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"4a5ac6f7","link":{},"image":{"width":559,"height":578,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flowering-Cactus.jpg","id":546,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-4a5ac6f7"><img class="wp-image-546" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flowering-Cactus.jpg" alt="" height="578" width="559"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column --></div></div></div>
 <!-- /wp:blockart/section -->]]></content:encoded>
@@ -3305,8 +3312,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-18 10:31:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-18 10:31:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-11 09:26:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-11 09:26:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-20 09:19:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-20 09:19:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3322,7 +3329,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
@@ -3409,16 +3416,24 @@
 		<wp:meta_value><![CDATA[page-templates/pagebuilder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-section-03904dcd>.blockart-container{max-width:1170px}.blockart-section-03904dcd>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-03904dcd>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-57bd185f>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-57bd185f>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-03904dcd>.blockart-container-fluid>.blockart-section-inner,.blockart-section-03904dcd>.blockart-container>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-03904dcd{padding:136px 15px 0}.blockart-column-0727a53d{width:25%}.blockart-column-0727a53d>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);padding:20px}@media (max-width:62em){.blockart-column-0727a53d{width:25%}}@media (max-width:48em){.blockart-column-0727a53d{width:100%}}.blockart-heading.blockart-heading-eb8b3c0f{font-weight:500;font-size:20px}.blockart-paragraph.blockart-paragraph-4c96ce66{margin:0}.blockart-paragraph-4c96ce66{padding:10px 0 0}.blockart-column-0e081e29{width:25%}.blockart-column-0e081e29>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);padding:20px}@media (max-width:62em){.blockart-column-0e081e29{width:25%}}@media (max-width:48em){.blockart-column-0e081e29{width:100%;margin:30px 0 0}}.blockart-heading.blockart-heading-e1c87d8d{font-weight:500;font-size:20px}.blockart-paragraph.blockart-paragraph-bc79e0dd{margin:0}.blockart-paragraph-bc79e0dd{padding:10px 0 0}.blockart-column-4c82218a{width:25%}.blockart-column-4c82218a>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);padding:20px}@media (max-width:62em){.blockart-column-4c82218a{width:25%}}@media (max-width:48em){.blockart-column-4c82218a{width:100%;margin:30px 0 0}}.blockart-heading.blockart-heading-3a5fecf1{font-weight:500;font-size:20px}.blockart-paragraph.blockart-paragraph-9a9b440b{margin:0}.blockart-paragraph-9a9b440b{padding:10px 0 0}.blockart-column-b1c814de{width:25%}.blockart-column-b1c814de>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);padding:20px}@media (max-width:62em){.blockart-column-b1c814de{width:25%}}@media (max-width:48em){.blockart-column-b1c814de{width:100%;margin:30px 0 0}}.blockart-heading.blockart-heading-cd109fa0{font-weight:500;font-size:20px}.blockart-paragraph.blockart-paragraph-f703462a{margin:0}.blockart-paragraph-f703462a{padding:10px 0 0}.blockart-section-8d69865c>.blockart-container{max-width:1170px}.blockart-section-8d69865c{padding:136px 15px 0}@media (max-width:48em){.blockart-section-8d69865c{padding:136px 0 0}}.blockart-column-6c8db799{width:25%}@media (max-width:62em){.blockart-column-6c8db799{width:25%}}@media (max-width:48em){.blockart-column-6c8db799{width:100%}}.blockart-column-58339a1f{width:50%}.blockart-column-58339a1f>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-58339a1f{width:50%}}@media (max-width:48em){.blockart-column-58339a1f{width:100%}}.blockart-heading.blockart-heading-27df3201{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-51098955{text-align:center;margin:0}.blockart-paragraph-51098955{padding:10px 0 0}.blockart-column-01790b85{width:24.998999999999995%}@media (max-width:62em){.blockart-column-01790b85{width:25%}}@media (max-width:48em){.blockart-column-01790b85{width:100%}}.blockart-section-57bd185f>.blockart-container-fluid>.blockart-section-inner,.blockart-section-57bd185f>.blockart-container>.blockart-section-inner{align-items:center;margin-left:-30px}.blockart-section-57bd185f>.blockart-container{max-width:1170px}.blockart-section-57bd185f{padding:56px 15px 136px}.blockart-column-d6f3b511{width:50%}@media (max-width:62em){.blockart-column-d6f3b511{width:50%}}@media (max-width:48em){.blockart-column-d6f3b511{width:100%}}.blockart-column-d7499e26{width:50%}@media (max-width:62em){.blockart-column-d7499e26{width:50%}}@media (max-width:48em){.blockart-column-d7499e26{width:100%;margin:30px 0 0}}.blockart-image-4a5ac6f7 img{opacity:1;object-fit:fill}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"23702f4ff8f2d438a54d4c6d84990275";s:6:"images";a:1:{i:0;i:546;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:26:"ba-style-46-1681982389.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:3557:".blockart-column-b1c814de>.blockart-column-inner,.blockart-column-4c82218a>.blockart-column-inner,.blockart-column-0e081e29>.blockart-column-inner,.blockart-column-0727a53d>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);padding:20px}.blockart-heading.blockart-heading-cd109fa0,.blockart-heading.blockart-heading-3a5fecf1,.blockart-heading.blockart-heading-e1c87d8d,.blockart-heading.blockart-heading-eb8b3c0f{font-weight:500;font-size:20px}.blockart-paragraph.blockart-paragraph-f703462a,.blockart-paragraph.blockart-paragraph-9a9b440b,.blockart-paragraph.blockart-paragraph-bc79e0dd,.blockart-paragraph.blockart-paragraph-4c96ce66{margin:0}.blockart-section-8d69865c,.blockart-section-03904dcd{padding:136px 15px 0 15px}.blockart-column-6c8db799,.blockart-column-b1c814de,.blockart-column-4c82218a,.blockart-column-0e081e29,.blockart-column-0727a53d{width:25%}.blockart-column-58339a1f>.blockart-column-inner{padding:0}.blockart-heading.blockart-heading-27df3201{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-51098955{text-align:center;margin:0}.blockart-paragraph-51098955,.blockart-paragraph-f703462a,.blockart-paragraph-9a9b440b,.blockart-paragraph-bc79e0dd,.blockart-paragraph-4c96ce66{padding:10px 0 0 0}.blockart-column-01790b85{width:24.999%}.blockart-section-57bd185f>.blockart-container>.blockart-section-inner,.blockart-section-57bd185f>.blockart-container-fluid>.blockart-section-inner{align-items:center}.blockart-section-57bd185f>.blockart-container,.blockart-section-8d69865c>.blockart-container,.blockart-section-03904dcd>.blockart-container{max-width:1170px}.blockart-section-57bd185f>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-57bd185f>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-03904dcd>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-03904dcd>.blockart-container-fluid>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-57bd185f>.blockart-container-fluid>.blockart-section-inner,.blockart-section-57bd185f>.blockart-container>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8d69865c>.blockart-container>.blockart-section-inner,.blockart-section-03904dcd>.blockart-container-fluid>.blockart-section-inner,.blockart-section-03904dcd>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-57bd185f{padding:56px 15px 136px 15px}.blockart-column-d7499e26,.blockart-column-d6f3b511,.blockart-column-58339a1f{width:50%}.blockart-image-4a5ac6f7 img{object-fit:fill;opacity:1}@media (max-width:62em){.blockart-column-01790b85,.blockart-column-6c8db799,.blockart-column-b1c814de,.blockart-column-4c82218a,.blockart-column-0e081e29,.blockart-column-0727a53d{width:25%}.blockart-column-d7499e26,.blockart-column-d6f3b511,.blockart-column-58339a1f{width:50%}}@media (max-width:48em){.blockart-section-8d69865c{padding:136px 0 0 0}.blockart-column-d6f3b511,.blockart-column-01790b85,.blockart-column-58339a1f,.blockart-column-6c8db799,.blockart-column-0727a53d{width:100%}.blockart-column-d7499e26,.blockart-column-b1c814de,.blockart-column-4c82218a,.blockart-column-0e081e29{width:100%;margin:30px 0 0 0}}";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3456,14 +3471,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-image-59c66c7e img{opacity:1;object-fit:fill}.blockart-image-59c66c7e{text-align:center}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[708]]></wp:meta_value>
 		</wp:postmeta>
@@ -3551,6 +3558,14 @@
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:27:"ba-style-553-1681987592.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:98:".blockart-image-59c66c7e{text-align:center}.blockart-image-59c66c7e img{object-fit:fill;opacity:1}";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Terms &amp; Conditions]]></title>
@@ -3616,7 +3631,7 @@
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://sichu-blockart-flora.sites.qsandbox.com/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:blockart/section {"clientId":"0ff9318b","columns":2,"verticalAlignment":{"desktop":"center","tablet":"flex-end"},"height":"fit-to-screen","background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flora_background_image.png"},"position":{"desktop":"center bottom","mobile":"left top","tablet":"default"},"size":{"desktop":"cover","tablet":"cover"},"repeat":{"desktop":"no-repeat"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"},"mobile":{"unit":"px","lock":true}},"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","lock":false},"mobile":{"top":0,"unit":"px","lock":false,"right":15,"left":15,"bottom":0}}} -->
+		<content:encoded><![CDATA[<!-- wp:blockart/section {"clientId":"0ff9318b","columns":2,"verticalAlignment":{"desktop":"center","tablet":"flex-end"},"height":"fit-to-screen","background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flora_background_image.png"},"position":{"desktop":"center bottom","mobile":"left top","tablet":"default"},"size":{"desktop":"cover","tablet":"cover"},"repeat":{"desktop":"no-repeat"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"},"mobile":{"unit":"px","lock":true}},"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","lock":false},"mobile":{"top":0,"unit":"px","lock":false,"right":15,"left":15,"bottom":0}}} -->
 <div class="blockart-section blockart-section-0ff9318b"><div class="blockart-container"><div class="blockart-section-inner blockart-height-fit-to-screen"><!-- wp:blockart/column {"clientId":"e3ff6fe4","colWidth":{"desktop":50,"tablet":60,"mobile":100},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":0,"left":0}}} -->
 <div class="blockart-column blockart-column-e3ff6fe4"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"d1e0fd7c","markup":"h1","text":"Healthy Plants for Happy Homes","alignment":{"mobile":"left"},"typography":{"typography":1,"weight":600,"size":{"desktop":{"value":58,"unit":"px"},"mobile":{"value":36,"unit":"px"}}}} -->
 <h1 class="blockart-heading blockart-heading-d1e0fd7c">Healthy Plants for Happy Homes</h1>
@@ -3626,8 +3641,10 @@
 <p class="blockart-paragraph blockart-paragraph-dadead4b">Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat. Curabitur aliquet quam id dui posuere blandit.</p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"b69a0a03","link":{"url":"https://zakrademos.com/flora/shop/"},"text":"Shop Now","alignment":{"mobile":"left"},"size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":20,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"34d1371f","justification":{"mobile":"left"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-34d1371f is-wrap is-horizontal justify-left-sm"><!-- wp:blockart/button-inner {"clientId":"b69a0a03","link":{"url":"https://zakrademos.com/flora/shop/"},"text":"Shop Now","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":20,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-b69a0a03 "><a class="blockart-button-link is-custom is-style-filled" href="https://zakrademos.com/flora/shop/">Shop Now</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3660,8 +3677,8 @@
 <div class="blockart-section blockart-section-e444e868"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"7f43c316","colWidth":{"desktop":35,"tablet":35,"mobile":100}} -->
 <div class="blockart-column blockart-column-7f43c316"><div class="blockart-column-inner"><!-- wp:blockart/section {"clientId":"8c89069a","columns":2,"childRow":true,"width":{"desktop":{"value":1170,"unit":"px"},"mobile":{"value":360,"unit":"px"}},"columnGap":{"desktop":{"value":30,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false}}} -->
 <div class="blockart-section blockart-section-8c89069a"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"6714b013","colWidth":{"desktop":25,"tablet":25,"mobile":100}} -->
-<div class="blockart-column blockart-column-6714b013"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c30d9856","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png"},"alignment":{"mobile":"center"},"width":{"mobile":{"value":80,"unit":"px"}}} -->
-<div class="blockart-image blockart-image-c30d9856"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png" alt=""/></div>
+<div class="blockart-column blockart-column-6714b013"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c30d9856","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png","id":144,"alt":""},"alignment":{"mobile":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"mobile":{"value":80,"unit":"px"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-c30d9856"><img class="wp-image-144" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_plant.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3678,8 +3695,8 @@
 
 <!-- wp:blockart/section {"clientId":"c00e50a9","columns":2,"childRow":true,"width":{"desktop":{"value":1170,"unit":"px"},"mobile":{"value":360,"unit":"px"}},"columnGap":{"desktop":{"value":30,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false,"top":30}}} -->
 <div class="blockart-section blockart-section-c00e50a9"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"f15a39fa","colWidth":{"desktop":25,"tablet":25,"mobile":100}} -->
-<div class="blockart-column blockart-column-f15a39fa"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"ada053ec","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png"},"alignment":{"mobile":"center"},"width":{"mobile":{"value":80,"unit":"px"}}} -->
-<div class="blockart-image blockart-image-ada053ec"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png" alt=""/></div>
+<div class="blockart-column blockart-column-f15a39fa"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"ada053ec","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png","id":143,"alt":""},"alignment":{"mobile":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"mobile":{"value":80,"unit":"px"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-ada053ec"><img class="wp-image-143" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_order.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3696,16 +3713,16 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"d66c5213","colWidth":{"desktop":29.989999999999995,"tablet":30,"mobile":100},"blockPadding":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-d66c5213"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"fdba7bad","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/peace_lily.png"},"alignment":{"desktop":"center"}} -->
-<div class="blockart-image blockart-image-fdba7bad"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/peace_lily.png" alt=""/></div>
+<div class="blockart-column blockart-column-d66c5213"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"fdba7bad","link":{},"image":{"width":360,"height":431,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/peace_lily.png","id":152,"alt":""},"alignment":{"desktop":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-fdba7bad"><img class="wp-image-152" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/peace_lily.png" alt="" height="431" width="360"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"a498b681","colWidth":{"desktop":35,"tablet":35,"mobile":100}} -->
 <div class="blockart-column blockart-column-a498b681"><div class="blockart-column-inner"><!-- wp:blockart/section {"clientId":"6c66063a","columns":2,"childRow":true,"width":{"desktop":{"value":1170,"unit":"px"},"mobile":{"value":360,"unit":"px"}},"columnGap":{"desktop":{"value":30,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false}}} -->
 <div class="blockart-section blockart-section-6c66063a"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"8cc6a5f4","colWidth":{"desktop":25,"tablet":25,"mobile":100}} -->
-<div class="blockart-column blockart-column-8cc6a5f4"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"f3e9136a","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png"},"alignment":{"mobile":"center"},"width":{"mobile":{"value":80,"unit":"px"}}} -->
-<div class="blockart-image blockart-image-f3e9136a"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png" alt=""/></div>
+<div class="blockart-column blockart-column-8cc6a5f4"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"f3e9136a","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png","id":142,"alt":""},"alignment":{"mobile":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"mobile":{"value":80,"unit":"px"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-f3e9136a"><img class="wp-image-142" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_delivered.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3722,8 +3739,8 @@
 
 <!-- wp:blockart/section {"clientId":"f61319b2","columns":2,"childRow":true,"width":{"desktop":{"value":1170,"unit":"px"},"mobile":{"value":360,"unit":"px"}},"columnGap":{"desktop":{"value":30,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false,"top":30}}} -->
 <div class="blockart-section blockart-section-f61319b2"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"d00cf4ab","colWidth":{"desktop":25,"tablet":25,"mobile":100}} -->
-<div class="blockart-column blockart-column-d00cf4ab"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"b0e95eab","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png"},"alignment":{"mobile":"center"},"width":{"mobile":{"value":80,"unit":"px"}}} -->
-<div class="blockart-image blockart-image-b0e95eab"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png" alt=""/></div>
+<div class="blockart-column blockart-column-d00cf4ab"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"b0e95eab","link":{},"image":{"width":101,"height":101,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png","id":141,"alt":""},"alignment":{"mobile":"center"},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"mobile":{"value":80,"unit":"px"}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-b0e95eab"><img class="wp-image-141" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/icon_decor.png" alt="" height="101" width="101"/></div>
 <!-- /wp:blockart/image --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3741,7 +3758,7 @@
 <!-- /wp:blockart/section -->
 
 <!-- wp:blockart/section {"clientId":"7db19e25","columns":2,"columnGap":{"desktop":{"value":30,"unit":"px"},"tablet":{"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false,"top":136},"tablet":{"right":15,"unit":"px","lock":false,"left":15,"top":136},"mobile":{"right":15,"unit":"px","lock":false,"left":15,"top":136}}} -->
-<div class="blockart-section blockart-section-7db19e25"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"ade4de9d","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/indoor_plants.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":56,"right":156,"bottom":56,"left":30,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":false,"right":128,"bottom":56,"left":30},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
+<div class="blockart-section blockart-section-7db19e25"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"ade4de9d","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/indoor_plants.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":56,"right":156,"bottom":56,"left":30,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":false,"right":128,"bottom":56,"left":30},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
 <div class="blockart-column blockart-column-ade4de9d"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"a1fb8d08","markup":"h3","text":"Indoor Plants","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":28,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-a1fb8d08">Indoor Plants</h3>
 <!-- /wp:blockart/heading -->
@@ -3750,12 +3767,14 @@
 <p class="blockart-paragraph blockart-paragraph-ff69b05f">Pestibulum ac diam sit amet quam vehicula elementum sed sit amet dui qualm hais.</p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"3d3dd554","link":{"url":"#"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"d74f0284","justification":{"desktop":"left"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-d74f0284 is-wrap is-horizontal justify-left"><!-- wp:blockart/button-inner {"clientId":"3d3dd554","link":{"url":"#"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-3d3dd554 "><a class="blockart-button-link is-custom is-style-filled" href="#">View Details</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column -->
 
-<!-- wp:blockart/column {"clientId":"c3468ddc","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/outdoor_plants.jpg"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":56,"right":156,"bottom":56,"left":30,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":false,"right":128,"bottom":56,"left":30},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
+<!-- wp:blockart/column {"clientId":"c3468ddc","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/outdoor_plants.jpg"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":56,"right":156,"bottom":56,"left":30,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":false,"right":128,"bottom":56,"left":30},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
 <div class="blockart-column blockart-column-c3468ddc"><div class="blockart-column-inner"><!-- wp:blockart/heading {"clientId":"1835fc6b","markup":"h3","text":"Outdoor Plants","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":28,"unit":"px"}}}} -->
 <h3 class="blockart-heading blockart-heading-1835fc6b">Outdoor Plants</h3>
 <!-- /wp:blockart/heading -->
@@ -3764,8 +3783,10 @@
 <p class="blockart-paragraph blockart-paragraph-f4e1a765">Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui qualm hais.</p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"09944fe1","link":{"url":"#"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"217d07a1","justification":{"desktop":"left"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-217d07a1 is-wrap is-horizontal justify-left"><!-- wp:blockart/button-inner {"clientId":"09944fe1","link":{"url":"#"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-09944fe1 "><a class="blockart-button-link is-custom is-style-filled" href="#">View Details</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column --></div></div></div>
 <!-- /wp:blockart/section -->
@@ -3792,8 +3813,8 @@
 
 <!-- wp:blockart/section {"clientId":"f8716040","columns":3,"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":56,"lock":false},"mobile":{"top":56,"unit":"px","lock":false,"right":15,"left":15}}} -->
 <div class="blockart-section blockart-section-f8716040"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"5624e28d","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100}} -->
-<div class="blockart-column blockart-column-5624e28d"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c6f09556","link":{"url":"https://zakrademos.com/flora/product-category/tropical-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/Tropical-Plant.jpg"}} -->
-<div class="blockart-image blockart-image-c6f09556"><a href="https://zakrademos.com/flora/product-category/tropical-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/Tropical-Plant.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-5624e28d"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"c6f09556","link":{"url":"https://zakrademos.com/flora/product-category/tropical-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/Tropical-Plant.jpg","id":651,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-c6f09556"><a href="https://zakrademos.com/flora/product-category/tropical-plant/"><img class="wp-image-651" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/Tropical-Plant.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"08362de3","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/tropical-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002224\u0022\u003eTropical Plants\u003c/a\u003e","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"alignment":{"mobile":"left"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3802,8 +3823,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"247c11d1","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-247c11d1"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"2436bd53","link":{"url":"https://zakrademos.com/flora/product-category/tabletop-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant.jpg"}} -->
-<div class="blockart-image blockart-image-2436bd53"><a href="https://zakrademos.com/flora/product-category/tabletop-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-247c11d1"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"2436bd53","link":{"url":"https://zakrademos.com/flora/product-category/tabletop-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant.jpg","id":653,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-2436bd53"><a href="https://zakrademos.com/flora/product-category/tabletop-plant/"><img class="wp-image-653" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"970228d0","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/tabletop-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002223\u0022\u003eTabletop Plants\u003c/a\u003e","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3812,8 +3833,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"e5cf7b7f","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-e5cf7b7f"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"8fadce93","link":{"url":"https://zakrademos.com/flora/product-category/flowering-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant-1.jpg"}} -->
-<div class="blockart-image blockart-image-8fadce93"><a href="https://zakrademos.com/flora/product-category/flowering-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant-1.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-e5cf7b7f"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"8fadce93","link":{"url":"https://zakrademos.com/flora/product-category/flowering-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant-1.jpg","id":655,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-8fadce93"><a href="https://zakrademos.com/flora/product-category/flowering-plant/"><img class="wp-image-655" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/tabletop-plant-1.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"ae9be3aa","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/flowering-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002220\u0022\u003eFlowering Plants\u003c/a\u003e","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3824,8 +3845,8 @@
 
 <!-- wp:blockart/section {"clientId":"b4f89184","columns":3,"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":56,"lock":false},"mobile":{"top":30,"unit":"px","lock":false,"right":15,"left":15}}} -->
 <div class="blockart-section blockart-section-b4f89184"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"d90b74aa","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100}} -->
-<div class="blockart-column blockart-column-d90b74aa"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"e4be9219","link":{"url":"https://zakrademos.com/flora/product-category/hanging-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg"}} -->
-<div class="blockart-image blockart-image-e4be9219"><a href="https://zakrademos.com/flora/product-category/hanging-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-d90b74aa"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"e4be9219","link":{"url":"https://zakrademos.com/flora/product-category/hanging-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg","id":657,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-e4be9219"><a href="https://zakrademos.com/flora/product-category/hanging-plant/"><img class="wp-image-657" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/hanging-plant.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"14ca1024","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/hanging-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002221\u0022\u003eHanging Plants\u003c/a\u003e","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3834,8 +3855,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"d2937988","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-d2937988"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"52437549","link":{"url":"https://zakrademos.com/flora/product-category/snake-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/snake-plant.jpg"}} -->
-<div class="blockart-image blockart-image-52437549"><a href="https://zakrademos.com/flora/product-category/snake-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/snake-plant.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-d2937988"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"52437549","link":{"url":"https://zakrademos.com/flora/product-category/snake-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/snake-plant.jpg","id":661,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-52437549"><a href="https://zakrademos.com/flora/product-category/snake-plant/"><img class="wp-image-661" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/snake-plant.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"564593ac","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/snake-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002222\u0022\u003eSnake Plants\u003c/a\u003e","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3844,8 +3865,8 @@
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"edf71501","colWidth":{"desktop":33.33,"tablet":33.33,"mobile":100},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-edf71501"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"bb1e3615","link":{"url":"https://zakrademos.com/flora/product/cactus-plant/"},"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/cactus-plant.jpg"}} -->
-<div class="blockart-image blockart-image-bb1e3615"><a href="https://zakrademos.com/flora/product/cactus-plant/"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/cactus-plant.jpg" alt=""/></a></div>
+<div class="blockart-column blockart-column-edf71501"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"bb1e3615","link":{"url":"https://zakrademos.com/flora/product/cactus-plant/"},"image":{"width":768,"height":768,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/cactus-plant.jpg","id":662,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-bb1e3615"><a href="https://zakrademos.com/flora/product/cactus-plant/"><img class="wp-image-662" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/05/cactus-plant.jpg" alt="" height="768" width="768"/></a></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"0e7081e1","markup":"h3","text":"\u003ca href=\u0022https://zakrademos.com/flora/product-category/cactus-plant/\u0022 data-type=\u0022product_cat\u0022 data-id=\u002219\u0022\u003eCactus Plants\u003c/a\u003e","color":"","hoverColor":"#619d28","background":{"background":1,"type":"color"},"hoverBackground":{"background":1,"type":"color"},"typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"margin":{"dimension":1,"desktop":{"lock":true}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3878,8 +3899,10 @@
 <div class="blockart-section blockart-section-b4553375"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"2c9be5e1","colWidth":{"desktop":100,"tablet":100,"mobile":100}} -->
 <div class="blockart-column blockart-column-2c9be5e1"><div class="blockart-column-inner"><!-- wp:woocommerce/product-new {"columns":4,"rows":1,"categories":[22,21],"stockStatus":["","instock","outofstock","onbackorder"]} /-->
 
-<!-- wp:blockart/button {"clientId":"232588b5","link":{"url":"https://zakrademos.com/flora/shop/"},"text":"View All Products","alignment":{"desktop":"center"},"size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"color1":"#192711","hoverColor1":"#ffffff","background1":{"background":1,"type":"color","color":"rgba(255,255,255,0.05)"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true,"top":1,"right":1,"bottom":1,"left":1,"unit":"px"}},"type":"solid"},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true,"top":1,"right":1,"bottom":1,"left":1,"unit":"px"}},"type":"solid","color":"rgba(255,255,255,0.1)"},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":20,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"0d0b5a56","justification":{"desktop":"center"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-0d0b5a56 is-wrap is-horizontal justify-center"><!-- wp:blockart/button-inner {"clientId":"232588b5","link":{"url":"https://zakrademos.com/flora/shop/"},"text":"View All Products","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"color1":"#192711","hoverColor1":"#ffffff","background1":{"background":1,"type":"color","color":"rgba(255,255,255,0.05)"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true,"top":1,"right":1,"bottom":1,"left":1,"unit":"px"}},"type":"solid"},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true,"top":1,"right":1,"bottom":1,"left":1,"unit":"px"}},"type":"solid","color":"rgba(255,255,255,0.1)"},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":20,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-232588b5 "><a class="blockart-button-link is-custom is-style-filled" href="https://zakrademos.com/flora/shop/">View All Products</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column --></div></div></div>
 <!-- /wp:blockart/section -->
@@ -3905,9 +3928,9 @@
 <!-- /wp:blockart/section -->
 
 <!-- wp:blockart/section {"clientId":"26dbea64","columns":2,"columnGap":{"desktop":{"value":30,"unit":"px"},"tablet":{"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"left":0,"right":0,"unit":"px","lock":false,"top":56},"tablet":{"right":15,"unit":"px","lock":false,"left":15,"top":56},"mobile":{"right":15,"unit":"px","lock":false,"left":15,"top":56}}} -->
-<div class="blockart-section blockart-section-26dbea64"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"be196803","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":50,"right":50,"bottom":50,"left":50,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":true,"right":56,"bottom":56,"left":56},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
-<div class="blockart-column blockart-column-be196803"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"e0761c29","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial4.jpg"},"border":{"border":1,"radius":{"desktop":{"lock":true,"top":500,"right":500,"bottom":500,"left":500,"unit":"px"}},"size":{"desktop":{"lock":true}}},"width":{"desktop":{"unit":"px","value":60}}} -->
-<div class="blockart-image blockart-image-e0761c29"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial4.jpg" alt=""/></div>
+<div class="blockart-section blockart-section-26dbea64"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"be196803","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":50,"right":50,"bottom":50,"left":50,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":true,"right":56,"bottom":56,"left":56},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
+<div class="blockart-column blockart-column-be196803"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"e0761c29","link":{},"image":{"width":250,"height":250,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial4.jpg","id":317,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true,"top":500,"right":500,"bottom":500,"left":500,"unit":"px"}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"px","value":60}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-e0761c29"><img class="wp-image-317" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial4.jpg" alt="" height="250" width="250"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"0392cf41","markup":"h3","text":"Dianne Russell","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3919,9 +3942,9 @@
 <!-- /wp:blockart/paragraph --></div></div>
 <!-- /wp:blockart/column -->
 
-<!-- wp:blockart/column {"clientId":"e6247b12","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":50,"right":50,"bottom":50,"left":50,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":true,"right":56,"bottom":56,"left":56},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
-<div class="blockart-column blockart-column-e6247b12"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"1d736ec1","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial2.jpg"},"border":{"border":1,"radius":{"desktop":{"lock":true,"top":500,"right":500,"bottom":500,"left":500,"unit":"px"}},"size":{"desktop":{"lock":true}}},"width":{"desktop":{"unit":"px","value":60}}} -->
-<div class="blockart-image blockart-image-1d736ec1"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial2.jpg" alt=""/></div>
+<!-- wp:blockart/column {"clientId":"e6247b12","colWidth":{"desktop":50,"tablet":50,"mobile":100},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"},"position":{"desktop":"center top","mobile":"left top"},"customSizeDesktop":{"value":100,"unit":"%"}}},"blockMargin":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":50,"right":50,"bottom":50,"left":50,"unit":"px"},"tablet":{"top":56,"unit":"px","lock":true,"right":56,"bottom":56,"left":56},"mobile":{"top":56,"unit":"px","lock":false,"right":30,"bottom":56,"left":30}}} -->
+<div class="blockart-column blockart-column-e6247b12"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"1d736ec1","link":{},"image":{"width":250,"height":250,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial2.jpg","id":331,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true,"top":500,"right":500,"bottom":500,"left":500,"unit":"px"}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"width":{"desktop":{"unit":"px","value":60}},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-1d736ec1"><img class="wp-image-331" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/testimonial2.jpg" alt="" height="250" width="250"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"36d3f611","markup":"h3","text":"Wade Warren","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":20}}} -->
@@ -3934,7 +3957,7 @@
 <!-- /wp:blockart/column --></div></div></div>
 <!-- /wp:blockart/section -->
 
-<!-- wp:blockart/section {"clientId":"f61a2e88","columns":3,"verticalAlignment":{"desktop":"center"},"background":{"background":1,"type":"image","image":{"image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/CTA-background-e1648029292405.jpg"},"position":{"desktop":"right center"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"}}},"blockMargin":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":156}},"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":156,"lock":false,"bottom":156}}} -->
+<!-- wp:blockart/section {"clientId":"f61a2e88","columns":3,"verticalAlignment":{"desktop":"center"},"background":{"background":1,"type":"image","image":{"image":{"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/CTA-background-e1648029292405.jpg"},"position":{"desktop":"right center"},"size":{"desktop":"cover"},"repeat":{"desktop":"no-repeat"}}},"blockMargin":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":156}},"blockPadding":{"dimension":1,"desktop":{"left":15,"right":15,"unit":"px","top":156,"lock":false,"bottom":156}}} -->
 <div class="blockart-section blockart-section-f61a2e88"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"1a828bde","colWidth":{"desktop":10,"tablet":15,"mobile":100}} -->
 <div class="blockart-column blockart-column-1a828bde"><div class="blockart-column-inner"></div></div>
 <!-- /wp:blockart/column -->
@@ -3948,8 +3971,10 @@
 <p class="blockart-paragraph blockart-paragraph-fb9617df">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Donec sollicitudin molestie malesuada. </p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"2e02dba3","link":{"url":"#"},"text":"View Details","alignment":{"desktop":"center"},"size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"3f11fbbc","justification":{"desktop":"center"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-3f11fbbc is-wrap is-horizontal justify-center"><!-- wp:blockart/button-inner {"clientId":"2e02dba3","link":{"url":"#"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-2e02dba3 "><a class="blockart-button-link is-custom is-style-filled" href="#">View Details</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column -->
 
@@ -3980,8 +4005,8 @@
 
 <!-- wp:blockart/section {"clientId":"37392f77","columns":2,"blockMargin":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":56,"left":0,"bottom":136}}} -->
 <div class="blockart-section blockart-section-37392f77"><div class="blockart-container"><div class="blockart-section-inner"><!-- wp:blockart/column {"clientId":"85cbaa47","colWidth":{"desktop":50,"tablet":50,"mobile":100}} -->
-<div class="blockart-column blockart-column-85cbaa47"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"ae242b8c","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/manage-homegarden.jpg"}} -->
-<div class="blockart-image blockart-image-ae242b8c"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/manage-homegarden.jpg" alt=""/></div>
+<div class="blockart-column blockart-column-85cbaa47"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"ae242b8c","link":{},"image":{"width":960,"height":630,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/manage-homegarden.jpg","id":706,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-ae242b8c"><img class="wp-image-706" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/manage-homegarden.jpg" alt="" height="630" width="960"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"b37b8e24","markup":"h3","text":"How to Manage a Home Garden","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -3992,14 +4017,16 @@
 <p class="blockart-paragraph blockart-paragraph-f4adfb5c">Quisque velit nisi, pretium ut lacinia in, scddcd elementum id enim. Curabitur aliquet quam id dui posuere blandit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"1afbd025","link":{"url":"https://zakrademos.com/flora/2022/03/28/how-to-manage-a-home-garden/"},"text":"View Details","alignment":{"desktop":"left"},"size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"96d7c18c","justification":{"desktop":"left"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-96d7c18c is-wrap is-horizontal justify-left"><!-- wp:blockart/button-inner {"clientId":"1afbd025","link":{"url":"https://zakrademos.com/flora/2022/03/28/how-to-manage-a-home-garden/"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-1afbd025 "><a class="blockart-button-link is-custom is-style-filled" href="https://zakrademos.com/flora/2022/03/28/how-to-manage-a-home-garden/">View Details</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column -->
 
 <!-- wp:blockart/column {"clientId":"fe8d9055","colWidth":{"desktop":50,"tablet":50,"mobile":100},"blockPadding":{"dimension":1,"desktop":{"lock":true},"mobile":{"top":30,"unit":"px","lock":false}}} -->
-<div class="blockart-column blockart-column-fe8d9055"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"be1c4419","image":{"type":"local","local":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/proper-plant-care.jpg"}} -->
-<div class="blockart-image blockart-image-be1c4419"><img src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/proper-plant-care.jpg" alt=""/></div>
+<div class="blockart-column blockart-column-fe8d9055"><div class="blockart-column-inner"><!-- wp:blockart/image {"clientId":"be1c4419","link":{},"image":{"width":960,"height":630,"url":"https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/proper-plant-care.jpg","id":707,"alt":""},"objectFit":{"desktop":"fill"},"border":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true}},"blockPadding":{"dimension":1,"desktop":{"lock":true}}} -->
+<div class="blockart-image blockart-image-be1c4419"><img class="wp-image-707" src="https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/proper-plant-care.jpg" alt="" height="630" width="960"/></div>
 <!-- /wp:blockart/image -->
 
 <!-- wp:blockart/heading {"clientId":"93dc54d5","markup":"h3","text":"5 Tips to Properly Water Your Plant","typography":{"typography":1,"weight":500,"size":{"desktop":{"value":20,"unit":"px"}}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"unit":"px","top":30}}} -->
@@ -4010,8 +4037,10 @@
 <p class="blockart-paragraph blockart-paragraph-885a5f71">Luisque velit nisi, pretium ut lacinia in, scddcd elementum id enim. Curabitur aliquet quam id dui posuere blandit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
 <!-- /wp:blockart/paragraph -->
 
-<!-- wp:blockart/button {"clientId":"a051dc91","link":{"url":"https://zakrademos.com/flora/2022/03/28/5-tips-to-properly-water-your-plant/"},"text":"View Details","alignment":{"desktop":"left"},"size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"background1":{"background":1,"type":"color","color":"#506839"},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
+<!-- wp:blockart/button {"clientId":"52ce3f42","justification":{"desktop":"left"},"orientation":{"desktop":"horizontal"}} -->
+<div class="blockart-buttons blockart-buttons-52ce3f42 is-wrap is-horizontal justify-left"><!-- wp:blockart/button-inner {"clientId":"a051dc91","link":{"url":"https://zakrademos.com/flora/2022/03/28/5-tips-to-properly-water-your-plant/"},"text":"View Details","size":"custom","padding":{"dimension":1,"desktop":{"lock":false,"top":15,"right":24,"bottom":15,"left":24,"unit":"px"}},"typography":{"typography":1,"weight":400,"size":{"desktop":{"value":16,"unit":"px"}}},"icon":{"enable":false,"icon":""},"background1":{"background":1,"type":"color","color":"#506839"},"background2":{"background":1},"hoverBackground1":{"background":1,"type":"color","color":"#619d28"},"hoverBackground2":{"background":1},"border1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"hoverBorder1":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"border2":{"border":1,"color":"#2563EB","type":"solid","radius":{"desktop":{"top":2,"right":2,"bottom":2,"left":2,"unit":"px","lock":true}},"size":{"desktop":{"top":1,"right":1,"bottom":1,"left":1,"unit":"px","lock":true}}},"hoverBorder2":{"border":1,"radius":{"desktop":{"lock":true}},"size":{"desktop":{"lock":true}}},"boxShadow":{"boxShadow":1},"boxShadowHover":{"boxShadow":1},"blockMargin":{"dimension":1,"desktop":{"lock":true,"top":0,"right":0,"bottom":0,"left":0,"unit":"px"}},"blockPadding":{"dimension":1,"desktop":{"lock":false,"top":0,"unit":"px"}}} -->
 <div class="blockart-button blockart-button-a051dc91 "><a class="blockart-button-link is-custom is-style-filled" href="https://zakrademos.com/flora/2022/03/28/5-tips-to-properly-water-your-plant/">View Details</a></div>
+<!-- /wp:blockart/button-inner --></div>
 <!-- /wp:blockart/button --></div></div>
 <!-- /wp:blockart/column --></div></div></div>
 <!-- /wp:blockart/section -->]]></content:encoded>
@@ -4019,8 +4048,8 @@
 		<wp:post_id>726</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-11 09:33:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-11 09:33:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-20 09:16:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-20 09:16:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4032,7 +4061,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
@@ -4111,14 +4140,6 @@
 		<wp:meta_value><![CDATA[stacked]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner{align-items:center;margin-left:-30px}.blockart-section-0ff9318b>.blockart-container{max-width:1170px}.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-26dbea64>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-26dbea64>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-318e4bdb>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-318e4bdb>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-37392f77>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-37392f77>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-6c66063a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-6c66063a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7d600e27>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7d600e27>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7db19e25>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7db19e25>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7e175c8d>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7e175c8d>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8c89069a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8c89069a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-b4553375>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-b4553375>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-b4f89184>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-b4f89184>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c00e50a9>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c00e50a9>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-d083434a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-d083434a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-e444e868>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f61319b2>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f61319b2>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f61a2e88>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f61a2e88>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f8716040>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f8716040>.blockart-container>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-0ff9318b{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flora_background_image.png);background-position:center bottom;background-repeat:no-repeat;background-size:cover;margin:0;padding:0 15px}@media (max-width:62em){.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner{align-items:flex-end}.blockart-section-0ff9318b{background-size:cover}}@media (max-width:48em){.blockart-section-0ff9318b{background-position:left top;margin:0;padding:0 15px}}.blockart-column-e3ff6fe4{width:50%}.blockart-column-e3ff6fe4>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-e3ff6fe4{width:60%}}@media (max-width:48em){.blockart-column-e3ff6fe4{width:100%}}.blockart-heading.blockart-heading-d1e0fd7c{font-weight:600;font-size:58px}@media (max-width:48em){.blockart-heading.blockart-heading-d1e0fd7c{text-align:left;font-size:36px}}.blockart-paragraph.blockart-paragraph-dadead4b{font-weight:400}.blockart-paragraph-dadead4b{padding:30px 0 0}@media (max-width:48em){.blockart-paragraph.blockart-paragraph-dadead4b{text-align:left}}.blockart-button-b69a0a03 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-b69a0a03 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-b69a0a03 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-b69a0a03 .blockart-button-link:hover{background-color:#619d28}.blockart-button-b69a0a03{padding:20px 0 0}@media (max-width:48em){.blockart-button-b69a0a03{text-align:left}}.blockart-column-21216559{width:50%}@media (max-width:62em){.blockart-column-21216559{width:100%;margin:30px 0 0}}@media (max-width:48em){.blockart-column-21216559{width:100%}}.blockart-section-c58f0248>.blockart-container{max-width:1170px}.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-c58f0248{padding:136px 15px 0}@media (max-width:48em){.blockart-section-c58f0248{padding:136px 15px 0}}.blockart-column-8045c623{width:25%}@media (max-width:62em){.blockart-column-8045c623{width:25%}}@media (max-width:48em){.blockart-column-8045c623{width:100%}}.blockart-column-0cca3c6a{width:50%}.blockart-column-0cca3c6a>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-0cca3c6a{width:50%}}@media (max-width:48em){.blockart-column-0cca3c6a{width:100%}}.blockart-heading.blockart-heading-4a6a01d9{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-paragraph.blockart-paragraph-05f2dbe1{text-align:center;margin:0}.blockart-paragraph-05f2dbe1{padding:10px 0 0}.blockart-column-07c54802{width:24.998999999999995%}@media (max-width:62em){.blockart-column-07c54802{width:25%}}@media (max-width:48em){.blockart-column-07c54802{width:100%}}.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner,.blockart-section-e444e868>.blockart-container>.blockart-section-inner{align-items:center}.blockart-section-8c89069a>.blockart-container,.blockart-section-e444e868>.blockart-container{max-width:1170px}.blockart-section-6c66063a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-6c66063a>.blockart-container>.blockart-section-inner,.blockart-section-7db19e25>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7db19e25>.blockart-container>.blockart-section-inner,.blockart-section-8c89069a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8c89069a>.blockart-container>.blockart-section-inner,.blockart-section-c00e50a9>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c00e50a9>.blockart-container>.blockart-section-inner,.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner,.blockart-section-e444e868>.blockart-container>.blockart-section-inner,.blockart-section-f61319b2>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f61319b2>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-e444e868{padding:56px 15px 0}@media (max-width:48em){.blockart-section-e444e868{padding:56px 15px 0}}.blockart-column-7f43c316{width:35%}@media (max-width:62em){.blockart-column-7f43c316{width:35%}}@media (max-width:48em){.blockart-column-7f43c316{width:100%}}.blockart-section-8c89069a{padding:0}@media (max-width:48em){.blockart-section-8c89069a>.blockart-container{max-width:360px}}.blockart-column-6714b013{width:25%}@media (max-width:62em){.blockart-column-6714b013{width:25%}}@media (max-width:48em){.blockart-column-6714b013{width:100%}}.blockart-image-c30d9856 img{opacity:1;object-fit:fill}@media (max-width:48em){.blockart-image-c30d9856{text-align:center}.blockart-image-c30d9856 img{width:80px}}.blockart-column-8c878b3a{width:75%}@media (max-width:62em){.blockart-column-8c878b3a{width:75%}}@media (max-width:48em){.blockart-column-8c878b3a{width:100%}.blockart-column-8c878b3a>.blockart-column-inner{padding:30px 0 0}}.blockart-heading.blockart-heading-2b57f6fb{font-weight:500;font-size:20px}@media (max-width:48em){.blockart-heading.blockart-heading-2b57f6fb{text-align:center}}.blockart-paragraph-7636056a{padding:10px 0 0}@media (max-width:48em){.blockart-paragraph.blockart-paragraph-7636056a{text-align:center}}.blockart-section-c00e50a9>.blockart-container{max-width:1170px}.blockart-section-c00e50a9{padding:30px 0 0}@media (max-width:48em){.blockart-section-c00e50a9>.blockart-container{max-width:360px}}.blockart-column-f15a39fa{width:25%}@media (max-width:62em){.blockart-column-f15a39fa{width:25%}}@media (max-width:48em){.blockart-column-f15a39fa{width:100%}}.blockart-image-ada053ec img{opacity:1;object-fit:fill}@media (max-width:48em){.blockart-image-ada053ec{text-align:center}.blockart-image-ada053ec img{width:80px}}.blockart-column-4cff9e59{width:75%}@media (max-width:62em){.blockart-column-4cff9e59{width:75%}}@media (max-width:48em){.blockart-column-4cff9e59{width:100%}.blockart-column-4cff9e59>.blockart-column-inner{padding:30px 0 0}}.blockart-heading.blockart-heading-180835ce{font-weight:500;font-size:20px}@media (max-width:48em){.blockart-heading.blockart-heading-180835ce{text-align:center}}.blockart-paragraph-b231f14b{padding:10px 0 0}@media (max-width:48em){.blockart-paragraph.blockart-paragraph-b231f14b{text-align:center}}.blockart-column-d66c5213{width:29.989999999999995%}@media (max-width:62em){.blockart-column-d66c5213{width:30%}}@media (max-width:48em){.blockart-column-d66c5213{width:100%}.blockart-column-d66c5213>.blockart-column-inner{padding:30px 0 0}}.blockart-image-fdba7bad{text-align:center}.blockart-column-a498b681{width:35%}@media (max-width:62em){.blockart-column-a498b681{width:35%}}@media (max-width:48em){.blockart-column-a498b681{width:100%}}.blockart-section-6c66063a>.blockart-container{max-width:1170px}.blockart-section-6c66063a{padding:0}@media (max-width:48em){.blockart-section-6c66063a>.blockart-container{max-width:360px}}.blockart-column-8cc6a5f4{width:25%}@media (max-width:62em){.blockart-column-8cc6a5f4{width:25%}}@media (max-width:48em){.blockart-column-8cc6a5f4{width:100%}}.blockart-image-f3e9136a img,.blockart-image-fdba7bad img{opacity:1;object-fit:fill}@media (max-width:48em){.blockart-image-f3e9136a{text-align:center}.blockart-image-f3e9136a img{width:80px}}.blockart-column-e40d5394{width:75%}@media (max-width:62em){.blockart-column-e40d5394{width:75%}}@media (max-width:48em){.blockart-column-e40d5394{width:100%}.blockart-column-e40d5394>.blockart-column-inner{padding:30px 0 0}}.blockart-heading.blockart-heading-c1fb2810{font-weight:500;font-size:20px}@media (max-width:48em){.blockart-heading.blockart-heading-c1fb2810{text-align:center}}.blockart-paragraph-63ac47ce{padding:10px 0 0}@media (max-width:48em){.blockart-paragraph.blockart-paragraph-63ac47ce{text-align:center}}.blockart-section-f61319b2>.blockart-container{max-width:1170px}.blockart-section-f61319b2{padding:30px 0 0}@media (max-width:48em){.blockart-section-f61319b2>.blockart-container{max-width:360px}}.blockart-column-d00cf4ab{width:25%}@media (max-width:62em){.blockart-column-d00cf4ab{width:25%}}@media (max-width:48em){.blockart-column-d00cf4ab{width:100%}}.blockart-image-b0e95eab img{opacity:1;object-fit:fill}@media (max-width:48em){.blockart-image-b0e95eab{text-align:center}.blockart-image-b0e95eab img{width:80px}}.blockart-column-e55f7456{width:75%}@media (max-width:62em){.blockart-column-e55f7456{width:75%}}@media (max-width:48em){.blockart-column-e55f7456{width:100%}.blockart-column-e55f7456>.blockart-column-inner{padding:30px 0 0}}.blockart-heading.blockart-heading-61eb18c4{font-weight:500;font-size:20px}@media (max-width:48em){.blockart-heading.blockart-heading-61eb18c4{text-align:center}}.blockart-paragraph-8de3182e{padding:10px 0 0}@media (max-width:48em){.blockart-paragraph.blockart-paragraph-8de3182e{text-align:center}}.blockart-section-7db19e25>.blockart-container{max-width:1170px}.blockart-section-7db19e25{padding:136px 0 0}@media (max-width:62em){.blockart-section-7db19e25{padding:136px 15px 0}}@media (max-width:48em){.blockart-section-7db19e25{padding:136px 15px 0}}.blockart-column-ade4de9d{width:50%}.blockart-column-ade4de9d>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/indoor_plants.png);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:56px 156px 56px 30px}@media (max-width:62em){.blockart-column-ade4de9d{width:50%}.blockart-column-ade4de9d>.blockart-column-inner{padding:56px 128px 56px 30px}}@media (max-width:48em){.blockart-column-ade4de9d{width:100%}.blockart-column-ade4de9d>.blockart-column-inner{background-position:left top;padding:56px 30px}}.blockart-heading.blockart-heading-a1fb8d08{font-weight:500;font-size:28px}.blockart-paragraph-ff69b05f{padding:10px 0 0}.blockart-button-3d3dd554 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-3d3dd554 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-3d3dd554 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-3d3dd554 .blockart-button-link:hover{background-color:#619d28}.blockart-button-3d3dd554{margin:0;padding:0}.blockart-column-c3468ddc{width:50%}.blockart-column-c3468ddc>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/outdoor_plants.jpg);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:56px 156px 56px 30px}@media (max-width:62em){.blockart-column-c3468ddc{width:50%}.blockart-column-c3468ddc>.blockart-column-inner{padding:56px 128px 56px 30px}}@media (max-width:48em){.blockart-column-c3468ddc{width:100%;margin:30px 0 0}.blockart-column-c3468ddc>.blockart-column-inner{background-position:left top;padding:56px 30px}}.blockart-heading.blockart-heading-1835fc6b{font-weight:500;font-size:28px}.blockart-paragraph-f4e1a765{padding:10px 0 0}.blockart-button-09944fe1 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-09944fe1 .blockart-button-icon .blockart-icon,.blockart-button-232588b5 .blockart-button-link:hover .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-09944fe1 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-09944fe1 .blockart-button-link:hover{background-color:#619d28}.blockart-button-09944fe1{margin:0;padding:0}.blockart-section-7d600e27>.blockart-container{max-width:1170px}.blockart-section-7d600e27>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7d600e27>.blockart-container>.blockart-section-inner,.blockart-section-f8716040>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f8716040>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-7d600e27{padding:136px 0 0}@media (max-width:48em){.blockart-section-7d600e27{padding:136px 15px 0}}.blockart-column-e3eb1955{width:25%}@media (max-width:62em){.blockart-column-e3eb1955{width:25%}}@media (max-width:48em){.blockart-column-e3eb1955{width:100%}}.blockart-column-c646821d{width:50%}.blockart-column-c646821d>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-c646821d{width:50%}}@media (max-width:48em){.blockart-column-c646821d{width:100%}}.blockart-heading.blockart-heading-f3191905{text-align:center;font-weight:500;font-size:32px}.blockart-paragraph.blockart-paragraph-c1fb87a8{text-align:center;margin:0}.blockart-paragraph-c1fb87a8{padding:10px 0 0}.blockart-column-72f7918f{width:24.998999999999995%}@media (max-width:62em){.blockart-column-72f7918f{width:25%}}@media (max-width:48em){.blockart-column-72f7918f{width:100%}}.blockart-section-f8716040>.blockart-container{max-width:1170px}.blockart-section-f8716040{padding:56px 15px 0}@media (max-width:48em){.blockart-section-f8716040{padding:56px 15px 0}}.blockart-column-5624e28d{width:33.33%}@media (max-width:62em){.blockart-column-5624e28d{width:33.33%}}@media (max-width:48em){.blockart-column-5624e28d{width:100%}}.blockart-heading.blockart-heading-08362de3:hover,.blockart-heading.blockart-heading-970228d0:hover,.blockart-heading.blockart-heading-ae9be3aa:hover{color:#619d28}.blockart-heading.blockart-heading-08362de3{font-weight:500;font-size:20px}.blockart-heading-08362de3{padding:30px 0 0}@media (max-width:48em){.blockart-heading.blockart-heading-08362de3{text-align:left}}.blockart-column-247c11d1{width:33.33%}@media (max-width:62em){.blockart-column-247c11d1{width:33.33%}}@media (max-width:48em){.blockart-column-247c11d1{width:100%;margin:30px 0 0}}.blockart-image-2436bd53 img,.blockart-image-c6f09556 img{opacity:1;object-fit:fill}.blockart-heading.blockart-heading-970228d0,.blockart-heading.blockart-heading-ae9be3aa{font-weight:500;font-size:20px}.blockart-heading-970228d0{padding:30px 0 0}.blockart-column-e5cf7b7f{width:33.33%}@media (max-width:62em){.blockart-column-e5cf7b7f{width:33.33%}}@media (max-width:48em){.blockart-column-e5cf7b7f{width:100%;margin:30px 0 0}}.blockart-heading-ae9be3aa{padding:30px 0 0}.blockart-section-b4f89184>.blockart-container{max-width:1170px}.blockart-section-b4f89184>.blockart-container-fluid>.blockart-section-inner,.blockart-section-b4f89184>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-b4f89184{padding:56px 15px 0}@media (max-width:48em){.blockart-section-b4f89184{padding:30px 15px 0}}.blockart-column-d90b74aa{width:33.33%}@media (max-width:62em){.blockart-column-d90b74aa{width:33.33%}}@media (max-width:48em){.blockart-column-d90b74aa{width:100%}}.blockart-image-8fadce93 img,.blockart-image-e4be9219 img{opacity:1;object-fit:fill}.blockart-heading.blockart-heading-0e7081e1:hover,.blockart-heading.blockart-heading-14ca1024:hover,.blockart-heading.blockart-heading-564593ac:hover{color:#619d28}.blockart-heading.blockart-heading-0e7081e1,.blockart-heading.blockart-heading-14ca1024,.blockart-heading.blockart-heading-564593ac{font-weight:500;font-size:20px}.blockart-heading-14ca1024{padding:30px 0 0}.blockart-column-d2937988{width:33.33%}@media (max-width:62em){.blockart-column-d2937988{width:33.33%}}@media (max-width:48em){.blockart-column-d2937988{width:100%;margin:30px 0 0}}.blockart-heading-564593ac{padding:30px 0 0}.blockart-column-edf71501{width:33.33%}@media (max-width:62em){.blockart-column-edf71501{width:33.33%}}@media (max-width:48em){.blockart-column-edf71501{width:100%;margin:30px 0 0}}.blockart-image-52437549 img,.blockart-image-bb1e3615 img{opacity:1;object-fit:fill}.blockart-heading-0e7081e1{padding:30px 0 0}.blockart-section-7e175c8d>.blockart-container{max-width:1170px}.blockart-section-7e175c8d>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7e175c8d>.blockart-container>.blockart-section-inner,.blockart-section-b4553375>.blockart-container-fluid>.blockart-section-inner,.blockart-section-b4553375>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-7e175c8d{padding:136px 0 0}@media (max-width:48em){.blockart-section-7e175c8d{padding:136px 15px 0}}.blockart-column-fac87fb8{width:25%}@media (max-width:62em){.blockart-column-fac87fb8{width:25%}}@media (max-width:48em){.blockart-column-fac87fb8{width:100%}}.blockart-column-f2a2ce2d{width:50%}.blockart-column-f2a2ce2d>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-f2a2ce2d{width:50%}}@media (max-width:48em){.blockart-column-f2a2ce2d{width:100%}}.blockart-heading.blockart-heading-ad1b8eea{text-align:center;font-weight:500;font-size:32px}.blockart-paragraph.blockart-paragraph-57e9134c{text-align:center;font-weight:400;margin:0}.blockart-paragraph-57e9134c{padding:10px 0 0}.blockart-column-7560be3b{width:24.998999999999995%}@media (max-width:62em){.blockart-column-7560be3b{width:25%}}@media (max-width:48em){.blockart-column-7560be3b{width:100%}}.blockart-section-b4553375>.blockart-container{max-width:1170px}.blockart-section-b4553375{padding:56px 15px 0}.blockart-column-2c9be5e1{width:100%}@media (max-width:62em){.blockart-column-2c9be5e1{width:100%}}@media (max-width:48em){.blockart-column-2c9be5e1{width:100%}}.blockart-button-232588b5 .blockart-button-link{color:#192711;font-weight:400;font-size:16px;background-color:rgba(255,255,255,.05);border-style:solid;border-width:1px}.blockart-button-232588b5 .blockart-button-icon .blockart-icon{fill:#192711}.blockart-button-232588b5 .blockart-button-link:hover{color:#fff}.blockart-button-232588b5{text-align:center;padding:20px 0 0}.blockart-button-232588b5 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-232588b5 .blockart-button-link:hover{background-color:#619d28;border-color:rgba(255,255,255,.1);border-style:solid;border-width:1px}.blockart-section-d083434a>.blockart-container{max-width:1170px}.blockart-section-26dbea64>.blockart-container-fluid>.blockart-section-inner,.blockart-section-26dbea64>.blockart-container>.blockart-section-inner,.blockart-section-d083434a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-d083434a>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-d083434a{padding:136px 0 0}@media (max-width:48em){.blockart-section-d083434a{padding:136px 15px 0}}.blockart-column-e4896fb3{width:25%}@media (max-width:62em){.blockart-column-e4896fb3{width:25%}}@media (max-width:48em){.blockart-column-e4896fb3{width:100%}}.blockart-column-be6ba171{width:50%}.blockart-column-be6ba171>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-be6ba171{width:50%}}@media (max-width:48em){.blockart-column-be6ba171{width:100%}}.blockart-heading.blockart-heading-ef84b5ff{text-align:center;font-weight:500;font-size:32px}.blockart-paragraph.blockart-paragraph-1ddb867a{text-align:center;margin:0}.blockart-paragraph-1ddb867a{padding:10px 0 0}.blockart-column-8ffeea7e{width:24.998999999999995%}@media (max-width:62em){.blockart-column-8ffeea7e{width:25%}}@media (max-width:48em){.blockart-column-8ffeea7e{width:100%}}.blockart-section-26dbea64>.blockart-container{max-width:1170px}.blockart-section-26dbea64{padding:56px 0 0}@media (max-width:62em){.blockart-section-26dbea64{padding:56px 15px 0}}@media (max-width:48em){.blockart-section-26dbea64{padding:56px 15px 0}}.blockart-column-be196803{width:50%}.blockart-column-be196803>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:50px}@media (max-width:62em){.blockart-column-be196803{width:50%}.blockart-column-be196803>.blockart-column-inner{padding:56px}}@media (max-width:48em){.blockart-column-be196803{width:100%}.blockart-column-be196803>.blockart-column-inner{background-position:left top;padding:56px 30px}}.blockart-heading.blockart-heading-0392cf41{font-weight:500;font-size:20px}.blockart-heading-0392cf41{padding:20px 0 0}.blockart-paragraph.blockart-paragraph-454a2193{margin:0}.blockart-paragraph-454a2193{padding:10px 0 0}.blockart-column-e6247b12{width:50%}.blockart-column-e6247b12>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:50px}@media (max-width:62em){.blockart-column-e6247b12{width:50%}.blockart-column-e6247b12>.blockart-column-inner{padding:56px}}@media (max-width:48em){.blockart-column-e6247b12{width:100%;margin:30px 0 0}.blockart-column-e6247b12>.blockart-column-inner{background-position:left top;padding:56px 30px}}.blockart-image-1d736ec1 img,.blockart-image-e0761c29 img{opacity:1;object-fit:fill;border-radius:500px 500px 500px 500px;width:60px}.blockart-heading.blockart-heading-36d3f611{font-weight:500;font-size:20px}.blockart-heading-36d3f611{padding:20px 0 0}.blockart-paragraph.blockart-paragraph-95d2003b{margin:0}.blockart-paragraph-95d2003b{padding:10px 0 0}.blockart-section-f61a2e88>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f61a2e88>.blockart-container>.blockart-section-inner{align-items:center;margin-left:-30px}.blockart-section-f61a2e88>.blockart-container{max-width:1170px}.blockart-section-f61a2e88{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/CTA-background-e1648029292405.jpg);background-position:right center;background-repeat:no-repeat;background-size:cover;margin:156px 0 0;padding:156px 15px}.blockart-column-1a828bde{width:10%}@media (max-width:62em){.blockart-column-1a828bde{width:15%}}@media (max-width:48em){.blockart-column-1a828bde{width:100%}}.blockart-column-ae3b18a5{width:79.999%}@media (max-width:62em){.blockart-column-ae3b18a5{width:70%}}@media (max-width:48em){.blockart-column-ae3b18a5{width:100%}}.blockart-heading.blockart-heading-0ef28de8{color:#fff;text-align:center;font-weight:500;font-size:38px}.blockart-heading-0ef28de8{padding:0}.blockart-paragraph.blockart-paragraph-fb9617df{color:#fff;text-align:center}.blockart-paragraph-fb9617df{padding:10px 0 0}.blockart-button-2e02dba3 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-2e02dba3 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-2e02dba3{text-align:center;margin:0;padding:0}.blockart-button-2e02dba3 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-2e02dba3 .blockart-button-link:hover{background-color:#619d28}.blockart-column-69002f4b{width:10%}@media (max-width:62em){.blockart-column-69002f4b{width:15%}}@media (max-width:48em){.blockart-column-69002f4b{width:100%}}.blockart-section-318e4bdb>.blockart-container{max-width:1170px}.blockart-section-318e4bdb>.blockart-container-fluid>.blockart-section-inner,.blockart-section-318e4bdb>.blockart-container>.blockart-section-inner,.blockart-section-37392f77>.blockart-container-fluid>.blockart-section-inner,.blockart-section-37392f77>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-318e4bdb{padding:136px 0 0}@media (max-width:48em){.blockart-section-318e4bdb{padding:136px 15px 0}}.blockart-column-97f005b5{width:25%}@media (max-width:62em){.blockart-column-97f005b5{width:25%}}@media (max-width:48em){.blockart-column-97f005b5{width:100%}}.blockart-column-fdc759bb{width:50%}.blockart-column-fdc759bb>.blockart-column-inner{padding:0}@media (max-width:62em){.blockart-column-fdc759bb{width:50%}}@media (max-width:48em){.blockart-column-fdc759bb{width:100%}}.blockart-heading.blockart-heading-c2d982be{text-align:center;font-weight:500;font-size:32px}.blockart-paragraph.blockart-paragraph-be015125{text-align:center;margin:0}.blockart-paragraph-be015125{padding:10px 0 0}.blockart-column-ba178d05{width:24.998999999999995%}@media (max-width:62em){.blockart-column-ba178d05{width:25%}}@media (max-width:48em){.blockart-column-ba178d05{width:100%}}.blockart-section-37392f77>.blockart-container{max-width:1170px}.blockart-section-37392f77{margin:56px 0 136px;padding:0 15px}.blockart-column-85cbaa47{width:50%}@media (max-width:62em){.blockart-column-85cbaa47{width:50%}}@media (max-width:48em){.blockart-column-85cbaa47{width:100%}}.blockart-heading.blockart-heading-b37b8e24{font-weight:500;font-size:20px}.blockart-heading-b37b8e24{padding:30px 0 0}.blockart-paragraph.blockart-paragraph-f4adfb5c{font-weight:400;font-size:16px}.blockart-paragraph-f4adfb5c{padding:10px 0 0}.blockart-button-1afbd025 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-1afbd025 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-1afbd025{text-align:left;margin:0;padding:0}.blockart-button-1afbd025 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-1afbd025 .blockart-button-link:hover{background-color:#619d28}.blockart-column-fe8d9055{width:50%}@media (max-width:62em){.blockart-column-fe8d9055{width:50%}}@media (max-width:48em){.blockart-column-fe8d9055{width:100%}.blockart-column-fe8d9055>.blockart-column-inner{padding:30px 0 0}}.blockart-image-ae242b8c img,.blockart-image-be1c4419 img{opacity:1;object-fit:fill}.blockart-heading.blockart-heading-93dc54d5{font-weight:500;font-size:20px}.blockart-heading-93dc54d5{padding:30px 0 0}.blockart-paragraph.blockart-paragraph-885a5f71{font-weight:400;font-size:16px}.blockart-paragraph-885a5f71{padding:10px 0 0}.blockart-button-a051dc91 .blockart-button-link{color:#fff;font-weight:400;font-size:16px;background-color:#506839}.blockart-button-a051dc91 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-a051dc91{text-align:left;margin:0;padding:0}.blockart-button-a051dc91 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-a051dc91 .blockart-button-link:hover{background-color:#619d28}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[page-templates/pagebuilder.php]]></wp:meta_value>
 		</wp:postmeta>
@@ -4137,6 +4158,18 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:27:"ba-style-726-1681982186.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:22995:".blockart-section-0ff9318b{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/Flora_background_image.png);background-position:center bottom;background-repeat:no-repeat;background-size:cover;margin:0;padding:0 15px}.blockart-heading.blockart-heading-d1e0fd7c{font-weight:600;font-size:58px}.blockart-paragraph.blockart-paragraph-dadead4b{font-weight:400}.blockart-section-c58f0248{padding:136px 15px 0 15px}.blockart-heading.blockart-heading-4a6a01d9{text-align:center;font-weight:500;font-size:32px;margin:0}.blockart-column-d66c5213{width:29.99%}.blockart-image-fdba7bad{text-align:center}.blockart-column-a498b681,.blockart-column-7f43c316{width:35%}.blockart-column-e55f7456,.blockart-column-e40d5394,.blockart-column-4cff9e59,.blockart-column-8c878b3a{width:75%}.blockart-column-ade4de9d>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/indoor_plants.png);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:56px 156px 56px 30px}.blockart-column-c3468ddc>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/outdoor_plants.jpg);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:56px 156px 56px 30px}.blockart-heading.blockart-heading-1835fc6b,.blockart-heading.blockart-heading-a1fb8d08{font-weight:500;font-size:28px}.blockart-column-edf71501,.blockart-column-d2937988,.blockart-column-d90b74aa,.blockart-column-e5cf7b7f,.blockart-column-247c11d1,.blockart-column-5624e28d{width:33.33%}.blockart-heading.blockart-heading-0e7081e1:hover,.blockart-heading.blockart-heading-564593ac:hover,.blockart-heading.blockart-heading-14ca1024:hover,.blockart-heading.blockart-heading-ae9be3aa:hover,.blockart-heading.blockart-heading-970228d0:hover,.blockart-heading.blockart-heading-08362de3:hover{color:#619d28}.blockart-paragraph.blockart-paragraph-57e9134c{text-align:center;font-weight:400;margin:0}.blockart-section-b4553375,.blockart-section-b4f89184,.blockart-section-f8716040,.blockart-section-e444e868{padding:56px 15px 0 15px}.blockart-column-2c9be5e1{width:100%}.blockart-button-232588b5 .blockart-button-link{font-weight:400;font-size:16px;color:#192711;background-color:rgba(255,255,255,.05);border-style:solid;border-width:1px}.blockart-button-232588b5 .blockart-button-icon .blockart-icon{fill:#192711}.blockart-button-232588b5 .blockart-button-link:active,.blockart-button-232588b5 .blockart-button-link:focus,.blockart-button-232588b5 .blockart-button-link:hover{color:#fff}.blockart-button-232588b5 .blockart-button-link:active .blockart-button-icon .blockart-icon,.blockart-button-232588b5 .blockart-button-link:focus .blockart-button-icon .blockart-icon,.blockart-button-232588b5 .blockart-button-link:hover .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-232588b5 .blockart-button-link:hover,.blockart-button-232588b5 .blockart-button-link:focus,.blockart-button-232588b5 .blockart-button-link:active{background-color:#619d28;border-style:solid;border-color:rgba(255,255,255,.1);border-width:1px}.blockart-section-26dbea64{padding:56px 0 0 0}.blockart-column-e6247b12>.blockart-column-inner,.blockart-column-be196803>.blockart-column-inner{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/leaf_pattern.png);background-position:center top;background-repeat:no-repeat;background-size:cover;padding:50px}.blockart-image-1d736ec1 img,.blockart-image-e0761c29 img{object-fit:fill;border-radius:500px;width:60px;opacity:1}.blockart-heading-36d3f611,.blockart-heading-0392cf41,.blockart-button-232588b5,.blockart-button-b69a0a03{padding:20px 0 0 0}.blockart-paragraph.blockart-paragraph-95d2003b,.blockart-paragraph.blockart-paragraph-454a2193{margin:0}.blockart-section-f61a2e88>.blockart-container>.blockart-section-inner,.blockart-section-f61a2e88>.blockart-container-fluid>.blockart-section-inner,.blockart-section-e444e868>.blockart-container>.blockart-section-inner,.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner{align-items:center}.blockart-section-f61a2e88{background-image:url(https://zakrademos.com/flora/wp-content/uploads/sites/114/2022/03/CTA-background-e1648029292405.jpg);background-position:right center;background-repeat:no-repeat;background-size:cover;margin:156px 0 0 0;padding:156px 15px}.blockart-column-ae3b18a5{width:79.999%}.blockart-heading.blockart-heading-0ef28de8{color:#fff;text-align:center;font-weight:500;font-size:38px}.blockart-paragraph.blockart-paragraph-fb9617df{text-align:center;color:#fff}.blockart-column-69002f4b,.blockart-column-1a828bde{width:10%}.blockart-section-318e4bdb,.blockart-section-d083434a,.blockart-section-7e175c8d,.blockart-section-7d600e27,.blockart-section-7db19e25{padding:136px 0 0 0}.blockart-column-97f005b5,.blockart-column-e4896fb3,.blockart-column-fac87fb8,.blockart-column-e3eb1955,.blockart-column-d00cf4ab,.blockart-column-8cc6a5f4,.blockart-column-f15a39fa,.blockart-column-6714b013,.blockart-column-8045c623{width:25%}.blockart-column-fdc759bb>.blockart-column-inner,.blockart-column-be6ba171>.blockart-column-inner,.blockart-column-f2a2ce2d>.blockart-column-inner,.blockart-column-c646821d>.blockart-column-inner,.blockart-section-6c66063a,.blockart-section-8c89069a,.blockart-column-0cca3c6a>.blockart-column-inner,.blockart-column-e3ff6fe4>.blockart-column-inner{padding:0}.blockart-heading.blockart-heading-c2d982be,.blockart-heading.blockart-heading-ef84b5ff,.blockart-heading.blockart-heading-ad1b8eea,.blockart-heading.blockart-heading-f3191905{text-align:center;font-weight:500;font-size:32px}.blockart-paragraph.blockart-paragraph-be015125,.blockart-paragraph.blockart-paragraph-1ddb867a,.blockart-paragraph.blockart-paragraph-c1fb87a8,.blockart-paragraph.blockart-paragraph-05f2dbe1{text-align:center;margin:0}.blockart-column-ba178d05,.blockart-column-8ffeea7e,.blockart-column-7560be3b,.blockart-column-72f7918f,.blockart-column-07c54802{width:24.999%}.blockart-section-37392f77>.blockart-container,.blockart-section-318e4bdb>.blockart-container,.blockart-section-f61a2e88>.blockart-container,.blockart-section-26dbea64>.blockart-container,.blockart-section-d083434a>.blockart-container,.blockart-section-b4553375>.blockart-container,.blockart-section-7e175c8d>.blockart-container,.blockart-section-b4f89184>.blockart-container,.blockart-section-f8716040>.blockart-container,.blockart-section-7d600e27>.blockart-container,.blockart-section-7db19e25>.blockart-container,.blockart-section-f61319b2>.blockart-container,.blockart-section-6c66063a>.blockart-container,.blockart-section-c00e50a9>.blockart-container,.blockart-section-8c89069a>.blockart-container,.blockart-section-e444e868>.blockart-container,.blockart-section-c58f0248>.blockart-container,.blockart-section-0ff9318b>.blockart-container{max-width:1170px}.blockart-section-37392f77>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-37392f77>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-318e4bdb>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-318e4bdb>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f61a2e88>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f61a2e88>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-26dbea64>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-26dbea64>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-d083434a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-d083434a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-b4553375>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-b4553375>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7e175c8d>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7e175c8d>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-b4f89184>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-b4f89184>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f8716040>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f8716040>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7d600e27>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7d600e27>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-7db19e25>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-7db19e25>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-f61319b2>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-f61319b2>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-6c66063a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-6c66063a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c00e50a9>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c00e50a9>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-8c89069a>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-8c89069a>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-e444e868>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner>.blockart-column,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner>.blockart-column,.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner>.blockart-column{padding-left:30px}.blockart-section-37392f77>.blockart-container-fluid>.blockart-section-inner,.blockart-section-37392f77>.blockart-container>.blockart-section-inner,.blockart-section-318e4bdb>.blockart-container-fluid>.blockart-section-inner,.blockart-section-318e4bdb>.blockart-container>.blockart-section-inner,.blockart-section-f61a2e88>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f61a2e88>.blockart-container>.blockart-section-inner,.blockart-section-26dbea64>.blockart-container-fluid>.blockart-section-inner,.blockart-section-26dbea64>.blockart-container>.blockart-section-inner,.blockart-section-d083434a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-d083434a>.blockart-container>.blockart-section-inner,.blockart-section-b4553375>.blockart-container-fluid>.blockart-section-inner,.blockart-section-b4553375>.blockart-container>.blockart-section-inner,.blockart-section-7e175c8d>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7e175c8d>.blockart-container>.blockart-section-inner,.blockart-section-b4f89184>.blockart-container-fluid>.blockart-section-inner,.blockart-section-b4f89184>.blockart-container>.blockart-section-inner,.blockart-section-f8716040>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f8716040>.blockart-container>.blockart-section-inner,.blockart-section-7d600e27>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7d600e27>.blockart-container>.blockart-section-inner,.blockart-section-7db19e25>.blockart-container-fluid>.blockart-section-inner,.blockart-section-7db19e25>.blockart-container>.blockart-section-inner,.blockart-section-f61319b2>.blockart-container-fluid>.blockart-section-inner,.blockart-section-f61319b2>.blockart-container>.blockart-section-inner,.blockart-section-6c66063a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-6c66063a>.blockart-container>.blockart-section-inner,.blockart-section-c00e50a9>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c00e50a9>.blockart-container>.blockart-section-inner,.blockart-section-8c89069a>.blockart-container-fluid>.blockart-section-inner,.blockart-section-8c89069a>.blockart-container>.blockart-section-inner,.blockart-section-e444e868>.blockart-container-fluid>.blockart-section-inner,.blockart-section-e444e868>.blockart-container>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container-fluid>.blockart-section-inner,.blockart-section-c58f0248>.blockart-container>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner{margin-left:-30px}.blockart-section-37392f77{margin:56px 0 136px 0;padding:0 15px}.blockart-column-fe8d9055,.blockart-column-85cbaa47,.blockart-column-fdc759bb,.blockart-column-e6247b12,.blockart-column-be196803,.blockart-column-be6ba171,.blockart-column-f2a2ce2d,.blockart-column-c646821d,.blockart-column-c3468ddc,.blockart-column-ade4de9d,.blockart-column-0cca3c6a,.blockart-column-21216559,.blockart-column-e3ff6fe4{width:50%}.blockart-image-be1c4419 img,.blockart-image-ae242b8c img,.blockart-image-bb1e3615 img,.blockart-image-52437549 img,.blockart-image-e4be9219 img,.blockart-image-8fadce93 img,.blockart-image-2436bd53 img,.blockart-image-c6f09556 img,.blockart-image-b0e95eab img,.blockart-image-f3e9136a img,.blockart-image-fdba7bad img,.blockart-image-ada053ec img,.blockart-image-c30d9856 img{object-fit:fill;opacity:1}.blockart-heading.blockart-heading-93dc54d5,.blockart-heading.blockart-heading-b37b8e24,.blockart-heading.blockart-heading-36d3f611,.blockart-heading.blockart-heading-0392cf41,.blockart-heading.blockart-heading-0e7081e1,.blockart-heading.blockart-heading-564593ac,.blockart-heading.blockart-heading-14ca1024,.blockart-heading.blockart-heading-ae9be3aa,.blockart-heading.blockart-heading-970228d0,.blockart-heading.blockart-heading-08362de3,.blockart-heading.blockart-heading-61eb18c4,.blockart-heading.blockart-heading-c1fb2810,.blockart-heading.blockart-heading-180835ce,.blockart-heading.blockart-heading-2b57f6fb{font-weight:500;font-size:20px}.blockart-heading-93dc54d5,.blockart-heading-b37b8e24,.blockart-heading-0e7081e1,.blockart-heading-564593ac,.blockart-heading-14ca1024,.blockart-heading-ae9be3aa,.blockart-heading-970228d0,.blockart-heading-08362de3,.blockart-section-f61319b2,.blockart-section-c00e50a9,.blockart-paragraph-dadead4b{padding:30px 0 0 0}.blockart-paragraph.blockart-paragraph-885a5f71,.blockart-paragraph.blockart-paragraph-f4adfb5c{font-weight:400;font-size:16px}.blockart-paragraph-885a5f71,.blockart-paragraph-f4adfb5c,.blockart-paragraph-be015125,.blockart-paragraph-fb9617df,.blockart-paragraph-95d2003b,.blockart-paragraph-454a2193,.blockart-paragraph-1ddb867a,.blockart-paragraph-57e9134c,.blockart-paragraph-c1fb87a8,.blockart-paragraph-f4e1a765,.blockart-paragraph-ff69b05f,.blockart-paragraph-8de3182e,.blockart-paragraph-63ac47ce,.blockart-paragraph-b231f14b,.blockart-paragraph-7636056a,.blockart-paragraph-05f2dbe1{padding:10px 0 0 0}.blockart-buttons-52ce3f42,.blockart-buttons-96d7c18c,.blockart-buttons-3f11fbbc,.blockart-buttons-0d0b5a56,.blockart-buttons-217d07a1,.blockart-buttons-d74f0284,.blockart-buttons-34d1371f{gap:8px}.blockart-button-a051dc91 .blockart-button-link.is-custom,.blockart-button-1afbd025 .blockart-button-link.is-custom,.blockart-button-2e02dba3 .blockart-button-link.is-custom,.blockart-button-232588b5 .blockart-button-link.is-custom,.blockart-button-09944fe1 .blockart-button-link.is-custom,.blockart-button-3d3dd554 .blockart-button-link.is-custom,.blockart-button-b69a0a03 .blockart-button-link.is-custom{padding:15px 24px}.blockart-button-a051dc91 .blockart-button-link,.blockart-button-1afbd025 .blockart-button-link,.blockart-button-2e02dba3 .blockart-button-link,.blockart-button-09944fe1 .blockart-button-link,.blockart-button-3d3dd554 .blockart-button-link,.blockart-button-b69a0a03 .blockart-button-link{font-weight:400;font-size:16px;color:#fff;background-color:#506839}.blockart-button-a051dc91 .blockart-button-icon .blockart-icon,.blockart-button-1afbd025 .blockart-button-icon .blockart-icon,.blockart-button-2e02dba3 .blockart-button-icon .blockart-icon,.blockart-button-09944fe1 .blockart-button-icon .blockart-icon,.blockart-button-3d3dd554 .blockart-button-icon .blockart-icon,.blockart-button-b69a0a03 .blockart-button-icon .blockart-icon{fill:#fff}.blockart-button-a051dc91 .blockart-button-link:hover,.blockart-button-a051dc91 .blockart-button-link:focus,.blockart-button-a051dc91 .blockart-button-link:active,.blockart-button-1afbd025 .blockart-button-link:hover,.blockart-button-1afbd025 .blockart-button-link:focus,.blockart-button-1afbd025 .blockart-button-link:active,.blockart-button-2e02dba3 .blockart-button-link:hover,.blockart-button-2e02dba3 .blockart-button-link:focus,.blockart-button-2e02dba3 .blockart-button-link:active,.blockart-button-09944fe1 .blockart-button-link:hover,.blockart-button-09944fe1 .blockart-button-link:focus,.blockart-button-09944fe1 .blockart-button-link:active,.blockart-button-3d3dd554 .blockart-button-link:hover,.blockart-button-3d3dd554 .blockart-button-link:focus,.blockart-button-3d3dd554 .blockart-button-link:active,.blockart-button-b69a0a03 .blockart-button-link:hover,.blockart-button-b69a0a03 .blockart-button-link:focus,.blockart-button-b69a0a03 .blockart-button-link:active{background-color:#619d28}.blockart-button-a051dc91,.blockart-button-1afbd025,.blockart-button-2e02dba3,.blockart-button-09944fe1,.blockart-button-3d3dd554{margin:0;padding:0}@media (max-width:62em){.blockart-section-0ff9318b>.blockart-container>.blockart-section-inner,.blockart-section-0ff9318b>.blockart-container-fluid>.blockart-section-inner{align-items:flex-end}.blockart-section-0ff9318b{background-size:cover}.blockart-column-e3ff6fe4{width:60%}.blockart-column-21216559{width:100%;margin:30px 0 0 0}.blockart-column-d66c5213{width:30%}.blockart-column-a498b681,.blockart-column-7f43c316{width:35%}.blockart-column-e55f7456,.blockart-column-e40d5394,.blockart-column-4cff9e59,.blockart-column-8c878b3a{width:75%}.blockart-section-7db19e25{padding:136px 15px 0 15px}.blockart-column-c3468ddc>.blockart-column-inner,.blockart-column-ade4de9d>.blockart-column-inner{padding:56px 128px 56px 30px}.blockart-column-edf71501,.blockart-column-d2937988,.blockart-column-d90b74aa,.blockart-column-e5cf7b7f,.blockart-column-247c11d1,.blockart-column-5624e28d{width:33.33%}.blockart-column-2c9be5e1{width:100%}.blockart-section-26dbea64{padding:56px 15px 0 15px}.blockart-column-e6247b12>.blockart-column-inner,.blockart-column-be196803>.blockart-column-inner{padding:56px}.blockart-column-ae3b18a5{width:70%}.blockart-column-69002f4b,.blockart-column-1a828bde{width:15%}.blockart-column-ba178d05,.blockart-column-97f005b5,.blockart-column-8ffeea7e,.blockart-column-e4896fb3,.blockart-column-7560be3b,.blockart-column-fac87fb8,.blockart-column-72f7918f,.blockart-column-e3eb1955,.blockart-column-d00cf4ab,.blockart-column-8cc6a5f4,.blockart-column-f15a39fa,.blockart-column-6714b013,.blockart-column-07c54802,.blockart-column-8045c623{width:25%}.blockart-column-fe8d9055,.blockart-column-85cbaa47,.blockart-column-fdc759bb,.blockart-column-e6247b12,.blockart-column-be196803,.blockart-column-be6ba171,.blockart-column-f2a2ce2d,.blockart-column-c646821d,.blockart-column-c3468ddc,.blockart-column-ade4de9d,.blockart-column-0cca3c6a{width:50%}}@media (max-width:48em){.blockart-section-0ff9318b{background-position:left top;padding:0 15px}.blockart-heading.blockart-heading-d1e0fd7c{text-align:left;font-size:36px}.blockart-section-f61319b2>.blockart-container,.blockart-section-6c66063a>.blockart-container,.blockart-section-c00e50a9>.blockart-container,.blockart-section-8c89069a>.blockart-container{max-width:360px}.blockart-image-b0e95eab img,.blockart-image-f3e9136a img,.blockart-image-ada053ec img,.blockart-image-c30d9856 img{width:80px}.blockart-paragraph.blockart-paragraph-8de3182e,.blockart-heading.blockart-heading-61eb18c4,.blockart-image-b0e95eab,.blockart-paragraph.blockart-paragraph-63ac47ce,.blockart-heading.blockart-heading-c1fb2810,.blockart-image-f3e9136a,.blockart-paragraph.blockart-paragraph-b231f14b,.blockart-heading.blockart-heading-180835ce,.blockart-image-ada053ec,.blockart-paragraph.blockart-paragraph-7636056a,.blockart-heading.blockart-heading-2b57f6fb,.blockart-image-c30d9856{text-align:center}.blockart-heading.blockart-heading-08362de3,.blockart-paragraph.blockart-paragraph-dadead4b{text-align:left}.blockart-section-b4f89184{padding:30px 15px 0 15px}.blockart-section-26dbea64,.blockart-section-f8716040,.blockart-section-e444e868{padding:56px 15px 0 15px}.blockart-column-e6247b12,.blockart-column-edf71501,.blockart-column-d2937988,.blockart-column-e5cf7b7f,.blockart-column-247c11d1,.blockart-column-c3468ddc{width:100%;margin:30px 0 0 0}.blockart-column-e6247b12>.blockart-column-inner,.blockart-column-be196803>.blockart-column-inner,.blockart-column-c3468ddc>.blockart-column-inner,.blockart-column-ade4de9d>.blockart-column-inner{background-position:left top;padding:56px 30px}.blockart-section-318e4bdb,.blockart-section-d083434a,.blockart-section-7e175c8d,.blockart-section-7d600e27,.blockart-section-7db19e25,.blockart-section-c58f0248{padding:136px 15px 0 15px}.blockart-column-fe8d9055,.blockart-column-85cbaa47,.blockart-column-ba178d05,.blockart-column-fdc759bb,.blockart-column-97f005b5,.blockart-column-69002f4b,.blockart-column-ae3b18a5,.blockart-column-1a828bde,.blockart-column-be196803,.blockart-column-8ffeea7e,.blockart-column-be6ba171,.blockart-column-e4896fb3,.blockart-column-2c9be5e1,.blockart-column-7560be3b,.blockart-column-f2a2ce2d,.blockart-column-fac87fb8,.blockart-column-d90b74aa,.blockart-column-5624e28d,.blockart-column-72f7918f,.blockart-column-c646821d,.blockart-column-e3eb1955,.blockart-column-ade4de9d,.blockart-column-e55f7456,.blockart-column-d00cf4ab,.blockart-column-e40d5394,.blockart-column-8cc6a5f4,.blockart-column-a498b681,.blockart-column-d66c5213,.blockart-column-4cff9e59,.blockart-column-f15a39fa,.blockart-column-8c878b3a,.blockart-column-6714b013,.blockart-column-7f43c316,.blockart-column-07c54802,.blockart-column-0cca3c6a,.blockart-column-8045c623,.blockart-column-21216559,.blockart-column-e3ff6fe4{width:100%}.blockart-column-fe8d9055>.blockart-column-inner,.blockart-column-e55f7456>.blockart-column-inner,.blockart-column-e40d5394>.blockart-column-inner,.blockart-column-d66c5213>.blockart-column-inner,.blockart-column-4cff9e59>.blockart-column-inner,.blockart-column-8c878b3a>.blockart-column-inner{padding:30px 0 0 0}}";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4222,6 +4255,10 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4817,6 +4854,10 @@ Ex tempus a molestie facilisis iaculis neque habitant ante. Aliquam eros mi adip
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Jade Plant]]></title>
@@ -4924,6 +4965,10 @@ Velit elementum libero fames enim pretium maximus quis blandit pharetra tincidun
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[25.00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5038,6 +5083,10 @@ Vel tempus condimentum leo sollicitudin rhoncus lacus at vitae malesuada. Finibu
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20.00]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Cactus Plant]]></title>
@@ -5148,6 +5197,10 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[18.99]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Madagascar Dragon Tree Care]]></title>
@@ -5184,14 +5237,6 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-image-edda68b9 img{opacity:1;object-fit:fill}.blockart-image-edda68b9{text-align:center}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[563]]></wp:meta_value>
 		</wp:postmeta>
@@ -5279,6 +5324,14 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:27:"ba-style-562-1681987594.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:98:".blockart-image-edda68b9{text-align:center}.blockart-image-edda68b9 img{object-fit:fill;opacity:1}";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How To Grow Leek Microgreens]]></title>
@@ -5313,14 +5366,6 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[566]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5405,6 +5450,10 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5525,6 +5574,10 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[707]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How to Manage a Home Garden]]></title>
@@ -5561,14 +5614,6 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_blockart_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.blockart-image-b0f16b69 img{opacity:1;object-fit:fill}.blockart-image-b0f16b69{text-align:center}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -5655,6 +5700,14 @@ Vitae euismod condimentum letius taciti pede inceptos ultrices ullamcorper rutru
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[706]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_blockart_blocks_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"filename";s:27:"ba-style-577-1681761441.css";s:5:"fonts";a:0:{}s:10:"stylesheet";s:98:".blockart-image-b0f16b69{text-align:center}.blockart-image-b0f16b69 img{object-fit:fill;opacity:1}";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5772,6 +5825,10 @@ Faucibus gravida leo magnis dapibus curabitur. Senectus justo cras euismod vel p
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[671]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Morbi]]></title>
@@ -5881,6 +5938,10 @@ Torquent mollis lacinia ridiculus laoreet dignissim aliquet in maecenas ultrices
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[670]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Vivamus]]></title>
@@ -5986,6 +6047,10 @@ Dolor primis et commodo vehicula mollis urna porttitor curae. Nisl cras habitant
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[669]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6098,6 +6163,10 @@ Molestie primis faucibus nostra class eu fusce quam. Suspendisse ipsum amet ante
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[667]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6237,6 +6306,10 @@ Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feug
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[718]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Ultricies]]></title>
@@ -6346,6 +6419,10 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[45.00]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Tempus]]></title>
@@ -6454,6 +6531,10 @@ Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentes
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[50.00]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pellentesque]]></title>
@@ -6560,6 +6641,10 @@ Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor acc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[45.00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
