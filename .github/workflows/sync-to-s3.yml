@@ -24,6 +24,8 @@ jobs:
       - name: Sleep Action
         uses: juliangruber/sleep-action@v2.0.0
         with:
+          # giving some time for things to settle down between s3 and cloudfront
+          # may not need this time since there usaually no sync up needed between s3 and cloudfront
           time: 10s
       - name: checkout dist
         uses: actions/checkout@master
