@@ -1,0 +1,52 @@
+{
+    "name": "blissful",
+    "slug": "blissful",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "blissful-default": {
+        "title": "Blissful",
+        "preview": "https://themegrilldemos.com/blissful/",
+        "description": " A complete WooCommerce theme, ideal for stores selling gifts such as flowers, toys, statues, cakes, chocolates, etc.",
+        "template": [
+          "blissful"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          },
+          "yith-woocommerce-wishlist": {
+            "name": "YITH WooCommerce Wishlist",
+            "slug": "yith-woocommerce-wishlist/init.php"
+          }
+        },
+        "core_options": {
+          "blogname": "Blissful", 
+          "page_on_front": "Home",
+          "page_for_posts": "Blog"        
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "blissful-menu-primary": "navigation"          
+          }
+        }
+      }
+    }
+  }
+  
