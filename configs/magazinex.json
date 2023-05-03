@@ -1,0 +1,75 @@
+{
+  "name": "MagazineX",
+  "slug": "magazinex",
+  "version": "1.0.0",
+  "homepage": "https://themedemos.net/magazinex/",
+  "categories": {
+    "all"        : "All",
+    "blog"       : "Blog"
+  },
+  "pagebuilders": {
+    "all": "All"
+  },
+  "demos": {
+    "magazinex-default": {
+      "title": "MagazineX",
+      "preview": "https://themedemos.net/magazinex/",
+      "description": "Gutenberg-based WordPress Template Site to publish articles for your newspaper, magazine or blog",
+      "template": [
+        "magazinex"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "MagazineX",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "magazinex-thenewshive": {
+      "title": "The News Hive",
+      "preview": "https://themedemos.net/thenewshive/",
+      "description": "Gutenberg-based WordPress Template Site for all kinds of news publishing such as posts, videos, and images",
+      "template": [
+        "magazinex"
+      ],
+      "category": [
+        "all"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "The News Hive",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    }
+  }
+}

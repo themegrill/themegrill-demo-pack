@@ -1,0 +1,53 @@
+{
+    "name": "vastra",
+    "slug": "vastra",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "vastra-default": {
+        "title": "Vastra",
+        "preview": "https://themegrilldemos.com/vastra/",
+        "description": " A FSE WooCommerce theme for luxurious and contemporary appeal for every woman, men, and kids.",
+        "template": [
+          "vastra"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          },
+          "yith-woocommerce-wishlist": {
+            "name": "YITH WooCommerce Wishlist",
+            "slug": "yith-woocommerce-wishlist/init.php"
+          }
+        },
+        "core_options": {
+          "blogname": "vastra", 
+          "page_on_front": "Kids",
+          "page_for_posts": "Articles"        
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "vastra-menu-primary": "navigation"          
+          }
+        }
+        
+      }
+    }
+  }
+  

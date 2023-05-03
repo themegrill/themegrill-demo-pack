@@ -11,13 +11,46 @@ jobs:
     runs-on: ubuntu-latest
     # https://github.com/marketplace/actions/s3-sync
     steps:
-      - uses: actions/checkout@master
-      - uses: jakejarvis/s3-sync-action@master
+      - name: checkout repo
+        uses: actions/checkout@master
         with:
-          args: --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*'
+          # need at least 2 here so we can get a proper log in getting updated filed before invalidate step
+          fetch-depth: 2
+      - name: sync with S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*' --size-only
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: ${{ secrets.AWS_REGION }}
           SOURCE_DIR: './'
+      - name: Sleep Action
+        uses: juliangruber/sleep-action@v2.0.0
+        with:
+          # giving some time for things to settle down between s3 and cloudfront
+          # may not need this time since there usaually no sync up needed between s3 and cloudfront
+          time: 10s
+      - name: get updated files
+        run: |
+          # allow grep to fail
+          set +e
+          FILES=$(git diff --name-only HEAD~1 | awk '{print "/"$1}')
+          set -e
+          [ -z "$FILES" ] && touch .updated_files && exit 0
+          for file in $FILES; do
+            echo $file
+            # add bare directory to list of updated paths when we see index.html
+            [[ "$file" == *"/index.html" ]] && echo $file | sed -e 's/\/index.html$/\//'
+          done | sort | uniq | tr '\n' ' ' > .updated_files
+
+      - name: invalidate Cloudfront
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          PATHS_FROM: .updated_files
+          AWS_REGION: 'us-east-2'
+          DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          DEBUG: ${{ secrets.CLOUDFRONT_DEBUG }}

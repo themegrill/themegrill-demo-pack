@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-07-13 09:16" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-23 07:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>eStory</title>
 	<link>https://themegrilldemos.com/estory</link>
 	<description>A Full Site Editing WordPress Theme</description>
-	<pubDate>Wed, 13 Jul 2022 09:16:21 +0000</pubDate>
+	<pubDate>Fri, 23 Sep 2022 07:15:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -104,12 +104,63 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Yoga]]></wp:cat_name>
 	</wp:category>
-				<wp:term>
+			<wp:tag>
+		<wp:term_id>22</wp:term_id>
+		<wp:tag_slug><![CDATA[block]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Block]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>18</wp:term_id>
+		<wp:tag_slug><![CDATA[blog]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Blog]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>17</wp:term_id>
+		<wp:tag_slug><![CDATA[design]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Design]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>20</wp:term_id>
+		<wp:tag_slug><![CDATA[fse]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[FSE]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>21</wp:term_id>
+		<wp:tag_slug><![CDATA[gutenberg]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Gutenberg]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>19</wp:term_id>
+		<wp:tag_slug><![CDATA[wordpress]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[WordPress]]></wp:tag_name>
+	</wp:tag>
+			<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[block]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Block]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Blog]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Business]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[design]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -145,6 +196,20 @@
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[fse]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[FSE]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gutenberg]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gutenberg]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>14</wp:term_id>
@@ -196,6 +261,13 @@
 		<wp:term_name><![CDATA[Travel]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>1</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
@@ -203,11 +275,11 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[uncategorized]]></wp:term_name>
+		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>11</wp:term_id>
@@ -219,7 +291,7 @@
 			<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>https://themegrilldemos.com/estory/wp-content/uploads/sites/181/2022/07/Logo-150x100.png</url>
@@ -2185,7 +2257,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 <p>Senectus nunc rutrum eu sed aliquam. Dictum velit sagittis magna consectetuer ultricies nibh quisque nunc leo. Donec sapien pharetra enim class posuere consectetuer. Quis dapibus cursus ultricies curae fusce torquent penatibus felis pretium. Urna habitasse ac metus turpis consectetur penatibus pharetra adipiscing aliquam. <s>Condimentum diam sit imperdiet odio facilisi quis maecenas finibus</s>. Si efficitur mattis diam sollicitudin lorem. Iaculis nibh platea felis laoreet nullam placerat natoque finibus letius morbi. Lacus pulvinar taciti sit ultrices risus tincidunt erat pretium eget pellentesque aptent. Justo parturient hac ornare facilisis rutrum at aliquam senectus.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:quote {"align":"center","className":"is-style-plain","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":1.5}},"fontSize":"small"} -->
+<!-- wp:quote {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":1.5}},"className":"is-style-plain","fontSize":"small"} -->
 <blockquote class="wp-block-quote has-text-align-center is-style-plain has-small-font-size" style="font-style:normal;font-weight:700;line-height:1.5"><p>Amet, mauris habitant varius nunc ac cras in nulla. Nisl utpat id libero, faucibus suspendisse. Est et metus asellus pendisse.</p></blockquote>
 <!-- /wp:quote -->
 
@@ -2196,8 +2268,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2022-06-08 11:15:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-06-08 11:15:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-01 06:08:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-01 06:08:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 07:12:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 07:12:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-5-place-to-visit-with-your-family]]></wp:post_name>
@@ -2207,8 +2279,14 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="family"><![CDATA[Family]]></category>
+										<category domain="post_tag" nicename="block"><![CDATA[Block]]></category>
+		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="design"><![CDATA[Design]]></category>
+		<category domain="category" nicename="family"><![CDATA[Family]]></category>
+		<category domain="post_tag" nicename="fse"><![CDATA[FSE]]></category>
+		<category domain="post_tag" nicename="gutenberg"><![CDATA[Gutenberg]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[176]]></wp:meta_value>
@@ -2253,7 +2331,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"foreground","style":{"border":{"radius":"50px"},"spacing":{"padding":{"top":"0.75em","right":"2em","bottom":"0.75em","left":"2em"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-white-background-color has-text-color has-background" style="border-radius:50px;padding-top:0.75em;padding-right:2em;padding-bottom:0.75em;padding-left:2em"> Read More</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-foreground-color has-white-background-color has-text-color has-background" href="#" style="border-radius:50px;padding-top:0.75em;padding-right:2em;padding-bottom:0.75em;padding-left:2em"> Read More</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover --></div>
@@ -2403,8 +2481,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 <!-- wp:categories {"showPostCounts":true,"className":"no-margin-top estory-sidebar-categories"} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"align":"center","id":185,"sizeSlug":"large","linkDestination":"none","className":"size-full"} -->
-<figure class="wp-block-image aligncenter size-large size-full"><img src="https://themegrilldemos.com/estory/wp-content/uploads/sites/181/2022/07/women-hairstyle-1024x614.jpg" alt="" class="wp-image-185"/></figure>
+<!-- wp:image {"align":"center","id":1944,"linkDestination":"none","className":"size-full"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://themegrilldemos.com/estory/wp-content/themes/estory/assets/images/banner-160x600.jpg" alt="" class="wp-image-1944"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":"var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dspacing\u002d\u002dmedium)"}},"backgroundColor":"white"} -->
@@ -2464,8 +2542,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2022-06-08 11:24:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-06-08 11:24:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-08 14:11:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-08 14:11:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 07:08:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 07:08:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3644,46 +3722,6 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Main]]></title>
-		<link>https://themegrilldemos.com/estory/?p=239</link>
-		<pubDate>Mon, 04 Jul 2022 07:18:47 +0000</pubDate>
-		<dc:creator><![CDATA[demoteam]]></dc:creator>
-		<guid isPermaLink="false">https://themegrilldemos.com/estory/2022/07/04/main-2/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":8,"url":"https://themegrilldemos.com/estory/home/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":11,"url":"https://themegrilldemos.com/estory/blog/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Contact","type":"page","id":85,"url":"https://themegrilldemos.com/estory/contact/","kind":"post-type"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>239</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-04 07:18:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-07-04 07:18:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-04 07:19:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-04 07:19:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[main-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1656919176]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[main-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Footer Menu]]></title>
 		<link>https://themegrilldemos.com/estory/2022/07/04/main-2/</link>
 		<pubDate>Mon, 04 Jul 2022 07:22:20 +0000</pubDate>
@@ -3772,7 +3810,7 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 <!-- wp:navigation-link {"label":"Contact","type":"page","id":85,"url":"https://themegrilldemos.com/estory/contact/","kind":"post-type","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"Get Theme","url":"https://themegrill.com/themes/estory/","kind":"custom","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"Get Theme","url":"https://themegrill.com/themes/estory/","title":"Get Theme ","kind":"custom","isTopLevelLink":true} /-->
 
 <!-- wp:social-links {"iconColor":"white","iconColorValue":"#ffffff","iconBackgroundColor":"background","iconBackgroundColorValue":"#1F1717","style":{"spacing":{"blockGap":"0.33333333333em"}}} -->
 <ul class="wp-block-social-links has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"facebook.com","service":"facebook"} /-->
@@ -3787,8 +3825,8 @@ When you need more resources feel free to check the <a href="//qsandbox.com/app/
 		<wp:post_id>281</wp:post_id>
 		<wp:post_date><![CDATA[2022-07-11 03:43:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-07-11 03:43:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-13 09:14:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-13 09:14:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-18 09:31:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-18 09:31:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-navigation]]></wp:post_name>

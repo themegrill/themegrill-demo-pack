@@ -1,0 +1,47 @@
+{
+    "name": "Libreria",
+    "slug": "libreria",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "libreria-default": {
+        "title": "Libreria",
+        "preview": "https://themegrilldemos.com/libreria/",
+        "description": "Libreria is a Gutenberg Block-Based WooCommerce theme ideal for bookstore where stories come to life.",
+        "template": [
+          "libreria"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          }
+        },
+        "core_options": {
+          "blogname": "Libreria",
+          "page_on_front": "Home",
+          "page_for_posts": "Blog"
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "libreria-menu-primary": "Main"            
+          }
+        }
+      }
+    }
+  }
+  
