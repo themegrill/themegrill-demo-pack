@@ -50,6 +50,25 @@
         }
       }
     },
+    "zakra-kidz": {
+      "title": "Kidz",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/kidz/",
+      "description": "Gutenberg-Based Template Site for creating kindergarten websites.",
+      "template": ["zakra"],
+      "category": ["all", "business"],
+      "pagebuilder": ["all", "gutenberg"],
+      "core_options": {
+        "blogname": "kidz",
+        "page_on_front": "Home",
+        "page_for_posts": "Events"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-dentico": {
       "title": "Dentico",
       "isPremium": true,
