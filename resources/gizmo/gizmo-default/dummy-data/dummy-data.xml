@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.3" created="2023-06-19 05:21" -->
+	<!-- generator="WordPress/6.1.3" created="2023-06-19 06:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Gizmo</title>
 	<link>https://themegrilldemos.com/gizmo</link>
 	<description>A complete WooCommerce theme ideal for Gadget stores, the world of innovative technology.</description>
-	<pubDate>Mon, 19 Jun 2023 05:21:48 +0000</pubDate>
+	<pubDate>Mon, 19 Jun 2023 06:57:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -1169,8 +1169,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2022-11-01 03:36:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-01 03:36:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-01 03:36:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-01 03:36:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-19 06:37:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-19 06:37:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1182,7 +1182,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-custom-template-blog]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-custom-template-posts-grid]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -29147,8 +29151,8 @@ Porttitor a fames eros hac posuere potenti suspendisse magnis. Feugiat etiam mor
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2022-11-04 09:25:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-11-04 09:25:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-19 05:02:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-19 05:02:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-19 06:56:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-19 06:56:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -29979,6 +29983,75 @@ add_action('init', function () {
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Index]]></title>
+		<link>https://themegrilldemos.com/gizmo/index/</link>
+		<pubDate>Mon, 19 Jun 2023 06:55:08 +0000</pubDate>
+		<dc:creator><![CDATA[demoteam]]></dc:creator>
+		<guid isPermaLink="false">https://themegrilldemos.com/gizmo/index/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"gizmo"} /-->
+
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"62px"} -->
+<div style="height:62px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":24,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"displayLayout":{"type":"flex","columns":2},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"16px","padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}},"border":{"width":"1px"}},"borderColor":"color-5","layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group has-border-color has-color-5-border-color" style="border-width:1px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px"><!-- wp:post-featured-image {"isLink":true,"align":"center"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:post-date /-->
+
+<!-- wp:post-title {"isLink":true} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-excerpt {"moreText":"Read More","fontSize":"small"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"68px"} -->
+<div style="height:68px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"chevron","align":"center","layout":{"type":"flex","justifyContent":"center"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next {"label":"Next"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query -->
+
+<!-- wp:spacer {"height":"62px"} -->
+<div style="height:62px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"gizmo"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays posts.]]></excerpt:encoded>
+		<wp:post_id>774</wp:post_id>
+		<wp:post_date><![CDATA[2023-06-19 06:55:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-19 06:55:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-06-19 06:55:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-19 06:55:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[index]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="gizmo"><![CDATA[gizmo]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
