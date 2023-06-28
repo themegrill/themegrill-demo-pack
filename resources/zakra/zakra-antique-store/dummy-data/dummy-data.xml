@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-06 06:30" -->
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Antique</title>
 	<link>https://zakrademos.com/antique-store</link>
 	<description>A beautiful Gutenberg-based WordPress template site for antique, ancient, painting, pottery stores</description>
-	<pubDate>Tue, 06 Dec 2022 06:30:26 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 08:45:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
@@ -57,13 +57,6 @@
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>22</wp:term_id>
@@ -103,13 +96,6 @@
 		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Expert]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
@@ -129,13 +115,6 @@
 		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[grouped]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>3</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>23</wp:term_id>
@@ -284,6 +263,10 @@
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>9</wp:term_id>
@@ -295,7 +278,7 @@
 			<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	
 
 		<item>
 		<title><![CDATA[footer image]]></title>
@@ -1684,14 +1667,14 @@
 <!-- /wp:cover --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"100px","bottom":"100px"},"padding":{"right":"15px","left":"15px"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:100px;margin-bottom:100px;padding-right:15px;padding-left:15px"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0);color:#a75c03" class="has-inline-color">Product</mark> Catagory</h2>
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"100px","bottom":"100px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="margin-top:100px;margin-bottom:100px"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0);color:#a75c03" class="has-inline-color">Product</mark> Category</h2>
 <!-- /wp:heading -->
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"30px","top":"0px","right":"0","left":"0"},"margin":{"top":"56px","bottom":"0"}}}} -->
-<div class="wp-block-columns alignwide" style="margin-top:56px;margin-bottom:0;padding-top:0px;padding-right:0;padding-bottom:30px;padding-left:0"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":40,"editMode":false,"focalPoint":{"x":0.48,"y":0.32},"imageFit":"cover","categoryId":26} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"56px","bottom":"0"},"padding":{"top":"0","right":"15px","bottom":"0","left":"15px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:56px;margin-bottom:0;padding-top:0;padding-right:15px;padding-bottom:0;padding-left:15px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"editMode":false,"imageFit":"cover","categoryId":26} -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://zakrademos.com/antique-store/product-category/sculpture/">Shop now</a></div>
@@ -1701,7 +1684,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":40,"editMode":false,"imageFit":"cover","mediaId":401,"mediaSrc":"https://zakrademos.com/antique-store/wp-content/uploads/sites/117/2022/12/Pottery-edited.jpg","categoryId":25} -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":40,"editMode":false,"categoryId":25} -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://zakrademos.com/antique-store/product-category/pottery/">Shop now</a></div>
@@ -1711,7 +1694,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"editMode":false,"categoryId":24} -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":30,"editMode":false,"imageFit":"cover","categoryId":24} -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://zakrademos.com/antique-store/product-category/painting/">Shop now</a></div>
@@ -1721,9 +1704,9 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0","bottom":"0","left":"0"}}}} -->
-<div class="wp-block-columns alignwide" style="padding-top:0px;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":40,"editMode":false,"imageFit":"cover","categoryId":23} -->
+<!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"60px","bottom":"0"},"padding":{"top":"0","right":"15px","bottom":"0","left":"15px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:60px;margin-bottom:0;padding-top:0;padding-right:15px;padding-bottom:0;padding-left:15px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":0,"editMode":false,"imageFit":"cover","categoryId":23} -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://zakrademos.com/antique-store/product-category/mirror/">Shop now</a></div>
@@ -1733,7 +1716,7 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":40,"editMode":false,"imageFit":"cover","categoryId":22} -->
+<div class="wp-block-column"><!-- wp:woocommerce/featured-category {"dimRatio":0,"editMode":false,"imageFit":"cover","categoryId":22} -->
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://zakrademos.com/antique-store/product-category/coin/">Shop now</a></div>
@@ -1867,8 +1850,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2015-07-29 13:44:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-07-29 13:44:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-06 05:06:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-06 05:06:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-26 10:24:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-26 10:24:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1880,7 +1863,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
@@ -1993,6 +1976,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2241,6 +2228,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"a0398a92d920f431903dfaf4101b1dc3";s:6:"images";a:1:{i:0;i:227;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2538,6 +2533,14 @@
 		<wp:meta_key><![CDATA[_masteriyo_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"af58d6a81456017d0e13d6d013074621";s:6:"images";a:1:{i:0;i:221;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -2723,6 +2726,10 @@
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Cart]]></title>
@@ -2852,6 +2859,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2983,6 +2994,10 @@
 		<wp:meta_key><![CDATA[zakra_footer_bar_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[My account]]></title>
@@ -3007,7 +3022,11 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>https://zakrademos.com/antique-store/?page_id=199</link>
@@ -3401,6 +3420,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[242]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Radiant Hand Carved White Marble]]></title>
@@ -3513,6 +3536,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3627,6 +3654,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Andesite stone statue of Dewi Tara]]></title>
@@ -3739,6 +3770,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3853,6 +3888,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Shiva Goddess Diety]]></title>
@@ -3965,6 +4004,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4079,6 +4122,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gold Buddha Statue]]></title>
@@ -4192,6 +4239,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Thai Chiang Saen Style Buddha]]></title>
@@ -4304,6 +4355,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4443,6 +4498,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[240]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Antique Treasures Ganesh]]></title>
@@ -4559,6 +4618,10 @@ Gravida si risus porttitor phasellus ac cubilia. Odio non facilisis cras tincidu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[229]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
