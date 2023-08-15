@@ -7,6 +7,7 @@
     "all": "All",
     "blog": "Blog",
     "news": "News",
+    "magazine": "Magazine",
     "others": "Others"
   },
   "pagebuilders": {
@@ -173,6 +174,40 @@
         }
       }
     },
+    "colormag-magazinex": {
+      "title": "MagazineX",
+      "preview": "https://themegrilldemos.com/colormag-magazinex/",
+      "description": "Gutenberg-based WordPress Template Site to publish articles for your newspaper, magazine, or blog",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+	"blog",
+	"magazine"
+      ],
+      "pagebuilder": [
+        "all"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag MagazineX",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },    
     "colormag-newspaper": {
       "title": "Newspaper",
       "preview": "https://themegrilldemos.com/colormag-newspaper/",
