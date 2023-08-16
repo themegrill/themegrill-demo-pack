@@ -1,0 +1,56 @@
+{
+    "name": "kirana",
+    "slug": "kirana",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "kirana-default": {
+        "title": "Kirana",
+        "preview": "https://themegrilldemos.com/kirana/",
+        "description": " A complete WooCommerce theme, ideal for stores selling gifts such as flowers, toys, statues, cakes, chocolates, etc.",
+        "template": [
+          "kirana"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          },
+          "yith-woocommerce-wishlist": {
+            "name": "YITH WooCommerce Wishlist",
+            "slug": "yith-woocommerce-wishlist/init.php"
+          },
+          "yith-woocommerce-quick-view": {
+            "name": "YITH WooCommerce Quick View",
+            "slug": "yith-woocommerce-quick-view/init.php"
+          }
+        },
+        "core_options": {
+          "blogname": "Kirana", 
+          "page_on_front": "Home",
+          "page_for_posts": "Blog"        
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "kirana-menu-primary": "navigation"          
+          }
+        }
+      }
+    }
+  }
+  
