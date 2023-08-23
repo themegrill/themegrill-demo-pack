@@ -13,7 +13,8 @@
   "pagebuilders": {
     "all": "All",
     "default": "Default",
-    "elementor": "Elementor"
+    "elementor": "Elementor",
+    "gutenberg": "Gutenberg"		
   },
   "demos": {
     "colormag-free": {
@@ -174,6 +175,41 @@
         }
       }
     },
+    "colormag-thenewshive": {
+      "title": "TheNewsHive",
+      "preview": "https://themegrilldemos.com/colormag-thenewshive/",
+      "description": "Gutenberg-based WordPress Template Site for Blog, Newspaper & Magazine",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+	"blog",
+	"magazine"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag TheNewsHive",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-magazinex": {
       "title": "MagazineX",
       "preview": "https://themegrilldemos.com/colormag-magazinex/",
@@ -189,7 +225,8 @@
 	"magazine"
       ],
       "pagebuilder": [
-        "all"
+        "all",
+        "gutenberg"
       ],
       "plugins_list": {
         "magazine-blocks": {
@@ -207,7 +244,7 @@
           "primary": "Primary"
         }
       }
-    },    
+    },     
     "colormag-newspaper": {
       "title": "Newspaper",
       "preview": "https://themegrilldemos.com/colormag-newspaper/",
@@ -221,7 +258,8 @@
         "news"
       ],
       "pagebuilder": [
-        "all"
+        "all",
+        "gutenberg"
       ],
       "plugins_list": {
         "magazine-blocks": {
@@ -253,7 +291,8 @@
         "news"
       ],
       "pagebuilder": [
-        "all"
+        "all",
+        "gutenberg"
       ],
       "plugins_list": {
         "magazine-blocks": {
