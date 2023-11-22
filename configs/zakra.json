@@ -50,6 +50,25 @@
         }
       }
     },
+    "zakra-event-marketing": {
+      "title": "Event Marketing",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/event-marketing",
+      "description": "Gutenberg-Based Template Site for event marketing websites.",
+      "template": ["zakra"],
+      "category": ["all", "business"],
+      "pagebuilder": ["all", "gutenberg"],
+      "core_options": {
+        "blogname": "Event Marketing",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-kidz": {
       "title": "Kidz",
       "isPremium": true,
