@@ -188,6 +188,25 @@
         }
       }
     },
+    "zakra-job-portal-v2": {
+      "title": "Job Portal v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/job-portal-v2/",
+      "description": "WordPress template site suitable for all kinds of job portal, online recruitment, job seekers, site with awesome design",
+      "template": ["zakra"],
+      "category": ["all", "business"],
+      "pagebuilder": ["all", "gutenberg"],
+      "core_options": {
+        "blogname": "Job Portal v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-flora": {
       "title": "Flora",
       "isPremium": true,
