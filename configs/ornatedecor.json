@@ -1,0 +1,60 @@
+{
+    "name": "Ornate Decor",
+    "slug": "ornatedecor",
+    "version": "1.0.0",
+    "homepage": "https://themegrill.com/",
+    "categories": {
+      "all"        : "All"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "gutenberg": "Gutenberg"
+    },
+    "demos": {
+      "ornate-decor-default": {
+        "title": "Ornate Decor",
+        "preview": "https://themegrilldemos.com/ornate-decor/",
+        "description": " A complete WooCommerce theme, ideal for stores selling furnitures and decors.",
+        "template": [
+          "ornatedecor"
+        ],
+        "category": [
+          "all"
+        ],
+        "pagebuilder": [
+          "all",
+          "gutenberg"
+        ],
+        "plugins_list": {
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+          },
+          "yith-woocommerce-wishlist": {
+            "name": "YITH WooCommerce Wishlist",
+            "slug": "yith-woocommerce-wishlist/init.php"
+          },
+            "woo-variation-swatches": {
+                "name": "Variation Swatches for WooCommerce",
+                "slug": "woo-variation-swatches/woo-variation-swatches.php"
+            }
+        },
+        "core_options": {
+          "blogname": "Ornate Decor", 
+          "page_on_front": "Home",
+          "page_for_posts": "Blog"        
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "primary": "Main Menu"          
+          }
+        },
+        "yith_woocommerce_wishlist_settings": {
+            "yith_wcwl_show_on_loop" : "yes",
+			"yith_wcwl_loop_position" : "before_image"
+        }
+      }
+    }
+  }
+  
