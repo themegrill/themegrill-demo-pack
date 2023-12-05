@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.1" created="2023-12-04 11:25" -->
+	<!-- generator="WordPress/6.4.1" created="2023-12-05 09:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Ornate.</title>
 	<link>https://themegrilldemos.com/ornate-decor</link>
 	<description></description>
-	<pubDate>Mon, 04 Dec 2023 11:25:23 +0000</pubDate>
+	<pubDate>Tue, 05 Dec 2023 09:15:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://themegrilldemos.com/</wp:base_site_url>
@@ -462,6 +462,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>54</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[mirror]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Mirror]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>53</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[mirror]]></wp:term_slug>
@@ -478,17 +489,6 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>54</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[mirror]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Mirror]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -5581,8 +5581,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_tag" nicename="bed"><![CDATA[Bed]]></category>
-		<category domain="product_cat" nicename="bed"><![CDATA[Bed]]></category>
+										<category domain="product_cat" nicename="bed"><![CDATA[Bed]]></category>
+		<category domain="product_tag" nicename="bed"><![CDATA[Bed]]></category>
 		<category domain="product_tag" nicename="bed-sheets"><![CDATA[Bed Sheets]]></category>
 		<category domain="product_tag" nicename="furniture"><![CDATA[Furniture]]></category>
 		<category domain="product_cat" nicename="furniture-decor"><![CDATA[Furniture &amp; Decor]]></category>
@@ -7601,8 +7601,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_tag" nicename="light"><![CDATA[light]]></category>
-		<category domain="product_cat" nicename="light"><![CDATA[Light]]></category>
+										<category domain="product_cat" nicename="light"><![CDATA[Light]]></category>
+		<category domain="product_tag" nicename="light"><![CDATA[light]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="wind-chimes"><![CDATA[Wind Chimes]]></category>
@@ -18872,7 +18872,7 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 <h6 class="wp-block-heading" style="margin-top:0;margin-bottom:0">Filter by Color</h6>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/attribute-filter {"attributeId":1,"heading":"","lock":{"remove":true}} -->
+<!-- wp:woocommerce/attribute-filter {"attributeId":4,"heading":"","lock":{"remove":true}} -->
 <div class="wp-block-woocommerce-attribute-filter is-loading"></div>
 <!-- /wp:woocommerce/attribute-filter --></div>
 <!-- /wp:woocommerce/filter-wrapper -->
@@ -18886,7 +18886,7 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 <h6 class="wp-block-heading" style="margin-top:0;margin-bottom:0">Filter by Size</h6>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/attribute-filter {"attributeId":2,"heading":"","lock":{"remove":true}} -->
+<!-- wp:woocommerce/attribute-filter {"attributeId":5,"heading":"","lock":{"remove":true}} -->
 <div class="wp-block-woocommerce-attribute-filter is-loading"></div>
 <!-- /wp:woocommerce/attribute-filter --></div>
 <!-- /wp:woocommerce/filter-wrapper -->
@@ -18941,8 +18941,8 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2023-11-06 05:33:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-11-06 05:33:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-11-30 09:06:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-11-30 09:06:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-04 12:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-04 12:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-custom-template-shop-with-filters]]></wp:post_name>
@@ -20137,9 +20137,9 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 <!-- wp:navigation-link {"label":"Product Reviews","type":"product","id":381,"url":"/product/wall-candle-holder/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"\u003cimg class=\u0022wp-image-608\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/11/banner-1.jpg\u0022 alt=\u0022\u0022\u003e","type":"page","id":126,"url":"#","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"\u003cimg class=\u0022wp-image-608\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/11/banner-1.jpg\u0022 alt=\u0022\u0022\u003e\u003cimg class=\u0022wp-image-708\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/12/banner-1.jpg\u0022 alt=\u0022\u0022\u003e","type":"page","id":126,"url":"#","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"\u003cimg class=\u0022wp-image-610\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/11/banner-3.jpg\u0022 alt=\u0022\u0022\u003e","type":"page","id":126,"url":"#","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"\u003cimg class=\u0022wp-image-610\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/11/banner-3.jpg\u0022 alt=\u0022\u0022\u003e\u003cimg class=\u0022wp-image-690\u0022 style=\u0022width: 500px;\u0022 src=\u0022https://themegrilldemos.com/ornate-decor/wp-content/uploads/sites/201/2023/12/banner-3.jpg\u0022 alt=\u0022\u0022\u003e","type":"page","id":126,"url":"#","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"About","type":"page","id":105,"url":"/about/","kind":"post-type"} -->
@@ -20151,8 +20151,8 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 		<wp:post_id>471</wp:post_id>
 		<wp:post_date><![CDATA[2023-11-23 07:24:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-11-23 07:24:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-03 08:19:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-03 08:19:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-04 12:19:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-04 12:19:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mobile-menu]]></wp:post_name>
@@ -20478,7 +20478,7 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 
 <!-- wp:search {"label":"Search","placeholder":"Search products…","buttonText":"Search","buttonUseIcon":true,"query":{"post_type":"product"},"className":"is-style-ornatedecor-search-style-1"} /-->
 
-<!-- wp:woocommerce/mini-cart {"miniCartIcon":"bag-alt","hasHiddenPrice":true,"className":"is-style-ornatedecor-mini-cart-icon-style-2"} /-->
+<!-- wp:woocommerce/mini-cart {"miniCartIcon":"bag-alt","hasHiddenPrice":true,"cartAndCheckoutRenderStyle":"removed","className":"is-style-ornatedecor-mini-cart-icon-style-2"} /-->
 
 <!-- wp:html -->
 <div class="ornate-dark-mode-button">
@@ -20516,8 +20516,8 @@ Commodo cubilia eleifend et consequat fusce faucibus eros pulvinar tortor fringi
 		<wp:post_id>642</wp:post_id>
 		<wp:post_date><![CDATA[2023-11-30 09:23:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-11-30 09:23:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-04 08:31:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-04 08:31:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-04 12:02:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-04 12:02:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
