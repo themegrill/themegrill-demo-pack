@@ -188,6 +188,35 @@
         }
       }
     },
+    "zakra-organic-farm-v2": {
+      "title": "Organic Farm v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/organic-farm-v2/",
+      "description": "Gutenberg Based Template Site for Organic Farm and Organic Agriculture Farming",
+      "template": ["zakra"],
+      "category": ["all", "business"],
+      "pagebuilder": ["all", "gutenberg"],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Organic Farm v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-job-portal-v2": {
       "title": "Job Portal v2",
       "preview": "https://zakrademos.com/job-portal-v2/",
