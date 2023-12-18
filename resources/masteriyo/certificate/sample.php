@@ -21,7 +21,7 @@ foreach ( $directories as $dir ) {
 				$image_file = $samples_dir . '/' . $dir . '/' . $file;
 				$image_url  = $base_url . '/' . $dir . '/' . $file;
 				if ( is_file( $image_file ) && in_array( pathinfo( $file, PATHINFO_EXTENSION ), [ 'jpg', 'jpeg', 'png', 'gif' ] ) ) {
-					if ( false !== strpos( $file, 'background' ) ) {
+					if ( false !== strpos( $file, 'background.png' ) ) {
 						$images[] = array(
 							'url'             => $image_url,
 							'url_placeholder' => '"backgroundImageURL":"{{background.png}}"',
