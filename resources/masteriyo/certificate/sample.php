@@ -20,7 +20,7 @@ foreach ( $directories as $dir ) {
 			function( $images, $file ) use ( $samples_dir, $base_url, $dir ) {
 				$image_file = $samples_dir . '/' . $dir . '/' . $file;
 				$image_url  = $base_url . '/' . $dir . '/' . $file;
-				if ( is_file( $image_file ) && in_array( pathinfo( $file, PATHINFO_EXTENSION ), [ 'jpg', 'jpeg', 'png', 'gif' ] ) ) {
+				if ( is_file( $image_file ) && false === strpos( $file, 'preview' ) && in_array( pathinfo( $file, PATHINFO_EXTENSION ), [ 'jpg', 'jpeg', 'png', 'gif' ] ) ) {
 					$images[] = [
 						'url'             => $image_url,
 						'url_placeholder' => "{{{$file}}}",
