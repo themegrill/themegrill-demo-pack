@@ -524,6 +524,30 @@
       }
     }
   },
+  "zakra-one-page-v3": {
+    "title": "One Page v3",
+    "isPremium": true,
+    "preview": "https://zakrademos.com/one-page-v3/",
+    "description": "Gutenberg site with modern one page design",
+    "template": ["zakra"],
+    "category": ["all", "business", "one-page" ],
+    "pagebuilder": ["all", "gutenberg"],
+    "plugins_list": {
+      "everest-forms": {
+        "name": "Everest Forms",
+        "slug": "everest-forms/everest-forms.php"
+      },
+      "blockart-blocks": {
+        "name": "BlockArt",
+        "slug": "blockart-blocks/blockart.php"
+      }
+    },
+    "customizer_data_update": {
+      "nav_menu_locations": {
+        "menu-primary": "Main"
+      }
+    }
+  },
     "zakra-flora": {
       "title": "Flora",
       "isPremium": true,
