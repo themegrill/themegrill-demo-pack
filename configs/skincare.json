@@ -4,10 +4,9 @@
   "version": "1.0.0",
   "homepage": "https://themegrill.com/",
   "categories": {
-    "all"        : "All"
+    "all": "All"
   },
-  "pagebuilders":
-  {
+  "pagebuilders": {
     "all": "All"
   },
   "demos": {
@@ -15,19 +14,17 @@
       "title": "SkinCare",
       "preview": "https://themegrilldemos.com/skincare",
       "description": "SkinCare is a Gutenberg Block-Based WooCommerce theme for selling beauty and cosmetics products.",
-      "template": [
-        "skincare"
-      ],
-      "category": [
-        "all"
-      ],
-      "pagebuilder": [
-        "all"
-      ],
+      "template": ["skincare"],
+      "category": ["all"],
+      "pagebuilder": ["all"],
       "plugins_list": {
         "woocommerce": {
           "name": "WooCommerce",
           "slug": "woocommerce/woocommerce.php"
+        },
+        "yith-woocommerce-wishlist": {
+          "name": "YITH WooCommerce Wishlist",
+          "slug": "yith-woocommerce-wishlist/init.php"
         }
       },
       "core_options": {
@@ -40,6 +37,10 @@
           "skincare-menu-primary": "Primary Menu",
           "skincare-menu-social": "Social"
         }
+      },
+      "yith_woocommerce_wishlist_settings": {
+        "yith_wcwl_show_on_loop": "yes",
+        "yith_wcwl_loop_position": "before_image"
       }
     }
   }

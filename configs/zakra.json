@@ -467,6 +467,87 @@
       }
     }
   },
+  "zakra-applyjobs-v2": {
+    "title": "Apply Jobs v2",
+    "isPremium": true,
+    "preview": "https://zakrademos.com/applyjobs-v2/",
+    "description": "Gutenberg websites with beautiful design for job portal, job seekers, online recruitment and all kind of jobs and career opportunities.",
+    "template": ["zakra"],
+    "category": ["all", "business"],
+    "pagebuilder": ["all", "gutenberg"],
+    "plugins_list": {
+      "everest-forms": {
+        "name": "Everest Forms",
+        "slug": "everest-forms/everest-forms.php"
+      },
+      "blockart-blocks": {
+        "name": "BlockArt",
+        "slug": "blockart-blocks/blockart.php"
+      }
+    },
+    "core_options": {
+      "blogname": "Apply Jobs v2",
+      "page_on_front": "Home",
+      "page_for_posts": "Blog"
+    },
+    "customizer_data_update": {
+      "nav_menu_locations": {
+        "menu-primary": "Main"
+      }
+    }
+  },
+  "zakra-yoga-02": {
+    "title": "Yoga 02",
+    "preview": "https://zakrademos.com/yoga-02/",
+    "description": "Gutenberg websites for yoga and its benefits.",
+    "template": ["zakra"],
+    "category": ["all", "business"],
+    "pagebuilder": ["all", "gutenberg"],
+    "plugins_list": {
+      "everest-forms": {
+        "name": "Everest Forms",
+        "slug": "everest-forms/everest-forms.php"
+      },
+      "blockart-blocks": {
+        "name": "BlockArt",
+        "slug": "blockart-blocks/blockart.php"
+      }
+    },
+    "core_options": {
+      "blogname": "Yoga 02",
+      "page_on_front": "Home",
+      "page_for_posts": "Blog"
+    },
+    "customizer_data_update": {
+      "nav_menu_locations": {
+        "menu-primary": "Main"
+      }
+    }
+  },
+  "zakra-one-page-v3": {
+    "title": "One Page v3",
+    "isPremium": true,
+    "preview": "https://zakrademos.com/one-page-v3/",
+    "description": "Gutenberg site with modern one page design",
+    "template": ["zakra"],
+    "category": ["all", "business", "one-page" ],
+    "pagebuilder": ["all", "gutenberg"],
+    "plugins_list": {
+      "everest-forms": {
+        "name": "Everest Forms",
+        "slug": "everest-forms/everest-forms.php"
+      },
+      "blockart-blocks": {
+        "name": "BlockArt",
+        "slug": "blockart-blocks/blockart.php"
+      }
+    },
+    "customizer_data_update": {
+      "nav_menu_locations": {
+        "menu-primary": "Main"
+      }
+    }
+  },
     "zakra-flora": {
       "title": "Flora",
       "isPremium": true,
