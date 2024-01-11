@@ -571,6 +571,29 @@
       }
     }
   },
+  "zakra-pictography-v2": {
+    "title": "Pictography v2",
+    "preview": "https://zakrademos.com/pictography-v2/",
+    "description": "Gutenberg Template for Photographer to showcase portfolio",
+    "template": ["zakra"],
+    "category": ["all", "ecommerce", "portfolio"],
+    "pagebuilder": ["all", "gutenberg"],
+    "plugins_list": {
+      "everest-forms": {
+        "name": "Everest Forms",
+        "slug": "everest-forms/everest-forms.php"
+      },
+      "blockart-blocks": {
+        "name": "BlockArt",
+        "slug": "blockart-blocks/blockart.php"
+      }
+    },
+    "customizer_data_update": {
+      "nav_menu_locations": {
+        "menu-primary": "Main"
+      }
+    }
+  },
     "zakra-flora": {
       "title": "Flora",
       "isPremium": true,
