@@ -17,7 +17,7 @@
     "gutenberg": "Gutenberg"		
   },
   "demos": {
-    "colormag-free": {
+       "colormag-free": {
       "title": "Main",
       "preview": "https://themegrilldemos.com/colormag/",
       "description": "This is the default ColorMag demo perfect for your online magazine.",
@@ -30,18 +30,20 @@
         "news",
         "blog"
       ],
-      "pagebuilder": [
+        "pagebuilder": [
         "all",
-        "default"
+        "gutenberg"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
         }
       },
       "core_options": {
-        "blogname": "ColorMag"
+        "blogname": "ColorMag",
+	"page_on_front": "Home",
+        "page_for_posts": "News"
       },
       "widgets_data_update": {
         "dropdown_categories": {
@@ -84,7 +86,7 @@
         }
       }
     },
-    "colormag-pro": {
+"colormag-pro": {
       "isPro": true,
       "title": "Main V2",
       "preview": "https://themegrilldemos.com/colormag-pro/",
@@ -175,6 +177,73 @@
         }
       }
     },
+    "colormag-free-01": {
+      "title": "ColorMag 01",
+      "preview": "https://themegrilldemos.com/colormag-01/",
+      "description": "The WordPress demo perfect for your online magazine.",
+      "template": [
+        "colormag",
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "default"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "colormag_featured_posts_slider_widget": {
+              "4": {
+                "category": "Latest"
+              }
+            },
+            "colormag_highlighted_posts_widget": {
+              "3": {
+                "category": "FEATURED"
+              }
+            },
+            "colormag_featured_posts_widget": {
+              "3": {
+                "category": "Health"
+              },
+              "4": {
+                "category": "Technology"
+              }
+            },
+            "colormag_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Primary"
+        }
+      }
+    },
     "colormag-free-02": {
       "title": "ColorMag 02",
       "preview": "https://themegrilldemos.com/colormag-02/",
@@ -244,42 +313,7 @@
           "primary": "Primary"
         }
       }
-    },
-    "colormag-magazinex": {
-      "title": "MagazineX",
-      "preview": "https://themegrilldemos.com/colormag-magazinex/",
-      "description": "Gutenberg-based WordPress Template Site to publish articles for your newspaper, magazine, or blog",
-      "template": [
-        "colormag",
-        "colormag-pro"
-      ],
-      "category": [
-        "all",
-        "news",
-	"blog",
-	"magazine"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "magazine-blocks": {
-          "name": "Magazine Blocks",
-          "slug": "magazine-blocks/magazine-blocks.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag MagazineX",
-        "page_on_front": "Home",
-        "page_for_posts": "News"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Primary"
-        }
-      }
-    },     
+    },    
     "colormag-newspaper": {
       "title": "Newspaper",
       "preview": "https://themegrilldemos.com/colormag-newspaper/",
