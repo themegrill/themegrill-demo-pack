@@ -29,7 +29,7 @@
 	<title>Zakra Gutenberg</title>
 	<link>https://zakrademos.com/gutenberg-rtl</link>
 	<description>Just another Zakra Demos site</description>
-	<pubDate>Wed, 05 Apr 2023 05:18:16 +0000</pubDate>
+	<pubDate>Thu, 01 Feb 2024 06:45:48 +0000</pubDate>
 	<language>azb</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://zakrademos.com/</wp:base_site_url>
@@ -51,27 +51,6 @@
 		<wp:cat_name><![CDATA[التصوير]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[beginner]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Beginner]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[expert]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Expert]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[course_difficulty]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[intermediate]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Intermediate]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
@@ -218,10 +197,6 @@
 		<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -232,6 +207,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -268,7 +247,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:7.0184150631078008;s:5:"bytes";i:10176;s:11:"size_before";i:144990;s:10:"size_after";i:134814;s:4:"time";d:0.070000000000000007;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:49.020000000000003;s:5:"bytes";i:2146;s:11:"size_before";i:4378;s:10:"size_after";i:2232;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:33.57;s:5:"bytes";i:2065;s:11:"size_before";i:6151;s:10:"size_after";i:4086;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.8700000000000001;s:5:"bytes";i:2727;s:11:"size_before";i:46456;s:10:"size_after";i:43729;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.6800000000000002;s:5:"bytes";i:3238;s:11:"size_before";i:88005;s:10:"size_after";i:84767;s:4:"time";d:0.029999999999999999;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:7.018415063107801;s:5:"bytes";i:10176;s:11:"size_before";i:144990;s:10:"size_after";i:134814;s:4:"time";d:0.07;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:49.02;s:5:"bytes";i:2146;s:11:"size_before";i:4378;s:10:"size_after";i:2232;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:33.57;s:5:"bytes";i:2065;s:11:"size_before";i:6151;s:10:"size_after";i:4086;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.87;s:5:"bytes";i:2727;s:11:"size_before";i:46456;s:10:"size_after";i:43729;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.68;s:5:"bytes";i:3238;s:11:"size_before";i:88005;s:10:"size_after";i:84767;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -305,7 +284,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.3020624898360325;s:5:"bytes";i:13156;s:11:"size_before";i:141431;s:10:"size_after";i:128275;s:4:"time";d:0.070000000000000007;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:30.550000000000001;s:5:"bytes";i:2231;s:11:"size_before";i:7302;s:10:"size_after";i:5071;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:19.829999999999998;s:5:"bytes";i:2338;s:11:"size_before";i:11793;s:10:"size_after";i:9455;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:7.9800000000000004;s:5:"bytes";i:3840;s:11:"size_before";i:48121;s:10:"size_after";i:44281;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.4000000000000004;s:5:"bytes";i:4747;s:11:"size_before";i:74215;s:10:"size_after";i:69468;s:4:"time";d:0.029999999999999999;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.302062489836032;s:5:"bytes";i:13156;s:11:"size_before";i:141431;s:10:"size_after";i:128275;s:4:"time";d:0.07;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:30.55;s:5:"bytes";i:2231;s:11:"size_before";i:7302;s:10:"size_after";i:5071;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:19.83;s:5:"bytes";i:2338;s:11:"size_before";i:11793;s:10:"size_after";i:9455;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:7.98;s:5:"bytes";i:3840;s:11:"size_before";i:48121;s:10:"size_after";i:44281;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.4;s:5:"bytes";i:4747;s:11:"size_before";i:74215;s:10:"size_after";i:69468;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -342,7 +321,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.3947968156051278;s:5:"bytes";i:12191;s:11:"size_before";i:225977;s:10:"size_after";i:213786;s:4:"time";d:0.17999999999999999;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.700000000000003;s:5:"bytes";i:2226;s:11:"size_before";i:5904;s:10:"size_after";i:3678;s:4:"time";d:0.02;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:21.920000000000002;s:5:"bytes";i:2345;s:11:"size_before";i:10696;s:10:"size_after";i:8351;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.6699999999999999;s:5:"bytes";i:3620;s:11:"size_before";i:77466;s:10:"size_after";i:73846;s:4:"time";d:0.029999999999999999;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.0299999999999998;s:5:"bytes";i:4000;s:11:"size_before";i:131911;s:10:"size_after";i:127911;s:4:"time";d:0.12;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.394796815605128;s:5:"bytes";i:12191;s:11:"size_before";i:225977;s:10:"size_after";i:213786;s:4:"time";d:0.18;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.7;s:5:"bytes";i:2226;s:11:"size_before";i:5904;s:10:"size_after";i:3678;s:4:"time";d:0.02;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:21.92;s:5:"bytes";i:2345;s:11:"size_before";i:10696;s:10:"size_after";i:8351;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.67;s:5:"bytes";i:3620;s:11:"size_before";i:77466;s:10:"size_after";i:73846;s:4:"time";d:0.03;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.03;s:5:"bytes";i:4000;s:11:"size_before";i:131911;s:10:"size_after";i:127911;s:4:"time";d:0.12;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -379,7 +358,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:10.853484641435447;s:5:"bytes";i:7307;s:11:"size_before";i:67324;s:10:"size_after";i:60017;s:4:"time";d:0.070000000000000007;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:45.990000000000002;s:5:"bytes";i:2143;s:11:"size_before";i:4660;s:10:"size_after";i:2517;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:35.090000000000003;s:5:"bytes";i:2138;s:11:"size_before";i:6093;s:10:"size_after";i:3955;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:8.4399999999999995;s:5:"bytes";i:1784;s:11:"size_before";i:21133;s:10:"size_after";i:19349;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.5;s:5:"bytes";i:1242;s:11:"size_before";i:35438;s:10:"size_after";i:34196;s:4:"time";d:0.029999999999999999;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:10.853484641435447;s:5:"bytes";i:7307;s:11:"size_before";i:67324;s:10:"size_after";i:60017;s:4:"time";d:0.07;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:45.99;s:5:"bytes";i:2143;s:11:"size_before";i:4660;s:10:"size_after";i:2517;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:35.09;s:5:"bytes";i:2138;s:11:"size_before";i:6093;s:10:"size_after";i:3955;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:8.44;s:5:"bytes";i:1784;s:11:"size_before";i:21133;s:10:"size_after";i:19349;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.5;s:5:"bytes";i:1242;s:11:"size_before";i:35438;s:10:"size_after";i:34196;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -416,7 +395,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:14.204771997565736;s:5:"bytes";i:6769;s:11:"size_before";i:47653;s:10:"size_after";i:40884;s:4:"time";d:0.070000000000000007;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:50.57;s:5:"bytes";i:2127;s:11:"size_before";i:4206;s:10:"size_after";i:2079;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:39.460000000000001;s:5:"bytes";i:2096;s:11:"size_before";i:5312;s:10:"size_after";i:3216;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:11.08;s:5:"bytes";i:1655;s:11:"size_before";i:14933;s:10:"size_after";i:13278;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.8399999999999999;s:5:"bytes";i:891;s:11:"size_before";i:23202;s:10:"size_after";i:22311;s:4:"time";d:0.029999999999999999;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:14.204771997565736;s:5:"bytes";i:6769;s:11:"size_before";i:47653;s:10:"size_after";i:40884;s:4:"time";d:0.07;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:50.57;s:5:"bytes";i:2127;s:11:"size_before";i:4206;s:10:"size_after";i:2079;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:39.46;s:5:"bytes";i:2096;s:11:"size_before";i:5312;s:10:"size_after";i:3216;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:11.08;s:5:"bytes";i:1655;s:11:"size_before";i:14933;s:10:"size_after";i:13278;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.84;s:5:"bytes";i:891;s:11:"size_before";i:23202;s:10:"size_after";i:22311;s:4:"time";d:0.03;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -453,7 +432,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:18.779725506182906;s:5:"bytes";i:9674;s:11:"size_before";i:51513;s:10:"size_after";i:41839;s:4:"time";d:0.059999999999999998;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:47.119999999999997;s:5:"bytes";i:2177;s:11:"size_before";i:4620;s:10:"size_after";i:2443;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:40.140000000000001;s:5:"bytes";i:2185;s:11:"size_before";i:5443;s:10:"size_after";i:3258;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:15.710000000000001;s:5:"bytes";i:2548;s:11:"size_before";i:16215;s:10:"size_after";i:13667;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:10.949999999999999;s:5:"bytes";i:2764;s:11:"size_before";i:25235;s:10:"size_after";i:22471;s:4:"time";d:0.02;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:18.779725506182906;s:5:"bytes";i:9674;s:11:"size_before";i:51513;s:10:"size_after";i:41839;s:4:"time";d:0.06;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:47.12;s:5:"bytes";i:2177;s:11:"size_before";i:4620;s:10:"size_after";i:2443;s:4:"time";d:0.01;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:40.14;s:5:"bytes";i:2185;s:11:"size_before";i:5443;s:10:"size_after";i:3258;s:4:"time";d:0.01;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:15.71;s:5:"bytes";i:2548;s:11:"size_before";i:16215;s:10:"size_after";i:13667;s:4:"time";d:0.02;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:10.95;s:5:"bytes";i:2764;s:11:"size_before";i:25235;s:10:"size_after";i:22471;s:4:"time";d:0.02;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -701,12 +680,12 @@ This allows you to denote <var>variables</var>.
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -716,7 +695,7 @@ This allows you to denote <var>variables</var>.
 		<dc:creator><![CDATA[teamthemegrill]]></dc:creator>
 		<guid isPermaLink="false">https://demo.themegrill.com/zakra-gutenberg/?post_type=everest_form&#038;p=49</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"id":"49","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"53","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Gutenberg","evf_from_email":"wordpress@zakrademos.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d243b9569a3d":{"connection_name":"User Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Gutenberg","evf_from_email":"{admin_email}","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
+		<content:encoded><![CDATA[{"id":"49","form_field_id":1,"form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","default_value":"","css":"","input_mask":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"Contact Form","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","submission_message_scroll":"1","redirect_to":"0","custom_page":"53","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","submit_button_processing_text":"Processing\u2026","submit_button_class":"","honeypot":"1","disabled_entries":"0","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"wordpress@zakrademos.com","evf_from_name":"Zakra Gutenberg","evf_from_email":"themegrilldemos@gmail.com","evf_reply_to":"","evf_email_subject":"New Form Entry","evf_email_message":"{all_fields}"},"connection_5d243b9569a3d":{"connection_name":"User Notification","evf_to_email":"{admin_email}","evf_from_name":"Zakra Gutenberg","evf_from_email":"themegrilldemos@gmail.com","evf_reply_to":"","evf_email_subject":"New Form Entry  - Contact Form","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 04:19:58]]></wp:post_date>
@@ -804,7 +783,7 @@ This allows you to denote <var>variables</var>.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.8234368855682264;s:5:"bytes";i:359;s:11:"size_before";i:12715;s:10:"size_after";i:12356;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:2.8199999999999998;s:5:"bytes";i:359;s:11:"size_before";i:12715;s:10:"size_after";i:12356;s:4:"time";d:0.01;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.8234368855682264;s:5:"bytes";i:359;s:11:"size_before";i:12715;s:10:"size_after";i:12356;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:2.82;s:5:"bytes";i:359;s:11:"size_before";i:12715;s:10:"size_after";i:12356;s:4:"time";d:0.01;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
@@ -845,7 +824,7 @@ This allows you to denote <var>variables</var>.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.0773876684144152;s:5:"bytes";i:313;s:11:"size_before";i:15067;s:10:"size_after";i:14754;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:2.0800000000000001;s:5:"bytes";i:313;s:11:"size_before";i:15067;s:10:"size_after";i:14754;s:4:"time";d:0.01;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.0773876684144152;s:5:"bytes";i:313;s:11:"size_before";i:15067;s:10:"size_after";i:14754;s:4:"time";d:0.01;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:1:{s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:2.08;s:5:"bytes";i:313;s:11:"size_before";i:15067;s:10:"size_after";i:14754;s:4:"time";d:0.01;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
@@ -1384,12 +1363,12 @@ This allows you to denote <var>variables</var>.
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -1499,12 +1478,12 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1618,16 +1597,16 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[lamco-nisi-sunt-velit-quis-sint-anim-nisi-sunt-lorem-in]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1711,10 +1690,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[zakra_menu_item_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1727,10 +1702,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_menu_item_active_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-primary-menu--style-none]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1741,6 +1712,14 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_menu_active_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[style-1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1915,10 +1894,6 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[zakra_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tg-site-layout--customizer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1933,6 +1908,10 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow">Gravat
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"d16ec5246a65e829607d2c765c336211";s:6:"images";a:3:{i:0;i:58;i:1;i:59;i:2;i:60;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[zakra_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
