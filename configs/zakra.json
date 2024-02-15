@@ -247,6 +247,43 @@
         }
       }
     },
+    "zakra-law-firm-v2": {
+      "title": "Law Firm v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/law-firm-v2/",
+      "description": "Gutenberg Based Template Site to create your awesome law firm website",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Law Firm v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-organic-farm-v2": {
       "title": "Organic Farm v2",
       "isPremium": true,
