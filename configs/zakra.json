@@ -1155,7 +1155,7 @@
       }
     },
     "zakra-university-v2": {
-      "title": "university v2",
+      "title": "University v2",
       "isPremium": true,
       "preview": "https://zakrademos.com/university-v2/",
       "description": "Gutenberg Template Website to start your innovation on sharing education",
@@ -1264,43 +1264,6 @@
         }
       }
     },
-    "zakra-plumbing-services-v2": {
-      "title": "Plumbing Services v2",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/plumbing-services-v2/",
-      "description": "Expand your Plumbing Services with this Guntenberg Demo",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Plumbing Services v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-cleaner-v2": {
       "title": "Cleaner v2",
       "isPremium": true,
@@ -1329,6 +1292,43 @@
       },
       "core_options": {
         "blogname": "Cleaner v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-plumbing-services-v2": {
+      "title": "Plumbing services v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/plumbing-services-v2/",
+      "description": "Expand your Plumbing Services with this Guntenberg Demo",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Plumbing Services v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
