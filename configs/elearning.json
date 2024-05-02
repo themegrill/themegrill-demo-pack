@@ -101,7 +101,51 @@
       "masteriyo_settings": {
         "general.styling.primary_color": "#ff652f"
       }
+    },
+    "elearning-eguru": {
+      "title": "eguru",
+      "preview": "https://themegrilldemos.com/eguru/",
+      "description": "Gutenberg based eLearning LMS WordPress Template Site",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business",
+        "articles"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "eguru",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#021e41"
+      }
     }
-
   }
 }
