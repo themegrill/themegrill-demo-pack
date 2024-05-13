@@ -432,6 +432,47 @@
         }
       }
     },
+    "zakra-gift-shop-v2": {
+      "title": "Gift Shop v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/gift-shop-v2/",
+      "description": "WordPress eCommerce Template Site for Gifts Shop",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+    },
+    "woocommerce": {
+      "name": "WooCommerce",
+      "slug": "woocommerce/woocommerce.php"
+    },
+      "core_options": {
+        "blogname": " Gift Shop v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-petcare-v2": {
       "title": "Petcare v2",
       "isPremium": true,
@@ -465,47 +506,6 @@
       },
       "core_options": {
         "blogname": "Petcare v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-gift-shop-v2": {
-      "title": "Gift Shop v2",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/gift-shop-v2/",
-      "description": "WordPress eCommerce Template Site for Gifts Shop",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-    },
-    "woocommerce": {
-      "name": "WooCommerce",
-      "slug": "woocommerce/woocommerce.php"
-    },
-      "core_options": {
-        "blogname": " Gift Shop v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
