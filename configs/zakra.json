@@ -87,13 +87,40 @@
       },
       "core_options": {
         "blogname": "Dentify",
-        "page_on_front": "Home"
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#1A5590",
+          "#0B356FE0",
+          "#222222",
+          "#111111"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lato",
+            "font_weight": "Bold"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Mulish",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Mulish",
+            "font_weight": "400"
+          }
+        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
         }
-      }
+      }  
     },
     "zakra-restro": {
       "title": "Restro",
