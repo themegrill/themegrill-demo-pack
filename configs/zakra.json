@@ -547,48 +547,6 @@
         }
       }
     },
-    "zakra-petcare-v2": {
-      "title": "Petcare V2",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/petcare-v2",
-      "description": "Elementor Based WooCommerce Template Site for Cats, Dogs service and supplies.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "ecommerce"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Petcare v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-education-02": {
       "title": "Education 02",
       "isPremium": true,
@@ -695,6 +653,48 @@
       },
       "core_options": {
         "blogname": "Furniture v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-petcare-v2": {
+      "title": "Petcare v2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/petcare-v2/",
+      "description": "Elementor Based Woocommerce Template Site for cats, dogs service and supplies",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+         "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php" 
+        }
+      },
+      "core_options": {
+        "blogname": "Petcare v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
