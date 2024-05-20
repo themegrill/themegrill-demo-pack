@@ -90,32 +90,6 @@
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
-      "elementor_schemes": {
-        "color": [
-          "#1A5590",
-          "#0B356FE0",
-          "#222222",
-          "#111111"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Lato",
-            "font_weight": "Bold"
-          },
-          "secondary": {
-            "font_family": "Lato",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Mulish",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Mulish",
-            "font_weight": "400"
-          }
-        }
-      },
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
@@ -500,48 +474,6 @@
         }
       }
     },
-    "zakra-petcare-v2": {
-      "title": "Petcare v2",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/petcare-v2/",
-      "description": "Elementor Based WooCommerce Template Site for Cats, Dogs service and supplies.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "ecommerce"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Petcare v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-restaurant-v2": {
       "title": "Restaurant v2",
       "preview": "https://zakrademos.com/restaurant-v2/",
@@ -606,6 +538,48 @@
       },
       "core_options": {
         "blogname": "Care 03",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-petcare-v2": {
+      "title": "Petcare V2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/petcare-v2",
+      "description": "Elementor Based WooCommerce Template Site for Cats, Dogs service and supplies.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Petcare v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
