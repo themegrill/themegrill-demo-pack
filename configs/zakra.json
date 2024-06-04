@@ -59,6 +59,49 @@
         }
       }
     },
+    "zakra-optigo": {
+      "title": "Optigo",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/optigo/",
+      "description": "Gutenberg-Based Template Site for eyewear solutions.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce"
+
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+          "blockart-blocks": {
+            "name": "BlockArt",
+            "slug": "blockart-blocks/blockart.php"
+          },
+          "woocommerce": {
+            "name": "WooCommerce",
+            "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Optigo",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-dentify": {
       "title": "Dentify",
       "isPremium": true,
