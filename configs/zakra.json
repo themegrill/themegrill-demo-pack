@@ -139,6 +139,47 @@
         }
       }
     },
+    "zakra-event-marketing-v2": {
+      "title": "Event Marketing V2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/event-marketing-v2/",
+      "description": "Elementor-Based Template Site for event marketing websites.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Event Marketing V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-restro": {
       "title": "Restro",
       "isPremium": true,
