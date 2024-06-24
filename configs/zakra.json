@@ -59,6 +59,47 @@
         }
       }
     },
+    "zakra-fitness": {
+      "title": "Fitness",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/fitness/",
+      "description": "Elementor-Based Template Site for  Life, Energy, and Health.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Fitness",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-optigo": {
       "title": "Optigo",
       "isPremium": true,
