@@ -59,6 +59,42 @@
         }
       }
     },
+    "zakra-flavourfuse": {
+      "title": "FlavourFuse",
+      "preview": "https://zakrademos.com/flavourfuse/",
+      "description": "Elementor-Based Template Site for restaurants.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "FlavourFuse",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-fitness": {
       "title": "Fitness",
       "isPremium": true,
@@ -293,6 +329,88 @@
       "core_options": {
         "blogname": "Online Shop",
         "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-dentico-v2": {
+      "title": "Dentico V2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/dentico-v2/",
+      "description": "Elementor-Based Template Site for Medical Health & Dental Care Clinic.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Dentico V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-health-blog-v2": {
+      "title": "Health Blog V2",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/health-blog-v2/",
+      "description": "Elementor-Based Template Site for Health Blog.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Health Blog V2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
