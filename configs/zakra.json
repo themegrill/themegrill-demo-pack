@@ -95,6 +95,121 @@
         }
       }
     },
+    "zakra-spa-v2": {
+      "title": "Spa Center",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/spa-v2/",
+      "description": "Use this demo to showcase your ultimate relaxation services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Spa",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#343a40",
+          "#9a9a99",
+          "#2d2a27"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display SC",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Menu"
+        }
+      }
+    },
+    "zakra-learnart": {
+      "title": "Learnart",
+      "preview": "https://zakrademos.com/learnart/",
+      "description": "Elementor-Based Template Site for online learning.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "lms"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Learnart",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-fitness": {
       "title": "Fitness",
       "isPremium": true,
@@ -5160,77 +5275,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-spa-v2": {
-      "title": "Spa Center",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/spa-v2/",
-      "description": "Use this demo to showcase your ultimate relaxation services.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Spa",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#212529",
-          "#343a40",
-          "#9a9a99",
-          "#2d2a27"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display SC",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Menu"
         }
       }
     },
