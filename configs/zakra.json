@@ -59,10 +59,10 @@
         }
       }
     },
-    "zakra-flavourfuse": {
-      "title": "FlavourFuse",
-      "preview": "https://zakrademos.com/flavourfuse/",
-      "description": "Elementor-Based Template Site for restaurants.",
+    "zakra-lawyer": {
+      "title": "Lawyer",
+      "preview": "https://zakrademos.com/lawyer/",
+      "description": "Use this Zakra demo to create your awesome law firm website.",
       "template": [
         "zakra"
       ],
@@ -82,16 +82,46 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "FlavourFuse",
+        "blogname": "Zakra Lawyer",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
+      "elementor_schemes": {
+        "color": [
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          }
+        }
+      },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Main"
+          "menu-primary": "Primary"
         }
       }
     },
@@ -163,6 +193,42 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Menu"
+        }
+      }
+    },
+    "zakra-flavourfuse": {
+      "title": "FlavourFuse",
+      "preview": "https://zakrademos.com/flavourfuse/",
+      "description": "Elementor-Based Template Site for restaurants.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "FlavourFuse",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
         }
       }
     },
@@ -5574,72 +5640,6 @@
           "accent": {
             "font_family": "Open Sans",
             "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
-        }
-      }
-    },
-    "zakra-lawyer": {
-      "title": "Lawyer",
-      "preview": "https://zakrademos.com/lawyer/",
-      "description": "Use this Zakra demo to create your awesome law firm website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Lawyer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#b89b5e",
-          "#ffffff",
-          "#868e96",
-          "#b89b5e"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Lato",
-            "font_weight": "400"
           }
         }
       },
