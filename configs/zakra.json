@@ -100,72 +100,6 @@
         }
       }
     },
-    "zakra-lawyer": {
-      "title": "Lawyer",
-      "preview": "https://zakrademos.com/lawyer/",
-      "description": "Use this Zakra demo to create your awesome law firm website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Lawyer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#b89b5e",
-          "#ffffff",
-          "#868e96",
-          "#b89b5e"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
-        }
-      }
-    },
     "zakra-spa-v2": {
       "title": "Spa Center",
       "isPremium": true,
@@ -273,16 +207,43 @@
         }
       }
     },
-    "zakra-learnart": {
-      "title": "Learnart",
-      "preview": "https://zakrademos.com/learnart/",
-      "description": "Elementor-Based Template Site for online learning.",
+    "zakra-nutricoach": {
+      "title": "nutriCoach",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/nutricoach/",
+      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
       "template": [
         "zakra"
       ],
       "category": [
         "all",
-        "lms"
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "core_options": {
+        "blogname": "nutriCoach",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-lawyer": {
+      "title": "Lawyer",
+      "preview": "https://zakrademos.com/lawyer/",
+      "description": "Use this Zakra demo to create your awesome law firm website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
       ],
       "pagebuilder": [
         "all",
@@ -297,23 +258,45 @@
           "name": "Elementor",
           "slug": "elementor/elementor.php"
         },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "learning-management-system": {
-          "name": "Masteriyo LMS",
-          "slug": "learning-management-system/lms.php"
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Learnart",
+        "blogname": "Zakra Lawyer",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
+      "elementor_schemes": {
+        "color": [
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          }
+        }
+      },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Main"
+          "menu-primary": "Primary"
         }
       }
     },
@@ -429,6 +412,50 @@
       },
       "core_options": {
         "blogname": "Dentify",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-learnart": {
+      "title": "Learnart",
+      "preview": "https://zakrademos.com/learnart/",
+      "description": "Elementor-Based Template Site for online learning.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "lms"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Learnart",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -752,33 +779,6 @@
       "core_options": {
         "blogname": "Antique",
         "page_on_front": "Home"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-nutricoach": {
-      "title": "nutriCoach",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/nutricoach/",
-      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "core_options": {
-        "blogname": "nutriCoach",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
