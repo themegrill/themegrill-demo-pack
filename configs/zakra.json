@@ -421,6 +421,73 @@
         }
       }
     },
+    "zakra-digital-marketing": {
+      "title": "Digital Marketing",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/digital-marketing/",
+      "description": "Zakra Digital Marketing– WordPress Template Site for all kind of Digital Marketing",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Digital Marketing",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#242F65",
+          "#7963E0",
+          "#333333",
+          "#7963E0"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto Slab",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
     "zakra-learnart": {
       "title": "Learnart",
       "preview": "https://zakrademos.com/learnart/",
@@ -4509,73 +4576,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-digital-marketing": {
-      "title": "Digital Marketing",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/digital-marketing/",
-      "description": "Zakra Digital Marketing– WordPress Template Site for all kind of Digital Marketing",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Digital Marketing",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#242F65",
-          "#7963E0",
-          "#333333",
-          "#7963E0"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Roboto Slab",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main"
         }
       }
     },
