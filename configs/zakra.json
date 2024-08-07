@@ -212,10 +212,11 @@
         }
       }
     },
-    "zakra-flavourfuse": {
-      "title": "FlavourFuse",
-      "preview": "https://zakrademos.com/flavourfuse/",
-      "description": "Elementor-Based Template Site for restaurants.",
+    "zakra-startup-business": {
+      "title": "Startup Business",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/startup-business/",
+      "description": "Elementor-Based Template Site to create your startup business website.",
       "template": [
         "zakra"
       ],
@@ -235,10 +236,14 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        }
+        },
+      "companion-elementor": {
+        "name": "CE Addons",
+        "slug": "companion-elementor/companion-elementor.php"
+      }
       },
       "core_options": {
-        "blogname": "FlavourFuse",
+        "blogname": "Startup Business",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -338,6 +343,42 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary"
+        }
+      }
+    },
+    "zakra-flavourfuse": {
+      "title": "FlavourFuse",
+      "preview": "https://zakrademos.com/flavourfuse/",
+      "description": "Elementor-Based Template Site for restaurants.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "FlavourFuse",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
         }
       }
     },
@@ -2431,73 +2472,6 @@
       },
       "masteriyo_settings": {
         "general.styling.primary_color": "#021e41"
-      }
-    },
-    "zakra-startup-business": {
-      "title": "Startup Business",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/startup-business/",
-      "description": "Use this Zakra demo to create your startup business website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Startup Business",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#1CB5E0",
-          "#111111",
-          "#3E3E3E",
-          "#1CB5E0"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Catamaran",
-            "font_weight": "Bold"
-          },
-          "secondary": {
-            "font_family": "Catamaran",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Catamaran",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Catamaran",
-            "font_weight": "Bold"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
-        }
       }
     },
     "zakra-online-store": {
