@@ -59,6 +59,47 @@
         }
       }
     },
+    "zakra-chapel": {
+      "title": "Chapel",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/chapel/",
+      "description": "Elementor-Based Template Site for leading people into a growing relationship with god and lending hand for those in need.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "non-profit"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Chapel",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-luxuria": {
       "title": "Luxuria",
       "isPremium": true,
@@ -3593,82 +3634,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "zakra-chapel": {
-      "title": "Chapel",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/chapel/",
-      "description": "WordPress Template Site for leading people into a growing relationship with god and lending hand for those in need.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "non-profit"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        },
-        "advanced-sermons": {
-          "name": "Advanced Sermons",
-          "slug": "advanced-sermons/advanced-sermons.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Chapel",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#333333",
-          "#4C4C4C",
-          "#7D7D7D",
-          "#FFCD00"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Merriweather",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Merriweather",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-left": "Left Main Menu",
-          "menu-right": "Right Main Menu"
         }
       }
     },
