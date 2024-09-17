@@ -422,6 +422,81 @@
         }
       }
     },
+    "zakra-drone-v2": {
+      "title": "MegaDrone",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/drone-v2/",
+      "description": "Show what you can offer via aerial photography via this drone demo.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Drone",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#e00000",
+          "#171717",
+          "#756f6f",
+          "#e00000"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-flavourfuse": {
       "title": "FlavourFuse",
       "preview": "https://zakrademos.com/flavourfuse/",
@@ -499,6 +574,68 @@
         }
       }
     },
+    "zakra-drone": {
+      "title": "Drone",
+      "preview": "https://zakrademos.com/drone/",
+      "description": "Start the future of photography and and videography form this Zakra demo",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Drone",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#ef6751",
+          "#54595f",
+          "#596172",
+          "#61ce70"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Barlow",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Barlow",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Barlow",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Barlow",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-optigo": {
       "title": "Optigo",
       "isPremium": true,
@@ -544,7 +681,6 @@
     },
     "zakra-dentify": {
       "title": "Dentify",
-      "isPremium": true,
       "preview": "https://zakrademos.com/dentify/",
       "description": "Elementor-Based Template Site for Dental Services.",
       "template": [
@@ -748,10 +884,6 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
         },
         "learning-management-system": {
           "name": "Masteriyo LMS",
@@ -5912,81 +6044,6 @@
         }
       }
     },
-    "zakra-drone-v2": {
-      "title": "MegaDrone",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/drone-v2/",
-      "description": "Show what you can offer via aerial photography via this drone demo.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        },
-        "woocommerce": {
-          "name": "WooCommerce",
-          "slug": "woocommerce/woocommerce.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Drone",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#e00000",
-          "#171717",
-          "#756f6f",
-          "#e00000"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
     "zakra-dental-clinic": {
       "title": "Dental Clinic",
       "isPremium": true,
@@ -6055,68 +6112,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary"
-        }
-      }
-    },
-    "zakra-drone": {
-      "title": "Drone",
-      "preview": "https://zakrademos.com/drone/",
-      "description": "Start the future of photography and and videography form this Zakra demo",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Drone",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#ef6751",
-          "#54595f",
-          "#596172",
-          "#61ce70"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Barlow",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Barlow",
-            "font_weight": "700"
-          },
-          "body": {
-            "font_family": "Barlow",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Barlow",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
         }
       }
     },
