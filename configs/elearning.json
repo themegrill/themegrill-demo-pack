@@ -57,6 +57,51 @@
         "general.styling.primary_color": "#7963E0"
       }
     },
+    "elearning-eduflex-v2": {
+      "title": "Eduflex V2",
+      "preview": "https://themegrilldemos.com/elearning-eduflex-v2/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business",
+        "articles"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Eduflex",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#DB5F29"
+      }
+    },
     "elearning-eduflex": {
       "title": "Eduflex",
       "preview": "https://themegrilldemos.com/elearning-eduflex/",
