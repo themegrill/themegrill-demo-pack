@@ -139,6 +139,144 @@
         }
       }
     },
+    "zakra-cleaner": {
+      "title": "Cleaner",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/cleaner/",
+      "description": "WordPress Template Site for Professional Cleaning and Maid Services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Cleaner",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#13287E",
+          "#31C37D",
+          "#111111",
+          "#29A268"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Muli",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Muli",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Muli",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },
+    "zakra-education-v2": {
+      "title": "University",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/education-v2/",
+      "description": "Use this demo to start your innovation on sharing education.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Education v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#fdc800",
+          "#343a40",
+          "#002248"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Open Sans",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Open Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Open Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
     "zakra-chapel": {
       "title": "Chapel",
       "isPremium": true,
@@ -180,6 +318,47 @@
         }
       }
     },
+    "zakra-startup-business": {
+      "title": "Startup Business",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/startup-business/",
+      "description": "Elementor-Based Template Site to create your startup business website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+      "companion-elementor": {
+        "name": "CE Addons",
+        "slug": "companion-elementor/companion-elementor.php"
+      }
+      },
+      "core_options": {
+        "blogname": "Startup Business",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-luxuria": {
       "title": "Luxuria",
       "isPremium": true,
@@ -212,6 +391,145 @@
       },
       "core_options": {
         "blogname": "Luxuria",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-lawyer": {
+      "title": "Lawyer",
+      "preview": "https://zakrademos.com/lawyer/",
+      "description": "Use this Zakra demo to create your awesome law firm website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Lawyer",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-interior-design": {
+      "title": "Interior Design",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/interior-design/",
+      "description": "Elementor-Based Template Site for Interior Designing.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Interior Design",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-dentify": {
+      "title": "Dentify",
+      "preview": "https://zakrademos.com/dentify/",
+      "description": "Elementor-Based Template Site for Dental Services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Dentify",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -292,47 +610,6 @@
         }
       }
     },
-    "zakra-startup-business": {
-      "title": "Startup Business",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/startup-business/",
-      "description": "Elementor-Based Template Site to create your startup business website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-      "companion-elementor": {
-        "name": "CE Addons",
-        "slug": "companion-elementor/companion-elementor.php"
-      }
-      },
-      "core_options": {
-        "blogname": "Startup Business",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-nutricoach": {
       "title": "nutriCoach",
       "isPremium": true,
@@ -353,68 +630,6 @@
         "blogname": "nutriCoach",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-lawyer": {
-      "title": "Lawyer",
-      "preview": "https://zakrademos.com/lawyer/",
-      "description": "Use this Zakra demo to create your awesome law firm website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Lawyer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#b89b5e",
-          "#ffffff",
-          "#868e96",
-          "#b89b5e"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          }
-        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -497,6 +712,73 @@
         }
       }
     },
+    "zakra-charity-v2": {
+      "title": "Foundation",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/charity-v2/",
+      "description": "Use this demo to help the suffered peoples by raising funds.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "non-profit"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Charity v2",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#292929",
+          "#f13e4b",
+          "#808080",
+          "#f13e4b"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Noto Serif",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Noto Serif",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Noto Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Noto Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-flavourfuse": {
       "title": "FlavourFuse",
       "preview": "https://zakrademos.com/flavourfuse/",
@@ -526,6 +808,42 @@
         "blogname": "FlavourFuse",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-plumber": {
+      "title": "Plumber",
+      "preview": "https://zakrademos.com/plumber/",
+      "description": "Use this demo for plumbing services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Plumber",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -670,42 +988,6 @@
       },
       "core_options": {
         "blogname": "Optigo",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-dentify": {
-      "title": "Dentify",
-      "preview": "https://zakrademos.com/dentify/",
-      "description": "Elementor-Based Template Site for Dental Services.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Dentify",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -4854,139 +5136,6 @@
         }
       }
     },
-    "zakra-plumber": {
-      "title": "Plumber",
-      "preview": "https://zakrademos.com/plumber/",
-      "description": "Expand your Plumbing Services with this Zakra Demo",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "social-icons": {
-          "name": "Social Icons",
-          "slug": "social-icons/social-icons.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Plumber",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#0d54e5",
-          "#f76707",
-          "#909294",
-          "#909294"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Montserrat",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Montserrat",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main Menu"
-        }
-      }
-    },
-    "zakra-cleaner": {
-      "title": "Cleaner",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/cleaner/",
-      "description": "WordPress Template Site for Professional Cleaning and Maid Services.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Cleaner",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#13287E",
-          "#31C37D",
-          "#111111",
-          "#29A268"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Muli",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Muli",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Muli",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Muli",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main"
-        }
-      }
-    },
     "zakra-construction": {
       "title": "Construction",
       "preview": "https://zakrademos.com/construction/",
@@ -5566,73 +5715,6 @@
         }
       }
     },
-    "zakra-charity-v2": {
-      "title": "Foundation",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/charity-v2/",
-      "description": "Use this demo to help the suffered peoples by raising funds.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "non-profit"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Charity v2",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#292929",
-          "#f13e4b",
-          "#808080",
-          "#f13e4b"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Noto Serif",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Noto Serif",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Noto Sans",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Noto Sans",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
     "zakra-dentist": {
       "title": "Dentist",
       "preview": "https://zakrademos.com/dentist/",
@@ -5763,77 +5845,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "zakra-education-v2": {
-      "title": "University",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/education-v2/",
-      "description": "Use this demo to start your innovation on sharing education.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Education v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#212529",
-          "#fdc800",
-          "#343a40",
-          "#002248"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Open Sans",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Open Sans",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Open Sans",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Open Sans",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
         }
       }
     },
