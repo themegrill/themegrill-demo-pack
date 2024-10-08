@@ -174,32 +174,6 @@
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
-      "elementor_schemes": {
-        "color": [
-          "#13287E",
-          "#31C37D",
-          "#111111",
-          "#29A268"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Muli",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Muli",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Muli",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Muli",
-            "font_weight": "500"
-          }
-        }
-      },
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main"
@@ -234,42 +208,12 @@
         "companion-elementor": {
           "name": "CE Addons",
           "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
         "blogname": "Zakra Education v2",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#212529",
-          "#fdc800",
-          "#343a40",
-          "#002248"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Open Sans",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Open Sans",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Open Sans",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Open Sans",
-            "font_weight": "500"
-          }
-        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -359,11 +303,11 @@
         }
       }
     },
-    "zakra-luxuria": {
-      "title": "Luxuria",
+    "zakra-interior-design": {
+      "title": "Interior Design",
       "isPremium": true,
-      "preview": "https://zakrademos.com/luxuria/",
-      "description": "Elementor-Based Template Site for Resorts and Hotels.",
+      "preview": "https://zakrademos.com/interior-design/",
+      "description": "Elementor-Based Template Site for Interior Designing.",
       "template": [
         "zakra"
       ],
@@ -390,7 +334,7 @@
         }
       },
       "core_options": {
-        "blogname": "Luxuria",
+        "blogname": "Interior Design",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -462,11 +406,38 @@
         }
       }
     },
-    "zakra-interior-design": {
-      "title": "Interior Design",
+    "zakra-nutricoach": {
+      "title": "nutriCoach",
       "isPremium": true,
-      "preview": "https://zakrademos.com/interior-design/",
-      "description": "Elementor-Based Template Site for Interior Designing.",
+      "preview": "https://zakrademos.com/nutricoach/",
+      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "core_options": {
+        "blogname": "nutriCoach",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-luxuria": {
+      "title": "Luxuria",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/luxuria/",
+      "description": "Elementor-Based Template Site for Resorts and Hotels.",
       "template": [
         "zakra"
       ],
@@ -493,7 +464,7 @@
         }
       },
       "core_options": {
-        "blogname": "Interior Design",
+        "blogname": "Luxuria",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -607,33 +578,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Menu"
-        }
-      }
-    },
-    "zakra-nutricoach": {
-      "title": "nutriCoach",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/nutricoach/",
-      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "core_options": {
-        "blogname": "nutriCoach",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
         }
       }
     },
