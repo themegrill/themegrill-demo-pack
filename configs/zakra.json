@@ -433,11 +433,11 @@
         }
       }
     },
-    "zakra-luxuria": {
-      "title": "Luxuria",
+    "zakra-law-firm": {
+      "title": "Law Firm",
       "isPremium": true,
-      "preview": "https://zakrademos.com/luxuria/",
-      "description": "Elementor-Based Template Site for Resorts and Hotels.",
+      "preview": "https://zakrademos.com/law-firm/",
+      "description": "WordPress Template Site for Law Firm and Lawyers/ Attorney",
       "template": [
         "zakra"
       ],
@@ -461,10 +461,14 @@
         "companion-elementor": {
           "name": "CE Addons",
           "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
         }
       },
       "core_options": {
-        "blogname": "Luxuria",
+        "blogname": "Zakra Law Firm",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -501,6 +505,47 @@
       },
       "core_options": {
         "blogname": "Dentify",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-luxuria": {
+      "title": "Luxuria",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/luxuria/",
+      "description": "Elementor-Based Template Site for Resorts and Hotels.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Luxuria",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -5239,77 +5284,6 @@
           "accent": {
             "font_family": "Caudex",
             "font_weight": "400"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-law-firm": {
-      "title": "Law Firm",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/law-firm/",
-      "description": "WordPress Template Site for Law Firm and Lawyers/ Attorney",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Law Firm",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#313133",
-          "#212529",
-          "#212529",
-          "#313133"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Default",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Default",
-            "font_weight": "500"
-          },
-          "body": {
-            "font_family": "Default",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "PT Serif",
-            "font_weight": "700"
           }
         }
       },
