@@ -59,44 +59,6 @@
         }
       }
     },
-    "zakra-gamer": {
-      "title": "Gamer",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/gamer/",
-      "description": "Gutenberg Based WooCommerce Template Site for Gamers.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business",
-        "ecommerce"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Gamer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-coffee-shop": {
       "title": "Coffee Shop",
       "isPremium": true,
@@ -139,6 +101,68 @@
         }
       }
     },
+    "zakra-lawyer": {
+      "title": "Lawyer",
+      "preview": "https://zakrademos.com/lawyer/",
+      "description": "Use this Zakra demo to create your awesome law firm website.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Lawyer",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-cleaner": {
       "title": "Cleaner",
       "isPremium": true,
@@ -174,50 +198,35 @@
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
+      "elementor_schemes": {
+        "color": [
+          "#b89b5e",
+          "#ffffff",
+          "#868e96",
+          "#b89b5e"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Lato",
+            "font_weight": "400"
+          }
+        }
+      },
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main"
-        }
-      }
-    },
-    "zakra-education-v2": {
-      "title": "University",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/education-v2/",
-      "description": "Use this demo to start your innovation on sharing education.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Education v2",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
         }
       }
     },
@@ -255,6 +264,32 @@
         "blogname": "Chapel",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#db9e30",
+          "#ab6b35",
+          "#222222",
+          "#db9e30"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Merriweather",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          }
+        }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -344,68 +379,6 @@
         }
       }
     },
-    "zakra-lawyer": {
-      "title": "Lawyer",
-      "preview": "https://zakrademos.com/lawyer/",
-      "description": "Use this Zakra demo to create your awesome law firm website.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Lawyer",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#b89b5e",
-          "#ffffff",
-          "#868e96",
-          "#b89b5e"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Lato",
-            "font_weight": "400"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
     "zakra-nutricoach": {
       "title": "nutriCoach",
       "isPremium": true,
@@ -430,6 +403,47 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-education-v2": {
+      "title": "University",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/education-v2/",
+      "description": "Use this demo to start your innovation on sharing education.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Education v2",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
         }
       }
     },
@@ -505,6 +519,44 @@
       },
       "core_options": {
         "blogname": "Dentify",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-gamer": {
+      "title": "Gamer",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/gamer/",
+      "description": "Gutenberg Based WooCommerce Template Site for Gamers.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "blockart-blocks": {
+          "name": "BlockArt",
+          "slug": "blockart-blocks/blockart.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Gamer",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
