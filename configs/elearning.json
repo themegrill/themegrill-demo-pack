@@ -57,8 +57,52 @@
         "general.styling.primary_color": "#7963E0"
       }
     },
+    "elearning-edulex": {
+      "title": "edulex",
+      "preview": "https://themegrilldemos.com/elearning-edulex/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "edulex",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#56C361"
+      }
+    },
     "elearning-eduflex-v2": {
-      "title": "Eduflex V2",
+      "title": "eduflex V2",
       "preview": "https://themegrilldemos.com/elearning-eduflex-v2/",
       "description": "Just another Masteriyo demo site for educational purposes",
       "template": [
@@ -89,7 +133,7 @@
         }
       },
       "core_options": {
-        "blogname": "Eduflex",
+        "blogname": "eduflex",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -103,7 +147,7 @@
       }
     },
     "elearning-eduflex": {
-      "title": "Eduflex",
+      "title": "eduflex",
       "preview": "https://themegrilldemos.com/elearning-eduflex/",
       "description": "Just another Masteriyo demo site for educational purposes",
       "template": [
@@ -133,7 +177,7 @@
         }
       },
       "core_options": {
-        "blogname": "Eduflex",
+        "blogname": "eduflex",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
