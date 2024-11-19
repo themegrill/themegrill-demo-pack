@@ -57,6 +57,50 @@
         "general.styling.primary_color": "#7963E0"
       }
     },
+    "elearning-learnloop": {
+      "title": "LearnLoop",
+      "preview": "https://themegrilldemos.com/elearning-learnloop/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "learning-management-system": {
+          "name": "Masteriyo LMS",
+          "slug": "learning-management-system/lms.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "learnloop",
+        "page_on_front": "Home",
+        "page_for_posts": "Blogs"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#706fe5"
+      }
+    },
     "elearning-edulex": {
       "title": "edulex",
       "preview": "https://themegrilldemos.com/elearning-edulex/",
