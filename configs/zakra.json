@@ -2454,6 +2454,7 @@
     },
     "zakra-gym-v2": {
       "title": "Gym v2",
+      "isPremium": true,
       "preview": "https://zakrademos.com/gym-v2/",
       "description": "Gutenberg websites to inspire your customer for joining your fitness program",
       "template": [
@@ -3755,6 +3756,7 @@
     },
     "zakra-gym": {
       "title": "Gym",
+      "isPremium": true,
       "preview": "https://zakrademos.com/gym/",
       "description": "Inspire your customer for joining your fitness program",
       "template": [
@@ -3776,6 +3778,10 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
         }
       },
       "core_options": {
