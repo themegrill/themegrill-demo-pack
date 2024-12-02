@@ -338,6 +338,72 @@
         }
       }
     },
+    "zakra-charity": {
+      "title": "Charity",
+      "preview": "https://zakrademos.com/charity/",
+      "description": "This Zakra demo is to help the ones in need from your sources.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "non-profit"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "give": {
+          "name": "Give – Donation Plugin and Fundraising Platform",
+          "slug": "give/give.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Charity",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#E76F1B",
+          "#f3f5f7",
+          "#363b40",
+          "#16181a"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "700"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary Menu"
+        }
+      }
+    },
     "zakra-interior-design": {
       "title": "Interior Design",
       "isPremium": true,
@@ -5815,72 +5881,6 @@
           "accent": {
             "font_family": "Soruce Sans Pro",
             "font_weight": "600"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "zakra-charity": {
-      "title": "Charity",
-      "preview": "https://zakrademos.com/charity/",
-      "description": "This Zakra demo is to help the ones in need from your sources.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "non-profit"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "give": {
-          "name": "Give – Donation Plugin and Fundraising Platform",
-          "slug": "give/give.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Charity",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#5bded5",
-          "#f3f5f7",
-          "#363b40",
-          "#16181a"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "700"
-          },
-          "body": {
-            "font_family": "Merriweather",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Merriweather",
-            "font_weight": "400"
           }
         }
       },
