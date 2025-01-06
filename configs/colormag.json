@@ -91,8 +91,7 @@
       "preview": "https://themegrilldemos.com/colormag-flavorbud/",
       "description": "Gutenberg-based WordPress Template Site for Food, Recepies Blog & Magazine",
       "template": [
-        "colormag",
-        "colormag-pro"
+        "colormag"
       ],
       "category": [
         "all",
@@ -113,6 +112,40 @@
         "blogname": "ColorMag Flavorbud",
         "page_on_front": "Home",
         "page_for_posts": "All Recipes"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    },  
+    "colormag-dailymag": {
+      "title": "Dailymag",
+      "preview": "https://themegrilldemos.com/colormag-dailymag/",
+      "description": "Gutenberg-based WordPress Template Site for Online Magazine",
+      "template": [
+        "colormag"
+      ],
+      "category": [
+        "all",
+        "news",
+	"blog",
+	"magazine"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Dailymag",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
