@@ -404,6 +404,141 @@
         }
       }
     },
+    "zakra-wedding-v2": {
+      "title": "Wedding Organizer",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/wedding-v2/",
+      "description": "Use this demo to best showcase the wedding events and plans which you can manage for your clients.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Wedding v2",
+        "page_on_front": "HOME",
+        "page_for_posts": "BLOG"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#c04983",
+          "#000000",
+          "#7b7a7a",
+          "#c04983"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Parisienne",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Primary"
+        }
+      }
+    },
+
+    "zakra-nutricoach": {
+      "title": "nutriCoach",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/nutricoach/",
+      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "core_options": {
+        "blogname": "nutriCoach",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
+    "zakra-travel-02": {
+      "title": "Travel 02",
+      "preview": "https://zakrademos.com/travel-02/",
+      "description": "Elementor-Based Template Site to enhance travel experiences and help agencies provide better travel services. ",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Travel 02",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
+        }
+      }
+    },
     "zakra-interior-design": {
       "title": "Interior Design",
       "isPremium": true,
@@ -436,33 +571,6 @@
       },
       "core_options": {
         "blogname": "Interior Design",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-nutricoach": {
-      "title": "nutriCoach",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/nutricoach/",
-      "description": "A beautiful Gutenberg-based WordPress template site for nutritionists, dietitians, health coaches, etc.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "core_options": {
-        "blogname": "nutriCoach",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
@@ -6245,77 +6353,6 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
-        }
-      }
-    },
-    "zakra-wedding-v2": {
-      "title": "Wedding Organizer",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/wedding-v2/",
-      "description": "Use this demo to best showcase the wedding events and plans which you can manage for your clients.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Wedding v2",
-        "page_on_front": "HOME",
-        "page_for_posts": "BLOG"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#c04983",
-          "#000000",
-          "#7b7a7a",
-          "#c04983"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Parisienne",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Primary"
         }
       }
     },
