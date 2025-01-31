@@ -740,11 +740,10 @@
         }
       }
     },
-    "zakra-luxuria": {
-      "title": "Luxuria",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/luxuria/",
-      "description": "Elementor-Based Template Site for Resorts and Hotels.",
+    "zakra-job-portal": {
+      "title": "Job Portal",
+      "preview": "https://zakrademos.com/job-portal/",
+      "description": "WordPress template site suitable for all kinds of job portal, online recruitment, job seekers, site with awesome design",
       "template": [
         "zakra"
       ],
@@ -764,92 +763,46 @@
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
         }
       },
       "core_options": {
-        "blogname": "Luxuria",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      }
-    },
-    "zakra-spa-v2": {
-      "title": "Spa Center",
-      "isPremium": true,
-      "preview": "https://zakrademos.com/spa-v2/",
-      "description": "Use this demo to showcase your ultimate relaxation services.",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        },
-        "companion-elementor": {
-          "name": "CE Addons",
-          "slug": "companion-elementor/companion-elementor.php"
-        },
-        "mailchimp-for-wp": {
-          "name": "MailChimp for WordPress",
-          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Zakra Spa",
+        "blogname": "Job Portal",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
-          "#212529",
-          "#343a40",
-          "#9a9a99",
-          "#2d2a27"
+          "#6EC1E4",
+          "#54595F",
+          "#7A7A7A",
+          "#61CE70"
         ],
         "typography": {
           "primary": {
-            "font_family": "Playfair Display SC",
-            "font_weight": "700"
+            "font_family": "Roboto",
+            "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Poppins",
+            "font_family": "Roboto Slab",
             "font_weight": "400"
           },
           "body": {
-            "font_family": "Poppins",
+            "font_family": "Roboto",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Playfair Display",
-            "font_weight": "700"
+            "font_family": "Roboto",
+            "font_weight": "500"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Menu"
+          "menu-primary": "Main"
         }
+      },
+      "masteriyo_settings": {
+        "general.styling.primary_color": "#021e41"
       }
     },
     "zakra-drone-v2": {
@@ -924,6 +877,118 @@
       "customizer_data_update": {
         "nav_menu_locations": {
           "menu-primary": "Primary Menu"
+        }
+      }
+    },
+    "zakra-spa-v2": {
+      "title": "Spa Center",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/spa-v2/",
+      "description": "Use this demo to showcase your ultimate relaxation services.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        },
+        "mailchimp-for-wp": {
+          "name": "MailChimp for WordPress",
+          "slug": "mailchimp-for-wp/mailchimp-for-wp.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Zakra Spa",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#212529",
+          "#343a40",
+          "#9a9a99",
+          "#2d2a27"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display SC",
+            "font_weight": "700"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Playfair Display",
+            "font_weight": "700"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Menu"
+        }
+      }
+    },
+    "zakra-luxuria": {
+      "title": "Luxuria",
+      "isPremium": true,
+      "preview": "https://zakrademos.com/luxuria/",
+      "description": "Elementor-Based Template Site for Resorts and Hotels.",
+      "template": [
+        "zakra"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        },
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "companion-elementor": {
+          "name": "CE Addons",
+          "slug": "companion-elementor/companion-elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Luxuria",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "menu-primary": "Main"
         }
       }
     },
@@ -3192,71 +3257,6 @@
       },
       "masteriyo_settings": {
         "general.styling.primary_color": "#fdc800"
-      }
-    },
-    "zakra-job-portal": {
-      "title": "Job Portal",
-      "preview": "https://zakrademos.com/job-portal/",
-      "description": "WordPress template site suitable for all kinds of job portal, online recruitment, job seekers, site with awesome design",
-      "template": [
-        "zakra"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Job Portal",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "elementor_schemes": {
-        "color": [
-          "#6EC1E4",
-          "#54595F",
-          "#7A7A7A",
-          "#61CE70"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Roboto",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Roboto Slab",
-            "font_weight": "400"
-          },
-          "body": {
-            "font_family": "Roboto",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Roboto",
-            "font_weight": "500"
-          }
-        }
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      },
-      "masteriyo_settings": {
-        "general.styling.primary_color": "#021e41"
       }
     },
     "zakra-digital-diary": {
