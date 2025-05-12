@@ -14,10 +14,10 @@
     "all": "All",
     "default": "Default",
     "elementor": "Elementor",
-    "gutenberg": "Gutenberg"		
+    "gutenberg": "Gutenberg"
   },
   "demos": {
-      "colormag-free": {
+    "colormag-free": {
       "title": "Main",
       "preview": "https://themegrilldemos.com/colormag/",
       "description": "This is the default ColorMag demo perfect for your online magazine.",
@@ -30,7 +30,7 @@
         "news",
         "blog"
       ],
-        "pagebuilder": [
+      "pagebuilder": [
         "all",
         "gutenberg"
       ],
@@ -42,7 +42,7 @@
       },
       "core_options": {
         "blogname": "ColorMag",
-	"page_on_front": "Home",
+        "page_on_front": "Home",
         "page_for_posts": "News"
       },
       "widgets_data_update": {
@@ -86,7 +86,7 @@
         }
       }
     },
-   "colormag-flavorbud": {
+    "colormag-flavorbud": {
       "title": "Flavorbud",
       "preview": "https://themegrilldemos.com/colormag-flavorbud/",
       "description": "Gutenberg-based WordPress Template Site for Food, Recepies Blog & Magazine",
@@ -95,8 +95,8 @@
       ],
       "category": [
         "all",
-	"blog",
-	"magazine"
+        "blog",
+        "magazine"
       ],
       "pagebuilder": [
         "all",
@@ -118,7 +118,7 @@
           "primary": "Main"
         }
       }
-    },  
+    },
     "colormag-dailymag": {
       "title": "Dailymag",
       "preview": "https://themegrilldemos.com/colormag-dailymag/",
@@ -129,8 +129,8 @@
       "category": [
         "all",
         "news",
-	"blog",
-	"magazine"
+        "blog",
+        "magazine"
       ],
       "pagebuilder": [
         "all",
@@ -152,8 +152,8 @@
           "primary": "Main"
         }
       }
-    },  
-"colormag-pro": {
+    },
+    "colormag-pro": {
       "isPro": true,
       "title": "Main V2",
       "preview": "https://themegrilldemos.com/colormag-pro/",
@@ -322,8 +322,8 @@
       "category": [
         "all",
         "news",
-	"blog",
-	"magazine"
+        "blog",
+        "magazine"
       ],
       "pagebuilder": [
         "all",
@@ -346,7 +346,7 @@
         }
       }
     },
-     "colormag-thenewshive": {
+    "colormag-thenewshive": {
       "title": "TheNewsHive",
       "preview": "https://themegrilldemos.com/colormag-thenewshive/",
       "description": "Gutenberg-based WordPress Template Site for Blog, Newspaper & Magazine",
@@ -357,8 +357,8 @@
       "category": [
         "all",
         "news",
-	"blog",
-	"magazine"
+        "blog",
+        "magazine"
       ],
       "pagebuilder": [
         "all",
@@ -380,7 +380,7 @@
           "primary": "Primary"
         }
       }
-    },    
+    },
     "colormag-newspaper": {
       "title": "Newspaper",
       "preview": "https://themegrilldemos.com/colormag-newspaper/",
@@ -488,7 +488,7 @@
                 "2": "Business"
               },
               "ColorMag-Posts-Block-8": {
-                "8" : "Most Popular News",
+                "8": "Most Popular News",
                 "10": "National"
               },
               "ColorMag-Posts-Block-10": {
@@ -2702,7 +2702,7 @@
           "primary": "Primary"
         }
       }
-    }, 
+    },
     "colormag-pro-health-blog": {
       "isPro": true,
       "title": "Health Blog",
@@ -2888,8 +2888,8 @@
       "category": [
         "all",
         "news",
-	"blog",
-	"magazine"
+        "blog",
+        "magazine"
       ],
       "pagebuilder": [
         "all",
@@ -2912,350 +2912,272 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-              "primary": "Main",
-              "menu-secondary": "Secondary"
+          "primary": "Main",
+          "menu-secondary": "Secondary"
         }
       },
       "magazine_blocks_settings": {
         "blocks": {
-          "section": 1,
-          "heading": 1,
-          "icon": 1,
-          "image": 1,
-          "advertisement": 1,
-          "banner-posts": 1,
-          "grid-module": 1,
-          "featured-posts": 1,
-          "featured-categories": 1,
-          "tab-post": 1,
-          "post-list": 1,
-          "post-video": 1,
-          "category-list": 1,
-          "news-ticker": 1,
-          "date-weather": 1,
-          "social-icons": 1,
-          "slider": 1
+          "section": true,
+          "heading": true,
+          "icon": true,
+          "image": true,
+          "advertisement": true,
+          "banner-posts": true,
+          "grid-module": true,
+          "featured-posts": true,
+          "featured-categories": true,
+          "tab-post": true,
+          "post-list": true,
+          "post-video": true,
+          "category-list": true,
+          "news-ticker": true,
+          "date-weather": true,
+          "social-icons": true,
+          "slider": true
         },
         "editor": {
           "section-width": 1170,
           "editor-blocks-spacing": 24,
-          "design-library": 1,
+          "design-library": true,
           "responsive-breakpoints": {
             "tablet": 992,
             "mobile": 768
           },
-          "copy-paste-styles": 1,
-          "auto-collapse-panels": 1
+          "copy-paste-styles": true,
+          "auto-collapse-panels": true
         },
         "performance": {
-          "local-google-fonts": "",
-          "preload-local-fonts": "",
-          "allow-only-selected-fonts": "",
+          "local-google-fonts": false,
+          "preload-local-fonts": false,
+          "allow-only-selected-fonts": false,
           "allowed-fonts": []
         },
         "asset-generation": {
-          "external-file": ""
+          "external-file": false
         },
         "version-control": {
-          "beta-tester": ""
+          "beta-tester": false
         },
         "maintenance-mode": {
           "mode": "none",
-          "maintenance-page": ""
+          "maintenance-page": null
         },
         "integrations": {
           "dateWeatherApiKey": "",
           "dateWeatherZipCode": ""
         },
-        "global-styles": {
-          "colors": [
-            {
-              "id": "primary",
-              "name": "Primary",
-              "value": "#8269df"
-            },
-            {
-              "id": "secondary",
-              "name": "Secondary",
-              "value": "#e14d36"
-            },
-            {
-              "id": "text",
-              "name": "Text",
-              "value": "#1e1e1e"
-            },
-            {
-              "id": "accent",
-              "name": "Accent",
-              "value": "#f09819"
-            },
-            {
-              "id": "custom-color-1",
-              "name": "Border",
-              "value": "#e0e0e0"
-            },
-            {
-              "id": "custom-color-2",
-              "name": "Meta Text",
-              "value": "#afa192"
-            },
-            {
-              "id": "custom-color-3",
-              "name": "Meta Dot",
-              "value": "#909090"
-            },
-            {
-              "id": "custom-color-5",
-              "name": "Paragraph",
-              "value": "#818181"
-            }
-          ],
-          "typographies": [
-            {
-              "id": "primary",
-              "name": "Primary",
-              "value": {
-                "fontFamily": "Default",
-                "weight": 600
-              }
-            },
-            {
-              "id": "secondary",
-              "name": "Secondary",
-              "value": {
-                "fontFamily": "Default",
-                "weight": 400
-              }
-            },
-            {
-              "id": "text",
-              "name": "Text",
-              "value": {
-                "fontFamily": "Default",
-                "weight": 600
-              }
-            },
-            {
-              "id": "accent",
-              "name": "Accent",
-              "value": {
-                "fontFamily": "Default",
-                "weight": 500
-              }
-            }
-          ],
-          "_modified": "2025-05-07T01:38:53.106Z"
-        },
+        "global-styles": "{\"colors\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":\"#8269df\"},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":\"#e14d36\"},{\"id\":\"text\",\"name\":\"Text\",\"value\":\"#1e1e1e\"},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":\"#f09819\"},{\"id\":\"custom-color-1\",\"name\":\"Border\",\"value\":\"#e0e0e0\"},{\"id\":\"custom-color-2\",\"name\":\"Meta Text\",\"value\":\"#afa192\"},{\"id\":\"custom-color-3\",\"name\":\"Meta Dot\",\"value\":\"#909090\"},{\"id\":\"custom-color-5\",\"name\":\"Paragraph\",\"value\":\"#818181\"}],\"typographies\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":400}},{\"id\":\"text\",\"name\":\"Text\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":{\"fontFamily\":\"Default\",\"weight\":500}}],\"_modified\":\"2025-05-07T01:38:53.106Z\"}",
         "_locale": "user"
       }
-    }, 
+    },
     "colormag-pro-recipes": {
-        "isPro": true,
-        "title": "Food Recipe",
-        "preview": "https://themegrilldemos.com/colormag-pro-recipes/",
-        "description": "Want to show your food recipes? Here’s the ColorMag demo for you.",
-        "template": [
-          "colormag-pro"
-        ],
-        "category": [
-          "all",
-          "others"
-        ],
-        "pagebuilder": [
-          "all",
-          "elementor"
-        ],
-        "plugins_list": {
-          "elementor": {
-            "name": "Elementor",
-            "slug": "elementor/elementor.php"
-          },
-          "everest-forms": {
-            "name": "Everest Forms",
-            "slug": "everest-forms/everest-forms.php"
+      "isPro": true,
+      "title": "Food Recipe",
+      "preview": "https://themegrilldemos.com/colormag-pro-recipes/",
+      "description": "Want to show your food recipes? Here’s the ColorMag demo for you.",
+      "template": [
+        "colormag-pro"
+      ],
+      "category": [
+        "all",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag Pro Recipe",
+        "page_on_front": "Homepage"
+      },
+      "elementor_data_update": {
+        "homepage": {
+          "post_title": "Homepage",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-6": {
+                "10": "Popular",
+                "14": "News"
+              },
+              "ColorMag-Posts-Block-7": {
+                "9": "Risotto"
+              },
+              "ColorMag-Posts-Block-8": {
+                "4": "Cake"
+              },
+              "ColorMag-Posts-Block-9": {
+                "6": "Quick recipes",
+                "8": "Pizzas"
+              },
+              "ColorMag-Posts-Grid-3": {
+                "5": "Desert"
+              },
+              "ColorMag-Posts-Grid-4": {
+                "6": "Quick recipes"
+              }
+            }
           }
         },
-        "core_options": {
-          "blogname": "ColorMag Pro Recipe",
-          "page_on_front": "Homepage"
+        "baking": {
+          "post_title": "Baking",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "3": "Baking"
+              },
+              "ColorMag-Posts-Block-9": {
+                "14": "News"
+              }
+            }
+          }
         },
-        "elementor_data_update": {
-          "homepage": {
-            "post_title": "Homepage",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-6": {
-                  "10": "Popular",
-                  "14": "News"
-                },
-                "ColorMag-Posts-Block-7": {
-                  "9": "Risotto"
-                },
-                "ColorMag-Posts-Block-8": {
-                  "4": "Cake"
-                },
-                "ColorMag-Posts-Block-9": {
-                  "6": "Quick recipes",
-                  "8": "Pizzas"
-                },
-                "ColorMag-Posts-Grid-3": {
-                  "5": "Desert"
-                },
-                "ColorMag-Posts-Grid-4": {
-                  "6": "Quick recipes"
-                }
+        "breakfast": {
+          "post_title": "Breakfast",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "13": "Breakfast"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "baking": {
-            "post_title": "Baking",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "3": "Baking"
-                },
-                "ColorMag-Posts-Block-9": {
-                  "14": "News"
-                }
+          }
+        },
+        "desert": {
+          "post_title": "Desert",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "5": "Desert"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "breakfast": {
-            "post_title": "Breakfast",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "13": "Breakfast"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "news": {
+          "post_title": "News",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "14": "News"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "desert": {
-            "post_title": "Desert",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "5": "Desert"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "noodels": {
+          "post_title": "Noodels",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "7": "Noddles"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "news": {
-            "post_title": "News",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "14": "News"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "pasta": {
+          "post_title": "Pasta",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "12": "Pasta"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "noodels": {
-            "post_title": "Noodels",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "7": "Noddles"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "pizzas": {
+          "post_title": "Pizzas",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "8": "Pizzas"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "pasta": {
-            "post_title": "Pasta",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "12": "Pasta"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "popular": {
+          "post_title": "Popular",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "10": "Popular"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "pizzas": {
-            "post_title": "Pizzas",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "8": "Pizzas"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "quick-recipes": {
+          "post_title": "Quick Recipes",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "6": "Quick recipes"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "popular": {
-            "post_title": "Popular",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "10": "Popular"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "risotto": {
+          "post_title": "Risotto",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "9": "Risotto"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "quick-recipes": {
-            "post_title": "Quick Recipes",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "6": "Quick recipes"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
+          }
+        },
+        "smoothie": {
+          "post_title": "Smoothie",
+          "data_update": {
+            "category": {
+              "ColorMag-Posts-Block-5": {
+                "11": "Smoothie"
+              },
+              "ColorMag-Posts-Block-6": {
+                "14": "News"
               }
             }
-          },
-          "risotto": {
-            "post_title": "Risotto",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "9": "Risotto"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
-              }
-            }
-          },
-          "smoothie": {
-            "post_title": "Smoothie",
-            "data_update": {
-              "category": {
-                "ColorMag-Posts-Block-5": {
-                  "11": "Smoothie"
-                },
-                "ColorMag-Posts-Block-6": {
-                  "14": "News"
-                }
-              }
-            }
-          },
-          "customizer_data_update": {
-            "nav_menu_locations": {
-              "primary": "PrimaryMenu"
-            }
+          }
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "primary": "PrimaryMenu"
           }
         }
       }
     }
+  }
 }
