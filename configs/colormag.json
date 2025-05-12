@@ -17,7 +17,7 @@
     "gutenberg": "Gutenberg"		
   },
   "demos": {
-       "colormag-free": {
+      "colormag-free": {
       "title": "Main",
       "preview": "https://themegrilldemos.com/colormag/",
       "description": "This is the default ColorMag demo perfect for your online magazine.",
@@ -2878,6 +2878,44 @@
         }
       }
     },
+    "colormag-main-demo": {
+      "title": "Main Demo",
+      "preview": "https://themegrilldemos.com/colormag-main-demo/",
+      "description": "Gutenberg-based WordPress Template Site for Online Magazine",
+      "template": [
+        "colormag"
+      ],
+      "category": [
+        "all",
+        "news",
+	"blog",
+	"magazine"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main"
+        }
+      }
+    }, 
 	"colormag-pro-recipes": {
       "isPro": true,
       "title": "Food Recipe",
