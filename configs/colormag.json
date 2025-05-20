@@ -20,100 +20,7 @@
     "colormag-free": {
       "title": "Main",
       "preview": "https://themegrilldemos.com/colormag/",
-      "description": "This is the default ColorMag demo perfect for your online magazine and blog sites",
-      "template": [
-        "colormag"
-      ],
-      "category": [
-        "all",
-        "news",
-        "blog",
-        "magazine"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "magazine-blocks": {
-          "name": "Magazine Blocks",
-          "slug": "magazine-blocks/magazine-blocks.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        }
-      },
-      "core_options": {
-        "blogname": "ColorMag",
-        "page_on_front": "Home",
-        "page_for_posts": "News"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main",
-          "menu-secondary": "Secondary"
-        }
-      },
-      "magazine_blocks_settings": {
-        "blocks": {
-          "section": true,
-          "heading": true,
-          "icon": true,
-          "image": true,
-          "advertisement": true,
-          "banner-posts": true,
-          "grid-module": true,
-          "featured-posts": true,
-          "featured-categories": true,
-          "tab-post": true,
-          "post-list": true,
-          "post-video": true,
-          "category-list": true,
-          "news-ticker": true,
-          "date-weather": true,
-          "social-icons": true,
-          "slider": true
-        },
-        "editor": {
-          "section-width": 1170,
-          "editor-blocks-spacing": 24,
-          "design-library": true,
-          "responsive-breakpoints": {
-            "tablet": 992,
-            "mobile": 768
-          },
-          "copy-paste-styles": true,
-          "auto-collapse-panels": true
-        },
-        "performance": {
-          "local-google-fonts": false,
-          "preload-local-fonts": false,
-          "allow-only-selected-fonts": false,
-          "allowed-fonts": []
-        },
-        "asset-generation": {
-          "external-file": false
-        },
-        "version-control": {
-          "beta-tester": false
-        },
-        "maintenance-mode": {
-          "mode": "none",
-          "maintenance-page": null
-        },
-        "integrations": {
-          "dateWeatherApiKey": "",
-          "dateWeatherZipCode": ""
-        },
-        "global-styles": "{\"colors\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":\"#8269df\"},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":\"#e14d36\"},{\"id\":\"text\",\"name\":\"Text\",\"value\":\"#1e1e1e\"},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":\"#f09819\"},{\"id\":\"custom-color-1\",\"name\":\"Border\",\"value\":\"#e0e0e0\"},{\"id\":\"custom-color-2\",\"name\":\"Meta Text\",\"value\":\"#afa192\"},{\"id\":\"custom-color-3\",\"name\":\"Meta Dot\",\"value\":\"#909090\"},{\"id\":\"custom-color-5\",\"name\":\"Paragraph\",\"value\":\"#818181\"}],\"typographies\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":400}},{\"id\":\"text\",\"name\":\"Text\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":{\"fontFamily\":\"Default\",\"weight\":500}}],\"_modified\":\"2025-05-07T01:38:53.106Z\"}",
-        "_locale": "user"
-      }
-    },
-    "colormag-magazine": {
-      "title": "Magazine",
-      "preview": "https://themegrilldemos.com/colormag-magazine/",
-      "description": "Gutenberg-based WordPress Template Site for Online Magazine",
+      "description": "This is the default ColorMag demo perfect for your online magazine.",
       "template": [
         "colormag",
         "colormag-pro"
@@ -2969,6 +2876,99 @@
         "nav_menu_locations": {
           "primary": "Primary"
         }
+      }
+    },
+    "colormag-main-demo": {
+      "title": "Main Demo",
+      "preview": "https://themegrilldemos.com/colormag-main-demo/",
+      "description": "Gutenberg-based WordPress Template Site for Online Magazine",
+      "template": [
+        "colormag"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog",
+        "magazine"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "magazine-blocks": {
+          "name": "Magazine Blocks",
+          "slug": "magazine-blocks/magazine-blocks.php"
+        },
+        "everest-forms": {
+          "name": "Everest Forms",
+          "slug": "everest-forms/everest-forms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "ColorMag",
+        "page_on_front": "Home",
+        "page_for_posts": "News"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main",
+          "menu-secondary": "Secondary"
+        }
+      },
+      "magazine_blocks_settings": {
+        "blocks": {
+          "section": true,
+          "heading": true,
+          "icon": true,
+          "image": true,
+          "advertisement": true,
+          "banner-posts": true,
+          "grid-module": true,
+          "featured-posts": true,
+          "featured-categories": true,
+          "tab-post": true,
+          "post-list": true,
+          "post-video": true,
+          "category-list": true,
+          "news-ticker": true,
+          "date-weather": true,
+          "social-icons": true,
+          "slider": true
+        },
+        "editor": {
+          "section-width": 1170,
+          "editor-blocks-spacing": 24,
+          "design-library": true,
+          "responsive-breakpoints": {
+            "tablet": 992,
+            "mobile": 768
+          },
+          "copy-paste-styles": true,
+          "auto-collapse-panels": true
+        },
+        "performance": {
+          "local-google-fonts": false,
+          "preload-local-fonts": false,
+          "allow-only-selected-fonts": false,
+          "allowed-fonts": []
+        },
+        "asset-generation": {
+          "external-file": false
+        },
+        "version-control": {
+          "beta-tester": false
+        },
+        "maintenance-mode": {
+          "mode": "none",
+          "maintenance-page": null
+        },
+        "integrations": {
+          "dateWeatherApiKey": "",
+          "dateWeatherZipCode": ""
+        },
+        "global-styles": "{\"colors\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":\"#8269df\"},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":\"#e14d36\"},{\"id\":\"text\",\"name\":\"Text\",\"value\":\"#1e1e1e\"},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":\"#f09819\"},{\"id\":\"custom-color-1\",\"name\":\"Border\",\"value\":\"#e0e0e0\"},{\"id\":\"custom-color-2\",\"name\":\"Meta Text\",\"value\":\"#afa192\"},{\"id\":\"custom-color-3\",\"name\":\"Meta Dot\",\"value\":\"#909090\"},{\"id\":\"custom-color-5\",\"name\":\"Paragraph\",\"value\":\"#818181\"}],\"typographies\":[{\"id\":\"primary\",\"name\":\"Primary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"secondary\",\"name\":\"Secondary\",\"value\":{\"fontFamily\":\"Default\",\"weight\":400}},{\"id\":\"text\",\"name\":\"Text\",\"value\":{\"fontFamily\":\"Default\",\"weight\":600}},{\"id\":\"accent\",\"name\":\"Accent\",\"value\":{\"fontFamily\":\"Default\",\"weight\":500}}],\"_modified\":\"2025-05-07T01:38:53.106Z\"}",
+        "_locale": "user"
       }
     },
     "colormag-pro-recipes": {
