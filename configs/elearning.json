@@ -13,9 +13,9 @@
     "elementor": "Elementor"
   },
   "demos": {
-    "elearning-v2": {
-      "title": "eLearning v2",
-      "preview": "https://themegrilldemos.com/elearning-v2/",
+    "elearning-skill-school-gutenberg": {
+      "title": "Skill School",
+      "preview": "https://themegrilldemos.com/elearning-skill-school-gutenberg/",
       "description": "Just another Masteriyo demo site for educational purposes",
       "template": [
         "elearning"
@@ -28,34 +28,41 @@
       "pagebuilder": [
         "all",
         "gutenberg"
+      ]
+    },
+    "elearning-eguru-gutenberg": {
+      "title": "Eguru",
+      "preview": "https://themegrilldemos.com/elearning-eguru-gutenberg/",
+      "description": "Gutenberg based eLearning LMS WordPress Template Site",
+      "template": [
+        "elearning"
       ],
-      "plugins_list": {
-        "learning-management-system": {
-          "name": "Masteriyo LMS",
-          "slug": "learning-management-system/lms.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-      },
-      "core_options": {
-        "blogname": "eLearning",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      },
-      "masteriyo_settings": {
-        "general.styling.primary_color": "#7963E0"
-      }
+      "category": [
+        "all",
+        "education",
+        "business",
+        "articles"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ]
+    },
+    "elearning-gutenberg": {
+      "title": "eLearning",
+      "preview": "https://themegrilldemos.com/elearning-gutenberg/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ]
     },
     "elearning-fitness-trainer-gutenberg": {
       "title": "Fitness Trainer",
@@ -201,6 +208,39 @@
         "elementor"
       ]
     },
+    "elearning-skillhub-elementor": {
+      "title": "SkillHub",
+      "preview": "https://themegrilldemos.com/elearning-skillhub-elementor/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ]
+    },
+    "elearning-elementor": {
+      "title": "eLearning",
+      "preview": "https://themegrilldemos.com/elearning-elementor/",
+      "description": "Just another Masteriyo demo site for educational purposes",
+      "template": [
+        "elearning"
+      ],
+      "category": [
+        "all",
+        "education"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ]
+    },
     "elearning-designer-elementor": {
       "title": "Designer",
       "preview": "https://themegrilldemos.com/elearning-designer-elementor/",
@@ -233,95 +273,6 @@
         "all",
         "elementor"
       ]
-    },
-    "elearning-edulex": {
-      "title": "edulex",
-      "preview": "https://themegrilldemos.com/elearning-edulex/",
-      "description": "Just another Masteriyo demo site for educational purposes",
-      "template": [
-        "elearning"
-      ],
-      "category": [
-        "all",
-        "education",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "learning-management-system": {
-          "name": "Masteriyo LMS",
-          "slug": "learning-management-system/lms.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "edulex",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      },
-      "masteriyo_settings": {
-        "general.styling.primary_color": "#56C361"
-      }
-    },
-    "elearning-eguru": {
-      "title": "eguru",
-      "preview": "https://themegrilldemos.com/elearning-eguru/",
-      "description": "Gutenberg based eLearning LMS WordPress Template Site",
-      "template": [
-        "elearning"
-      ],
-      "category": [
-        "all",
-        "education",
-        "business",
-        "articles"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "learning-management-system": {
-          "name": "Masteriyo LMS",
-          "slug": "learning-management-system/lms.php"
-        },
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "blockart-blocks": {
-          "name": "BlockArt",
-          "slug": "blockart-blocks/blockart.php"
-        }
-      },
-      "core_options": {
-        "blogname": "eguru",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "menu-primary": "Main"
-        }
-      },
-      "masteriyo_settings": {
-        "general.styling.primary_color": "#021e41"
-      }
     }
   }
 }
