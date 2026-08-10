@@ -59,6 +59,42 @@
 				}
 			}
 		},
+		"zakra-happiness-coach": {
+			"title": "Happiness Coach",
+			"preview": "https://zakrademos.com/happiness-coach/",
+			"description": "Gutenberg Based Template Site for therapists, counselors, and life coaches.",
+			"template": [
+				"zakra"
+			],
+			"category": [
+				"all",
+				"business"
+			],
+			"pagebuilder": [
+				"all",
+				"gutenberg"
+			],
+			"plugins_list": {
+				"everest-forms": {
+					"name": "Everest Forms",
+					"slug": "everest-forms/everest-forms.php"
+				},
+				"blockart-blocks": {
+					"name": "BlockArt",
+					"slug": "blockart-blocks/blockart.php"
+				}
+			},
+			"core_options": {
+				"blogname": "Happiness Coach",
+				"page_on_front": "Home",
+				"page_for_posts": "Blog"
+			},
+			"customizer_data_update": {
+				"nav_menu_locations": {
+					"menu-primary": "Main"
+				}
+			}
+		},
 		"zakra-nutrition-coach": {
 			"title": "Nutrition Coach",
 			"preview": "https://zakrademos.com/nutrition-coach/",
