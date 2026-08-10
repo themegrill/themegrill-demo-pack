@@ -131,42 +131,6 @@
 				}
 			}
 		},
-		"zakra-therapycoach": {
-			"title": "TherapyCoach",
-			"preview": "https://zakrademos.com/therapycoach/",
-			"description": "Gutenberg Based Template Site for therapists, counselors, and life coaches.",
-			"template": [
-				"zakra"
-			],
-			"category": [
-				"all",
-				"business"
-			],
-			"pagebuilder": [
-				"all",
-				"gutenberg"
-			],
-			"plugins_list": {
-				"everest-forms": {
-					"name": "Everest Forms",
-					"slug": "everest-forms/everest-forms.php"
-				},
-				"blockart-blocks": {
-					"name": "BlockArt",
-					"slug": "blockart-blocks/blockart.php"
-				}
-			},
-			"core_options": {
-				"blogname": "Therapy Coach",
-				"page_on_front": "Home",
-				"page_for_posts": "Blog"
-			},
-			"customizer_data_update": {
-				"nav_menu_locations": {
-					"menu-primary": "Main"
-				}
-			}
-		},
 		"zakra-online-lms": {
 			"title": "Online LMS",
 			"preview": "https://zakrademos.com/online-lms/",
@@ -194,6 +158,42 @@
 			},
 			"core_options": {
 				"blogname": "Online LMS",
+				"page_on_front": "Home",
+				"page_for_posts": "Blog"
+			},
+			"customizer_data_update": {
+				"nav_menu_locations": {
+					"menu-primary": "Main"
+				}
+			}
+		},
+		"zakra-therapycoach": {
+			"title": "TherapyCoach",
+			"preview": "https://zakrademos.com/therapycoach/",
+			"description": "Gutenberg Based Template Site for therapists, counselors, and life coaches.",
+			"template": [
+				"zakra"
+			],
+			"category": [
+				"all",
+				"business"
+			],
+			"pagebuilder": [
+				"all",
+				"gutenberg"
+			],
+			"plugins_list": {
+				"everest-forms": {
+					"name": "Everest Forms",
+					"slug": "everest-forms/everest-forms.php"
+				},
+				"blockart-blocks": {
+					"name": "BlockArt",
+					"slug": "blockart-blocks/blockart.php"
+				}
+			},
+			"core_options": {
+				"blogname": "Therapy Coach",
 				"page_on_front": "Home",
 				"page_for_posts": "Blog"
 			},
