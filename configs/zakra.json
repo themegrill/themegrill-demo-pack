@@ -239,6 +239,42 @@
 				}
 			}
 		},
+		"zakra-online-learning": {
+			"title": "Online Learning",
+			"preview": "https://zakrademos.com/online-learning/",
+			"description": "Gutenberg Based Template Site for educational institutions, online course platforms, e-learning websites, and training centerss.",
+			"template": [
+				"zakra"
+			],
+			"category": [
+				"all",
+				"lms"
+			],
+			"pagebuilder": [
+				"all",
+				"gutenberg"
+			],
+			"plugins_list": {
+				"everest-forms": {
+					"name": "Everest Forms",
+					"slug": "everest-forms/everest-forms.php"
+				},
+				"blockart-blocks": {
+					"name": "BlockArt",
+					"slug": "blockart-blocks/blockart.php"
+				}
+			},
+			"core_options": {
+				"blogname": "Online Learning",
+				"page_on_front": "Home",
+				"page_for_posts": "Blog"
+			},
+			"customizer_data_update": {
+				"nav_menu_locations": {
+					"menu-primary": "Main"
+				}
+			}
+		},
 		"zakra-coffee-shop": {
 			"title": "Coffee Shop",
 			"isPremium": true,
